@@ -1,0 +1,67 @@
+{
+    "title": "Researchers have built an engine whose pistons are moved by quantum mechanics weirdness.",
+    "comments": [
+        {
+            "depth": 0,
+            "author": "Zephir_AR",
+            "body": "[Researchers have built an engine whose pistons are moved by quantum mechanics weirdness.](https://www.iflscience.com/the-first-quantum-engine-is-here-and-it-could-power-a-revolution-71019) about study [A quantum engine in the BEC\u2013BCS crossover](https://www.nature.com/articles/s41586-023-06469-8) ([PDF](https://www.nature.com/articles/s41586-023-06469-8.pdf))\n\n[The quantum engine compresses a gas of particles that are bosons and decompresses a gas of particles that are fermions](https://i.imgur.com/Ld43FpL.jpg)\n\n\n*To turn fermions into bosons, you can take two fermions and combine them into a molecule. This new molecule is a boson. Breaking it up allows us to retrieve the fermions again. By doing this cyclically, we can power the engine without using heat. In the case of the quantum engine, the researchers used extremely cold lithium atoms and an approach called [Feshbach resonance](https://en.wikipedia.org/wiki/Feshbach_resonance). This allows for the system to be in a BEC with a small volume and a piston pushing down; as the BEC is turned into a fermion gas, its volume expands, pushing the piston away.*\n\nThe pressure of the medium is about 100 times LESS than the pressure in interplanetary space. No energy is applied, but  to change quantum state the frequency control of the magnetic field is used (83.22 mT) - and this will probably consume some energy. The temperature during cycle does not change, it remains 0.000000012 degrees above absolute zero. See also:\n\n* [Powering the Quantum Revolution: Quantum Engines on the Horizon](https://www.oist.jp/news-center/news/2023/9/28/powering-quantum-revolution-quantum-engines-horizon) *Scientists unveil exciting possibilities for the development of highly efficient quantum devices*\n* [Preparation of a Pure Molecular Quantum Gas](https://www.aldebaran.cz/bulletin/2003_41/1.pdf) (PDF)",
+            "score": 8,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Zephir_AR",
+                    "body": "[Feshbach resonance](https://en.wikipedia.org/wiki/Feshbach_resonance) occurs when the energy of motion of the colliding atoms is equal to the energy of the bound state (molecule or boson in the above example). At resonance, the effective cross section of the colliding atoms in the s state (zero angular momentum diet) increases rapidly and the probability of a molecule forming increases. \n\nIf the molecules have a magnetic moment, the energy of the emerging molecule can be affected by the magnetic field. By choosing the magnetic field strength, the desired resonance can be achieved. The molecular condensate preparation produces a cloud containing a mixture of atomic and molecular BEC. If the magnetic moments of the atoms and molecules are different, a gradient magnetic field acting against gravity can be used to separate the two components. \n\nThe magnetic field was chosen in such a way that the molecular component remained in place (levitated against gravity) and the other, atomic component was accelerated away. In the experiment, the initial number of caesium atoms was about 50,000 and the resonance produced approximately 3,000 molecules in the BEC phase. The atomic condensate was accelerated upwards by the magnetic field (acceleration 0.61 g, in 3 ms the cloud of atoms separated from the cloud of molecules) and the cloud of molecular BEC levitated in the device.",
+                    "score": 4
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "sfwaltaccount",
+            "body": "Interesting I guess, but it's not very clear from this article exactly what the \"fuel\" is. They talk about turning the gas between bosons and fermions... but don't explain how they're doing that.\n\nDepending on how that works, I suppose I could see this being useful in microscopic machines of some kind, though the very low temperature required seems like it will limit the applications quite  a bit.",
+            "score": 5,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Zephir_AR",
+                    "body": "They didn't use piston, only magnetic trap - and they did change the magnetic field frequency. Higher frequency means more energy input.",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "babicko90",
+                            "body": "how is the magnetic field modulated? What device is used, is it an electrical device?",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "FeliBootSack",
+                                    "body": "I\u2019m not good at this stuff but I saw something about \u201cquantum locking\u201d and am wondering if that is being used here",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Ssscrudddy",
+            "body": "This is what happens when you reverse engineer Xeelee tech",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "unfamiliarsmell",
+            "body": "Applications for mining/manufacturing in space?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Stephen_P_Smith",
+            "body": "See also how quantum information theory can possibly connect with biology in this eye-opening 1-hour lecture by Chris Fields: [\"Physics as Information Processing\" \\~ Chris Fields \\~ Lecture 6](https://www.youtube.com/watch?v=bSPQ3BkqTh4&t=1549s)",
+            "score": 1
+        }
+    ]
+}

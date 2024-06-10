@@ -1,0 +1,745 @@
+{
+    "title": "Why does homelessness in the US look so bad when the data suggests it isn't that bad",
+    "comments": [
+        {
+            "depth": 0,
+            "author": "nosecohn",
+            "body": "**/r/NeutralPolitics is a curated space.** \r\n\r\nIn order not to get your comment removed, please familiarize yourself with our [rules on commenting](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules) before you participate:\r\n\r\n1. Be courteous to other users.\r\n1. Source your facts.\r\n1. Be substantive.\r\n1. Address the arguments, not the person.\r\n\r\nIf you see a comment that violates any of these essential rules, click the associated *report* link so mods can attend to it.\r\n\r\nHowever, please note that the mods will not remove comments reported for lack of neutrality or poor sources. There is [no neutrality requirement for comments](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_neutral-ness) in this subreddit \u2014 it's only the *space* that's neutral \u2014 and a poor source should be countered with evidence from a better one.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Tarantio",
+            "body": "Note the rightmost column in the study on homelessness: \"Figures include more than persons 1) living rough, 2) living in emergency accommodation, and 3) living in accommodation for the homeless?\"\n\nYour points of comparison were the Netherlands and the US.\n\nFor the Netherlands, the answer in that column was yes.\n\nFor the US, the answer in that column was no.",
+            "score": 269,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Due_Vegetable_2023",
+                    "body": "Ah, I see, I miss read the chart and I thought Sweden's yes was for the US. That does indicate there are intense inaccuracies, I will see if I can find better data, though that obviously isn't the way to approach these sorts of issues, so I will also look for comparable data. Still isn't perfect.",
+                    "score": 56,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 49,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "[deleted]",
+                                    "body": "[removed]",
+                                    "score": 11
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "CGYRich",
+                            "body": "Unfortunately, the answer to your question may just be that ultimately, the data is flawed. Perhaps on purpose, perhaps just because there isn\u2019t enough political will to accumulate it sufficiently, perhaps because we as a society ultimately don\u2019t WANT to know\u2026\n\nThere is no Department of Homelessness in the US government. There is no grand number to indicate success or failure in this area in the way that GDP, infant mortality rate, average lifespan, etc. are used as metrics to measure/compare other things like the economy and healthcare. There is no real reason to expect quality data in this field, as nobody is being paid enough to collect it properly, and there are no doubt pressures to mute or at the very least diminish the bad news.",
+                            "score": 13
+                        },
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 3,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "ummmbacon",
+                                    "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\r\n\r\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\r\n\r\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1c71m4h/-/l0f06yh/) so that we can reinstate it.\r\n\r\n\r\n\r\nIf you have any questions or concerns, please feel free to message us.",
+                                    "score": 1
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "busybeeworking",
+                            "body": "CGY rich guy is right. Data is collected with a point in time count. It's horridly inefficient.",
+                            "score": 2
+                        },
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "nosecohn",
+                                    "body": "This comment has been removed for violating [//comment rule 3:](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules)\n\n> Be substantive. NeutralPolitics is a serious discussion-based subreddit. We do not allow bare expressions of opinion, low effort one-liner comments, jokes, memes, off topic replies, or pejorative name calling.\n\n\n\n\nIf you have any questions or concerns, please feel free to message us.",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "scstraus",
+                    "body": "Exactly. Differences in measurement criteria.",
+                    "score": 68,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Tarantio",
+                            "body": "We can't assume that this accounts for the full discrepancy, but it does seem like a reasonable place to look.",
+                            "score": 21
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "freexe",
+                    "body": "Yep. We use \"rough sleeper\" to mean what Americans think of as \"homeless\". As a social safety net provides housing to many would be \"rough sleepers\".",
+                    "score": 6
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "MmWinter",
+            "body": "It\u2019s all about visibility.\n\nYes, the aggregate homeless ***rate*** has fallen in the whole country. However, in dense urban cities like SF and LA the ***total number*** of ***unsheltered*** homeless has nearly doubled in a relatively short time.\n\nThis can drastically change the appearance of cities\u2019 downtowns\n\nSome data: [https://xtown.la/2023/06/30/los-angeless-homelessness-six-charts/](https://xtown.la/2023/06/30/los-angeless-homelessness-six-charts/)",
+            "score": 29
+        },
+        {
+            "depth": 0,
+            "author": "ray_area",
+            "body": "[\u201cThe study ultimately concluded that the most-read print news outlets in the U.S. are failing to identify the interconnectedness of increasing rent costs and gentrification with homelessness, and they are contributing to racialized portraits of homelessness. Further, the studied news outlets often framed housing-insecure individuals as morally deficient.\u201d](https://www.american.edu/soc/news/groundbreaking-study-by-center-for-media-social-impact-examines-racial-disparities-in-news-portrayals-of-homelessness.cfm)\n\nStudy by Center for Media & Social Impact Examines Racial Disparities in News Portrayals of Homelessness By Annissa Bensalah \nMarch 26, 2021",
+            "score": 116,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "[deleted]",
+                    "body": "[removed]",
+                    "score": 39,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "[deleted]",
+                                    "body": "[removed]",
+                                    "score": 17,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "[deleted]",
+                                            "body": "[removed]",
+                                            "score": 19,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "[deleted]",
+                                                    "body": "[removed]",
+                                                    "score": 7
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "[deleted]",
+                                                    "body": "[removed]",
+                                                    "score": 2,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "nosecohn",
+                                                            "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\n\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\n\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1c71m4h/-/l09jta6/) so that we can reinstate it.\n\n\n\nIf you have any questions or concerns, please feel free to message us.",
+                                                            "score": 1
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "[deleted]",
+                                            "body": "[removed]",
+                                            "score": -1,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "[deleted]",
+                                                    "body": "[removed]",
+                                                    "score": 2,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "[deleted]",
+                                                            "body": "[removed]",
+                                                            "score": 0,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "ummmbacon",
+                                                                    "body": "This comment has been removed for violating [//comment rule 1:](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules)\r\n\r\n>Be courteous to other users.  Name calling, sarcasm, demeaning language, or otherwise being rude or hostile to another user will get your comment removed.\r\n\r\n\r\n\r\n\r\nIf you have any questions or concerns, please feel free to message us.",
+                                                                    "score": 1
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "[deleted]",
+                                    "body": "[removed]",
+                                    "score": -1,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "[deleted]",
+                                            "body": "[removed]",
+                                            "score": 3,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "[deleted]",
+                                                    "body": "[removed]",
+                                                    "score": 2
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "ummmbacon",
+                            "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\r\n\r\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\r\n\r\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1c71m4h/-/l06sgg5/) so that we can reinstate it.\r\n\r\n\r\n\r\nIf you have any questions or concerns, please feel free to message us.",
+                            "score": 0
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "stupendousman",
+                    "body": "> Examines Racial Disparities\n\nThis isn't a scientific metric.",
+                    "score": -5,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 6,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "nosecohn",
+                                    "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\n\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\n\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1c71m4h/-/l08orrw/) so that we can reinstate it.\n\nThis comment has been removed for violating [//comment rule 4:](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules)\n\n>Address the arguments, not the person. The subject of your sentence should be \"the evidence\" or \"this source\" or some other noun directly related to the topic of conversation. \"You\" statements are suspect.\n\n\n\n\nIf you have any questions or concerns, please feel free to message us.",
+                                    "score": 1
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "[deleted]",
+                                    "body": "[removed]",
+                                    "score": -6,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "[deleted]",
+                                            "body": "[removed]",
+                                            "score": 1,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "stupendousman",
+                                                    "body": "> \u201cThat is a scientific metric\u201d\n  \nWhat I wrote: This isn't a scientific metric.\n    \n>isn\u2019t a question\n  \nIt sets up the question. \n    \n>What I cited has all the veracity of a peer-reviewed study\n  \nPeer review isn't experimentation, nor does it verify truth. \n   \n[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420798/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1420798/)\n   \nThat's from 2006. \n    \n>What you\u2019re doing isn\u2019t looking for information and doesn\u2019t further any worthwhile discussion.\n  \nThat's subjective. \n   \nHow can you properly discuss anything if the fundamental values aren't clearly defined. \n  \nAgain, what is \"bad\"? \n    \n>Just read the article like anyone who wanted more data\n   \nDo you have a link to articles which define the value \"bad\"?",
+                                                    "score": 2,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "[deleted]",
+                                                            "body": "[removed]",
+                                                            "score": 1,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "[deleted]",
+                                                                    "body": "[removed]",
+                                                                    "score": 2,
+                                                                    "replies": [
+                                                                        {
+                                                                            "depth": 8,
+                                                                            "author": "ummmbacon",
+                                                                            "body": "This comment has been removed for violating [//comment rule 4:](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules)\r\n\r\n>Address the arguments, not the person. The subject of your sentence should be \"the evidence\" or \"this source\" or some other noun directly related to the topic of conversation. \"You\" statements are suspect.\r\n\r\n\r\n\r\n\r\nIf you have any questions or concerns, please feel free to message us.",
+                                                                            "score": 1
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "ummmbacon",
+                                                                    "body": "This comment has been removed for violating [//comment rule 4:](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules)\r\n\r\n>Address the arguments, not the person. The subject of your sentence should be \"the evidence\" or \"this source\" or some other noun directly related to the topic of conversation. \"You\" statements are suspect.\r\n\r\n\r\n\r\n\r\nIf you have any questions or concerns, please feel free to message us.",
+                                                                    "score": 1
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "nosecohn",
+                                                    "body": "A bunch of this chain has been removed because the comments were about the actions of other users, not the topic at hand: homelessness.",
+                                                    "score": 2
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": 10,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "hotdogcaptain11",
+                    "body": "To your point, I do wonder if a lot of perceptions of Europe are formed visiting tourist areas while on vacation. People aren\u2019t really seeing the realities of life there and enjoying their time with limited responsibilities and stress. This can lead to a utopian view that isn\u2019t backed up by data.",
+                    "score": 13
+                },
+                {
+                    "depth": 1,
+                    "author": "unkz",
+                    "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\r\n\r\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\r\n\r\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1c71m4h/-/l06onzt/) so that we can reinstate it.\r\n\r\nNo anecdotes.\r\n\r\n\r\n\r\nIf you have any questions or concerns, please feel free to message us.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "towishimp",
+            "body": "It's hard to answer your question because I don't know how to measure \"visibility.\" \n\nI will say that homelessness has become a political issue here, frequently cited as evidence of the \"anarchy\" of urban areas (which almost always vote Democrat). [Example](https://www.foxnews.com/media/portland-homeless-crisis-spirals-out-control-vision-utopia)\n\nWhich isn't to say that it isn't a problem; it absolutely is.",
+            "score": 35,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "[deleted]",
+                    "body": "[removed]",
+                    "score": 39,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 16
+                        },
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 14
+                        },
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 2,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "nosecohn",
+                                    "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\n\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\n\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1c71m4h/-/l07zswq/) so that we can reinstate it.\n\n\n\nIf you have any questions or concerns, please feel free to message us.",
+                                    "score": 1
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "nosecohn",
+                            "body": "This needs links to [qualified sources.](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources)",
+                            "score": 2,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Bladelink",
+                                    "body": "Counteroffer, I'll just unsubscribe.",
+                                    "score": 2
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "ummmbacon",
+                            "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\r\n\r\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\r\n\r\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1c71m4h/-/l06guig/) so that we can reinstate it.\r\n\r\n\r\n\r\nIf you have any questions or concerns, please feel free to message us.",
+                            "score": 1
+                        },
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "ummmbacon",
+                                    "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\r\n\r\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\r\n\r\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1c71m4h/-/l08xxt6/) so that we can reinstate it.\r\n\r\n\r\n\r\nIf you have any questions or concerns, please feel free to message us.",
+                                    "score": 1
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "ummmbacon",
+                                    "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\r\n\r\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\r\n\r\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1c71m4h/-/l08bgww/) so that we can reinstate it.\r\n\r\n\r\n\r\nIf you have any questions or concerns, please feel free to message us.",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "tjdavids",
+            "body": "A considerable percentage of homeless people who are able to access the things that they need to survive dispite homelessness are not often noticed. That guy at your job who was able to get into a long term shelter, an address, job search assistance, and basic necessities until they can get on their feet is just as homeless as a guy who sleeps out has untreated substance abuse issues and is resentful of their lot.",
+            "score": 12
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": 5,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AutoModerator",
+                    "body": "Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AutoModerator",
+                    "body": "Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Affectionate_Lab_131",
+            "body": "I think it is because people either get dropped off or travel to areas where they can get the most help. So they end up migrating to only a few cities. \n\nThey did not all live in that state. They went to that state because there they can survive and possibly get help. So homless in Seattle are not all from Washington state.  Many are from Idaho, Montana, Wyoming, Nevada, and other spots in the Midwest.\n[source](https://www.theguardian.com/us-news/ng-interactive/2017/dec/20/bussed-out-america-moves-homeless-people-country-study)",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": 3,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "ummmbacon",
+                    "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\r\n\r\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\r\n\r\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1c71m4h/-/l066tk6/) so that we can reinstate it.\r\n\r\nAnecdotal evidence is not allowed as per R2\r\n\r\n\r\n\r\nIf you have any questions or concerns, please feel free to message us.",
+                    "score": 0,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "SirCheeseAlot",
+                            "body": "I don\u2019t really want to provide evidence of my homelessness. It didn\u2019t matter anyway. Just proves my point about not being counted.",
+                            "score": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "nosecohn",
+                    "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\n\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\n\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1c71m4h/-/l07z8pw/) so that we can reinstate it.\n\n\n\nIf you have any questions or concerns, please feel free to message us.",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "unkz",
+                    "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\r\n\r\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\r\n\r\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1c71m4h/-/l07gswf/) so that we can reinstate it.\r\n\r\nNo anecdotes.\r\n\r\n\r\n\r\nIf you have any questions or concerns, please feel free to message us.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "unkz",
+                    "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\r\n\r\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\r\n\r\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1c71m4h/-/l08f7wp/) so that we can reinstate it.\r\n\r\nThis comment has been removed for violating [//comment rule 3:](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules)\r\n\r\n> Be substantive. NeutralPolitics is a serious discussion-based subreddit. We do not allow bare expressions of opinion, low effort one-liner comments, jokes, memes, off topic replies, or pejorative name calling.\r\n\r\n\r\n\r\n\r\nIf you have any questions or concerns, please feel free to message us.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[deleted]",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AutoModerator",
+                    "body": "Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AutoModerator",
+                    "body": "Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",
+                    "score": 1
+                },
+                {
+                    "depth": 1,
+                    "author": "ummmbacon",
+                    "body": "This comment has been removed for violating [//comment rule 3:](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules)\r\n\r\n> Be substantive. NeutralPolitics is a serious discussion-based subreddit. We do not allow bare expressions of opinion, low effort one-liner comments, jokes, memes, off topic replies, or pejorative name calling.\r\n\r\n\r\n\r\n\r\nIf you have any questions or concerns, please feel free to message us.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "nosecohn",
+                    "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\n\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\n\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1c71m4h/-/l0d9x9w/) so that we can reinstate it.\n\n\n\nIf you have any questions or concerns, please feel free to message us.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "nosecohn",
+                    "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\n\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\n\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1c71m4h/-/l0dlyio/) so that we can reinstate it.\n\n\n\nIf you have any questions or concerns, please feel free to message us.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "nosecohn",
+                    "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\n\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\n\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1c71m4h/-/l0exq6w/) so that we can reinstate it.\n\n\n\nIf you have any questions or concerns, please feel free to message us.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Altruistic_Two6540",
+            "body": "Saying this off the cuff. And no doubt what others have said. Comparing countries is difficult, because what they deem as homeless may differ significantly. The stats may be more or less accurate, and there may be very different behaviours and cultures of homeless groups of people. E.g. in the US which have large areas of homeless people, who effectively congregate there, versus other western countries where they are much more dispersed/not in plain sight. \nI\u2019d imagine that the US undercounts the number of homeless, nevertheless, and other western countries include those in emergency or temporary accommodation as homeless.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[deleted]",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AutoModerator",
+                    "body": "Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AutoModerator",
+                    "body": "Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",
+                    "score": 1
+                },
+                {
+                    "depth": 1,
+                    "author": "lulfas",
+                    "body": "This comment has been removed for violating [//comment rule 3:](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules)\r\n\r\n> Be substantive. NeutralPolitics is a serious discussion-based subreddit. We do not allow bare expressions of opinion, low effort one-liner comments, jokes, memes, off topic replies, or pejorative name calling.\r\n\r\n\r\n\r\n\r\nIf you have any questions or concerns, please feel free to message us.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AutoModerator",
+                    "body": "Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AutoModerator",
+                    "body": "Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AutoModerator",
+                    "body": "Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",
+                    "score": 1
+                },
+                {
+                    "depth": 1,
+                    "author": "ummmbacon",
+                    "body": "This comment has been removed for violating [//comment rule 3:](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules)\r\n\r\n> Be substantive. NeutralPolitics is a serious discussion-based subreddit. We do not allow bare expressions of opinion, low effort one-liner comments, jokes, memes, off topic replies, or pejorative name calling.\r\n\r\n\r\n\r\n\r\nIf you have any questions or concerns, please feel free to message us.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[deleted]",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "stupendousman",
+            "body": "Who defines bad? Does a comparison do so? If so how?",
+            "score": 0,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AutoModerator",
+                    "body": "Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "stupendousman",
+                            "body": "Source to a question? \n  \nWhat is this?",
+                            "score": 0,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "nosecohn",
+                                    "body": "It's a bot. It just looks for links. Your questions are fine.",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[deleted]",
+            "score": -1
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": -2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "nosecohn",
+                    "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\n\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\n\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1c71m4h/-/l094uy8/) so that we can reinstate it.\n\n\n\nIf you have any questions or concerns, please feel free to message us.",
+                    "score": 1
+                }
+            ]
+        }
+    ]
+}

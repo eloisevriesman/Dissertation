@@ -1,0 +1,2553 @@
+{
+    "title": "Study finds microplastics in blood clots, linking them to higher risk of heart attacks and strokes. Of the 30 thrombi acquired from patients with myocardial infarction, deep vein thrombosis, or ischemic stroke, 24 (80%) contained microplastics. ",
+    "comments": [
+        {
+            "depth": 0,
+            "author": "AutoModerator",
+            "body": "Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.\n\n**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/#wiki_science_verified_user_program).\n\n---\n\nUser: u/Wagamaga  \nPermalink: https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(24)00153-1/fulltext\n\n---\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "blobbyboy123",
+            "body": "Genuine question\n\nIf everyone has some amount of Microplastics in their body then how do we measure the effects? We can't single out people who don't have microplastics in their bloodstream compared to those who don't.",
+            "score": 425,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "volastra",
+                    "body": "One idea I've read about is to basically megadose a couple cohorts and see if disease risk scales up. Wouldn't prove that current microplastic levels are deleterious per se, but would strongly suggest it. It would also clarify what kinds of disease are correlated with microplastics exposure. Such a study would almost certainly be deemed unethical and impractical though, so I think we're stuck with mouse studies for the time being.",
+                    "score": 157,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "VialCrusher",
+                            "body": "Would we be able to do the opposite? Have a regular control group and another group that has special systems to severely limit micro plastics? Giving them glasses to drink from, not eating things from plastic containers etc.",
+                            "score": 51,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "volastra",
+                                    "body": "We currently have no idea how to limit microplastics exposure besides maybe keeping someone in a special enclosure 24/7 and then idk, only feeding them lab-grown slurry or something. Maybe that would work. No human in their right mind would ever agree to this. Back in the day you used to be able to find \"volunteers\" for extremely invasive lifestyle interventions in mental hospitals and the like, which gets us back to the unethical thing.",
+                                    "score": 116,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "drakmordis",
+                                            "body": "Bubble Boy (2001), but with different material choices?",
+                                            "score": 21
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "The-Protomolecule",
+                                            "body": "Donating blood is supposed to be the best approach.",
+                                            "score": 19,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "GeneralBE420",
+                                                    "body": "Why didn't I think of that? I'm going to save so much money on leeches.",
+                                                    "score": 6
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "advertentlyvertical",
+                                                    "body": "As in, donating blood helps remove microplastics from your own body?",
+                                                    "score": 4,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "The-Protomolecule",
+                                                            "body": "Yes, my understanding is it can significantly reduce the PFAs and Microplastics in your blood. Obviously it doesn\u2019t help your organs, but the blood itself, yes.",
+                                                            "score": 13,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "Pielacine",
+                                                                    "body": "I got into a big argument with someone on this issue on another thread, I would think the initial donation might help flush out your system but wouldn\u2019t you subsequently have to follow a very plastic-avoidant lifestyle? (Not that that would be a bad thing)",
+                                                                    "score": 3,
+                                                                    "replies": [
+                                                                        {
+                                                                            "depth": 8,
+                                                                            "author": "The-Protomolecule",
+                                                                            "body": "If a usual blood donation takes out more than the accumulation it\u2019s a net reduction.",
+                                                                            "score": 3
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "Born-Entrepreneur",
+                                                                    "body": "IIRC donating plasma was also helpful since the process involves some level of filtering your blood to remove the plasma.",
+                                                                    "score": 1
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "Potost",
+                                                            "body": "And places them in another!",
+                                                            "score": 6
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "AdHom",
+                                                    "body": "I wish I was eligible, I had leukemia as a kid 20 years ago and got a lifetime ban :(\n\nI need to find a blood bank that I can convince to draw my blood anyway and then just throw it out haha",
+                                                    "score": 1
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "drewsus64",
+                                                    "body": "I thought it was donating plasma specifically?",
+                                                    "score": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "BeesArePrettyNeat",
+                                            "body": "I work from home and have very little social life, I'd be able to be part of that control group! SIGN ME UP",
+                                            "score": 3
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "stumblios",
+                                            "body": "This just makes me wonder about the logistical effort and expense it would take for someone to live a plastic-free life.\n\nPlastic is officially in every water source on the planet, so every glass of water would need to be filtered to remove that. Along with all the water and soil used to grow the plants. Or if the subject wants to eat meat, then all the water and plants used to feed all the animals that are consumed. All of this from the moment the kid is born. Actually, the person would still have plastic in them that came from the mother while they were developing.\n\nI realize the point would just be to greatly reduce plastic rather than entirely eliminate. I'm just thinking out loud/wasting time while I get ready to leave work.",
+                                            "score": 1,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Rcarlyle",
+                                                    "body": "A majority of it in the environment around people comes from tire dust and clothes fibers. It blows on the wind and falls in the rain. Pretty hard to avoid.",
+                                                    "score": 3
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "NecessarilyPickled",
+                                            "body": "I think you could find more people than you expect.\nI'm not quite in my right mind, but I'd be more than interested in signing up for something like that if I was able to have a few exceptions like a computer and peripheral devices.\n\nI already try to avoid plastic as much as possible.",
+                                            "score": 1
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "MudcrabsWithMaracas",
+                                            "body": "So you're saying I can have my current lifestyle but with someone else taking care of all my physical needs? Where do I sign?",
+                                            "score": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "thatthatguy",
+                                    "body": "I have become more and more concerned about methodology and false positives when it comes to detection of microplastics in biological samples, but I am not nearly enough of an expert to be able to determine when the testing is appropriate or not.\n\nIf you detect microplastics in 100% of your samples, are microplastics ubiquitous or is your detection method giving you false positives?  This study tries to minimize the risk of contamination from lab sourced microplastics and does have some samples with no plastic detected, which is encouraging.  But I still have some concerns as a lay person.",
+                                    "score": 17,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "advertentlyvertical",
+                                            "body": "Unfortunately, it makes more sense, logically, for them to be everywhere, rather than 90%+ of detection methods having issues.",
+                                            "score": 15
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "Select_Mango2175",
+                                            "body": "you can implement lab controls, like using all the same equipment and protocol on blank samples (like lab-purified water). If you measure microplastics in those blank samples, then you have an estimate for how much contamination is coming from your lab, and adjust the numbers for your actual samples accordingly. \n\nAlways a good idea to make sure that the lab did this quality control, but I would be shocked if they didn't, especially for this topic.",
+                                            "score": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "KahuTheKiwi",
+                                    "body": "Not eating meat from microplastic polluted land. Not eating fish from a microplastic polluted ocean.\u00a0\n\n\nAssuming that plants don't concentrate microplastics how does the study differentiate between differences caused by a vegetarian diet and those from no microplastics?",
+                                    "score": 2,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "VialCrusher",
+                                            "body": "I mean I would imagine they'd have vegetarians in both groups as well as meat eaters in both groups. If you have enough of a sample size they should be able to tell if there's causation... Hopefully",
+                                            "score": 2,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "KahuTheKiwi",
+                                                    "body": "Where are you going to find meat not infected with microplastics?\n\n\nHence the idea that if you want to feed one group food not containing microplastics it would likely be vegetarian.\n\n\nBTW I am not vegetarian and after working in horticulture and applying pesticides I worry about the greenwashing idea that going vegetarian will decrease environmental damage. It may well where feedlots are used but grass feed meat (even industrially grown) has less agrochemicals applied than industrially grown plants.",
+                                                    "score": 2
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "Soulflyfree41",
+                                    "body": "I worked in injection molding for 14 years. I\u2019m very sick now. I am wondering if it had anything to do with it.",
+                                    "score": 3,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "VialCrusher",
+                                            "body": "That kind of stuff worries me. I work heavily with 3d printing and plastics, and it's crazy how little our company cares about safety with ventilation.",
+                                            "score": 3
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "AaronfromKY",
+                            "body": "I think we basically have megadosed a couple of generations by now, so it's practically a natural experiment in a way now. We're witnessing the effects.",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "Jacuul",
+                    "body": "I think some studies try to compare people with similar lives to before plastics were as commonplace (old medical records and such), but there's be a load of other changes in that time frame, so it's hard to isolate, and you can't be positive of the quality of the records from that long ago",
+                    "score": 13
+                },
+                {
+                    "depth": 1,
+                    "author": "2_72",
+                    "body": "Sounds like it\u2019s just a new baseline to me (I\u2019m not a doctor so I\u2019m probably wrong). Those already susceptible to heart attacks are probably even more so.",
+                    "score": 2
+                },
+                {
+                    "depth": 1,
+                    "author": "fireintolight",
+                    "body": "they will compare it health data from previous decades, and i would imagine some developing countries where plastic exposure is relatively low. long term health studies in humans are notoriously difficult to prove in the first place, because it is hard to isolate variables over that long.",
+                    "score": 1
+                },
+                {
+                    "depth": 1,
+                    "author": "teddy42",
+                    "body": "My best bet would be to find people who have been megadosed by choice(chewing on plastic rings, etc)\n\nI on the other hand have quit doing so for several years due to negative effects on my teeth. So I don't know where my exposure levels are at currently.",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Quick_Turnover",
+                            "body": "Or just poorer parts of the world... Probably severely different outcomes... But then you can't control for all of the other environmental differences.",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "KingPizzaPop",
+                    "body": "Couldn't we just compare ourselves to our grandparents/ great grandparents?",
+                    "score": 1
+                },
+                {
+                    "depth": 1,
+                    "author": "whichonespink04",
+                    "body": "You can still measure differences between people for any dose-dependent outcomes! The ideal is to have a control group entirely without the variable, but if there's a good dose-dependency and considerable variability, then you can easily measure the effects.",
+                    "score": 1
+                },
+                {
+                    "depth": 1,
+                    "author": "b1argg",
+                    "body": "I think they used frozen blood supplies from the Korean War.",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": 301,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "[deleted]",
+                    "body": "[removed]",
+                    "score": 178,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 87,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "[deleted]",
+                                    "body": "[removed]",
+                                    "score": 5,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "[deleted]",
+                                            "body": "[removed]",
+                                            "score": 33
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "[deleted]",
+                                            "body": "[removed]",
+                                            "score": 22,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "[deleted]",
+                                                    "body": "[removed]",
+                                                    "score": 5,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "[deleted]",
+                                                            "body": "[removed]",
+                                                            "score": 7,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "[deleted]",
+                                                                    "body": "[removed]",
+                                                                    "score": 5
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "[deleted]",
+                                            "body": "[removed]",
+                                            "score": 2,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "[deleted]",
+                                                    "body": "[removed]",
+                                                    "score": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 44,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "[deleted]",
+                                    "body": "[removed]",
+                                    "score": 3,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "[deleted]",
+                                            "body": "[removed]",
+                                            "score": 4
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "[deleted]",
+                                    "body": "[removed]",
+                                    "score": -1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "[deleted]",
+                    "body": "[removed]",
+                    "score": 97,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 19
+                        },
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 5,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "[deleted]",
+                                    "body": "[removed]",
+                                    "score": 34
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "[deleted]",
+                    "body": "[removed]",
+                    "score": 48,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 38,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "[deleted]",
+                                    "body": "[removed]",
+                                    "score": 27,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "[deleted]",
+                                            "body": "[removed]",
+                                            "score": 26,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "[deleted]",
+                                                    "body": "[removed]",
+                                                    "score": 10
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "[deleted]",
+                                                    "body": "[removed]",
+                                                    "score": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 11,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "[deleted]",
+                                    "body": "[removed]",
+                                    "score": 10
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 5,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "[deleted]",
+                                    "body": "[removed]",
+                                    "score": 11
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 6
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "[deleted]",
+                    "body": "[removed]",
+                    "score": 32
+                },
+                {
+                    "depth": 1,
+                    "author": "[deleted]",
+                    "body": "[removed]",
+                    "score": 9
+                },
+                {
+                    "depth": 1,
+                    "author": "[deleted]",
+                    "body": "[removed]",
+                    "score": 36,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 25,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "[deleted]",
+                                    "body": "[removed]",
+                                    "score": 29
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "[deleted]",
+                                    "body": "[removed]",
+                                    "score": 8,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "[deleted]",
+                                            "body": "[removed]",
+                                            "score": 1
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "[deleted]",
+                                            "body": "[removed]",
+                                            "score": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "[deleted]",
+                                    "body": "[removed]",
+                                    "score": 6,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "[deleted]",
+                                            "body": "[removed]",
+                                            "score": 2
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "KarmaPenny",
+            "body": "These are the types of studies I've been wanting to see. I feel like we've seen over and over that microplastics are basically everywhere and in everything. What I've been wondering since is what are the consequences. Cool to see people start to answer that question. Unfortunately it's all kinda concerning.",
+            "score": 873,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "frogvscrab",
+                    "body": "This does not mean the microplastics are causing the clots. It means that they are found everywhere, including in clots.",
+                    "score": 443,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "IsraelPenuel",
+                            "body": "At least they add to the volume of the clot. Whether the amount is of importance is another question.",
+                            "score": 188,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "TomWithTime",
+                                    "body": "I imagine there isn't a lot of space for particle accumulation in our brains but it's in there too. How much micro plastic needs to build up there to cause problems?",
+                                    "score": 96,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "LongTatas",
+                                            "body": "Microplastics clogging your dopamine and seratonin receptors. Calling it now",
+                                            "score": 60,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "TerribleIdea27",
+                                                    "body": "Those would absolutely be considered nanoplastics, which are quite different from microplastics from a chemical perspective. You can see it like a sliding scale. The smaller the plastics get the more chances they have of reacting with something else, even if the structure is quite similar. I could see a nanoparticle blocking serotonin receptors. Microplastics: waaaay too big",
+                                                    "score": 52,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "steaksrhigh",
+                                                            "body": "sucks bc a study was just released saying there are nanoplastics in water bottles(something like 4 major brands) caused from being packaged in plastic bottles.",
+                                                            "score": 9,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "Whiterabbit--",
+                                                                    "body": "We seriously need to stop using plastic water bottles.",
+                                                                    "score": 13
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "[deleted]",
+                                    "body": "[deleted]",
+                                    "score": 22,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "thesixler",
+                                            "body": "That\u2019s what I want to know. Presumably otherwise they\u2019re floating around like anything else in there and presumably the other stuff still adds to the mass even if microplastics weren\u2019t present, so do the microplastics add to the total load of stuff that can get stuck, and do microplastics stick more than the other stuff that we expect sticks",
+                                            "score": 9,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "[deleted]",
+                                                    "body": "[deleted]",
+                                                    "score": 3,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "Wise_Mongoose_3930",
+                                                            "body": "I minimize the amount of microplastics in my body while we wait to learn if it\u2019s bad or not. Better safe than sorry considering we don\u2019t known how to get the microplastic *out* of our bodies, should it someday be proven to be problematic. Sadly, there\u2019s not a ton you can do from an individual standpoint.",
+                                                            "score": 5,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "Geiten",
+                                                                    "body": "How exactly do you minimize the amount of microplastic in your body? Only thing i can think of is not drinking from plastic bottles and stuff.",
+                                                                    "score": 1,
+                                                                    "replies": [
+                                                                        {
+                                                                            "depth": 8,
+                                                                            "author": "Wise_Mongoose_3930",
+                                                                            "body": "I have an RO water filter, that\u2019s probably the single biggest thing you can do!",
+                                                                            "score": 0
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "DrMobius0",
+                                    "body": "I saw that microplastics are also in my balls.  Do they add volume to them?",
+                                    "score": -2
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "ParadoxicallyZeno",
+                            "body": "can't prove everything in one paper! there's already an in-vitro study of human blood indicating that microplastics do trigger clotting\n\n>Results show that cPS consistently activated the clotting cascade, demonstrating increased fibrin polymerization rates, and enhanced clot strength in a size and concentration-dependent manner.\n\nhttps://www.researchgate.net/publication/372363716_Exploring_microplastic_impact_on_whole_blood_clotting_dynamics_utilizing_thromboelastography",
+                            "score": 60
+                        },
+                        {
+                            "depth": 2,
+                            "author": "shingdao",
+                            "body": "It appears that OPs title may be misleading in terms of linking MPs to a higher risk of strokes or heart attacks.   \n\nThe study's authors write in the Discussion section of the study:\n\n>...an inherent limitation of our observational study is the inability to establish a cause-and-effect relationship between the presence and concentration of MPs and the occurrence of thrombotic events. Additional research is required to understand the potential sources and pathways of MP exposure, whether a cause-and-effect relationship truly exists, and whether there are conjoint effects with other environmental factors involved in thrombus formation.",
+                            "score": 21,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "ParadoxicallyZeno",
+                                    "body": "it's not unreasonable to state that a \"link\" has been found between two phenomena when an association is observed between them\n\n\"link\" does not necessarily mean \"causal link\" -- they could be \"linked\" via other correlated phenomena\n\nthat said, when one considers this paper, and the NEJM paper from March, and the controlled non-human animal studies, and the in-vitro studies of clotting in human blood, causality starts to look pretty reasonable",
+                                    "score": 10,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "Revlis-TK421",
+                                            "body": "I mean, it makes sense to me that you would see MP gathering in a clot, so yes a link.  MPs are flowing the blood stream, and clots are sticky and gather all sorts of cells / cellular detritus as they form.\n\nThe real question, that is going to be tough to ascertain given the lack of MP-free subjects, is if the MPs can either a) induce the formation of a clot, or b) make an already-forming clot worse.",
+                                            "score": 6,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "ParadoxicallyZeno",
+                                                    "body": "this has already been addressed in in-vitro studies of human blood. microplastics can trigger clot formation: \n\n> Results show that cPS consistently activated the clotting cascade, demonstrating increased fibrin polymerization rates, and enhanced clot strength in a size and concentration-dependent manner.\n\nhttps://www.researchgate.net/publication/372363716_Exploring_microplastic_impact_on_whole_blood_clotting_dynamics_utilizing_thromboelastography",
+                                                    "score": 5,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "Revlis-TK421",
+                                                            "body": ">[the methods in this study] does not provide great insight into the activity of discrete pathways, coagulation factors, platelet behavior, or clot microarchitecture as it is a more global clot analysis instrument. Equally as important, clotting within TEG occurs within a relatively static setting which contrasts physiologic clotting that often occurs in the presence of shear. Literature has demonstrated the notable impact of nanoparticles on the activation of the innate immune system with intricate pathways, such as the complement system and/or neutrophil extracellular trap formation \u2013 both of which can impact coagulation phenotypes and would ideally be accounted for.\n\ne.g. the in vitro observations of the study may or may not hold true in in vivo conditions.",
+                                                            "score": -1,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "ParadoxicallyZeno",
+                                                                    "body": "in vivo studies have already shown cardiac damage and clotting in mice and other organisms\n\nhttps://particleandfibretoxicology.biomedcentral.com/articles/10.1186/s12989-023-00557-3 \n\nhttps://www.sciencedirect.com/science/article/pii/S016041202200589X\n\nso to recap, we have:\n\n* observational studies /associations in humans (this study and the one from NEJM in March) -- which is the only human evidence it is possible to collect, since controlled experiments on humans are not possible to perform\n\n* in vivo studies in animals \n\n* in vitro studies of human blood\n\nat this stage, if you want to believe microplastics are safe, that's cool, you're entitled to believe what you like. but please don't delude yourself that your beliefs are based on any evidence, because if you reject all three of these, you have created a situation in which it is literally impossible for anyone to collect evidence that you would accept and find persuasive",
+                                                                    "score": 2,
+                                                                    "replies": [
+                                                                        {
+                                                                            "depth": 8,
+                                                                            "author": "Revlis-TK421",
+                                                                            "body": "Did I say they were safe?  No.  I said that clotting behavior in vivo in the study you linked are not established nor well understood *as per the study's authors*.  \n\nThe two further studies you have just linked have nothing to do with clotting, so I'm not sure how they bolster your argument about MPs definitively causing clotting issues in vivo?   If you want to talk inflammation from accumulation of MPs, that's a different discussion.\n\nWould I be surprised if MPs/NPs impacted clotting pathways in some way?  No.  But that's an assumption, not proof.",
+                                                                            "score": 0,
+                                                                            "replies": [
+                                                                                {
+                                                                                    "depth": 9,
+                                                                                    "author": "ParadoxicallyZeno",
+                                                                                    "body": ">The two further studies you have just linked have nothing to do with clotting\n\none of the top-level highlights from the second link i just posted is:\n\n>Main vascular effects include hemolysis, **thrombosis, and blood coagulation.**",
+                                                                                    "score": 1,
+                                                                                    "replies": [
+                                                                                        {
+                                                                                            "depth": 10,
+                                                                                            "author": "Revlis-TK421",
+                                                                                            "body": "Ok, sorry, I had a different paper open and attributed it as the paper you were linking.  My bad.\n\nAs per your linked article: \n\n>3.4.2. Thrombosis\nThrombosis is considered a significant cardiovascular risk factor attributable to blood vessel occlusion (Hirase and Node, 2012, Rao, 2015). A recent review comprehensively discussed the size- dependent influence of MNPs on thrombosis with focus on how the particle characteristics modulate their effects (Lett et al., 2021). Exposing hamsters intravenously or intratracheally to PS-NPs (60 nm; 5\u2013500 \u00b5g/kg) with different surface modifications resulted in various thrombotic events (Nemmar et al., 2002). Intravenous injection of amine-PS-NPs enhanced thrombus formation at 50 \u00b5g/kg (+219%) and 500 \u00b5g/kg (+307%), while carboxylate-PS-NPs injection decreased thrombus formation at 100 \u00b5g/kg (\u201352%) and 500 \u00b5g/kg (\u201355%) **and unmodified particles did not significantly affect thrombosis**. Furthermore, amine-PS-NPs substantially increased the adenosine diphosphate-triggered platelet aggregation, whereas both unmodified and carboxylate-PS-NPs only led to a moderate increase **and no prothrombotic response** (Nemmar et al., 2002, 2003). In a noninvasive ear vein model of Fisher 344 rats, intravenously administered amine-PS-NPs (60 nm; 0.02\u201350 mg/kg) caused thrombogenesis **but carboxylate-PS-NPs did not** (Silva et al., 2005). Another human venous blood study showed both carboxylate- and amine-polystyrene latex nanoparticles (PLNPs, 50 nm; 260\u2013750 \u00b5g/mL) caused platelet aggregation (McGuinnes et al., 2011). Carboxylate-PLNPs were shown to increase the expression of CD62P and PAC-1 (platelet biomarkers) in both the whole blood and the isolated platelet, **whereas unmodified and amine-PLNPs did not**. McGuinnes et al. (2011) suggested that the amine-PS-NP-induced platelet aggregation was primarily membrane perturbation-mediated. For example, injecting unmodified or amine-PLNPs (50 nm; 1.2 \u00b5g/animal) into C57BL6 **mice did not induce platelet aggregation** per se, however, administration of collagen (50 \u00b5g/kg) following amine-PLNPs treatment facilitated a prothrombotic response (Smyth et al., 2015). Amine-MNPs have a more robust aggregation ability and interact with negatively charged biomolecules (e.g., cell membranes). **Overall, the prothrombotic effects of MNPs are dependent on surface modification, particle size, exposure dose, exposure route, and protein presence.** MNPs with altered surface modifications arise out of the most vital role in thrombosis and platelet aggregation.\n\ne.g. a mixed bag of results.  Some MPs at some sizes increased thrombosis, and some did not.  More than anything, surface modifications to the MPs appear to be triggering factor rather the the MP itself.\n\n>3.4.3. Affecting blood coagulation\nBlood coagulation can be initiated by either intrinsic or extrinsic pathways, and it culminates in thrombus formation after cascade reactions (Norris and Med, 2003). MNPs may disrupt the balance between pro- and anticoagulant pathways at molecular levels. In human plasma, amine-PS-NPs (57 and 330 nm; 0.06\u20130.5 mg/mL) bound to FVII and FIX as the upstream factors in the extrinsic pathway, **and this decreased thrombin generation** (Oslakovic et al., 2012). In contrast, carboxylate-PS-NPs (24 and 220 nm; 0.5 mg/mL) activated coagulation by intrinsic pathway, and sulfonated PS-NPs (23 and 200 nm; 0.5 mg/mL) with negative charges **affected neither intrinsic nor extrinsic pathways**. At the same mass concentration, 57 nm amine-PS-NPs showed stronger effects on thrombin generation than 330 nm amine-PS-NPs, due to significantly higher numbers of smaller particles and/or the greater surface-to-volume ratio of smaller particles (Oslakovic et al., 2012). In zebrafish, exposing to PE-NPs (191.10 \u00b1 3.13 nm; 25\u2013200 \u00b5g/mL) resulted vascular endothelial dysfunction and hypercoagulable state of circulating blood further accelerated thrombosis (Sun et al., 2021). MNPs can regulate blood coagulation through various mechanisms, largely dependent on particle size and surface modification. When MNPs encounter blood through an open wound, the effects on blood coagulation may have clinical significance.\n\ne.g. again, a mixed bag of results with some sizes, dosages, and modifications up regulating and some down regulating the various pathways, or having no effect at all.\n\nAnd overall, (and as mentioned by the study AND me above), it's entirely possible these effects are due in no small part to inflammation.  MPs that trigger inflammation create in vivo conditions conducive to coagulation.  \n\ne.g. rather than MPs/NPs *directly* causing clotting, SOME MPs/NPs create conditions where clotting may occur.\n\nI would not call causing inflammation the same thing as causing clotting, more a risk factor.",
+                                                                                            "score": 1,
+                                                                                            "replies": [
+                                                                                                {
+                                                                                                    "depth": 11,
+                                                                                                    "author": "ParadoxicallyZeno",
+                                                                                                    "body": "wow that is a lot of words to confirm that some microplastics have been shown to cause clots \n\nthanks tho",
+                                                                                                    "score": 1
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "PandaMomentum",
+                                                    "body": "There are published in vivo animal studies, see this review of the literature from Jan 2024: https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(23)00467-X/fulltext",
+                                                    "score": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "BavarianBarbarian_",
+                                            "body": "There was microplastic in 80% of all samples, but I'd bet they found water in 100% of them - does that mean water causes the clots?",
+                                            "score": 4,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "ParadoxicallyZeno",
+                                                    "body": "has anyone conducted an in-vitro study finding that water causes human blood to clot?\n\nbecause they have done so for microplastics:\n\n> Results show that cPS consistently activated the clotting cascade, demonstrating increased fibrin polymerization rates, and enhanced clot strength in a size and concentration-dependent manner.\n\nhttps://www.researchgate.net/publication/372363716_Exploring_microplastic_impact_on_whole_blood_clotting_dynamics_utilizing_thromboelastography",
+                                                    "score": 2
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "shingdao",
+                                            "body": "It is evident there is correlation here, but I think most readers would infer from the use of the word 'link' in this context to mean 'causal'.  That said, there may very well be a causal link established once additional research is done.  Regardless, the prevalence of MPs found in the human body is alarming.",
+                                            "score": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "Wheream_I",
+                            "body": "I read an article the other day that find them in 100% of testicles checked.",
+                            "score": 11,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Additional_Sun_5217",
+                                    "body": "If this weren\u2019t the science subreddit I would make such a joke about checking 100% of testicles",
+                                    "score": -1
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "Theoricus",
+                            "body": "You could probably imply some degree of correlation if strokes and heart attacks have been on the rise since the advent of plastics.",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Theron3206",
+                                    "body": "Not really, since plenty of other things we know cause an increase in strikes and heart attacks have also been on the rise, you would have to exclude all of those first, which would be quite difficult.",
+                                    "score": 1,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "Theoricus",
+                                            "body": "Really? What other things that might have a correlation with strokes and heart attacks are so pervasive that they impact the entire population rather than just isolated regions?",
+                                            "score": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "itsFromTheSimpsons",
+                            "body": "came here to ask this: Headline reads like correlation, not causation.",
+                            "score": 1
+                        },
+                        {
+                            "depth": 2,
+                            "author": "Drix22",
+                            "body": "Yeah this was my first thought from the title.  \n  \nClot's going to be made up of what is circulating through your system, so of course micro plastics would be there.  \n  \nI'd be interested if they were at higher levels than ambient blood (meaning they're more likely to stick to a clot) or if they're more likely to start a clot.  \n  \nAdding volume to a clot isn't good either, but that's a general debate about the presence of microplastics and not their contribution. The fact they are in the blood stream and should not be is enough to say we need to do better.",
+                            "score": -1
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "bubliksmaz",
+                    "body": "I don't think this establishes causality though. I don't fully understand this D-dimer measure but it doesn't seem open and shut. It kind of *is* another microplastics are everywhere study.\n\n\nThis seems like the kind of thing it should be possible to actually reproduce with animal testing and prove causality.",
+                    "score": 163,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "FinestCrusader",
+                            "body": "Yes, that was my idea as well. We've established that microplastics are present in human blood a while ago, so it would only make sense for them to be present in blood clots.",
+                            "score": 66
+                        },
+                        {
+                            "depth": 2,
+                            "author": "OK4u2Bu1999",
+                            "body": "Except it\u2019s everywhere already. It would be really hard to find the non-microplastic control group.",
+                            "score": 46,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "SmartGuy_420",
+                                    "body": "There are still ways to analyze the relationship between microplastic exposure and health without perfect controls. You could study high-exposure vs low-exposure, for example.",
+                                    "score": 29,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "MoonBapple",
+                                            "body": "Imho that's why the testicles study was interesting to me, as you'd think a dog is only getting exposure through drinking water, air, food packaging, but not from like microwaved plastic bowls or bottled waters or plastic utensils or holding a phone all day. It would be helpful to see the human testicles data mapped against the dog testicles data based on how long they were alive. Did the 16 year old human testicle have the same amount of plastics as a 16 year old dog testicle, for example?\n\nCause and effect is going to take some highly organized longitudinal studies.",
+                                            "score": 7,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Swarzsinne",
+                                                    "body": "It would be more effective to just establish a \u201cnatural\u201d level within whatever animal of interest then create your variable by intentionally raising the levels in lab animals to see at what point you can demonstrate a difference in response.",
+                                                    "score": 3
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "SmartGuy_420",
+                                                    "body": "I\u2019m not sure matching animal data directly with human data is something you can draw meaningful conclusions from. It\u2019s already hard enough to determine whether results are valid when aggregating data from heterogenous groups for humans, even more so, from a completely different species.",
+                                                    "score": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "ParadoxicallyZeno",
+                                            "body": "they did that in this very study and found a relationship: more microplastics present corresponded to worse disease\n\n> Further analyses suggested that higher concentrations of MPs may be associated with greater disease severity (adjusted \u03b2 = 7.72, 95% CI: 2.01\u201313.43, p < 0.05).\n\nsimilarly, the NEJM study from a few weeks found higher levels of inflammation in tissue with more plastic particles\n\n> Since previous research has suggested microplastics may increase inflammation, the researchers looked at markers of inflammation \u2014 including interleukin-18, interleukin-1\u03b2, interleukin-6, and TNF-\u03b1 \u2014 and found that the amount of plastic pieces in plaques correlated with levels of these inflammatory markers.\n\nhttps://www.statnews.com/2024/03/06/nejm-microplastics-blood-vessels-plaque-heart-attack-stroke-death/",
+                                            "score": 1,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "SmartGuy_420",
+                                                    "body": "As I said, that is kind of how you needed to handle it if exposure is so common that, you cannot use a clean control. Unfortunately, both of these studies did not use adjusted analysis so it\u2019s not clear whether there is confounding. The NEJM study is particularly frustrating because their study design was fairly ideal but they didn\u2019t consider the role of confounders in their analysis.",
+                                                    "score": 1,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "ParadoxicallyZeno",
+                                                            "body": "i don't have the full text in front of me but there was at least some adjustment in the analysis:\n\n>The researchers followed up with participants for about three years to monitor their health status. After adjusting for factors that put a person at high risk for heart disease, such as older age and having type 2 diabetes, the team found that those with microplastics or nanoplastics in their plaque were 4.5 times more likely to have had a stroke or heart attack, or to have died within the three-year timeframe. \n\nhttps://www.health.com/microplastics-clogged-arteries-heart-attack-stroke-8619660\n\nwhat confounders are you thinking of specifically?",
+                                                            "score": 1,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "SmartGuy_420",
+                                                                    "body": "Okay, that is good to know that they did actually think about confounding. I don\u2019t have direct access to the paper so the abstract not mentioning any adjustment made me think it was just crude results.\n\nIn terms of potential confounders, the ones that come to mind are dietary, lifestyle, and socioeconomic confounders. After all, some people that are in the higher risk groups among these for heart disease might be in positions that predispose them to microplastic exposure. Obviously, these are not the easiest confounders to work with but those are intuitively ones that are most likely to be sources of bias.",
+                                                                    "score": 1
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "Petrichordates",
+                                    "body": "Not in laboratory conditions it isn't. If we can make mice entirely devoid of microorganisms, we can easily do this.",
+                                    "score": 35,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "Momoselfie",
+                                            "body": "Are you sure about that? Seems like killing off microorganisms would be easier than filtering out all plastics.",
+                                            "score": 5,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Petrichordates",
+                                                    "body": "Internally? No it's definitely not easier. Filtering out plastics just requires the feed manufacturer to take extra steps and changes in cage material. They'll be gone within a couple generations.",
+                                                    "score": 3,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "tytbalt",
+                                                            "body": "Not if the microplastics are in the water supply",
+                                                            "score": 1,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "Petrichordates",
+                                                                    "body": "Right because a laboratory could never purchase a reverse osmosis machine.",
+                                                                    "score": 1
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "Gastronomicus",
+                                    "body": "Sure, but that still doesn't imply anything about causality. You need to establish a mechanism.",
+                                    "score": 0
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "StrengthToBreak",
+                            "body": "While it doesn't establish causality, it does help establish that microplastics infiltrate every part of the human body, and we don't easily dispose of them.   There's no plausible argument that such contaminants are helpful for any biological process, so it's a \"can't help, could hurt\" situation. \n\nIn other words, it's something we should be addressing immediately instead of waiting to find out what the consequences are.",
+                            "score": 9,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "mrmotogp",
+                                    "body": "Hopefully this doesn't sound like a silly question, but you would you suggest we 'address' this issue? I.e. is there some way we could remove these m plastics from our bodies?",
+                                    "score": 5,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "StrengthToBreak",
+                                            "body": "First, do no harm.  Do everything we can to stop or reduce the production and use of plastics where they aren't necessary. \n\nSecond, accelerate work on the identification and removal of plastics from the environment, especially the water and food supplies.\n\nThird, investigate the effects and possible effects so that we can try to anticipate them and preemptively treat specific issues that pop up.  \n\nWe probably can't remove microplastivs that are already within us, but we should be doing everything we reasonably can to limit the damage.\n\nThis is *potentially* an existential crisis on par with or exceeding the climate crisis.",
+                                            "score": 6
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "Ryoga_reddit",
+                                            "body": "Ban consumer grade plastic.\u00a0\u00a0 Consider, that in less then 100 years plastic has; turned in to state sized layers spiraling in multiple places in the ocean, has been found at the deepest level of the ocean,\u00a0 has been found inside people, food, water.\u00a0\u00a0 Recycling failed and was misleading to an almost scam/fraud level. It's time for extreme measures. No more disposable plastics.\u00a0\u00a0 Plastic should be regulated to specific use in areas of extreme benefit like medical or military. Even then, plastic should be regulated for disposal like any other hazardous material.\u00a0\u00a0 Now this will do nothing for the plastic that's already there but it will stop the build up and allow those that are trying to clean it up to make headway.",
+                                            "score": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "Material_Trash3930",
+                                    "body": "How much resources are you willing to expend addressing this potential issue? Keeping in mind that those resources are fungible could be spent addressing known risks with tangible benefits to human health.\u00a0",
+                                    "score": 0,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "StrengthToBreak",
+                                            "body": "Well, that is the golden question.  That's always the question:  what's it worth to you?  If we knew the cost of doing nothing, then we'd at least have a baseline figure for what we should be willing to spend.  \n\nLacking that, I'd say 10 to 20 percent.   I'd be willing to pay 10 to 20 percent more for everything IF I knew it meant that there were no more microplastics, without having any idea about the definitive risk they pose.",
+                                            "score": 1,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Material_Trash3930",
+                                                    "body": "10-20%, applied globally, is actual insanity. For reference the world spends about 11% of gdp on healthcare. Of course you are entiled to your opinion, as unrealistic as it is.\u00a0",
+                                                    "score": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "ParadoxicallyZeno",
+                            "body": "in-vitro testing of human blood already suggests microplastics are capable of triggering clotting: https://www.researchgate.net/publication/372363716_Exploring_microplastic_impact_on_whole_blood_clotting_dynamics_utilizing_thromboelastography \n\n>Results show that cPS consistently activated the clotting cascade, demonstrating increased fibrin polymerization rates, and enhanced clot strength in a size and concentration-dependent manner.",
+                            "score": 18
+                        },
+                        {
+                            "depth": 2,
+                            "author": "ParadoxicallyZeno",
+                            "body": "see [this comment](https://old.reddit.com/r/science/comments/1cxvuq2/study_finds_microplastics_in_blood_clots_linking/l56az6l/) for some additional relevant detail",
+                            "score": 1
+                        },
+                        {
+                            "depth": 2,
+                            "author": "One_hunch",
+                            "body": "Lab here. D-dimer is a product that 'falls off' the clot as your body is actively trying to de-clot it. The higher it is the more of a clot there is that is being broken down. \n\nOur bodies are actively forming and breaking down clots all the time in a complex coagulation cascade, so everyone usually sits in the normal range for a D-dimer. \n\nIt still doesn't prove causality, but D-dimer is a common measurement used in medical diagnoses.",
+                            "score": 1
+                        },
+                        {
+                            "depth": 2,
+                            "author": "Gooftwit",
+                            "body": "Are you suggesting we try to kill animals with microplastic-induced blood clots?",
+                            "score": -2,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "bubliksmaz",
+                                    "body": "that's science baby",
+                                    "score": 37
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "ArchitectofExperienc",
+                                    "body": "That is, technically, how animal testing works. Its not great, its not pretty, its also how we've learned so much about various cancers, genetic conditions, and toxin exposure. These are the research tools we have, at least until there's a way to reliably simulate the human body, and its reaction to environmental conditions.",
+                                    "score": 27
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "TheyCallMeStone",
+                                    "body": "How do you think we got modern medical science? A *lot* of dead mice among other things.",
+                                    "score": 8,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "SisyphusRocks7",
+                                            "body": "And a lot of mice that would never have existed except that we raised them to be lab mice.",
+                                            "score": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "StanIsNotTheMan",
+                                    "body": "Let me introduce you to the entire human history of medical testing.",
+                                    "score": 4
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "Snookn42",
+                            "body": "Generally to form a stable solid out of solution you need a stable crystal structure. Are microplastics actually dissolved? Are they just floating as somids in solution. I can see where they could make the clot more difficult to form",
+                            "score": 0
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "heresyforfunnprofit",
+                    "body": "I\u2019m not sure you can draw inference to consequences here. Every study I\u2019ve seen on microplastics involves them being found in XYZ environment or scenario, but despite their apparent ubiquity, there does not seem to be any significant evidence that they are causative or contributive to these effects. Are the microplastics causing clots, or are they simply one of the compounds being caught in the clots?",
+                    "score": 19,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "ParadoxicallyZeno",
+                            "body": ">I\u2019m not sure you can draw inference to consequences here\n\nfor better or worse, it's not ethical to do controlled experiments with microplastics on humans, so if people are going to insist on human evidence before agreeing that this issue is a big deal, we are going to be limited to observational evidence / associations\n\nfor the brave: there *are* controlled studies of health effects of microplastics on non-human animals, and the results are not pretty...\n\nin this particular study, the dose-response relationship observed is moderately compelling (since from a mechanistic standpoint, it's plausible that exposure to microplastics could cause health issues -- it's much less plausible to imagine that disease processes are responsible for the presence of microplastics)\n\n>Further analyses suggested that higher concentrations of MPs may be associated with greater disease severity (adjusted \u03b2 = 7.72, 95% CI: 2.01\u201313.43, p < 0.05). \n\ni don't know that anything in this study suggests that microplastics are \"causing\" the clots themselves, but other research has indicated that larger amounts of microplastics are associated with higher levels of blood vessel tissue inflammation (and the presence of detectable microplastics corresponded to a 4.5-fold higher risk of death, stroke, and heart attack)\n\nhttps://www.nejm.org/doi/full/10.1056/NEJMoa2309822 \n\n>Since previous research has suggested microplastics may increase inflammation, the researchers looked at markers of inflammation \u2014 including interleukin-18, interleukin-1\u03b2, interleukin-6, and TNF-\u03b1 \u2014 and found that the amount of plastic pieces in plaques correlated with levels of these inflammatory markers.\n\nhttps://www.statnews.com/2024/03/06/nejm-microplastics-blood-vessels-plaque-heart-attack-stroke-death/\n\nedit to add: there's also an in-vitro study of human blood indicating that certain microplastics do trigger clotting\n\n> Results show that cPS consistently activated the clotting cascade, demonstrating increased fibrin polymerization rates, and enhanced clot strength in a size and concentration-dependent manner.\n\nhttps://www.researchgate.net/publication/372363716_Exploring_microplastic_impact_on_whole_blood_clotting_dynamics_utilizing_thromboelastography",
+                            "score": 23,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "heresyforfunnprofit",
+                                    "body": "Oh dear god\u2026 a well reasoned and respectful reply with reputable sources that directly addresses the issue raised in my comment. \n\nAre you single? I think I love you.",
+                                    "score": 1
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "StraightTooth",
+                            "body": "Here is one you may not have seen:\n\nThis study investigates the influence of microplastics on blood clotting. It addresses the lack of comprehensive research on the effects of microplastic size and surface modification on clotting dynamics in human whole blood. Thromboelastography was used to examine aminated (aPS), carboxylated (cPS), and non-functionalized (nPS) polystyrene particles with sizes of 50, 100, and 500 \u2009nm. Results show that cPS consistently activated the clotting cascade, demonstrating increased fibrin polymerization rates, and enhanced clot strength in a size and concentration-dependent manner. nPS had minimal effects on clotting dynamics except for 50\u2009 nm particles at the lowest concentration. The clotting effects of aPS (100\u2009 nm particles) resembled those of cPS but were diminished in the 500\u2009 nm aPS group. These findings emphasize the importance of microplastic surface modification, size, concentration, and surface area on in-vitro whole blood clotting dynamics.",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "TThor",
+                    "body": "The difficult part is finding consequences for something that is literally everywhere. Without a control group, how do you accurately measure what difference it causes? We can make assumptions and theories, but actually measuring it gets harder and harder.",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "brutinator",
+                            "body": "I was just thinking about that, esp. since Id wager that animals have microplastics in them too, and wasnt there a study that fetus's had levels of microplastics? So you couldnt even breed rats in isolation to ensure that they are microplastic free. \n\nSpooky stuff.",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "TThor",
+                                    "body": "Every fish scientists have tested are filled with microplastics, too. Again, it has contaminated even the most remote parts of this planet.",
+                                    "score": 1
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "KarmaPenny",
+                            "body": "Oh wow you're right. That is a really good point I had not thought about.",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "Vandergrif",
+                    "body": "> Unfortunately it's all kinda concerning.\n\nYou say that as if there was ever going to be an upside to ingesting microplastics ;)",
+                    "score": 1
+                },
+                {
+                    "depth": 1,
+                    "author": "WiartonWilly",
+                    "body": "Is there any connection to this consequence?\n\n80% seems low compared to other microplastic reports.",
+                    "score": 1
+                },
+                {
+                    "depth": 1,
+                    "author": "New-Teaching2964",
+                    "body": "Absolutely. I wish I knew if microplastics are being absorbed through the skin or ingested, or both. I would love to know a good way to either avoid them or remove them. I\u2019ve heard about donating plasma and I\u2019m definitely going to try that out.",
+                    "score": 1
+                },
+                {
+                    "depth": 1,
+                    "author": "Whiterabbit--",
+                    "body": "Problem is that we don\u2019t know what the consequences are. I am not even sure calling things micro plastics is helpful as plastics cover a host of different materials with various bio activities and sizes.  Maybe of the 10000 different micro plastics out there 20 of them are dangerous if they enter certain metabolic pathways.  We are just beginning to examine what is out there.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "No_Salad_68",
+            "body": "Maybe _intelligent life invents plastic_ should be an explanation for the Fermi paradox.\n\nEdit: Having thought about this more, the  microplastic is probably just there.  I mean it's in everything - breast milk, semen, arctic snow .. why wouldn't it be in blood too \n\nIts likely incidental to the clots.",
+            "score": 245,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Electus93",
+                    "body": "*Could be the only reason the Earth allowed us to be spawned in the first place, it wanted plastic for itself*",
+                    "score": 50,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "zamfire",
+                            "body": "What if plastic was actually breeding us to make it? The final evolution to the next plane of existence is simply being plastic. Plastic exist in all dimensions.",
+                            "score": 11,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "DudeMan18",
+                                    "body": "Makes the song I'm A Barbie Girl way ahead of it's time",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "I_Am_Jacks_Karma",
+                    "body": "I feel like a great filter would be a more immediate acute type of event though. Even if it turns out plastics give all of us super cancers down the line, we're still living long enough to advance science and technology. As opposed to dying before being able to pass knowledge on or an asteroid hitting us",
+                    "score": 15,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Readylamefire",
+                            "body": "One could argue that this is a somewhat acute event. Plastic has been around 100 years of the 300,000 years we've existed, the last 20,000 of which we really started specking into tech. We're in incredibly uncharted territory and our kids have far more exposure than we have so we'll really be seeing the effects on their development.",
+                            "score": 21,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "I_Am_Jacks_Karma",
+                                    "body": "Yeah that's fair enough, especially on any meaningful timescale for a planet. I was thinking more of something that would wipe out a civilization before it could reproduce or before they could react to it",
+                                    "score": 6,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "SteveDaPirate91",
+                                            "body": "https://www.reddit.com/r/Damnthatsinteresting/s/G3GqQJHhqG\n\n\nIt\u2019s working on that aspect too.",
+                                            "score": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "FeelingPixely",
+            "body": "If another country was poisoning our lakes and rivers, we'd blow them to bits. Why we continue to allow oil cartels to push ~~single-use~~ plastics on us, I'll never understand.\n\nEdit: disposable, nonrecyclable, and/or made to wear down.",
+            "score": 381,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "refriedi",
+                    "body": "if another country was paying off our politicians to be okay with the rivers it\u2019d be ok; same with oil cartels",
+                    "score": 130
+                },
+                {
+                    "depth": 1,
+                    "author": "xebecv",
+                    "body": "The vast majority of microplastics come from synthetic textiles and car tires. These are not single use",
+                    "score": 19,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Select_Mango2175",
+                            "body": "eh fast fashion textiles are nearly single use.",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "vikungen",
+                    "body": "People are not going to change except for through regulations. There was endless whining both here on Reddit and in social media due to single use plastic straws and cutlery being phased out. Such a very minor inconvenience for most people. Can you imagine if we banned plastic clothing, plastic bottles, plastic bags and all single use plastic?\u00a0",
+                    "score": 45,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Strange-Scarcity",
+                            "body": "I would be behind that and I would be very happy to see that happen.",
+                            "score": 7,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Fickle-Syllabub6730",
+                                    "body": "You would be a minority in the sea of people willing to storm the capitol to oppose it.",
+                                    "score": 0
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "6thReplacementMonkey",
+                            "body": "You don't need to ban it, you just need to tax it. Biodegradable plastics exist and are just as functional for most applications where we use single-use non-biodegradable plastics. The problem is that they are more expensive. If your company makes food, and you need to wrap it in plastic before shipping it, and you have a choice between the plastic that costs $0.01 per unit or $0.02 per unit, you will choose the $0.01 option, especially if you are selling millions of units per year. If you don't, your profits go down and your competitors get an advantage over you, so even if you are trying to do the right thing, you might not be able to do it for long.\n\nBut if we put a tax on single-use non-biodegradable products so that the cost to use them is comparable or more expensive than the non-biodegradable versions, the economics would change and now everyone would have an incentive to use them. You wouldn't need crazy regulations or enforcement mechanisms because you could tax them at the point of sale. In cases where it still makes sense for some reason to use non-biodegradable versions, people still could as long as they were willing to pay for it. And you could use the tax revenue to fund cleanup and mitigation programs for existing pollution.",
+                            "score": 16,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "ParadoxicallyZeno",
+                                    "body": "i don't disagree with anything you say but would add that most \"biodegradable\" plastics do not biodegrade in practice: https://www.plasticpollutioncoalition.org/blog/2023/8/3/bioplastics-are-not-the-solution-to-plastic-pollution \n\nif taxation is going to be the way out, then all plastics need to be taxed",
+                                    "score": 16,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "6thReplacementMonkey",
+                                            "body": "The article you linked doesn't say most biodegradable plastics don't biodegrade, it says many \"bioplastics\" (plastics made from biological sources) don't biodegrade. I'm specifically talking about taxing non-biodegradable plastics, exactly because of that.\n\nEncouraging biological sourcing for plastic precursors also has benefits, but not for this particular problem. I think we should do that too, so that the market is driven towards using biologically sourced *and* biodegradable plastics.",
+                                            "score": 1,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "ParadoxicallyZeno",
+                                                    "body": "it specifically discusses that many bioplastics that are supposedly certified as biodegradable actually are not\n\n>The term bioplastics is sometimes used to describe (sometimes inaccurately) \u201cbio-compostable,\u201d **\u201cbiodegradable,\u201d \u201ccompostable,\u201d \u201cmarine-degradable,\u201d or \u201csoil-degradable\u201d plastics\u2014which are certified to decompose** with or without composting at the end of their usefulness. **Many bioplastics are not degradable or compostable (even with certification).** \n\n>Studies have found that **the majority of bioplastics labeled as compostable do not actually break down in home compost systems.** Instead, these items may remain virtually intact for years, endangering wildlife with risk of ingestion and entanglement. Because many municipalities lack industrial composting facilities, much bioplastic ultimately ends up being sent to landfills and incinerators along with most conventional plastic to release microplastics and climate-warming gases.",
+                                                    "score": 3
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "nitePhyyre",
+                            "body": "Banning plastics is a game of whack-a-mole. DDT, CFCs, Carbon, Plastics, the lists goes on and on.\n\nInstead of dumping garbage into the air and water then banning something when it proves to seriously damage us or the environment, we should probably just stop using the environment as a dumping ground.",
+                            "score": 2,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "vikungen",
+                                    "body": "It's humans you're talking about. Even in highly educated countries with good waste management it is happening so there's really no avoiding it. Reducing use seems to be the way to go.\u00a0",
+                                    "score": 2,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "nitePhyyre",
+                                            "body": "If highly educated countries with good waste management processes existed, you'd have a good point. What we [*actually* ](https://www.invw.org/2022/04/18/rich-countries-are-illegally-exporting-plastic-trash-to-poor-countries-data-suggests/)have is rich countries paying poor countries to 'recycle' the waste. And the poor countries dump it or burn it.\n\nRegardless, your idea of reducing plastic usage doesn't really help us with the *next* forever chemical. The next DDT. The next lead gasoline. Whatever it'll be. We'll pollute with it, then when it has already cause incalculable damage to the environment and society, we'll work to stop more of it from getting into the environment.",
+                                            "score": 1,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "vikungen",
+                                                    "body": "True, that is a despicable practice. Though what I'm saying is even here in Norway I daily see people throwing trash where it's not supposed to be, even though properly disposing of it is really easy.\u00a0\n\nThe next challenge will have to be met with a different strategy. Making the laws are too slow, bans can't come after a product is everywhere. A business who wants to bring a new product on the market should be required to analyze the extent of its detrimental effects before it is even sold to one customer.\u00a0",
+                                                    "score": 1,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "nitePhyyre",
+                                                            "body": ">True, that is a despicable practice. Though what I'm saying is even here in Norway I daily see people throwing trash where it's not supposed to be, even though properly disposing of it is really easy.\u00a0\n\nThat... doesn't matter. The pacific garbage patch and ubiquitous microplastics aren't caused by litterbugs. And it matters even less if we're talking about a country with 'good waste management'. That litterbug's trash is getting vacuumed up by a street cleaner. Or it is going into the sewer and getting filtered out before the water goes back into a waterway.\n\n>The next challenge will have to be met with a different strategy. Making the laws are too slow, bans can't come after a product is everywhere. A business who wants to bring a new product on the market should be required to analyze the extent of its detrimental effects before it is even sold to one customer.\u00a0\n\nYeah, for sure. But the problem with that is, how do you know? Some of these problems we never even consider until they exist. How do you analyze the effects of producing 100 billion of a product? A Tupperware all by itself doesn't actually have any detrimental effects. The problem only comes from dumping tons and tons and tons and tons of it into dumps and the oceans. Are we really expecting the people that invented plastic to analyze the extent countries break international treaty to dump waste illegally?\n\nAnd are we really expecting them to do that when the alternative is just not having a waste management system that consists primarily of dumping garbage into the environment?",
+                                                            "score": 1
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "9gPgEpW82IUTRbCzC5qr",
+                            "body": "Taxation is better than banning so people can decide what uses of plastic are worth it",
+                            "score": -1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Strange-Scarcity",
+                                    "body": "Taxation just hurts the poor and lets the wealthy ignore reality.",
+                                    "score": 7,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "scolipeeeeed",
+                                            "body": "That\u2019s kind of the problem with pollution and climate change though. Short of very strict bans that are equally enforced for all people, incentives for reducing emissions for enacting actual, significant changes will end up being regressive in some way, where normal people are less able to buy the polluting things but the rich can continue to do so.",
+                                            "score": 2
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "ArchitectofExperienc",
+                    "body": "The production chain is pretty fucked up, and its not just OPEC/Halliburton/Gazprom pushing product. They make their money by selling crude, and downstream companies make their money from refining/cracking crude into its usable parts, everything from asphalt and bunker fuel to plastics and jet fuel, and turning those components into product. \n\nPlastic is mostly a one-way resource, like all other oil byproducts. While recycling exists, its not something that can be easily converted into a revenue stream, which means it isn't a priority. Every industry in the US, and most around the world, are making or using plastic in some way. Single-use products are currently cost-effective, because our economy isn't tooled to reuse and recycle them. The current global policy push is converting our waste systems into a Circular Economy, which focuses on the full lifecycle of a product, not just how its made, but how its thrown away, and how the materials could be reused.",
+                    "score": 10,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "DarkSideMoon",
+                            "body": "Not to mention that plastic recycling processes often involve generating a huge amount of microplastics. I try to minimize plastic use at all but if I have to use it I intentionally throw plastic away instead of recycling.",
+                            "score": 2,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "ArchitectofExperienc",
+                                    "body": "It depends so much on the type of plastic, and your local recycling facilities. I recycle bottles, cans, and glass in my county because [from what I understand], they have one of the large sorters that can handle a lot of material. Some municipalities shred and landfill their recycling because any other option is way too expensive.",
+                                    "score": 1,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "DarkSideMoon",
+                                            "body": "I recycle glass and metal, AFAIK almost all plastic recycling involves grinding which releases a shitton of microplastics.",
+                                            "score": 2
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "snoopervisor",
+                    "body": "> Why we continue to allow oil cartels to push single-use plastics on us, I'll never understand.\n\nMoney. Oil is sorted into fractions. Some of them are fuels, others make plastic and other synthetics. Plastic is cheap (and light, and durable enough, and easy to form), because the base for it we get nearly for free. Compare it to cotton, wood or metal, or even glass. Wood in particular needs a lot of land and many years to be ready for harvesting.",
+                    "score": 1
+                },
+                {
+                    "depth": 1,
+                    "author": "Lacarpetronn",
+                    "body": " Because the extent of our rage regarding any topic is a social media post/comment. We don\u2019t protest in large enough amounts. We don\u2019t have a leader to rally to. Etc.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Majukun",
+            "body": "Isn't this a \"correlation does not mean causation\" issue? If micfoplastic are now so common that a lot of people have it, of course you are gonna find it in the majority of people with cardiovascular issues",
+            "score": 64,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "therevisionarylocust",
+                    "body": "That was exactly my thinking. If we\u2019re to assume they\u2019re ubiquitous at this point - globally and in the individual human body - then why would we not see them turn up everywhere. It\u2019s going to be sort of difficult to prove causation imo.",
+                    "score": 23
+                },
+                {
+                    "depth": 1,
+                    "author": "ParadoxicallyZeno",
+                    "body": "the dose-response relationship is relevant here: more microplastics present corresponded to worse disease\n\n>Further analyses suggested that higher concentrations of MPs may be associated with greater disease severity (adjusted \u03b2 = 7.72, 95% CI: 2.01\u201313.43, p < 0.05). \n\nsimilar to the NEJM study from a few weeks ago that found higher levels of inflammation in tissue with more plastic particles\n\n>Since previous research has suggested microplastics may increase inflammation, the researchers looked at markers of inflammation \u2014 including interleukin-18, interleukin-1\u03b2, interleukin-6, and TNF-\u03b1 \u2014 and found that the amount of plastic pieces in plaques correlated with levels of these inflammatory markers.\n\nhttps://www.statnews.com/2024/03/06/nejm-microplastics-blood-vessels-plaque-heart-attack-stroke-death/ \n\nedit to add: and in-vitro testing of human blood already suggests microplastics are capable of triggering clotting: \n\n> Results show that cPS consistently activated the clotting cascade, demonstrating increased fibrin polymerization rates, and enhanced clot strength in a size and concentration-dependent manner.\n\nhttps://www.researchgate.net/publication/372363716_Exploring_microplastic_impact_on_whole_blood_clotting_dynamics_utilizing_thromboelastography\n\ncontrolled experiments in humans obviously aren't possible on this subject, but they have been done in other animals...",
+                    "score": 9
+                },
+                {
+                    "depth": 1,
+                    "author": "ch4m3le0n",
+                    "body": "It's a terrible study. There is no control group and the sample size is too small. It proves nothing.",
+                    "score": 7,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "chairmanskitty",
+                            "body": "At the very least it's a good proof of concept that calls for being upscaled. Also, as you surely know because you read the article too, it finds p<0.05 statistical significance for a bunch of factors including correlation between stroke intensity and microplastic concentration. And as you surely know, control groups aren't necessary when looking for correlations between continuous variables.",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "ch4m3le0n",
+                                    "body": "It found microplastic concentrations in line with the general population. That's meaningless. D-dimer concentration is not an indication of severity, merely indicating the presence of clotting. However we know that, because THATS WHY THEY WERE THERE. Might as well have tested whether they had legs.",
+                                    "score": 1
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "TerribleIdea27",
+                            "body": "Every time a study on Reddit is posted with less than X amount of people, someone has to make this comment. \n\nNot all science is about comparing two groups and then doing statistical analysis. We also need studies like this to explore whether there's something worth looking at, before we destroy 20,000 samples (and pay for them), and then find out there's 0 indication of anything",
+                            "score": 0
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "apiculum",
+                    "body": "Exactly, also with a sample size of 30, this study is worthless. It\u2019s no different than saying well 26 of the 30 blood clot victims ate red meat so clearly red meat is causing the clots, ignoring the fact that most people eat red meat.",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Clanmcallister",
+            "body": "It would be interesting to know how to not consume micro plastics. Does anyone else feel that they have made some changes towards that? I know it\u2019s mostly impossible, but jeez.",
+            "score": 68,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "SpekyGrease",
+                    "body": "You can't I'm afraid, it's everywhere, even rainwater. And children are likely born with micro plastics already, since it's been found it transfers through placenta.",
+                    "score": 102
+                },
+                {
+                    "depth": 1,
+                    "author": "Lilliiss",
+                    "body": "I was part of a trial where I was supposed to eat as plastic-free as possible. It was basically impossible. Even if you buy yogurt in glasses etc, there is always plastic somewhere, for example inside the lid. Meat is always vacuumed in plastic bags, before they unwrap it and sell it at the market. It was expensive and difficult and my grocery bags were so heavy from the glass. I think we are in urgent need of a climate friendly possibility to wrap and store food that doesn't contain plastic and is less heavy than glass. For some people glass is also dangerous (diseases with tremors etc). But yeah what I wanted to say - avoiding plastic in food is really really difficult",
+                    "score": 62,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "HabeusCuppus",
+                            "body": "> I think we are in urgent need of a climate friendly possibility to wrap and store food that doesn't contain plastic and is less heavy than glass. \n\n19th century invention Waxed paper. or approximately 2nd century BCE parchment paper, depending on the product.\n\nPlastic packaging displaced these because it's more durable for shipping, can be made more puncture resistant, and is cheaper to produce.",
+                            "score": 24,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "politicalgas",
+                                    "body": "This. Occasionally I watch a YouTuber who eats MRI's from various decades, when he opens ones from the 1940's there is almost no plastic and when there is, it is usually cellophane which is biodegradable.",
+                                    "score": 6,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "HabeusCuppus",
+                                            "body": "> cellophane\n\nanother good point about cellophane is that it is produced by processing environmental carbon (plants) that are already in the short carbon cycle; and not from fossil carbon (oil/coal) that is part of the long cycle - it's not just biodegradable!",
+                                            "score": 6,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "msiri",
+                                                    "body": "Do we have cellophane anymore? This was the term I learned for SaranWrap, Cling wrap etc. I'm pretty sure these are all plastic now. \n\nAre any of these products still cellophane? IF not when did they switch to plastic?",
+                                                    "score": 1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "Wise_Mongoose_3930",
+                                            "body": "Let\u2019s get this out onto a tray",
+                                            "score": 6
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "TerribleIdea27",
+                            "body": "There's plastic inside the meat itself, never mind the packaging. All that produce sliding along farm tools that have been degrading in the sun for 30+ years, accumulating micro wear. Watered by rain that contains plastic. Then bioaccumulated into cows eating kilos of the stuff every day. The particles then end up inside the meat. And we as meat eating animals, get even more",
+                            "score": 3
+                        },
+                        {
+                            "depth": 2,
+                            "author": "YesMyDogFucksMe",
+                            "body": "Little short of running your own farm would be enough. That doesn't sound so bad.",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Lilliiss",
+                                    "body": "I would love that so much but I can't afford to buy land and a house:(",
+                                    "score": 1,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "YesMyDogFucksMe",
+                                            "body": "Sure, you can. But it's going to be ugly land in the middle of nowhere, probably without most utilities.",
+                                            "score": 1,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Lilliiss",
+                                                    "body": "I live in middle europe, there is not really a middle of nowhere, so it is all not affordable for me :( I wouldn't mind to live more isolated, but a little town nearby would be nice. I kind of romanticize the homesteading life in the states. In my next life maybe..",
+                                                    "score": 1,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "YesMyDogFucksMe",
+                                                            "body": "There's usually a tiny little town within 15 minutes or less if you're living somewhere at least semi-forested, but you'll save money on groceries making the 45 minute drive into a smaller city because those little stores are almost double the price a lot of the time. I'd look around. Some of the okayish places are going between 20k and 100k if you're willing to learn and do some maintenance work and avoid major structural stuff and flood zones. I figured I could buy land and build my own tiny home for less than 60k, but who else would have time for that?",
+                                                            "score": 1
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "nanoinfinity",
+                    "body": "You could reduce your exposure - eg don\u2019t drink from plastic water bottles - but that would never get you to 0%. Plastic is in the soil, in plants, in animals, in water, in the air. \n\nIf you can donate blood, that\u2019s been proven to reduce your overall microplastic levels. \n\nMakes me wonder if we\u2019ll see something like dialysis become popular as a \u201ctreatment\u201d for plastics.",
+                    "score": 8,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Brandbll",
+                            "body": "There is a plastic liner in all canned foods and beverages too to prevent acid contacting the aluminum. So you would have to go only glass.",
+                            "score": 5
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "The_runnerup913",
+                    "body": "I\u2019ve certainly made changes. Made a large investment in glass Tupperware, not drinking sodas as much, etc.",
+                    "score": 14,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "LookIPickedAUsername",
+                            "body": "That probably makes roughly zero difference, since there are microplastics in the air you breathe, the water you drink, and the food you eat. It's everywhere.",
+                            "score": 26,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "BlahBlahBlackCheap",
+                                    "body": "I heard that bottled  water was a big source",
+                                    "score": 6,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "genericusername9234",
+                                            "body": "Yea tap water has a lot less",
+                                            "score": 1,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "BlahBlahBlackCheap",
+                                                    "body": "I\u2019d hazard a guess that it\u2019s a big way it gets into the body. Other sources like food, the particles are probably  bound with other stuff and might not be readily absorbed.",
+                                                    "score": 3,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "genericusername9234",
+                                                            "body": "I don\u2019t use bottled water, idk why anyone would, giant scam",
+                                                            "score": 0,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "HabeusCuppus",
+                                                                    "body": "reminder that some parts of the world (even the US) do not have potable ground-water - even if it comes out of a tap it may not be safe to drink due to pollution!",
+                                                                    "score": 3,
+                                                                    "replies": [
+                                                                        {
+                                                                            "depth": 8,
+                                                                            "author": "genericusername9234",
+                                                                            "body": "Pollution is Still better than plastic",
+                                                                            "score": -3,
+                                                                            "replies": [
+                                                                                {
+                                                                                    "depth": 9,
+                                                                                    "author": "HabeusCuppus",
+                                                                                    "body": "You might rethink that when you can light your tap water on fire with a bic.",
+                                                                                    "score": 3,
+                                                                                    "replies": [
+                                                                                        {
+                                                                                            "depth": 10,
+                                                                                            "author": "genericusername9234",
+                                                                                            "body": "Which doesn\u2019t happen to anyone in the US that isn\u2019t using well water or living away from pipelines.",
+                                                                                            "score": 0
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "depth": 9,
+                                                                                    "author": "eukomos",
+                                                                                    "body": "I'd rather drink plastic than lead.",
+                                                                                    "score": 2
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "BlahBlahBlackCheap",
+                                                                    "body": "Because people have poor water? I used to because my water was heavily chlorinated. Then I got a countertop filter which in the long run will save money.",
+                                                                    "score": 0,
+                                                                    "replies": [
+                                                                        {
+                                                                            "depth": 8,
+                                                                            "author": "genericusername9234",
+                                                                            "body": "Yea so why buy bottled water you can just filter it and chlorine isn\u2019t gonna kill you",
+                                                                            "score": 1
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "WilmaLutefit",
+                                            "body": "I\u2019m pretty much all plastic at this point then. Fml.",
+                                            "score": 0
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "Deadly_Fire_Trap",
+                            "body": "Unfortunately makes little difference. The food you eat is manufactured with equipment with plastic parts that wear down onto conveyor belts and directly into the food itself. Since it's not metal detectable there's no regulation for plastic contamination.\n\nSource: working in food manufacturing for a decade as industrial maintenance.",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "ElysiX",
+                    "body": "Build a bunker world with ultra filtrated water and air, don't use plastics anywhere, and grow your food in there.\n\nAny time a vehicle with tires drives along a road, it spews huge amounts of microplastic into the air and into the drainage ditches next to the road. Then plants grow on the fields next to those ditches and in that air and the microplastic gets into the crops.",
+                    "score": 12,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "toxic_badgers",
+                            "body": "More microplastic comes from paint than tires too. Every time it rains it washes microplastics off the painted object.  And clothes. Every time they are washed plastics get loosed.",
+                            "score": 6
+                        },
+                        {
+                            "depth": 2,
+                            "author": "NoXion604",
+                            "body": "I thought that tyres were made of vulcanised rubber?",
+                            "score": 3,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Obtusedoorframe",
+                                    "body": "As far as I know they are a blend of plastic and rubber. Mostly rubber, but enough plastic to cause this.",
+                                    "score": 3
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "ElysiX",
+                                    "body": "Which chemicals do you think vulcanised rubber consists of?\n\nEven tires made from natural rubber from rubber trees is a kind of plastic, most modern tires arent made from that but from synthetic rubber from petrochemicals.\n\nAnd then it gets friction heated/burned/vaporised before ending up in the air and water",
+                                    "score": 2
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "iron_knee_of_justice",
+                                    "body": "At this point, the word \u201cplastic\u201d has just turned into a generic term for things made with cross-linked long chain hydrocarbons with various additives and fillers. Can you guess what vulcanized rubber is made from?",
+                                    "score": 2,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "NoXion604",
+                                            "body": "That seems like an awfully broad category of substances. Is there any consensus as to which of them are most likely to accumulate in living organisms?",
+                                            "score": 1,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "iron_knee_of_justice",
+                                                    "body": "It is. Not that I\u2019m personally aware of, but I would guess it depends mostly on how numerous they are as microplastics in the environment and how easily (or not) they break down on a molecular level.",
+                                                    "score": 2
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "lesbian_sourfruit",
+                    "body": "I think your best shot is trying to go plastic free. I\u2019ve moved to glass and ceramic containers for food prep and storage, buying food (mostly fresh produce, everything else comes wrapped in plastic) without plastic packaging\u2014a CSA or farmers market is your best bet here, and favoring clothing made from all natural fibers (cotton, wool, linen). \n\nBut it\u2019s also a balancing act of cost and convenience, where it\u2019s all too easy to make small compromises because there\u2019s already micro plastics in literally everything.",
+                    "score": 32,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "ElysiX",
+                            "body": "Most microplastics in your food doesn't come from containers, it comes from inside the plant. The farmers at farmers markets still use tractors and cars, they still use the same water and air as everyone else",
+                            "score": 43,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "lesbian_sourfruit",
+                                    "body": "Yes, but I as an individual don\u2019t have any means to avoid or prevent the use of plastics in the farming of my food. By avoiding plastic products, I\u2019m reducing my contact with plastics as well as preventing the kind of plastic waste that leads to micro plastics in the food chain in the first place. \n\nI\u2019m not saying it\u2019s a perfect solution by any means; there are still thousands of other sources of micro plastics in my home and environment, but the original commenter asked about avoiding/reducing them and I offered the most realistic, actionable options I know of. Yes, they are impossible to avoid completely, that doesn\u2019t mean we shouldn\u2019t take efforts to reduce exposure and prevent the problem from becoming worse.",
+                                    "score": 16,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "ropper1",
+                                            "body": "Yeah I don\u2019t understand that all or nothing thinking. Doing something, even if not huge, is better than doing nothing",
+                                            "score": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "Nuclear_eggo_waffle",
+                            "body": "I mean, it\u2019s also in the rain, so that\u2019s a problem",
+                            "score": 17,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "OldSchoolRPGs",
+                                    "body": "Just use a glass or ceramic umbrella!",
+                                    "score": 11
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "Clanmcallister",
+                            "body": "Right. Yes. I\u2019ve made some switches such as glass containers for food storage, but yeah most of the meat we buy is plastic wrapped.",
+                            "score": 13,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Alert-Potato",
+                                    "body": "The only way I know of to get around that is buying from a local butcher and getting it all wrapped in butcher paper, or getting it wrapped the same but from a local farm. Both are *significantly* more expensive than the grocery store, and out of a lot of budgets. But does it matter when the meat is full of microplastics?",
+                                    "score": 15,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "Hendlton",
+                                            "body": "> But does it matter when the meat is full of microplastics?\n\nNah. Even if the meat wasn't, the water is. And even if the water wasn't, the air is. There's no way around it now. We're on this wild ride and we basically just have to hope for the best.",
+                                            "score": 2
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "cherisold",
+                                    "body": "If you really worry about it, the only way people think you can reduce microplastics in your bloodstream is to donate blood as often as you can. Also, I know people say using glass won't make a difference, and it won't, but hey the more you can try to reduce using plastics you should. So I think using glass containers is the way to go.",
+                                    "score": 4
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "BlahBlahBlackCheap",
+                            "body": "Stopped drinking from plastic bottles. Now filter tap water through ceramic and carbon.",
+                            "score": 4,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "raiinboweyes",
+                                    "body": "The last study I saw on filtered water was that we thought the micro plastics content was coming from the bottles, when it was actually coming from the filter medium itself. So that really blows.",
+                                    "score": 1,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "BlahBlahBlackCheap",
+                                            "body": "Ok. That\u2019s news to me.",
+                                            "score": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "WilmaLutefit",
+                                    "body": "I\u2019m so fucked because I think the plastic water bottle water is leaps and bounds safer than my chemical filled tap water. \n\nCould you filter the bottled water through a filter?",
+                                    "score": -2,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "thisisnotaduck",
+                                            "body": "The water in your plastic water bottle is also tap water",
+                                            "score": 2
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "BlahBlahBlackCheap",
+                                            "body": "Apparently microplastics are not filtered out. They are too small. However, from what I\u2019ve read, the tap water has much less of them, and the other chemicals in tap water can be filtered out with a consumer grade water filter. I chose one of the all stainless models. \nA problem with the bottled water is supposedly mechanical damage which dislodges particles. Think of how we treat bottles of water at a picnic. My plan is to retire my synthetic blankets, clothing I wear often, I already do not use microscrubbing soaps, be much more careful with hobbies that require me to cut plastic and avoid any drinks in plastic bottles as much as I can.",
+                                            "score": 1,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "itsvoogle",
+                                                    "body": "Cool, i have to worry about my Blankets too?\n\nI usually purchase filtered water and bring it back home in those big plastic jugs, what could be a better alternative? Stainless steel or what? Like those sports drinking thermos or what?",
+                                                    "score": 1,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "BlahBlahBlackCheap",
+                                                            "body": "Getting a ceramic and charcoal filter system, and filter your tap water into a stainless sport water bottle.",
+                                                            "score": 1
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "Hvarfa-Bragi",
+                            "body": "My CSA puts everything in a big plastic bag.",
+                            "score": 1
+                        },
+                        {
+                            "depth": 2,
+                            "author": "genericusername9234",
+                            "body": "Farmer\u2019s market vendors often buy their produce from grocery stores and resell it.",
+                            "score": -1
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "mEllowMystic",
+                    "body": "Car tires are the biggest culprit, not much we can do.",
+                    "score": 4
+                },
+                {
+                    "depth": 1,
+                    "author": "Select_Mango2175",
+                    "body": "apparently a lot of microplastics get into our bodies from synthetic textiles (polyester clothes). \n\nI honestly do try to avoid plastic as much as possible (natural textiles, buy food in bulk or at the farmer's market and store in paper or glass), but as others have said, it's in water. And probably in the food products themselves just from upstream plastic exposures that I would never know about.",
+                    "score": 1
+                },
+                {
+                    "depth": 1,
+                    "author": "genericusername9234",
+                    "body": "I get reverse osmosis water and store it in glass containers. I also use hepa air filters and wear cotton clothes.",
+                    "score": 0,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "ParadoxicallyZeno",
+                            "body": "guess what reverse osmosis filters are made of? nylon (plastic)! \n\nguess what turned out to be the most abundant form of nanoplastic contamination in a recent analysis of bottled water? nylon!\n\n>The water contained particles of all seven types of plastic. The most common was polyamide, a type of nylon that\u2019s often used to help filter and purify water.\n\nhttps://www.nih.gov/news-events/nih-research-matters/plastic-particles-bottled-water\n\nconsider getting yourself a ceramic or carbon filter as an additional step if your system doesn't already have one...",
+                            "score": 4,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "genericusername9234",
+                                    "body": "The one I buy from does have carbon filter",
+                                    "score": 1
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "greydelr",
+                            "body": "Does your RO system have a storage tank for the filtered water? Mine does, and it has an inner polypropylene liner... they all do, apparently. No tanks on the market with a non-polyprop liner just yet, it seems.",
+                            "score": 2,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "genericusername9234",
+                                    "body": "I buy mine from a machine so maybe it does, maybe it doesn\u2019t.",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Wild-Breadfruit7817",
+            "body": "Someone needs to invent something that destroys the plastics once we ingest it.\u00a0",
+            "score": 7
+        },
+        {
+            "depth": 0,
+            "author": "doctord1ngus",
+            "body": "NEJM also had an article within the past few months about this - nanoplastics found within cardiac atheromas. This is downright terrifying and I bet within 10 years this will be the most important emerging medical issue we face.",
+            "score": 21,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "vialabo",
+                    "body": "I'm curious how Gen X ends up regarding this. They're the first generation to be affected by plastics at scale their whole lives.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Wagamaga",
+            "body": "The findings revealed that microplastics made of various types of polymers and with different physical characteristics were present at varying mass concentrations in thrombi that formed in major human arteries and veins. The microplastic levels in human thrombi have a positive correlation with the severity of ischemic strokes.\n\nOf the 30 thrombi acquired from patients with myocardial infarction, deep vein thrombosis, or ischemic stroke, 24 (80%) contained microplastics. The median concentration of microplastics in the thrombi from myocardial infarction, deep vein thrombosis, or ischemic stroke cases was 141.80 \u03bcg/g, 69.62 \u03bcg/g, and 61.75 \u03bcg/g, respectively.\n\nThe major polymers identified in the microplastics retrieved from thrombi were polyethylene, polyvinyl chloride, and polyamide 66. Laser direct infrared spectroscopy also revealed that of the 15 types of microplastics identified, polyethylene was the most dominant, having a diameter of 35.6 micrometers and constituting 53.6% of all microplastics retrieved. The microplastics were heterogeneous in size.\n\nThe D-dimer levels, one of the hypercoagulability biomarkers that indicate the increased risk of thrombotic events, were significantly higher in groups in which microplastics were detected in the thrombi, as compared to the groups in which microplastics were not detected. This suggested a direct link between microplastic concentrations in the body and the risk of thrombotic events.\n\nConclusions\nOverall, the study found that thrombi retrieved from major blood vessels of patients with myocardial infarction, ischemic stroke, or deep vein thrombosis contain significant concentrations of microplastics of varying polymer types and physical properties. Furthermore, the risk of thrombotic events and disease severity increases with increasing levels of microplastics.\n\n  \n[https://www.news-medical.net/news/20240522/Study-finds-microplastics-in-blood-clots-linking-them-to-higher-risk-of-heart-attacks-and-strokes.aspx](https://www.news-medical.net/news/20240522/Study-finds-microplastics-in-blood-clots-linking-them-to-higher-risk-of-heart-attacks-and-strokes.aspx)",
+            "score": 25,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "ch4m3le0n",
+                    "body": ">This suggested a direct link between microplastic concentrations in the body and the risk of thrombotic events.\n\nCorrect me if I'm wrong, but while high D-dimer is linked to a higher chance of a thrombotic event, as you put it, all these patients already had those. You can't then link microplastics to thrombotic events, since there is no control group. Your title and subsequent summary are incorrect.\n\nAll the study found was that some patients had microplastics in their blood.",
+                    "score": 17,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Yourself013",
+                            "body": "D-Dimer is one of the most unspecific labs you can have. It's downright terrible for any kind of correlation when it's positive and it's only useful for confirming one thing: if it's negative, there's no clots.\n\nA person with clots is going to have positive D-Dimer, *because of the clots*, not because of D-Dimer, it's a protein fragment that is created when your body dissolves clots. But you can also stub your toe on the coffee table and you can get a positive D-Dimer.\n\nI'd be very careful doing any kind of correlation with plastics and D-Dimer because there's just a shitload of reasons why it can go up. This is something that even some doctors often get wrong.",
+                            "score": 6,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "ch4m3le0n",
+                                    "body": "Thanks. That's what I was thinking.",
+                                    "score": 2
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "AftyOfTheUK",
+                            "body": ">All the study found was that some patients had microplastics in their blood.\n\nAnd, given we know that just about every human on the planet has microplastics in their blood, this is essentially meaningless here.\n\nTo make this worthy of discussion, we'd need either a control group, or knowledge that the levels of microplastics in this group was above average for all humans.",
+                            "score": 2
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "Creepy_Knee_2614",
+                    "body": "Did they control for sources of exposure that might be correlated?\n\nIf processed foods are more likely to be contaminated with microplastics, or smoking, etc then an analysis needs to be done to see how much is correlated with these associated variables and whether there\u2019s an excess mortality/risk between the correlated factors and microplastics.\n\nIt\u2019s certainty not reassuring, but it\u2019s far from conclusive",
+                    "score": 2,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "SmartGuy_420",
+                            "body": "I mean there\u2019s even confounders such as socioeconomic status that need to be considered. Lower microplastic exposure might reflect people who are wealthier eating food with less microplastics. In that situation, is it microplastics or social conditions that are related to the results.",
+                            "score": 3
+                        },
+                        {
+                            "depth": 2,
+                            "author": "genericusername9234",
+                            "body": "The question is whether you would rather have microplastics in your lungs or your stomach",
+                            "score": 1
+                        },
+                        {
+                            "depth": 2,
+                            "author": "chairmanskitty",
+                            "body": "It's defintely too small a study to make major conclusions from, as the discussion readily states. It seems good as a proof of concept, and the fact they already find statistical significance between plastic correlation and stroke intensity with N<32 is worrying, but yes a large scale study would benefit from all of that.",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "BloodSteyn",
+                    "body": "Polyvinyl Chloride... so that train wreck in Palesine US is going to have so serious negative health effects down the road.",
+                    "score": 4,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "nyet-marionetka",
+                            "body": "That was just vinyl chloride. Different health concern.",
+                            "score": 26
+                        },
+                        {
+                            "depth": 2,
+                            "author": "aoifhasoifha",
+                            "body": "> Polyvinyl Chloride\n\nalso known as PVC- in other words, it's already in just about every building you've been in in the last 20 years, including the water pipes.",
+                            "score": 18
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "ryosei",
+            "body": "i wonder how many plasticfibers you are breathing in from a carpet, sheesh",
+            "score": 5
+        },
+        {
+            "depth": 0,
+            "author": "TheTurtleSwims",
+            "body": "Another reason to donate blood or plasma. \n[New evidence shows blood or plasma donations can reduce the PFAS \u2018forever chemicals\u2019 in our bodies](https://theconversation.com/new-evidence-shows-blood-or-plasma-donations-can-reduce-the-pfas-forever-chemicals-in-our-bodies-178771)",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "Eric_the_Barbarian",
+            "body": "Can we stop acting like it's amazing to find these micro plastics in yet another place when they already seem to be everywhere? Figure out somewhere they *aren't* showing up so we can take a look at what's keeping them out.",
+            "score": 20
+        },
+        {
+            "depth": 0,
+            "author": "superstevo78",
+            "body": "The problem is that microplastic is everywhere..  it shouldn't surprise anyone that they find microplastic the body.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "limitedexpression47",
+            "body": "So, this is just a correlation. Wake me up when they actually have something.",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Known-Web8456",
+                    "body": "The study notes specifically that blood coagulation was higher in samples with plastic vs without, which suggests causation.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Saharaberry",
+            "body": "Microplastics in our veins and arteries and testicles\u2014-how do we get it out? Microplastic cleanse?",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Wild-Breadfruit7817",
+                    "body": "Someone needs to invent something to destroy the micro plastics we ingest. Pill? Vaccine?",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Potential-Drama-7455",
+            "body": "Problem is how can we have a control group?",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "BloodSteyn",
+            "body": "Welp... Guess the next Great Filter we have to survive is plastics... from lungs, to testes to brains to blood clots.\n\nPseudo-estogens from micro plastics could even be behind falling fertility rates for all we know.\n\nHow screwed are we.",
+            "score": 11,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Specialist-Lion-8135",
+                    "body": "They proved xenoestrogens from thalates were a serious concern for male fertility back in the nineties. I refused to use plastic wrap, dishes and Teflon in my kitchen after I read an article on thirty years ago. It\u2019s nearly impossible to avoid in food stuff now. Plastic packaging is everywhere. \n\nI think it begins with weed barriers they use in commercial farming and then escalates into product packaging like those annoying dry good envelopes and salad bins in produce. Even aluminum soda cans are lined with plastic.",
+                    "score": 11,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Snuffy1717",
+                            "body": "The majority of the microplastic we\u2019re finding in people comes from tires",
+                            "score": 7,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Wild-Breadfruit7817",
+                                    "body": "How so or is it just the same\nMicro plastics in other things as in tires?",
+                                    "score": 2,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "Specialist-Lion-8135",
+                                            "body": "I imagine it\u2019s not easy to pinpoint but I agree. Car tires are the most likely culprit for inhaling and general environmental impact.",
+                                            "score": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "2v1mernfool",
+                    "body": "If it's a problem that ends up affecting literally everyone severely, people will figure out a solution.",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "CurmudgeonLife",
+            "body": "Everyone has microplastics in them at this point. This doesnt prove anything other than that.",
+            "score": 5
+        },
+        {
+            "depth": 0,
+            "author": "ThinkPath1999",
+            "body": "We're all fucked, aren't we? The only solace I find is that I never had any kids who will suffer more than we will in the very near future.",
+            "score": 3,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "djamp42",
+                    "body": "I always think the no kid argument is funny, because that's actually the fastest way to end the human race. Within 20 years I say society would totally collapse, and we no longer exist in 100",
+                    "score": 8,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "genericusername9234",
+                            "body": "Society isn\u2019t capable of living past twenty years at this point.",
+                            "score": -4
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "nicuramar",
+                    "body": "I don\u2019t think there is any scientific consensus pointing to us being \u201cfucked\u201d.\u00a0",
+                    "score": 7,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "NoXion604",
+                            "body": "It's a popular sentiment with terminally online Reddit doomers, but the world keeps turning regardless. You'd think that the End of Days wouldn't require us to still go to work.",
+                            "score": 5
+                        },
+                        {
+                            "depth": 2,
+                            "author": "60days",
+                            "body": "Living longer, healthier lives than any other point in human history might be called a plus, even.",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "Yourself013",
+                    "body": "No, we're not fucked. We simply don't know what this means. Just because microplastics are found in various places in the human body doesn't mean they are automatically harmful, and even if they are harmful, we still don't know to what extent.  We have a lot more research to do, but spreading doom&gloom and acting like this is the same thing as asbestos or whatever is equally unscientific as denying it.",
+                    "score": 6,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "feltsandwich",
+                            "body": "Getting real petroleum industry vibes from you.",
+                            "score": -2
+                        },
+                        {
+                            "depth": 2,
+                            "author": "blonsitobreve",
+                            "body": "It's also naive thinking they are harmless",
+                            "score": -2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "lazyFer",
+            "body": "So if they find microplastics in the bloodstream and every major organ, is it really that helpful to note that they're also found in blood clots?\n\nHey, maybe they can do a study to find out if microplastics are in testicles...oh wait, they already did that study. We get it, they're everywhere. How about a study to see if there's any way we can deal with them? At some point we can either deal with them or we can't. If we can't, continuing to study where they are (everywhere) is rather pointless.",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Astro4545",
+                    "body": "I\u2019d rather they do a study on the effects of it. Them being everywhere means nothing if they don\u2019t do anything.",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Sudden-Collection803",
+            "body": "Time for humans to start installing wye strainers inline with our circulatory system\u00a0",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "cheesemaster900",
+            "body": "Microplastics are already everywhere inside us, and it\u2019s either bad or not bad, and we all get to find out together.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "agoodepaddlin",
+            "body": "Is it possible to filter it from your system. Or just your blood perhaps?",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "genericusername9234",
+                    "body": "Nah probably not",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "WashYourCerebellum",
+            "body": "What was the rate found in plagues, thrombi yadda yadda in patients without MO?  I bet it\u2019s around 80%\u2026.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "2punornot2pun",
+            "body": "And they called me crazy when I was a kid and I **\\*\\*hated\\*\\*** the taste of my drinks from plastic cups. I always preferred glass. It tasted ... cleaner. If that makes sense. \n\n  \nMy parents had old abused plastic that was fraying. No thank you.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "GOPJay",
+            "body": "So how do we get these microplastics into our bodies? Eat them? Inhale them?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Alansalot",
+            "body": "Is it the Tupperware? How can we best minimize our plastic intake?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "got_little_clue",
+            "body": "this is the 10th micro plastics article I see this week, and is only mid week, we knew these aren\u2019t ok, what changed?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "not_an_island",
+            "body": "Is there anything we can do against microplastics?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "IdiocracyIsHereNow",
+            "body": "...if they're in everything, of course they're in clots.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "OkTower4998",
+            "body": "Yeah and they blame covid vaccine for heart attacks",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "biggestrepper",
+            "body": "Is it not super convenient for the oil industry that they can just feed us this poison and they get paid for it? Despite already having multiple other sources of revenue? It's the same exact thing with the oil based food coloring. They are poisoning us purely for profit at this point.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Future_Way5516",
+            "body": "And yet,  plastic production still isn't illegal?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Swarzsinne",
+            "body": "Anyone else getting burned out on \u201cmicroplastics found in X\u201d but with zero real evidence of them causing anything by their presence alone? What does it really matter if they\u2019re everywhere if we can\u2019t actually demonstrate that they are causing a problem?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "LuckyPoire",
+            "body": "At what rate does healthy tissue contain microplastics?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "JazzyButternuts",
+            "body": "Plastics industry:\n\nTHATS FALSE! WE DO WONDERFUL THINGS!",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Maleficent_Stress666",
+            "body": "What's up with the top comment and all replies being wiped?",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Golleggiante",
+                    "body": "Yeah I despise this sub. The top comment threads are always banned.",
+                    "score": 2,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Maleficent_Stress666",
+                            "body": "What do we think it said?",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Golleggiante",
+                                    "body": "It was probably a link to a peer reviewed study showing how the mods on r/science have never touched grass",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "scubaSteve181",
+            "body": "How do we limit our risk of being riddled with microplastics? Aside from avoiding plastics (which seems almost impossible).",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "sunplaysbass",
+            "body": "I imagine purging the body of plastics will be the primary focus of medical research after AI figures out cancer vaccines\u2026",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "DaySoc98",
+            "body": "Not related, but my stepdad (RIP) had a massive stroke about 23 years ago.  When we were in the waiting room, a doctor told another family their dad died of a myocardial infarction. The son was pretty torn up about it (obviously).  \n\nAnyway, I overheard him talking to someone on a pay phone and he said \u201cDad died of a massive internal fart.\u201d",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "tobiassolem",
+            "body": "Hmm, the way this is phrased, its straight due for misinterpretation, and a lot of potential confusion between correlation and causation.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "DiogenesLied",
+            "body": "Reminder, the plastics industry has been lying about [plastic recycling](https://www.earthday.org/plastic-recycling-is-a-lie/)",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "RainOk8759",
+            "body": "Ok, so what are we doing to make it illegal to dump microplastics into the environment.\n\nAnd no I\u2019m not talking about a slap on the wrist fine. Executives and business owners have to be held personally responsible.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "cinderful",
+            "body": "I'm beginning to think maybe plastic isn't super great for the body",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Rules_are_overrated",
+            "body": "Yeah but imagine that, people with high cholesterol are eating junk which is 99% of the time comes in some kind of plastic and is going to contain some as well, and people who eat that way most likely don't move much... so...  \nIs it really microplastics fault or cholesterol + sedentary lifestyle fault",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "ChickyChickyNugget",
+            "body": "But isn\u2019t basically everybody full of microplastics at this point? Not surprised blood clots contained them but it doesn\u2019t mean it caused them",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "CaptCaCa",
+            "body": "DeKlantis the type of dude to rage when a rainbow appears after rain",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Ok-Negotiation-3892",
+            "body": "Will this get deleted?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "OkDistribution4014",
+            "body": "Trying to use as much glass as possible",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "omnichronos",
+            "body": "There should be a way to filter the microplastics out but apparently, they are highly variable in size so filtering isn't feasible yet.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "rain56",
+            "body": "It doesn't matter where on the planet you live and what your diet consists of. Corporations have poisoned every single human on the face of the planet.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "eilertokyo",
+            "body": "Would need to see if this is generalized in other countries as well.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "sbrown063087",
+            "body": "How many contained Covid vaccine long haul?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "phonsely",
+            "body": "so what are we going to do about it?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Disastrous-Carrot928",
+            "body": "Would donating blood regularly be a viable solution to removing microplastics from the body?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "FantasticWhisper",
+            "body": "This is our equivalent to lead in gas i guess.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "onlainari",
+            "body": "Bayes theorem destroys the headline of this research. Risk cannot be assessed by correlation alone.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Aggravating-Swing836",
+            "body": "Do we have any hypothesis for what kind of things micro plastics could do? Like what is the chemical composition of micro plastics? And would that chemical comp effect bodies area differently?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Vizth",
+            "body": "Given that they found microplastics in almost every tissue of the body, are they just going to start blaming everything on them now? It don't get me wrong I think finding out what effect they're having is important but it feels like they're just saying it raises the risk of everything without any actual proof.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "YesMyDogFucksMe",
+            "body": "I store all my water in glass bottles/jugs now. Tap water only, left to sit for 24h to allow the chlorine to evaporate, otherwise it burns my throat. I want to get a filtration system soon.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Firelord_Iroh",
+            "body": "Welp. We are fucked. Not that we weren\u2019t fucked before, but it\u2019s good to check in every now and then to know it\u2019s still going on.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "galaxy_ultra_user",
+            "body": "All that plastic that comes off plastic cookware too.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "QVRedit",
+            "body": "Hardly surprising - as micro plastics are everywhere now\n\nEven NewBorn humans have nanoplastics in their blood - we really are poisoning ourselves\u2026\n\nPlacental blood contains nanoplastics. And nano-plastics are now in the air that we breathe\u2026\n\nThere is no escaping them - so it\u2019s probably NOT a good idea to let their concentrations build up any further..\n\nMaybe don\u2019t dump plastics into the ocean ?    \nMaybe restrict single use plastics ?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Skwigle",
+            "body": "Google says that 77% of the population has microplastics in their blood, so if those numbers are correct then microplastics don't seem to be having any effect, in fact.",
+            "score": 0
+        },
+        {
+            "depth": 0,
+            "author": "knowledgeable_diablo",
+            "body": "But wasn\u2019t all heart disease, cancers, lung issues of any type plus pretty well every other physical ailment linked to smoking in the past?\\\nOr was this unhealthy past time somewhat over hyped causing many of the other causes of these issues to be over looked and ignored (like micro plastics, bacterial and viral infections and potentially many more that have been totally missed due to doctors just lumping everything easily into the \u201cwell you smoked? Welllll obviously this is the cause of every problem in your life past your 16th birthday!\u201d When broadening their view and ability to accept smoking didn\u2019t cause all death and disease.\\\nAnd no, me saying smoking was somewhat over hyped isn\u2019t me saying I\u2019m arguing it\u2019s healthy as it\u2019s obviously not good for you and has many negative outcomes, however the whole \u2018blame it on smoking\u2019 has, in my opinion, made a lot of doctors lazy to the point of just going \u201csmoking?!??, oh well, your fault then\u201d.",
+            "score": -3,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "ryosei",
+                    "body": "the filters have lots of small carcinogenic fibers as well",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Dazzling_Scarcity_81",
+            "body": "....as the doctor I work for plastys open the plastic with more plastic.  You're fixed!.. for now",
+            "score": 0
+        },
+        {
+            "depth": 0,
+            "author": "Ok_Sense5207",
+            "body": "Even the most remote beings in Antarctica have micro plastics - it will be the end of humanity",
+            "score": -1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "FinestCrusader",
+                    "body": "Until we find a solution",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "smoochiegotgot",
+            "body": "But, but, the VACCINE!",
+            "score": -2
+        },
+        {
+            "depth": 0,
+            "author": "Phemto_B",
+            "body": "Edit Let's try a different approach rather than a metaphor that goes WOOSH.\n\nThere are people alive today who laid on constantly shedding nylon and polyester wall-to-wall carpets to watch Howdy Doody on their family's black and white TV. It's everywhere and has been for a human lifespan.\n\nThat raises the question: Does finding it mean anything if it's everywhere? Where is the sample of people who did not need clots removed? They almost certainly have microplastics too. How much? More? Less? Without that data, you can draw no conclusions, and you certainly can't make a \"link\".\n\n/edit\n\nWhen I was a kid, my dad installed an motion activated light by out back door. After that, the light would come on almost every night to reveal racoons. Clearly, automatic lights attract racoons.\n\nLater, as the racoons got bolder, they would sometimes knock over our garbage cans. If you looked at the spilled garbage, there was plastic in in. Therefore.....\n\nEdit: Apparently, I have been seen as defending the microplastic boogey man. BOOO!!!\n\nThis study says it found microplastics in clots, just like I found plastic in the tipped over garbage. If microplastics are everywhere (which they are) then you're going to find it everywhere. post hoc ergo propter hoc.\n\nYou will also find microplastic inside the bodies of centenarians. That doesn't mean that microplastics are longevity treatments.\n\nThis is interesting, but proves nothing about a \"link\" to anything. If you understand logic, you'd see that.",
+            "score": -13,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Sinz_Doe",
+                    "body": "Are you okay?",
+                    "score": 3,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Aweomow",
+                            "body": "There's too much of them, that don't seek or get the help they need.",
+                            "score": 1
+                        },
+                        {
+                            "depth": 2,
+                            "author": "Phemto_B",
+                            "body": "I'm fine. I'm just applying logic, which I know is hard when the latest BOOGEYMAN is mentioned. \n\n[https://en.wikipedia.org/wiki/Post\\_hoc\\_ergo\\_propter\\_hoc](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc)",
+                            "score": 0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

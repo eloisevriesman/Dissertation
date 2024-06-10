@@ -1,0 +1,380 @@
+PostID,CommentID,Combative,Deliberative,Text,Toxicity,Rationality,Mutual Respect,Emotion,Moderator,Diversity
+post_1,post_1_0,0.0,1.0,"New study highlights the psychological benefits of diverse friendships. The findings suggest that while people naturally tend to form bonds with those who are similar to them, integrating more diverse social networks yields significant social and personal benefits.",0.0232032340762435,0.7770164012908936,0.499683529138565,0.9998074173927308,0,1
+post_1,post_1_0,1.0,3.0,"Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.
+
+**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/#wiki_science_verified_user_program).
+
+---
+
+User: u/mvea  
+Permalink: https://www.psypost.org/new-study-highlights-the-psychological-benefits-of-diverse-friendships/
+
+---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",0.0270612784960993,0.0082347989082336,0.4607613384723663,0.931857407093048,1,1
+post_1,post_1_1,0.0,2.0,"I’ve linked to the news release in the post above. In this comment, for those interested, here’s the link to the peer reviewed journal article: 
+
+https://journals.sagepub.com/doi/10.1177/09567976241243370
+
+From the linked article: 
+
+A recent study published in Psychological Science has found that people with diverse social networks, comprising both similar and different individuals, tend to report higher social cohesion in their neighborhoods and, in turn, higher levels of well-being. The findings suggest that while people naturally tend to form bonds with those who are similar to them, integrating more diverse social networks yields significant social and personal benefits.
+
+Previous research has shown that contact with people from various groups can reduce prejudice and enhance social outcomes. However, debates persist, with some arguing that diversity might reduce trust and social cohesion. This study aimed to clarify these conflicting views by exploring how the composition of one’s social network — specifically the balance between similar (homophilous) and different (heterophilous) friends — affects perceived social cohesion and subjective well-being.
+
+The researchers used data from Understanding Society – the United Kingdom Household Longitudinal Study (UKHLS), which has surveyed around 40,000 households since 2009. This nationally representative survey includes detailed information on demographics, socioeconomic status, health, social life, and attitudes. The study focused on data from two waves, collected between 2011-2013 and 2014-2016, specifically analyzing responses from 24,726 individuals in 10,398 English neighborhoods.
+
+The study examined four types of social network homophily: race, age, income, and education. Respondents were asked to report the proportion of their friends who were similar to them in each of these aspects. Social cohesion was measured using a neighborhood cohesion instrument, which assessed individuals’ sense of community, attraction to their neighborhood, and interactions with neighbors.
+
+The researchers found an inverted U-shaped relationship between network homophily and social cohesion. Initially, as the proportion of similar friends increases, social cohesion also increases, peaking at a midpoint. Beyond this point, however, further increases in similarity within social networks begin to reduce social cohesion. The inverted U-shaped pattern held true across different types of homophily (race, age, income, and education).
+
+In other words, a moderate level of homophily — where social networks include a balanced mix of similar and different individuals — appears to promote the greatest sense of community and connection among neighbors. This social cohesion, in turn, is strongly associated with increased overall life satisfaction and better mental health.",0.0276397011802252,0.0311150550842285,0.4996804893016815,0.1176669895648956,0,1
+post_2,post_2_0,0.0,0.0,The Keys equation conflated natural saturated fat & industrial trans-fat into a single parameter & considered only linoleic acid as PUFA. This ignored widespread consumption of trans-fat & its effects on serum cholesterol & promoted an imbalance of omega-6 to -3 fatty acids,0.0531606247082611,0.3896692395210266,0.4997507333755493,0.0001890659332275,0,1
+post_2,post_2_0,1.0,3.0,"Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.
+
+**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/#wiki_science_verified_user_program).
+
+---
+
+User: u/mightx  
+Permalink: https://www.mdpi.com/2072-6643/16/10/1447
+
+---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",0.026911314422942,0.0086851716041564,0.3994190990924835,0.968646228313446,1,1
+post_2,post_2_1,0.0,1.0,Didn't he study more then 7 countries and only selected the 7 that fit his hypothesis ?,0.0262360479520509,0.6902593374252319,0.4997303783893585,0.0006430149078369,0,1
+post_2,post_2_1_1,0.0,1.0,I remember hearing this but I have no source for it,0.0245336192062884,0.6263565421104431,0.4996490478515625,0.0001454651355743,0,1
+post_2,post_2_1_1_1,0.0,1.0,"I think this might be a credible source [https://www.scientificamerican.com/article/records-found-in-dusty-basement-undermine-decades-of-dietary-advice/](https://www.scientificamerican.com/article/records-found-in-dusty-basement-undermine-decades-of-dietary-advice/)
+
+>One, the Seven Countries Study, originally included many more nations. But in only seven did populations consuming lots of saturated fats have high levels of heart disease, prompting recent accusations of cherry-picking data.",0.0247613124935946,0.3399348855018616,0.4997639060020447,0.0002084672451019,0,0
+post_3,post_3_0,0.0,0.0,Young people’s use of diabetes and weight loss drugs is up 600 percent,0.063796163141566,0.5657045841217041,0.4994792938232422,0.0187149345874786,0,1
+post_3,post_3_0,1.0,3.0,"Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.
+
+**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/#wiki_science_verified_user_program).
+
+---
+
+User: u/Science_News  
+Permalink: https://www.sciencenews.org/article/diabetes-weight-loss-drugs-glp1-ozempic
+
+---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",0.0269057302041247,0.0078979134559631,0.47102090716362,0.925243616104126,1,1
+post_3,post_3_1,0.0,1.0,">From **2020 to 2023**, the number of U.S. adolescents and young adults who picked up prescriptions for Ozempic, Wegovy and related drugs [rocketed up nearly 600 percent](https://jamanetwork.com/journals/jama/fullarticle/2819128) — from roughly **8,700 people to more than 60,000**, scientists report May 22 in *JAMA.*
+
+So big increase for 18 to 25 year olds (reported group). Still small in absolute terms and not too surprising given its an actual weight loss drug that seems to work.",0.0270186128838036,0.0062379240989685,0.4996767342090606,0.0001548528671264,0,1
+post_3,post_3_1_1,0.0,1.0,"I’m not sure it’s meaningful given that it later says that the drugs were approved from 2017-2022.  The usage in adults skyrocketed in the same time way, the drugs were new to the market.",0.0244168244230129,0.763152003288269,0.4997471570968628,0.0002302527427673,0,1
+post_3,post_3_1_1_1,1.0,0.0,"""I want a new drug!""
+
+-Hewie Lewis And The News",0.1062069113046484,0.0424823760986328,0.4983282685279846,0.8975911140441895,0,1
+post_3,post_3_1_1_1_1,0.0,1.0,"Random story... my dad used to listen to this song all the time when I was a kid, and he told me it was ""I want a new truck!""
+
+I did not think to ask how one spills their truck, or how it would make you crash your car.",0.1655460167088926,0.6227324604988098,0.4996040165424347,0.9848807752132416,0,1
+post_3,post_3_1_1_1_1_1,0.0,0.0,"A truck that don't cost too much, or come in pill",0.4428452691368496,0.6826714277267456,0.4997082948684692,0.1557407081127166,0,1
+post_3,post_3_1_1_1_1_1_1,0.0,1.0,One that won't hurt my head!,0.1062224575065134,0.0622854232788085,0.4994169771671295,0.9999632239341736,0,1
+post_3,post_3_1_1_1_1_1_2,1.0,0.0,"He says he doesn't want a powder, something he can spill, or a pill. Even injectables can spill.
+
+I guess he wants an elusive unicorn drug.",0.0420502314175043,0.8674275279045105,0.4997034072875976,7.450580596923828e-05,0,1
+post_3,post_3_1_1_1_1_2,0.0,1.0,"Or the Weird Al version: ""I want a New Duck""",0.1624900874452392,0.2793518900871277,0.4946356415748596,0.2313123345375061,0,1
+post_3,post_3_1_1_1_1_2_1,0.0,1.0,"Oh my God, I had no idea this song existed.  It's so good.  ""One that knows how to wash my car, and keep his room real neat.""  I'm dying.",0.1910928184068606,0.006872534751892,0.4500509798526764,0.9982800781726836,0,0
+post_3,post_3_1_1_1_1_2_1_1,0.0,0.0,"One that won't drive me crazy waddling all around  
+One who'll teach me how to swim and help me not to drown  
+And show me how to get down  
+How to get *down* baby  
+**Get it?**",0.2426846769302787,0.0577472448348999,0.0003414154052734,0.9997978508472444,0,1
+post_3,post_3_1_1_1_1_2_2,0.0,1.0,One that won't try to bite!,0.0833436455405932,0.5920681357383728,0.4993468821048736,0.0936154425144195,0,1
+post_3,post_3_1_1_1_1_3,0.0,1.0,Some who really wants a new truck might crash their car so that they have a need for a new vehicle.,0.177307286484036,0.2505704164505005,0.4997553825378418,0.124565839767456,0,1
+post_3,post_3_1_1_1_2,0.0,1.0,"""I want a new duck!""
+
+-Weird Al",0.247070614056912,0.0252287983894348,0.0337628722190856,0.95761838555336,0,1
+post_4,post_4_0,0.0,0.0,"A groundbreaking study led by UCLA Health has unveiled the most detailed view of the complex biological mechanisms underlying autism, showing the first link between genetic risk of the disorder to observed cellular and genetic activity across different layers of the brain",0.0252713522076587,0.689196765422821,0.4997135996818542,0.9997338950634004,0,1
+post_4,post_4_0,1.0,3.0,"Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.
+
+**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/#wiki_science_verified_user_program).
+
+---
+
+User: u/shiruken  
+Permalink: https://www.uclahealth.org/news/release/groundbreaking-study-connects-genetic-risk-autism-changes
+
+---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",0.0272661730737171,0.0083175897598266,0.4814522266387939,0.9485070705413818,1,1
+post_4,post_4_1,0.0,1.0,"Direct link to the study: [B. Wamsley, et al., Molecular cascades and cell type–specific signatures in ASD revealed by single-cell genomics, Science, 384, 6698 (2024)](https://doi.org/10.1126/science.adh2602)",0.0236261100170828,0.0479903817176818,0.4996490478515625,0.9985687136650084,0,1
+post_5,post_5_0,0.0,0.0,"Synthetic diamonds grow in liquid metal at ambient pressure | While high temperatures are still a prerequisite, it is possible to make polycrystalline diamond film at standard pressures",0.0250121528546708,0.749220073223114,0.4997189342975616,0.9116296470165252,0,1
+post_5,post_5_0,1.0,3.0,"Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.
+
+**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/#wiki_science_verified_user_program).
+
+---
+
+User: u/Hrmbee  
+Permalink: https://physicsworld.com/a/synthetic-diamonds-grow-in-liquid-metal-at-ambient-pressure/
+
+---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",0.0268421649491958,0.0086704492568969,0.4703059792518616,0.9501190185546876,1,1
+post_5,post_5_1,0.0,2.0,"From the article:
+
+>The usual way of manufacturing synthetic diamonds involves applying huge pressures to carbon at high temperatures. Now, however, researchers at the Institute for Basic Science (IBS) in Korea have shown that while high temperatures are still a prerequisite, it is possible to make polycrystalline diamond film at standard pressures. The new technique could revolutionize diamond manufacturing, they say.
+>
+>Natural diamonds form over billions of years in the Earth’s upper mantle at temperatures of between 900 and 1400 °C and pressures of 5–6 gigapascals (GPa). For the most part, the manufacturing processes used to make most synthetic diamonds mimic these conditions. In the 1950s, for example, scientists at General Electric in the US developed a way to synthesize diamonds in the laboratory using molten iron sulphide at around 7 GPa and 1600 °C. Although other researchers have since refined this technique (and developed an alternative known as chemical vapour deposition for making high-quality diamonds), diamond manufacturing largely still depends on liquid metals at high pressures and temperatures (HPHT).
+>
+>A team led by Rodney Ruoff has now turned this convention on its head by making a polycrystalline diamond film using liquid metal at just 1 atmosphere of pressure and 1025 °C. When Ruoff and colleagues exposed a liquid alloy of gallium, iron, silicon and nickel to a mix of methane and hydrogen, they observed diamond growing in the subsurface of the liquid metal. The team attribute this effect to the catalytic activation of methane and the diffusion of carbons atoms in the subsurface region.
+
+---
+
+The original journal link:
+
+[Growth of diamond in liquid metal at 1 atm pressure](https://www.nature.com/articles/s41586-024-07339-7)
+
+Abstract:
+
+>Natural diamonds were (and are) formed (thousands of million years ago) in the upper mantle of Earth in metallic melts at temperatures of 900–1,400 °C and at pressures of 5–6 GPa. Diamond is thermodynamically stable under high-pressure and high-temperature conditions as per the phase diagram of carbon. Scientists at General Electric invented and used a high-pressure and high-temperature apparatus in 1955 to synthesize diamonds by using molten iron sulfide at about 7 GPa and 1,600 °C. There is an existing model that diamond can be grown using liquid metals only at both high pressure and high temperature. Here we describe the growth of diamond crystals and polycrystalline diamond films with no seed particles using liquid metal but at 1 atm pressure and at 1,025 °C, breaking this pattern. Diamond grew in the subsurface of liquid metal composed of gallium, iron, nickel and silicon, by catalytic activation of methane and diffusion of carbon atoms into and within the subsurface regions. We found that the supersaturation of carbon in the liquid metal subsurface leads to the nucleation and growth of diamonds, with Si playing an important part in stabilizing tetravalently bonded carbon clusters that play a part in nucleation. Growth of (metastable) diamond in liquid metal at moderate temperature and 1 atm pressure opens many possibilities for further basic science studies and for the scaling of this type of growth.",0.0243443004966892,0.5522491931915283,0.4996274411678314,0.8918968737125397,0,1
+post_5,post_5_2,1.0,0.0,so-called diamonds which can only be seen by SEM or TEM...,0.0270461390485113,0.3045080304145813,0.4997106194496155,0.0005095899105072,0,1
+post_5,post_5_3,0.0,0.0,[removed],0.0260143950586149,0.8984742760658264,0.4377089142799377,0.058917611837387,0,1
+post_6,post_6_0,0.0,0.0,"Just 10 ""superspreader"" users on Twitter were responsible for more than a third of the misinformation posted over an 8-month period, finds a new study. In total, 34% of ""low credibility"" content posted to the site between January and October 2020 was created by 10 users based in the US and UK.",0.0253887932373416,0.5382652878761292,0.4997630715370178,2.0503997802734375e-05,0,1
+post_6,post_6_0,1.0,3.0,"Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.
+
+**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/#wiki_science_verified_user_program).
+
+---
+
+User: u/mvea  
+Permalink: https://www.abc.net.au/news/2024-05-23/twitter-misinformation-x-report/103878248
+
+---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",0.0270638702758169,0.0088474154472351,0.4837312400341034,0.8723215162754059,1,1
+post_6,post_6_1,0.0,1.0,"""2,397,388 tweets containing low credibility content, sent by 448,103 users.""
+
+How the hell did they do that?",0.4345011623957442,0.794603168964386,0.4925366342067718,1.1622905731201172e-05,0,1
+post_6,post_6_1_1,0.0,1.0,"The top 10 accounts where posting every 4 minutes for 8 months straight, PER account. 
+
+I truly cant see a legit reason anyone would need to post with that frequency, for any purpose or reason regardless of content.",0.024397435486907,0.2046175599098205,0.4996277987957001,3.4809112548828125e-05,0,1
+post_6,post_6_1_1_1,1.0,0.0,I can think of a few. None of them good,0.035515217517759,0.3638921976089477,0.4996463656425476,3.272294998168945e-05,0,1
+post_6,post_6_1_1_1_1,0.0,1.0,Prison time.,0.0595724074198588,0.8184833526611328,0.4983892142772674,0.0153880715370178,0,1
+post_6,post_6_1_1_1_1_1,1.0,2.0,".... what for? 
+
+Unless we want to go down a *really* weird road, you really can't say that someone posting ""false"" information should be imprisoned. Who decides what the truth is? What happens when the government and some judges decide that the truth isn't something you agree with? Should those people go to jail too? 
+
+I've said it again and again - the Jan 6 insurgency is *exactly* what people loved about Twitter for so long - organizing people to challenge the government. When Twitter users organized protests on it for Euromaidan, it was hailed as a massive win. 
+
+But then when it was used against the American government by people you and I don't agree with, suddenly it should be illegal to talk about there. 
+
+All you have to do is picture that tool in the hands of someone you don't agree with, and it suddenly becomes *very* questionable.",0.0393605055674095,0.0151276588439941,0.4996791183948517,4.291534423828125e-06,0,1
+post_6,post_6_1_1_1_1_1_1,0.0,1.0,"It was so blatantly done with malicious intent to harm society as much as they possibly can like an act of terrorism. How could you be dense enough to think that ***shouldn't*** be punished very severely, or at all?",0.2876167485323013,0.0076149702072143,0.4964255094528198,0.0001372992992401,0,1
+post_6,post_6_1_1_1_1_1_2,0.0,1.0,Maidan was legal. Jan 6 was not.,0.0301736178131843,0.7959281206130981,0.4996466040611267,0.0087383091449737,0,1
+post_6,post_6_1_1_1_1_1_3,1.0,2.0,"If you have a repeated pattern of spreading misinformation harmful to society, I don't see why that's a hard case to make. You seem to believe there's no such thing as truth and you're allergic to even think about casting judgement. The first amendment doesn't protect things like libel or defamation. If you cause harm, you should be liable.",0.0488490822639958,0.0729760527610778,0.4997614622116089,0.0001642704010009,0,1
+post_6,post_6_1_1_1_1_1_3_1,1.0,2.0,"Absolutely agree.  Call me a liberal communist all you want.. deliberate spread of misinformation can literally have life-ending consequences, even en masse, depending on what it is that someone is spreading around.  Imo, it absolutely should be grounds for being charged criminally (as long as the legislature takes into account freedom of speech and weighs the intent and potential harm vs punishment, objectively).
+
+Curious how the anti-vax parents would respond, once another unvaccinated kid gives their child measles and it results in a death.. all because RFK and Joe Schmoe ""told them not to because their kid could become autistic...""",0.1886786528765852,0.0248213410377502,0.4920842945575714,0.0001829266548156,0,1
+post_6,post_6_1_1_2,0.0,1.0,"I think this means a real social good would be an attempt to find the immediate characteristics of accounts that would let people tell if they are the normal account of a real person, or if they are the arm of some business or other entity.",0.0243783976406005,0.7019191980361938,0.4997253119945526,0.989616483449936,0,1
+post_6,post_6_1_1_2_1,0.0,1.0,"You don't make money that way. 
+
+Let me share a quote from FB upper management. 
+ https://www.washingtonpost.com/technology/2021/10/22/facebook-new-whistleblower-complaint/
+
+
+According to the Post article, the newest whistleblower alleges Facebook Communications vice-president Tucker Bounds shrugged off Russia's interference in the 2016 presidential election when it bought social media ads to spread disinformation.
+
+The whistleblower said Bounds said, ""It will be a flash in the pan. Some legislators will get pissy. And then in a few weeks they will move onto something else. Meanwhile, we are printing money in the basement and we are fine.""",0.0527762560194121,0.0791381001472473,0.4996130466461181,1.0669231414794922e-05,0,1
+post_6,post_6_1_1_2_1_1,0.0,1.0,">  Facebook Communications vice-president Tucker Bounds shrugged off Russia's interference in the 2016 presidential election when it bought social media ads to spread disinformation.
+
+A‌ ‌k‌e‌y‌ ‌f‌a‌c‌t‌ ‌h‌e‌r‌e‌ ‌i‌s‌ ‌t‌h‌a‌t‌ ‌[‌T‌u‌c‌k‌e‌r‌ ‌B‌o‌u‌n‌d‌s‌ ‌i‌s‌ ‌a‌l‌s‌o‌ ‌a‌ ‌r‌e‌p‌u‌b‌l‌i‌c‌a‌n‌ ‌o‌p‌e‌r‌a‌t‌i‌v‌e‌.‌](https://en.wikipedia.org/wiki/Tucker_Bounds)  A‌l‌l‌ ‌t‌h‌o‌s‌e‌ ‌a‌c‌c‌u‌s‌a‌t‌i‌o‌n‌s‌ ‌a‌b‌o‌u‌t‌ ‌f‌a‌c‌e‌b‌o‌o‌k‌ ‌b‌e‌i‌n‌g‌ ‌""‌l‌i‌b‌e‌r‌a‌l‌""""""‌ ‌w‌e‌r‌e‌ ‌j‌u‌s‌t‌ ‌c‌o‌v‌e‌r‌ ‌f‌o‌r‌ ‌g‌u‌y‌s‌ ‌l‌i‌k‌e‌ ‌h‌i‌m‌ ‌t‌o‌ ‌g‌e‌t‌ ‌a‌w‌a‌y‌ ‌w‌i‌t‌h‌ ‌p‌u‌s‌h‌i‌n‌g‌ ‌m‌a‌g‌a‌ ‌p‌r‌o‌p‌a‌g‌a‌n‌d‌a‌ ‌o‌n‌ ‌t‌h‌e‌ ‌p‌l‌a‌t‌f‌o‌r‌m‌.‌ ‌ ‌I‌t‌s‌ ‌n‌o‌t‌ ‌*‌j‌u‌s‌t‌*‌ ‌a‌b‌o‌u‌t‌ ‌m‌o‌n‌e‌y‌ i‌t‌s‌ ‌also a‌b‌o‌u‌t‌ ‌p‌o‌w‌e‌r‌.‌ Its revealing that wapo does not disclose his background in their article.""",0.0271727085109759,0.0266529917716979,0.4994749128818512,8.374452590942383e-05,0,1
+post_6,post_6_1_1_2_1_2,0.0,1.0,"While I respect having disrespect for Facebook, I do not think a proper auditing would stop *me* from making money.  Nor would I shed a tear for Facebook's money printer.  In fact, I think this is all adding up to more reasons why an audit would be a social good.",0.025785518332645,0.0915489196777343,0.4997522234916687,0.0004778206348419,0,0
+post_6,post_6_1_1_2_1_2_1,2.0,1.0,"I think you're missing the point. They KNOW that these things are happening. They dont care bc it makes them money. These social media businesses are HAPPY and profiting off of these platforms of hate. The more content, regardless of who make them, is fine by them. 
+
+Yes, they could flick one switch and have these accounts disappear. They don't want that. This is the feature, not the bug. 
+
+I struggle with this platform as well. They make money by using all of our context to train AI. This place will eventually become all bots. You can see the bots proliferate on super popular subs already. 
+
+Companies are sociopathic. They don't do the right thing morally unless it's legislated or profitable.",0.0468696924026018,0.0098673105239868,0.4993197023868561,1.049041748046875e-05,0,0
+post_6,post_6_1_1_2_1_2_1_1,1.0,1.0,"It's a very simple formula:
+
+
+>Controversy = attention
+
+
+>Attention = time spent on platform
+
+
+>Time spent on platform = $$$
+
+
+There's no incentive for them to fix it until the Leopards eat their faces.",0.0960633980104718,0.537207305431366,0.4995842576026916,2.288818359375e-05,0,1
+post_6,post_6_1_1_2_1_2_1_1_1,0.0,1.0,"Leopards are eating their faces right now. This info got to us from whistle blowers. Execs and C-suites don't let their own kids on social media accounts. There are plenty of people who have left the companies for moral reasons, but plenty stayed bc they keep making that sweet money, and I think they are actually OK with their faces being eaten. No remorse. The dystopia is the end goal.",0.2484388558332765,0.0105682611465454,0.4326262772083282,0.0017949044704437,0,0
+post_7,post_7_0,0.0,0.0,Study models how ketamine’s molecular action leads to its effects on the brain. ,0.0293363345166299,0.7118819355964661,0.4996268451213836,0.9244827330112456,0,1
+post_7,post_7_0,1.0,3.0,"Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.
+
+**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/#wiki_science_verified_user_program).
+
+---
+
+User: u/AnnaMouse247  
+Permalink: https://www.pnas.org/doi/10.1073/pnas.2402732121
+
+---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",0.0271479898611391,0.0082188248634338,0.4603894054889679,0.954106628894806,1,1
+post_7,post_7_1,0.0,1.0,"Press release here: https://picower.mit.edu/news/study-models-how-ketamines-molecular-action-leads-its-effects-brain
+
+Study: “Ketamine can produce oscillatory dynamics by engaging mechanisms dependent on the kinetics of NMDA receptors.”",0.0255390389426435,0.6351664662361145,0.4996709525585174,0.9844629168510436,0,1
+post_7,post_7_1_1,0.0,1.0,An oscillation in gamma by the NMDA receptors.. influences and entrains the network? I'm not sure I've got that right. What?,0.0254184874926046,0.6318676471710205,0.4997227489948272,0.0013976395130157,0,1
+post_8,post_8_0,0.0,1.0,"Across the world, surveyed publics generally do not believe Russian disinformation about the Ukraine War. The one major exception to this are individuals who are prone to a conspiratorial mindset: they are more likely to believe Russian disinformation.",0.0280068911051056,0.0086446404457092,0.4997560381889343,0.0032283663749694,0,1
+post_8,post_8_0,1.0,2.0,"Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.
+
+**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/#wiki_science_verified_user_program).
+
+---
+
+User: u/smurfyjenkins  
+Permalink: https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2352483
+
+---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",0.0277793599204245,0.0080540776252746,0.4761633574962616,0.9026552438735962,1,1
+post_8,post_8_1,1.0,1.0,"Yeah, modern war is a lot harder to lie about than past wars were.  On the one hand ""Nothing happened to our boat."" but then on the other hand ""Here's first and third person footage of a drone slamming into your boat and sinking it... as well as satellite photos, because of course there's satellite photos.""
+
+""Nothing happened to our general.  He's fine.  Look, he's in a live meeting!""  -->  ""About that... we can't help but notice he didn't speak, open his eyes, or otherwise move for the entire meeting...""",0.0437231408207117,0.0048737525939941,0.4997266829013824,0.0006662607192993,0,1
+post_8,post_8_2,0.0,1.0,And how many people is that?,0.0309494906637054,0.636935293674469,0.4995534718036651,0.1933572590351104,0,1
+post_8,post_8_2_1,1.0,0.0,77 million in the US.,0.0253833189411397,0.8355827927589417,0.4995599687099457,0.808952659368515,0,1
+post_8,post_8_3,1.0,1.0,shocking. Those who are unable or unwilling to think critically can be convinced of anything. There are tens of millions of such people. And they're growing prouder of their ignorance.,0.3762217725259582,0.030669093132019,0.4997653365135193,0.0057456195354461,0,1
+post_8,post_8_3_1,0.0,1.0,“You've got to remember that these are just simple farmers. These are people of the land. The common clay of the new West. You know. Morons!”,0.8960514394520914,0.2130993604660034,0.2157666683197021,0.0002372860908508,0,0
+post_8,post_8_3_1_1,0.0,1.0,Thank you for that- got a nice chuckle. I miss Gene Wilder.,0.024007940818507,0.0343499183654785,0.9941908717155457,0.9987054169178008,0,0
+post_8,post_8_4,1.0,1.0,"In a 'science' forum we are still using 'disinformation'?
+
+There is only information.
+
+At some point, most scientific facts would have been called 'disinformation' as well.
+
+""Sun is the center of the universe"", Whoa! Disinformation alert!
+
+Russian Propaganda, sure.  Russian Disinformation, no.
+
+[https://www.merriam-webster.com/dictionary/dis](https://www.merriam-webster.com/dictionary/dis)
+
+Information is not directional.",0.0264185222504715,0.0097154974937438,0.4997427463531494,7.212162017822266e-06,0,1
+post_8,post_8_4_1,0.0,1.0,"* Information is data about the world.
+* Misinformation is unintentionally flawed data about the world.
+* Disinformation is intentionally false data about the world, intentionally published in order to achieve some aim.",0.0356947564609623,0.0110440850257873,0.4997537136077881,0.0001450479030609,0,1
+post_8,post_8_4_1_1,0.0,1.0,"No, dis-information is the new way to discredit information that does not agree with your narrative.  In the past, we called it propaganda.",0.0271203663950424,0.1845189332962036,0.4997792541980743,9.939074516296388e-05,0,0
+post_8,post_8_4_1_1_1,1.0,0.0,you're making a needless semantic argument.,0.0435863683823365,0.531482994556427,0.4996717870235443,0.0020081400871276,0,0
+post_8,post_8_4_1_1_2,1.0,2.0,"No, that's not correct either. Propaganda has always been a wide category of methods for manipulating the public. Many of the methods of propaganda don't involve direct falsehoods: Uncle Sam pointing directly out of the frame of a poster at the person viewing the poster with the caption ""Buy War Bonds"" contains no objectively false information, but would be considered propaganda nonetheless.
+
+""Disinformation"" is indeed a term that was popularized recently (though your characterization of it as merely a way to discredit information is laughably false) but if used for the benefit of a nation-state, it falls within a subset of well-worn propaganda techniques.",0.0273049699017651,0.0368838310241699,0.4997458457946777,0.0002579092979431,0,0
+post_9,post_9_0,0.0,0.0,Nrf2 activation by pyrroloquinoline quinone inhibits natural aging-related intervertebral disk degeneration in mice,0.0335781293969309,0.411376416683197,0.4987984001636505,0.0232608914375305,0,1
+post_9,post_9_0,1.0,3.0,"Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.
+
+**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/#wiki_science_verified_user_program).
+
+---
+
+User: u/FlipH19Switch  
+Permalink: https://onlinelibrary.wiley.com/doi/10.1111/acel.14202
+
+---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",0.0275338432594523,0.0100530982017517,0.4772383272647857,0.95639967918396,1,1
+post_11,post_11_0,0.0,0.0,"An innovative biodegradable paper that sticks to the brain’s surface like a Band-Aid and delivers electrical stimulation wirelessly could revolutionize the treatment of neurological diseases like Parkinson’s and Alzheimer’s, according to a new study.",0.031727565276806,0.6059571504592896,0.4997327625751495,0.9999462962150574,0,1
+post_11,post_11_0,1.0,3.0,"Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.
+
+**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/#wiki_science_verified_user_program).
+
+---
+
+User: u/chrisdh79  
+Permalink: https://newatlas.com/medical/bioelectric-paper-electric-stimulation-brain/
+
+---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",0.027405011360917,0.0088259577751159,0.4457737505435943,0.9430850744247437,1,1
+post_11,post_11_1,0.0,1.0,"From the article: Therapies that deliver electrical stimulation to the brain to treat neurodegenerative diseases like Parkinson’s and Alzheimer’s have been found to be effective. To deliver this deep brain stimulation (DBS), electrodes are implanted in areas of the brain through small holes drilled in the skull. A pacemaker-like device is also inserted under the skin of the chest to power the electrodes.
+
+Inserting electrodes into the brain has risks, one being that the leads carrying those electrodes can be misplaced, migrate, or break. Researchers from the Uhlan National Institute of Science and Technology (UNIST), South Korea, have developed a biodegradable, wirelessly activated ‘bio-paper’ implant that avoids these issues.
+
+“The developed material offers personalized treatment options tailored to individual needs and physical characteristics, simplifying treatment processes, enhancing flexibility, and versatility in electrical stimulation-based clinical applications,” said the [study’s](https://onlinelibrary.wiley.com/doi/10.1002/adma.202311154) lead author, Jun Kyu Choe, from UNIST’s Department of Materials Science and Engineering.",0.0251736656059117,0.5074766874313354,0.4997147619724273,0.9737196266651154,0,1
+post_12,post_12_0,0.0,0.0,"The global clean water crisis looms large: 55% of the global population currently lives in areas that experience a lack of clean water in at least one month per year. By the end of the century, this may be as high as 66%",0.0262744927684269,0.7753012776374817,0.4997430443763733,0.0248870253562927,0,1
+post_12,post_12_0,1.0,3.0,"Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.
+
+**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/#wiki_science_verified_user_program).
+
+---
+
+User: u/Wagamaga  
+Permalink: https://www.miragenews.com/global-clean-water-crisis-escalates-1241411/#:~:text=%22Climate%20change%20and%20socioeconomic%20developments,for%20evaluating%20future%20water%20scarcity.%22
+
+---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",0.0293348463670809,0.0143477916717529,0.4459875226020813,0.8024860620498657,1,1
+post_12,post_12_1,0.0,1.0,Get ready for the water wars era.,0.032689789530018,0.0048789381980896,0.4996097683906555,0.9934825897216796,0,1
+post_12,post_12_1_1,1.0,0.0,"The mention of all the water cleaning doesn't combat medications... ""Fish down river are over loaded with anti depressant etc..."" ah of course, no safe water was such an easy hidden goal huh.",0.0462148619933806,0.4830133318901062,0.4988127648830414,0.0003789663314819,0,1
+post_12,post_12_2,0.0,2.0,"Water scarcity will intensify with climate and socioeconomic change, disproportionately impacting populations located in the Global South. So concludes a new Utrecht University article published in Nature Climate Change on 23 May 2024, which used a state-of-the-art global water quantity and quality model to estimate clean water scarcity until the end of the century.
+
+Humans require clean water for drinking and sanitation purposes, but also for the production of food, energy and manufactured goods. As communities and policymakers grapple with water scarcity issues on the ground, researchers at Utrecht University aim to shed light on the escalating global clean water crisis.
+
+Current and future water scarcity
+Using simulations from a state-of-the-art water quantity and quality model, the authors assess present-day and future global water scarcity. ""Climate change and socioeconomic developments have multi-faceted impacts on the availability and quality of, and demands for, water resources in the future,"" says lead author Dr. Edward Jones. ""Changes in these three aspects are crucial for evaluating future water scarcity.""
+
+The study estimates that 55% of the global population currently lives in areas that experience a lack of clean water in at least one month per year. ""By the end of the century, this may be as high as 66%,"" remarks Jones.
+
+  
+[https://www.nature.com/articles/s41558-024-02007-0](https://www.nature.com/articles/s41558-024-02007-0)",0.0244030462683396,0.0573027729988098,0.4997350871562958,0.9335049986839294,0,1
+post_12,post_12_3,1.0,0.0,Why are they building new gated cities in California only for the rich again???,0.0410314937956192,0.032371699810028,0.497510552406311,0.0412244498729705,0,1
+post_12,post_12_4,0.0,1.0,"Every one of those countries has a high average humidity and dew point, as well as a lot of sunshine. 
+
+In those conditions, a dehumidifier can be run indefinitely, outdoors, powered by a self contained miniature solar-panel and battery setup, to scalabley produce ~infinite clean water.
+
+Still shocks me that there arent any charities simply buying and donating dehumidifiers, solar panels, and batteries to families in areas without reliable access to clean drinking water",0.0248456430988472,0.3475863933563232,0.4996178150177002,0.1905882656574249,0,1
+post_12,post_12_5,1.0,1.0,"Desalination is cheap, supposedly. This seems like a crisis that doesn’t need to be.",0.0410192706554175,0.1468477249145507,0.49977907538414,0.0002487301826477,0,1
+post_12,post_12_6,0.0,1.0,"Very selfish question : how will it impact us rich countries ? (Europe, NorthMerica)",0.0579065878220578,0.2006820440292358,0.4996707737445831,0.0032883882522583,0,1
+post_16,post_16_0,0.0,0.0,The first human trial of the drug LM11A-31 shows promising results for treating Alzheimer's disease in people with mild to moderate forms of the disease,0.0263276255914683,0.0700653791427612,0.4995194673538208,0.9045368134975432,0,1
+post_16,post_16_0,1.0,3.0,"Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.
+
+**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/#wiki_science_verified_user_program).
+
+---
+
+User: u/giuliomagnifico  
+Permalink: https://news.westernu.ca/2024/05/alzheimers-treatment/
+
+---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",0.0270409389262628,0.0085172653198242,0.4465474486351013,0.8995375037193298,1,1
+post_16,post_16_1,0.0,1.0,">Findings from a clinical trial, led by a team of researchers from Western University, Stanford University and University of California, San Francisco (UCSF), were recently published in Nature Medicine. The team evaluated a new drug for enhancing the brain’s resilience to changes driven by Alzheimer’s, showing promising results for patients with mild to moderate forms of the disease in its first human trial.
+>
+>The drug LM11A-31, developed by Stanford professor Dr. Frank Longo and UCSF professor Dr. Stephen Massa, targets the P75 neurotrophin receptor (P75NTR), located on cells in the brain. P75NTR helps regulate various processes like cell survival, growth and death – like a traffic controller, deciding which signals get through and which don’t. The drug enhances the passage of signals which promote cell survival and growth
+
+Paper: [p75 neurotrophin receptor modulation in mild to moderate Alzheimer disease: a randomized, placebo-controlled phase 2a trial | Nature Medicine](https://www.nature.com/articles/s41591-024-02977-w)",0.0271314753657527,0.0918843746185302,0.4995517432689667,0.9976004958152772,0,1
+post_16,post_16_2,0.0,1.0,"In unrelated news, Earth's first manned spacecraft ""Icarus"" lifts off the launchpad headed for Mars. Astronauts aboard the vessel are reporting all systems green and prepare to enter a state of suspended animation while they await their arrival to the red planet.",0.0244467242630412,0.8014709949493408,0.499582290649414,0.0002014935016632,0,1
+post_17,post_17_0,0.0,0.0,"People (N=366) who initially identified as cisgender but later identified as gender diverse as adults had higher rates of depression than cisgender folks. However, after taking into account the impact of homophobic & transphobic violence on depression scores, the statistical difference disappeared.",0.0476314508489999,0.1245591044425964,0.4997185170650482,0.0001896619796752,0,1
+post_17,post_17_0,1.0,3.0,"Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.
+
+**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/#wiki_science_verified_user_program).
+
+---
+
+User: u/MistWeaver80  
+Permalink: https://www.scimex.org/newsfeed/exploring-gender-identity-as-a-young-adult-is-not-directly-linked-to-greater-mental-health-risks
+
+---
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",0.0275785495759819,0.0081058144569396,0.491816371679306,0.7935086786746979,1,1
+post_17,post_17_1,9.0,1.0,"The title is a little misleading.
+
+The group that initially identified as cisgender but later identified as gender diverse only had 28 individuals out of the 366.  The 366 includes the 274 consistently cisgender individuals.
+
+In case you're wondering why the numbers don't math, the other two groups are consistently gender diverse (32) and initially gender diverse, but in the end identified as cisgender (32).",0.0282814503268792,0.543675422668457,0.4997528195381164,8.949637413024902e-05,0,1
+post_17,post_17_2,9.0,1.0,"This is a chicken and egg debate, and the paper did not explain very well HOW they “took into account the impact of [harassment]” aside from just saying that they did.",0.0295298117679728,0.4776392579078674,0.4997708797454834,0.0002175867557525,0,1
+post_17,post_17_3,0.0,1.0,Descriptive data cannot establish cause and effect -_-.,0.0253951637172876,0.9024879336357116,0.4997632503509521,0.000935286283493,0,1
+post_17,post_17_4,0.0,1.0,"The statistical significance disappeared, but the depression scores were still different. This is honestly really unsurprising. The sample size, as the other person mentioned, for the group that initially identified as cisgender and later identified as trans/gender diverse was low, so the difference in depression scores was on the edge of significance anyway (P=0.03), and getting above significance at 0.05 wouldn’t need that much change. The violence did account for a meaningful amount of the increased depression, but we do not have evidence to say the increased depression actually disappeared. Something being statistically insignificant does NOT imply that there actually is not a real difference. It just means the study couldn’t find one, which may be purely due to design.",0.0249571757548995,0.3251844644546509,0.4997655153274536,9.000301361083984e-06,0,1
+post_17,post_17_5,0.0,2.0,"Unless I'm reading this wrong, which I might be, they not only factored for ""cumulative violence"" but also ""hormone and puberty blocker use""
+
+> ""model 3 investigated whether the frequency of gender identity variability was associated with depressive symptoms in both BP and WP levels, while also accounting for hormone and puberty blocker use and cumulative exposure to LGBT violence""
+
+In other words, depressive symptoms could be the result of cumulative exposure to violence or the use (or lack thereof) of hormones, possibly leading to more body dysphoria. Cumulative violence was not isolated.
+
+Edit: formatting",0.029789199320186,0.0233891010284423,0.4997216165065765,0.0001665353775024,0,1
+post_17,post_17_6,0.0,1.0,Difficult to believe that it completely disappeared.  Surely they must have had someone with depressive tendencies in the group?,0.0305442550409425,0.3335098028182983,0.499718576669693,0.0002646744251251,0,1
+post_17,post_17_6_1,0.0,1.0,The difference between groups disappeared,0.0283412003356775,0.92829567193985,0.4997102618217468,0.0024462938308715,0,1
+post_17,post_17_6_2,1.0,0.0,Only difficult to believe if you have never been bullied for your identity.,0.0483440315474798,0.6155731678009033,0.499757707118988,0.1218505501747131,0,1

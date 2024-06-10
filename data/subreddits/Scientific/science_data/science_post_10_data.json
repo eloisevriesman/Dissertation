@@ -1,0 +1,61 @@
+{
+    "title": "People (N=366) who initially identified as cisgender but later identified as gender diverse as adults had higher rates of depression than cisgender folks. However, after taking into account the impact of homophobic & transphobic violence on depression scores, the statistical difference disappeared. ",
+    "comments": [
+        {
+            "depth": 0,
+            "author": "AutoModerator",
+            "body": "Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.\n\n**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/#wiki_science_verified_user_program).\n\n---\n\nUser: u/MistWeaver80  \nPermalink: https://www.scimex.org/newsfeed/exploring-gender-identity-as-a-young-adult-is-not-directly-linked-to-greater-mental-health-risks\n\n---\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Droidatopia",
+            "body": "The title is a little misleading.\n\nThe group that initially identified as cisgender but later identified as gender diverse only had 28 individuals out of the 366.  The 366 includes the 274 consistently cisgender individuals.\n\nIn case you're wondering why the numbers don't math, the other two groups are consistently gender diverse (32) and initially gender diverse, but in the end identified as cisgender (32).",
+            "score": 23
+        },
+        {
+            "depth": 0,
+            "author": "nitko87",
+            "body": "This is a chicken and egg debate, and the paper did not explain very well HOW they \u201ctook into account the impact of [harassment]\u201d aside from just saying that they did.",
+            "score": 9
+        },
+        {
+            "depth": 0,
+            "author": "MaliKaia",
+            "body": "Descriptive data cannot establish cause and effect -_-.",
+            "score": 8
+        },
+        {
+            "depth": 0,
+            "author": "lonepotatochip",
+            "body": "The statistical significance disappeared, but the depression scores were still different. This is honestly really unsurprising. The sample size, as the other person mentioned, for the group that initially identified as cisgender and later identified as trans/gender diverse was low, so the difference in depression scores was on the edge of significance anyway (P=0.03), and getting above significance at 0.05 wouldn\u2019t need that much change. The violence did account for a meaningful amount of the increased depression, but we do not have evidence to say the increased depression actually disappeared. Something being statistically insignificant does NOT imply that there actually is not a real difference. It just means the study couldn\u2019t find one, which may be purely due to design.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "theselv",
+            "body": "Unless I'm reading this wrong, which I might be, they not only factored for \"cumulative violence\" but also \"hormone and puberty blocker use\"\n\n> \"model 3 investigated whether the frequency of gender identity variability was associated with depressive symptoms in both BP and WP levels, while also accounting for hormone and puberty blocker use and cumulative exposure to LGBT violence\"\n\nIn other words, depressive symptoms could be the result of cumulative exposure to violence or the use (or lack thereof) of hormones, possibly leading to more body dysphoria. Cumulative violence was not isolated.\n\nEdit: formatting",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "MINKIN2",
+            "body": "Difficult to believe that it completely disappeared.  Surely they must have had someone with depressive tendencies in the group?",
+            "score": -8,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "supamario132",
+                    "body": "The difference between groups disappeared",
+                    "score": 21
+                },
+                {
+                    "depth": 1,
+                    "author": "clandestinely_asked",
+                    "body": "Only difficult to believe if you have never been bullied for your identity.",
+                    "score": 4
+                }
+            ]
+        }
+    ]
+}

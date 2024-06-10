@@ -1,0 +1,41 @@
+{
+    "title": "Why Are Wind Turbines Being Switched Off? - Power Transmission is Just as Important as Generation",
+    "comments": [
+        {
+            "depth": 0,
+            "author": "BaronOfTheVoid",
+            "body": "I absolutely fucking hate if someone tries to get a point across that is quantifiable, about money and then fails to put up actual numbers. Look at a sentence like this:\n\n> In 2022, it was reported that Brits paid millions to switch off wind turbines\n\n**How many millions!?**\n\nAlso \"millions\" is just a \"whoa this sounds big!\" but considering that there live \"millions\" of people in GB you are at what order of magnitude? Right, 1 pound per person per year. Maybe as low as a tenth or as high as 10 times that. _Depending on how many millions._\n\nArguing the grid needs to be expanded **requires** a cost analysis. Perhaps expanding the grid is more expensive than shutting down a few wind turbines? Perhaps we can find a nice formula or even an easy rule of thumb to determine a threshold for policymakers and utilities. Of course the cost analysis would have to take into account the value of each kWh curtailed at the time it is curtailed. Obviously the price of electricity is not constant.\n\nBut not arguing _with numbers_ just makes the entire point moot. That the only number besides the year 2022 in this article is a phone number at the end, making it look like an ad, leaves a very sour aftertaste.",
+            "score": 0,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Zephir_AR",
+                    "body": "The principial problem is, wind/solar electricity increases electricity prices, so it must be subsidized with carbon energetics. [Just the cost of supporting offshore turbines is higher than value of electricity](https://www.theguardian.com/environment/2019/sep/20/new-windfarms-taxpayers-subsidies-record-low), which they produce: which is quite bizarre economy. And we still are talking just about OPEX, i.e. operating expenses.",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "BaronOfTheVoid",
+                            "body": "I don't think you understand what the article has been saying at all - it says capex and opex of new offshore wind is now cheaper than just the opex of existing electricity generation - neither has this any relevance to my original criticism.\n\nBeyond that, the increase in renewables in the German power grid gas demonstrably lowered the average wholesale electricity price between roughly 2010 and about a year before the Ukraine war began (Gazprom already reduced gas shipments in \"anticipation\" of the war).",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Zephir_AR",
+            "body": "[Why Are Wind Turbines Being Switched Off? - Power Transmission is Just as Important as Generation](https://www.altenergymag.com/article/2023/09/why-are-wind-turbines-being-switched-off-power-transmission-is-just-as-important-as-generation/40170)\n\nThis doesn't solve the problem, that wind plants generate electricity just in time where it's least needed. Power grid has no electricity storage effect. Stronger power lines just means that more concrete, copper and pillars gets wasted over long periods of wind droughts.\n\n* [European Wind Turbines at a Standstill Amid an Ongoing \u201cWind Drought\u201d](https://www.greenmatters.com/news/wind-drought) *While gas prices have soared to the energy crisis, wind turbines across Europe are at a standstill thanks to an ongoing \"wind drought.\"*\n* [Situation on Polish-German border poses threat of European blackout](https://wysokienapiecie.pl/en/1295-situation-on-polish-german-border-poses-threat-of-european-blackout/) The problem isn't lack of energy but occasional surplus of electricity from wind and solar plants from Germany.",
+            "score": -1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "TheHairlessBear",
+                    "body": "As an electrical engineer, my solution would be to implement variable pricing when charging electric cars to encourage people to only charge when the electricity is plentiful, which would solve alot of our problems all at once.",
+                    "score": 2
+                }
+            ]
+        }
+    ]
+}

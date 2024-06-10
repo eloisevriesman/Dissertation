@@ -1,0 +1,864 @@
+PostID,CommentID,Combative,Deliberative,Text,Toxicity,Rationality,Mutual Respect,Emotion,Moderator,Diversity
+post_1,post_1_0,0.0,0,Where is the Wagner Group today? What role do they play in the Ukrainian war if any post-Prigozhin?,0.0318794558603563,0.7764918208122253,0.9960533380508424,0.1966195106506347,0,1
+post_1,post_1_0,0.0,6,"**/r/NeutralPolitics is a curated space.** 
+
+In order not to get your comment removed, please familiarize yourself with our [rules on commenting](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules) before you participate:
+
+1. Be courteous to other users.
+1. Source your facts.
+1. Be substantive.
+1. Address the arguments, not the person.
+
+If you see a comment that violates any of these essential rules, click the associated *report* link so mods can attend to it.
+
+However, please note that the mods will not remove comments reported for lack of neutrality or poor sources. There is [no neutrality requirement for comments](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_neutral-ness) in this subreddit — it's only the *space* that's neutral — and a poor source should be countered with evidence from a better one.
+
+----
+
+*Note: By the submitter's request, the pre-approval interaction with the moderator is being left in the comments for public viewing.*",0.0280762672422696,0.0108602046966552,0.7741649746894836,0.0001981556415557,1,1
+post_1,post_1_1,0.0,3,"I'm going to limit my comments to Wagner *in Ukraine*. [Here's a link to an article on Wagner in Africa post-Prigozhin.](https://www.bloomberg.com/news/articles/2024-01-30/russia-recruiting-africa-army-to-replace-wagner-group?srnd=politics-vp) This may already be a rambling comment; it's a rambling, sprawling topic. I also don't deserve to be the spokesperson on this topic ... but everything else got deleted and I think I can do well enough.
+
+In Ukraine, [Wagner was officially disbanded.](https://time.com/6290536/russia-wagner-group-disbanded-ukraine/) Members were given the choice of voluntarily moving to other units or move to Belaruse, which was ultimately the same choice but more circuitous. When Wagner were integrated into the Russian army, every assault-capable Russian force was ground down and portions of Wagner had just engaged in history's weirdest mutiny. There were various reasons Wagner was broken apart. So Wagner soldiers ended up all over. Many joined similar groups and there are example of veteran status being leveraged – placement also wasn't purely random. For example, the 'Kamerton' unit of the 'Akhmat Special Forces' somewhat recently fought around the flanks of Bakhmut and is reportedly mostly ex-Wagner. In Avdiivka, the 115th Special Brigade of the Rosgvardia was active, which included many former Wagnerites. There are examples of Wagner veterans of Bakhmut assault squads being given non-Wagner assault squad leadership like was seen in attacks around the Sand Quarry in Avdiivka. Other times, it's totally piecemeal. The Russian military obviously doesn't post its composition publicly, so this is sourced from Telegram channels. Take it with a grain of salt and know it's an anecdotal look at where these soldiers went post-Wagner ... and through a very opaque outside vantage.
+
+So anyway, no more Wagner. But I think it's worth asking what about Wagner remains beyond the individuals scattered throughout the Russian armed forces. I would lump that response into three parts: 1) PMCs, 2) Wagner's recruiting methodologies, 3) The Wagner assault model as seen in Bakhmut, etc..
+
+So, PMCs. Wagner was different from other PMCs – it may not be helpful to ask if there are other Wagners out there. Three things happened to make them special. 1) The Russian army failed to break through Ukrainian lines in the Donbas, 2) [Wagner succeeded in Popasna with a paltry 2,000 soldiers in May, 2022,](https://www.newyorker.com/magazine/2023/08/07/inside-the-wagner-uprising) and 3) Prigozhnin leveraged that success into a ""pitch"" of sorts: give me disposable people from prisons and I will repeat Popasna elsewhere. So Wagner was enlarged in Summer, 2022. [By June, 2022, Prigozhin was claiming 25,000 soldiers.](https://www.bbc.co.uk/news/world-europe-66005256) This was Prigozhin's bid to control a private army that could serve as the 'assault engine' of the Russian armed forces, creating breakthroughs and meeting strategic goals while regular Russian forces essentially held ground. This size, role, support were completely unique and not representative of Russian PMCs. The concept was then [tested at Bakhmut](https://www.aljazeera.com/news/2023/5/25/wagner-chief-says-20000-of-its-troops-killed-in-bakhmut-battle) and resulted in the infamous kerfuffle of underperformance and MoD rivalries. Afterwards, there was a reshuffling of how PMCs relate to the invasion of Ukraine. They do exist after Prigozhin's death. For example, [a former Wagner commander founded a PMC named ""Convoy"".](https://meduza.io/en/feature/2023/03/26/armed-to-the-teeth) Gazprom (yeah, *that* Gazprom) has a PMC that's, on paper, supposed to defend gas interests, but now has a unit in Ukraine. But these units are relatively small and always subservient to the MoD. First, soldiers [now sign contracts with both the PMC and the MoD.](https://www.reuters.com/world/europe/putin-backs-push-mercenary-groups-sign-contracts-despite-wagners-refusal-2023-06-13/) Secondly, equipment and supplies are used as leverage over the groups. Finally, they are structured inside of larger Russian formations with limited autonomy. Redut Galaxy is a PMC living under the 1st Division in a recon role. Interestingly, they have responsibilities around recruitment at a higher level than they operate militarily – so much so that [RFE has called them a ""fake PMC"".](https://www.rferl.org/a/russia-ukraine-redut-fake-pmc/32651874.html) So we won't be seeing another Wagner in Ukraine, but Russia still sees value in PMCs: not only can it farm out recruitment, but PMC deaths are not counted, and their participation gives combat experience to PMCs that may have a role abroad, etc.. But for now, in Ukraine, PMCs are being tucked neatly under the MoD.
+
+The Wagner recruitment model is clearly losing steam, though. Although Wagner advertised all over (on [Pornhub](https://www.rferl.org/a/russia-pornhub-wagner-recruiting-ukraine-war/32321052.html) in [schools,](https://www.vox.com/world-politics/2023/3/21/23622615/ukraine-war-bakhmut-wagner-group-russia) bilboards, etc.) the bulk of Wagner at its height and for its main purpose [came from prisons.](https://www.bbc.com/news/world-europe-62911618) The low hanging fruit on that tree has obviously been picked – Russia isn't creating enough criminals who would like to go to Ukraine to keep pace with need, even though [the practice continues with the Russian army.](https://www.bbc.com/news/world-europe-67175566)
+
+The type of assault that Russia is leaning into (see: Avdiivka vs. Vuhledar) was popularized at Bakhmut. Russia is only able to effectively take land without catastrophic loss (in the immediate sense – there's discussion to be had about dwindling stockpiles of refurbishable equipment) is based on small group infantry ""reconnaissance in force"" assaults, with tanks, IFVs, etc. used for support rather than the traditional massed breaching role. Russia opens a single focused area of battle at a salient (e.g. Bakhmut, Avdiivka, now likely Robotyne) and it is hammered with indirect fire (now including glide bombs) while Russian infantry die in droves to eventually create a strategically-marginal, usually symbolic victory. Assuming the point is greater than symbolism, I would suggest that the hope is to create an unsustainable long-term situation for Ukraine's defenders, and/or create propaganda points for internal consumption (upcoming Russian ""election"") and external propaganda (wear down Ukrainian support). By all accounts, [Russia has no path to victory in the immediate future without Ukraine's foreign backing falling to pieces.](https://www.wsj.com/world/ukraines-military-spy-chief-says-russia-will-struggle-to-keep-up-the-fight-c6a5b2c5) But Russia is hammering on Ukraine's [manpower weaknesses,](https://www.cnn.com/2024/02/21/europe/ukraine-tough-choices-mobilization-intl-cmd/index.html) and ongoing ammunition shortages.
+
+So, Wagner is gone but lives on in some ways.",0.0268673220398427,0.3473260402679443,0.9995903372764589,2.002716064453125e-05,0,1
+post_1,post_1_2,0.0,2,"Hi there /u/TurtleBlaster5678. I'm a mod in /r/NeutralPolitics.
+
+This is an interesting topic, but the post itself would need some editing to comply with our [submission rules.](http://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_submission_rules) Let me know if you'd be interested in doing that and I can make some suggestions.
+
+----
+
+*Note: Interactions with the moderator(s) will be removed prior to the post being approved, unless you request they be made public. Submissions that remain insufficiently modified after 24 hours may be removed or resubmitted by a moderator in an edited form.*",0.0239352103065319,0.0493229627609252,0.9727175235748292,0.0006200075149536,1,0
+post_1,post_1_2_1,0.0,1,"Hi u/nosecohn of course! Happy to edit. 
+
+What can I do to help?",0.0248100179760611,0.2797185182571411,0.9959948062896729,0.9997815191745758,0,1
+post_1,post_1_2_1_1,0.0,3,"Great! Let's go through it...
+
+> Yevgeny Prigozhin was assassinated by Vladimir Putin
+
+The linked article doesn't support this claim. In fact, it says:
+
+> The Kremlin has denied it was behind the crash, rejecting widespread speculation that the it was a revenge assassination for Prigozhin’s short-lived mutiny in late June
+
+So, you could find another source to support the widespread supposition that it was an assassination, or you could just leave out that part of the claim, since it's not entirely relevant to your question. It's your choice. [EDIT: There's a reference to assassination later in the submission that needs similar attention.]
+
+> Since then, very little has been heard about of the Wagner Group in terms of their ongoing involvement in the Ukrainian-Russian war.
+
+It's difficult to say what has or hasn't been heard by people, especially in a global forum where claims require evidence. I suggest eliminating this.
+
+The other premise about Africa is good, as are all the questions except the last one:
+
+> Do they still exist at all?
+
+This can be easily answered with a web search, so you can eliminate it.
+
+With those three changes, you'll be good to go. Just reply here if you have any questions.",0.0275977937680764,0.0331359505653381,0.7646718621253967,0.82992222905159,1,0
+post_1,post_1_2_1_1_1,0.0,3,"If the threshold for proof that Prigpzhin was assassinated is the Kremlin admitting to it, then it’s impossible to make that claim.
+
+Therefore, here’s how I’ve edited it, let me know what you think:
+
+* I have adjusted any mentions of assassinations to just “mysterious circumstances”
+* I have removed the line about there being very little mention
+* I have removed the final question about whether they exist at all
+
+Is that sufficient or are there any other changes you suggest?
+
+If so, I’d like to also request we keep this thread when the post gets posted, per the rules. I believe there’s value in a potential community conversation around what sufficient evidence looks like re, the first point as there are situations where pure 100% proof relies on political actors acting strongly against their self-interest.",0.0248838910287552,0.0327827930450439,0.6618788838386536,0.0064248442649841,0,0
+post_1,post_1_2_1_1_1_1,1.0,2,"Yes, that's great. Thank you for those edits.
+
+> If the threshold for proof that Prigpzhin was assassinated is the Kremlin admitting to it, then it’s impossible to make that claim.
+
+> there are situations where pure 100% proof relies on political actors acting strongly against their self-interest.
+
+Please note that nowhere above did I request ""proof,"" 100% or otherwise, that ""Prigozhin was assassinated by Vladimir Putin."" I only asked that if you were going to leave the claim in, you provide a ""source to support the widespread supposition"" of such, because the included source did not. Something like either of these would have been adequate:
+
+* [Prigozhin’s Plane Was Targeted By Russia’s Intelligence Agency, Report Says](https://www.forbes.com/sites/siladityaray/2023/08/24/prigozhins-plane-was-targeted-by-russias-intelligence-agency-report-says/?sh=506ea1d6c49f)
+* [How Wagner chief Yevgeny Prigozhin’s death was ‘orchestrated by Putin’s oldest ally’](https://www.independent.co.uk/news/world/europe/russia-ukraine-prigozhin-putin-wagner-b2469030.html)
+
+Anyway, the submission now complies with our rules and I'm happy to approve it. Please confirm that you still want  to include this full exchange.",0.0242028517801551,0.0187870860099792,0.997495710849762,0.0268825888633728,1,0
+post_1,post_1_2_1_1_1_1_1,0.0,1,"Perfect. Let’s keep the exchange up. 
+
+Thanks for walking me through the edits!",0.0244777623293282,0.0966284275054931,0.6001955270767212,0.9998596608638765,0,0
+post_1,post_1_3,0.0,0,[deleted],0.0260687223098937,0.833021879196167,0.9979165196418762,0.0003655850887298,0,1
+post_1,post_1_3_1,0.0,1,"Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",0.0243562825257419,0.1109542846679687,0.4889074265956878,0.0006795227527618,0,1
+post_1,post_1_4,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_1,post_1_4_1,0.0,1,"Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",0.0243562825257419,0.1109542846679687,0.4889074265956878,0.0006795227527618,0,0
+post_1,post_1_5,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_1,post_1_5_1,0.0,1,"This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):
+
+> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no ""common knowledge"" exception, and anecdotal evidence is not allowed.
+
+After you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1aq20tl/-/kqfu9aw/) so that we can reinstate it.
+
+
+
+If you have any questions or concerns, please feel free to message us.",0.0248743301722543,0.4509326815605163,0.9991625547409058,0.0001371204853057,1,0
+post_1,post_1_6,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_1,post_1_6_1,0.0,1,"This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):
+
+> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no ""common knowledge"" exception, and anecdotal evidence is not allowed.
+
+After you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1aq20tl/-/kqgn6sm/) so that we can reinstate it.
+
+
+
+If you have any questions or concerns, please feel free to message us.",0.0247786537824973,0.4509326815605163,0.9991625547409058,0.0001425445079803,1,0
+post_1,post_1_7,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_1,post_1_7_1,0.0,1,"Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",0.0243562825257419,0.1109542846679687,0.4889074265956878,0.0006795227527618,0,0
+post_2,post_2_0,0.0,0,News articles say that life in Canada has become unaffordable. Are these issues attributable to the Trudeau administration?,0.0250541324464784,0.4675033688545227,0.9904823303222656,0.053303986787796,0,1
+post_2,post_2_0,0.0,6,"**/r/NeutralPolitics is a curated space.** 
+
+In order not to get your comment removed, please familiarize yourself with our [rules on commenting](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules) before you participate:
+
+1. Be courteous to other users.
+1. Source your facts.
+1. Be substantive.
+1. Address the arguments, not the person.
+
+If you see a comment that violates any of these essential rules, click the associated *report* link so mods can attend to it.
+
+However, please note that the mods will not remove comments reported for lack of neutrality or poor sources. There is [no neutrality requirement for comments](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_neutral-ness) in this subreddit — it's only the *space* that's neutral — and a poor source should be countered with evidence from a better one.",0.0282910253098786,0.0135523080825805,0.5933240056037903,0.0001628994941711,1,1
+post_2,post_2_1,1.0,2,"No. Macroeconomic policies take decades to produce change. 
+
+[""The division into various time frames of macroeconomic research leads to a parallel division of macroeconomic policies into short-run policies aimed at mitigating the harmful consequences of business cycles (known as stabilization policy) and medium- and long-run policies targeted at improving the structural levels of macroeconomic variables.""](https://en.m.wikipedia.org/wiki/Macroeconomics)
+
+This article defines medium and long time frames as singular decade to multiple decades. Policies aimed at short time frames can only stabilize the already existent business cycles. They cannot produce large-scale macroeconomic changes.
+
+The issues you list are caused by the last 50 years of macroeconomic policy",0.0250534331306871,0.3718056082725525,0.9976052045822144,0.0172324776649475,0,1
+post_2,post_2_1_1,0.0,1,"Also of note is canada isn't in a vacuum, alot of countries are having the exact same issue especially around major cities. And guess what, most of Canada's population is based around each province's major citys.",0.0247526131896146,0.2675692439079284,0.9989774227142334,0.9235642552375792,0,1
+post_2,post_2_2,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,1
+post_2,post_2_2_1,0.0,1,"This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):
+
+> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no ""common knowledge"" exception, and anecdotal evidence is not allowed.
+
+After you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1cwuyiv/-/l50971w/) so that we can reinstate it.
+
+
+
+If you have any questions or concerns, please feel free to message us.",0.0248867844143044,0.4509326815605163,0.9991625547409058,0.0001380741596221,1,1
+post_2,post_2_3,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_2,post_2_3_1,0.0,1,"This comment has been removed for violating [//comment rule 3:](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules)
+
+> Be substantive. NeutralPolitics is a serious discussion-based subreddit. We do not allow bare expressions of opinion, low effort one-liner comments, jokes, memes, off topic replies, or pejorative name calling.
+
+
+
+
+If you have any questions or concerns, please feel free to message us.",0.0270868542011046,0.0768269896507263,0.9994327425956726,5.936622619628906e-05,1,1
+post_2,post_2_3_2,0.0,1,"Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",0.0243562825257419,0.1109542846679687,0.4889074265956878,0.0006795227527618,0,1
+post_2,post_2_4,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_2,post_2_4_1,0.0,1,"This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):
+
+> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no ""common knowledge"" exception, and anecdotal evidence is not allowed.
+
+After you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1cwuyiv/-/l54b00p/) so that we can reinstate it.
+
+
+
+If you have any questions or concerns, please feel free to message us.",0.0248183899207034,0.4509326815605163,0.9991625547409058,0.0001404583454132,1,0
+post_2,post_2_5,1.0,2,"For one the US's GDP per capita has grown more than Canada's by a spread, so the assertion made in the OP's post is wrong off the get go.....
+
+Hobbling our LNG export capacity has placed downward pressure on the dollar which is inflationary.  Plus all the revenue forfeited could have gone a long way in paying for all the current spending!
+
+[https://www.fraserinstitute.org/article/federal-government-continues-to-reject-golden-opportunities-to-export-lng](https://www.fraserinstitute.org/article/federal-government-continues-to-reject-golden-opportunities-to-export-lng)
+
+RECORD deficit spending on entitlements is inflationary.
+
+[https://thehub.ca/2024-02-03/jake-fuss-the-trudeau-governments-terrible-economic-record-cant-be-brushed-aside/](https://thehub.ca/2024-02-03/jake-fuss-the-trudeau-governments-terrible-economic-record-cant-be-brushed-aside/)
+
+Punitive  tax policy on small to medium sized businesses which are responsible for 90% of Canada's GDP.
+
+[https://www.cfib-fcei.ca/en/media/small-businesses-oppose-capital-gains-changes-unless-critical-amendments-are-made](https://www.cfib-fcei.ca/en/media/small-businesses-oppose-capital-gains-changes-unless-critical-amendments-are-made)
+
+Punitive tax policy on investors..... companies need money to grow and operate!!!  No wonder the net domestic/foreign investment has decreased since 2015!
+
+[https://www.theglobeandmail.com/business/article-budget-capital-gains-innovation/](https://www.theglobeandmail.com/business/article-budget-capital-gains-innovation/)
+
+[https://www.cbre.ca/insights/articles/how-canadas-capital-gains-tax-hike-could-impact-real-estate-investment](https://www.cbre.ca/insights/articles/how-canadas-capital-gains-tax-hike-could-impact-real-estate-investment)
+
+How about that punitive taxed co2 tax scam that has managed to wreak financial hardship across this country yet only reduced our emissions by 2% in 6+ years!   What a ROI!
+
+[https://ourworldindata.org/co2/country/canada](https://ourworldindata.org/co2/country/canada)
+
+Yep.... things are not great globally, but they sure could be a lot better in Canada if it were not for the trudeau and his ship of fools screwing up everything they touch!
+
+The trudeau has to go!",0.0574438368553168,0.4067619442939758,0.999790370464325,0.000234305858612,0,1
+post_2,post_2_5_1,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_2,post_2_5_1_1,0.0,1,"This comment has been removed for violating [//comment rule 1:](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules)
+
+>Be courteous to other users.  Name calling, sarcasm, demeaning language, or otherwise being rude or hostile to another user will get your comment removed.
+
+
+
+
+If you have any questions or concerns, please feel free to message us.",0.0271070863100505,0.0140116810798645,0.9994003772735596,0.0001353919506072,1,0
+post_2,post_2_6,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_2,post_2_6_1,0.0,1,"This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):
+
+> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no ""common knowledge"" exception, and anecdotal evidence is not allowed.
+
+After you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1cwuyiv/-/l4z5tn5/) so that we can reinstate it.
+
+
+
+If you have any questions or concerns, please feel free to message us.",0.0249301810907593,0.4509326815605163,0.9991625547409058,0.0001366436481475,1,0
+post_3,post_3_0,0.0,1,How does a House makeup of 217 to 213 Equal a One-Vote Majority for Republicans?,0.0406674969177421,0.622795581817627,0.8398265242576599,0.0127657949924469,0,1
+post_3,post_3_0,0.0,6,"**/r/NeutralPolitics is a curated space.** 
+
+In order not to get your comment removed, please familiarize yourself with our [rules on commenting](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules) before you participate:
+
+1. Be courteous to other users.
+1. Source your facts.
+1. Be substantive.
+1. Address the arguments, not the person.
+
+If you see a comment that violates any of these essential rules, click the associated *report* link so mods can attend to it.
+
+However, please note that the mods will not remove comments reported for lack of neutrality or poor sources. There is [no neutrality requirement for comments](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_neutral-ness) in this subreddit — it's only the *space* that's neutral — and a poor source should be countered with evidence from a better one.",0.0282910253098786,0.0135523080825805,0.5933240056037903,0.0001628994941711,1,1
+post_3,post_3_1,0.0,1,Because with a 217(R)/213(D) split there will be 430 voting members of the House. To have a majority of the vote you will need 216 votes. So the R's will have a one vote majority.,0.0279548844806694,0.0411096215248107,0.9961413741111756,0.0474524796009063,0,1
+post_3,post_3_1_1,0.0,1,Should be thought of as “majority + 1”,0.0286821169208078,0.893098771572113,0.9960362315177916,0.8378190994262695,0,1
+post_3,post_3_1_1_1,0.0,1,"Yes! If one seat flips, it would be 216/214 and the Republicans would still have a majority. Would you call this a “zero vote” majority?",0.0582005720250694,0.6129463315010071,0.9548932313919068,0.7748989462852478,0,1
+post_3,post_3_1_1_1_1,1.0,0,"Yes?
+
+They can lose zero votes to maintain majority.",0.0413204894624643,0.6575088500976562,0.9985365867614746,0.8275134265422821,0,1
+post_3,post_3_1_1_1_1_1,1.0,0,"That’s still an odd, unintuitive way to phrase it",0.0266936607791806,0.2092019915580749,0.9932290315628052,0.0003610551357269,0,0
+post_3,post_3_1_1_1_1_1_1,0.0,1,"Yeah, it's a term that staffers on the hill used that got out but wasn't intended for the general public.",0.0282194462438935,0.0048131346702575,0.998651087284088,0.0001110136508941,0,1
+post_3,post_3_1_1_1_1_1_2,0.0,1,Senate Dems between Jan 2021 and the Georgia run-off——50-50 but majority b/c of VP Harris’ tiebreaker,0.030464561186692,0.611412763595581,0.997312307357788,0.2482474744319915,0,1
+post_3,post_3_1_1_2,0.0,1,"Should be thought of as a one vote majority.
+
+As in they can lose one vote from their block and still have a majority.",0.0376137893915591,0.8651103377342224,0.9981359243392944,0.1036270558834075,0,0
+post_3,post_3_1_2,0.0,1,"At 217-213, it takes FOUR Republicans to abstain (213-213) or TWO Republicans to flip (215-215) for a measure to fail. ABC is using the latter scenario when they say Republicans can afford to lose up to one vote (via flip) and still force any bill through.",0.0358650996198336,0.6604344248771667,0.9365671277046204,0.0037625133991241,0,1
+post_3,post_3_1_3,0.0,1,This is the best answer,0.0259059436379357,0.7875535488128662,0.9971674084663392,0.9960838258266448,0,1
+post_3,post_3_2,0.0,1,"If one seat flips it becomes 216-214, still a majority.
+
+If two seats flip it becomes 215-215, no longer a majority.  Though a vote along party lines would be tied ~~and settled by the speaker.~~
+
+It's a very specific scenario where all representatives are present to vote and no one abstains, ~~and ignores the role of the speaker.~~",0.025573400436129,0.5730409622192383,0.9962353110313416,0.0001219809055328,0,1
+post_3,post_3_2_1,0.0,2,"Okay, that makes sense, but feels like strange phrasing. The article phrased it as the one-vote majority existing at the point after Gallagher leaves with the majority of 217. Which seems like a 4 vote advantage to me.   
+
+
+Axios says the same and explains that when this 217 number becomes official, Republicans will only be able to lose one vote for anything they want to pass. But they still have 4 more seats than the Dems at 217. This is what confuses me.  
+https://www.axios.com/2024/03/22/house-republicans-mike-gallagher-resign",0.0257024914872151,0.0964741110801696,0.9992142915725708,5.841255187988281e-06,0,1
+post_3,post_3_2_1_1,0.0,1,"You're right that the phrasing is confusing.
+
+On the ""4 more seats"" question, the assumption is that we're counting hypothetical defections, not abstentions or absences, so each Republican who switches their vote to side with the Democrats represents a two-vote swing: one less R and one more D.",0.0307627433651628,0.3530232906341553,0.8393011689186096,0.0004070699214935,1,0
+post_3,post_3_2_1_1_1,0.0,1,"Yes. It makes sense if you're talking about future PARTY defections to the other side where they officially become members. But the way Axious and several others I've read phrase it is that the 217/213 ratio makes it so R's can only afford to lose one vote on any bill they want to pass or it will fail...
+
+""Republicans will be able to afford just one defection on any party-line vote when Gallagher leaves — any more would cause a bill to fail.""
+
+So the math I'm doing in my head says that the bill would fail with a vote of 216 to 214.
+
+EDIT: Never mind. I get it now. It passes if they have one defection. Any more than one and it fails.",0.031565568566463,0.27100670337677,0.999761164188385,6.401538848876953e-05,0,0
+post_3,post_3_2_1_1_1_1,1.0,0,"They can *afford to* lose one vote, or in more verbose terms, a single vote switching sides still leaves them with a majority, so they can lose that vote without any negative consequences (from their perspective, of course).
+
+They ***cannot*** *afford to* lose two (or more) votes, since that would end in a 50/50 split.",0.0831340475061464,0.7727795243263245,0.9211034774780272,0.0044806897640228,0,1
+post_3,post_3_2_1_1_1_2,1.0,0,"You know they do not have to leave the party to vote against a party bill right?  Like, you can be a republican and vote against a republican measure and still be a republican.  The one vote means that if Republicans bring forth something to vote on, if 1 republican and all dems vote against it, but every other republican voted for it, it will still pass.  If 2 R vote against it and all Dems do, it fails because it is a tie.  This is why the speaker is such an influential person.  If they know a few people in their party are going to vote against their party's measure, they just do not bring it to a vote.",0.0308974673019996,0.6397061347961426,0.6647472381591797,0.0729303956031799,0,1
+post_3,post_3_2_1_1_1_2_1,1.0,0,"> Like, you can be a republican and vote against a republican measure and still be a republican
+
+I mean, that used to be the case. Nowadays if you don't follow along with whatever they say you're likely to get bounced. Just look at what happens to Republicans who don't follow along with the ""wE cAn PrOvE tHe ElEcTiOn Is RiGgEd BuT mY dOg AtE tHe EvIdEnCe"" dumbassery.",0.65297784653366,0.5305508971214294,0.9998027682304382,3.504753112792969e-05,0,1
+post_3,post_3_2_1_1_1_3,0.0,1,"Right. You got it on the edit.
+
+The way the media is phrasing it makes it sound more dramatic.",0.0246648024235668,0.00800222158432,0.775231659412384,0.9183747470378876,1,0
+post_3,post_3_2_1_1_1_4,0.0,1,"Better phrasing would probably be to say that Republicans have one vote of leeway or a one-vote margin-of-error. Basically, they can afford to have only one vote from their majority go against them and their item would still pass. I agree with you that it is confusing the way it is phrased.",0.032134826819034,0.009377896785736,0.9971219897270204,0.0005052983760833,0,1
+post_3,post_3_2_1_1_1_5,0.0,1,">  So the math I'm doing in my head says that the bill would fail with a vote of 216 to 214. 
+
+
+ Party line is 217 to 213 
+
+
+ One defection is 216 to 214 
+
+
+ Two defections is 215 to 2015.
+
+
+ ""Defection"" implies that the member disagrees with the party and votes the other way.
+
+
+You might be confused because you are thinking of the republicans voting against something. But since they have the speakership, basically the only bills that will get a vote are ones they are hoping to pass.
+
+
+So the articles are treating it as 216 to 214 is to attempt to pass a bill and 215 to 215 fails to pass that bill.",0.0343614598315452,0.4553924798965454,0.9183223247528076,4.9591064453125e-05,0,1
+post_3,post_3_2_1_2,0.0,1,"Functionally, it doesn't matter once you start walking through the actual mechanics of a vote.
+
+* Almost all bills are won by simple majority. Winning by 1 vote, 4 votes, or 40 votes are all mechanically the same (though arguably subjectively different in terms of optics/spin).
+* The GOP controls the majority, and therefore the speakership. The speaker sets the agenda and decides what bills to bring to the floor for a vote.
+* Aside from a couple niche exceptions, that means the GOP has the power to only vote on bills it wants to pass — it's pretty rare to see a majority put up a bill they *don't* want to pass, unless they are absolutely sure it will fail anyway.
+
+They only need to win by 1, so the relevant question isn't ""how many more votes do they have in absolute terms?"" It is: ""how close are they to *not* being able to win by 1 anymore?"" 
+
+A single flip from yes to no actually shifts the tally by 2, since you're subtracting from one side and adding to the other. So a 4-seat majority actually results in a tie if just 2 republicans vote no. Leaving 1 vote as the only thing they can afford to lose and still mathematically be able to win by at least 1.",0.0412910557214347,0.0211055278778076,0.965696096420288,0.9721845090389252,0,1
+post_3,post_3_2_1_2_1,0.0,1,"My big question stemming from all this is how it would affect a motion to vacate. Is my thinking correct that if it comes up for a vote and just five Republicans abstain or vote for someone other than Johnson, Hakeem Jeffries could theoretically end up as Speaker?",0.0262236929100011,0.0540626049041748,0.7518308162689209,0.004937469959259,1,0
+post_3,post_3_2_1_3,0.0,1,"There are 430 voting members of the House.  The majority in voting isn't dependent on Party.  If a simple majority is required to pass a bill, that means one more vote than 215, regardless of party affiliations.",0.0255281855361215,0.7412604093551636,0.9986044764518738,0.1899357140064239,0,1
+post_3,post_3_2_2,0.0,1,"There’s no tiebreakers in the house. Speaker gets a vote same as anyone else, and if it ties the measure fails.",0.0299543670949961,0.3397474288940429,0.9968695044517516,0.0056940019130706,0,1
+post_3,post_3_2_2_1,0.0,0,Only if the speaker is also a member ,0.0266450473657536,0.8557747006416321,0.9961010217666626,0.2040371894836425,0,1
+post_3,post_3_2_2_1_1,0.0,1,"True! There's never been a Speaker who has not also been a House member, but it's constitutionally allowed.",0.0272759123990269,0.0352940559387207,0.9944244623184204,0.9983015656471252,0,1
+post_3,post_3_2_3,0.0,1,"Exactly this. If more than one person in the majority doesn’t approve, it will fail.
+
+Essentially, they have a one vote of leeway.",0.0269584739429185,0.6048171520233154,0.992929995059967,0.0522112250328063,0,1
+post_3,post_3_2_4,0.0,1,The Speaker isn’t counted in the 217-213?,0.0261130258020561,0.8183543086051941,0.5088105201721191,0.0002624094486236,0,1
+post_3,post_3_2_4_1,0.0,1,"Yes, the speaker is counted. He gets one vote, just like [every other member.](https://en.wikipedia.org/wiki/List_of_current_members_of_the_United_States_House_of_Representatives)",0.0248034807816537,0.3508003950119018,0.9982603192329408,0.9994959533214568,1,0
+post_3,post_3_2_4_1_1,0.0,0,"It is not a requirement that the speaker is a member, and in the event that the majority party selects a speaker that isn't a member, that speaker will not get a vote.",0.0261303644092076,0.5913767218589783,0.9958783388137816,0.0061073303222656,0,1
+post_3,post_3_2_4_1_1_1,0.0,1,"Though correct, please link to a source for this.",0.0228802947118379,0.912023901939392,0.9478639960289,0.0510041117668151,1,0
+post_3,post_3_2_4_1_1_1_1,0.0,2,"I'm sure you'll appreciate that it's exceptionally difficult to source a something that could theoretically happen but never has. Anyway, here's an article on the subject which includes a citation from Article 1, Section 2 of the constitution and a quote from the House Historian, which is endorsed by the Clerk of the House:
+
+https://www.nbcnews.com/politics/congress/can-outsider-be-speaker-house-n441926
+
+>The Constitution is silent on that question, saying simply, ""The House of Representatives shall chuse (sic) their Speaker and other Officers.""
+
+>The Clerk of the House agrees with the office of the House Historian, which says the speaker ""has always been (but is not required to be) a House Member.""
+
+As for a speaker chosen in this way not being able to vote, I cite Article 1, Section 2 of the constitution which details how members are chosen. If a person is not a member of the house, being selected as speaker would not fulfill the constitutional requirements for becoming a member of the House, therefore it stands to reason they would also not receive any of the privileges of membership such as voting.
+
+>The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the Electors in each State shall have the Qualifications requisite for Electors of the most numerous Branch of the State Legislature.",0.0235166009592705,0.0818306803703308,0.9882165789604188,0.0033908784389495,0,0
+post_3,post_3_2_4_1_1_1_1_1,0.0,1,"Thank you. I was actually only looking for a source on the first part, that the Speaker doesn't have to be a member, but we appreciate you going the extra mile.",0.0222084991448869,0.2384887933731079,0.5541621446609497,0.971322536468506,1,0
+post_3,post_3_2_4_1_1_1_1_1_1,0.0,1,"No worries man, I live for the ""but what if"" discussions about our laws.",0.0249916664870713,0.540949821472168,0.999236822128296,0.9557780027389526,0,0
+post_3,post_3_2_5,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,1
+post_3,post_3_2_5_1,0.0,1,"This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):
+
+> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no ""common knowledge"" exception, and anecdotal evidence is not allowed.
+
+After you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1brnovs/-/kxbzuxy/) so that we can reinstate it.
+
+
+
+If you have any questions or concerns, please feel free to message us.",0.0247827514574511,0.4509326815605163,0.9991625547409058,0.0001468360424041,1,0
+post_3,post_3_3,1.0,0,I think what they mean is that they could only afford to lose one Republican vote and maintain the majority. But it seems like a poor way to phrase it,0.0423680522592337,0.5313987135887146,0.9750168323516846,3.522634506225586e-05,0,1
+post_3,post_3_4,0.0,1,"A bill (or other House resolution) requires a majority of votes cast in order to pass: https://www.house.gov/the-house-explained/the-legislative-process#:~:text=If%20the%20bill%20passes%20by,of%20100)%20passes%20the%20bill.
+
+A tied vote is not a majority, and there’s currently a reduced number of people casting votes. So say something is put up for a vote expecting full Democrat opposition and full Republican support. If one Republican switches from “yes” to “no”, then it still passes 216 to 214. If *two* switch then it’s 215 to 215 and does not pass. 
+
+So it’s not exactly that it’s a one vote majority. It’s more like a one **voter** majority, if that distinction makes sense. And absences or abstentions adjust the math a bit more.",0.0319523779424995,0.8245432376861572,0.9911304712295532,0.0002247989177703,0,1
+post_3,post_3_5,0.0,1,It also means that if a Republican is on vacation or in the hospital then the majority vote gets shorter,0.037770010939217,0.841178834438324,0.9947320222854614,0.0005161762237548,0,1
+post_3,post_3_6,0.0,1,"It means they can’t lose more than one vote. They can lose one and it could be 216 to 214, but if they lose two and it is 215 to 215, most bills require 50% plus 1 to pass. 
+
+A bill fails if two or more switch sides. But three majority party voters can abstain and the vote will still pass.
+
+https://www.house.gov/the-house-explained/the-legislative-process#:~:text=If%20the%20bill%20passes%20by,of%20100)%20passes%20the%20bill.",0.0417411572644081,0.8547660112380981,0.899280846118927,0.9845364987850188,0,1
+post_3,post_3_7,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_3,post_3_8,0.0,1,Aren’t there independents in the house? Meaning that 3 of the 217 are not republicans or democrats.,0.0596537006381974,0.0136946439743042,0.9961628913879396,0.000848114490509,0,1
+post_3,post_3_8_1,0.0,1,There are no independents in the House this session. All [current members](https://pressgallery.house.gov/member-data/party-breakdown) are either Democrats or Republicans.,0.0319086946743892,0.0075097680091857,0.7314463257789612,0.1266951262950897,1,0
+post_4,post_4_0,0.0,1,Who is protesting at US university campuses and what are their goals?,0.0403907914153642,0.7252210974693298,0.9957537651062012,0.1521711945533752,0,1
+post_4,post_4_0,0.0,6,"**/r/NeutralPolitics is a curated space.** 
+
+In order not to get your comment removed, please familiarize yourself with our [rules on commenting](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules) before you participate:
+
+1. Be courteous to other users.
+1. Source your facts.
+1. Be substantive.
+1. Address the arguments, not the person.
+
+If you see a comment that violates any of these essential rules, click the associated *report* link so mods can attend to it.
+
+However, please note that the mods will not remove comments reported for lack of neutrality or poor sources. There is [no neutrality requirement for comments](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_neutral-ness) in this subreddit — it's only the *space* that's neutral — and a poor source should be countered with evidence from a better one.",0.0282910253098786,0.0135523080825805,0.5933240056037903,0.0001628994941711,1,1
+post_4,post_4_1,0.0,1,"College Protester demands vary by school and group but the most consistent demand is that the college institution divest the endowments from Israeli companies and institutions over Israeli human rights violations in Gaza.
+
+https://www.washingtonpost.com/education/2024/05/03/campus-protest-origins-demands-divest/",0.0288618986736555,0.4639366865158081,0.9959216117858888,0.0002672374248504,0,1
+post_4,post_4_1_1,0.0,2,"Thanks for this. From that article:
+
+> Such divestment can be complicated when a university’s financial relationship to a targeted company is not direct but through an investment in an index fund.
+
+Indeed, [index funds](https://www.investopedia.com/terms/i/indexfund.asp) are diversified, making them safe and extremely popular, but it would be possible for any well-educated investor to avoid them and make targeted investments instead. The issue comes up when any institution's investing guidelines mandate low risk investing with the highest possible yields. It's hard to beat index funds for that.
+
+> “Divestment is a rallying cry that is nationally resonant,” said Nick Wilson, a 20-year-old Cornell student involved in the protests. “We don’t want our tuition dollars going to the research and development of weapons” that may be used against Gazans.
+
+Is it tuition dollars or endowment dollars that are going towards these investments? My understanding is that tuition dollars get spent entirely on education. In a university like Harvard, tuition revenue doesn't even cover operating expenses and [the endowment has to make up the difference to the tune of 37%.](https://finance.harvard.edu/files/fad/files/fy23_harvard_financial_report.pdf) (PDF, page 6) It's less at Columbia, with [only 12% of the budget supported through the endowment,](https://www.columbia.edu/content/financial-overview) but even so, all the tuition dollars are spent on operating expenses. They're not going to investments.
+
+> the most consistent demand is that the college institution divest the endowments from Israeli companies and institutions
+
+My understanding is that the demand for divestment is complicated by the fact that
+[38 states](https://www.jewishvirtuallibrary.org/anti-bds-legislation) have [anti-BDS laws](https://en.wikipedia.org/wiki/Anti-BDS_laws#Anti-BDS_laws_in_the_United_States) on the books. The list includes not just states with Republican legislatures, but also Democratic strongholds like New York and California, where many of the protests are taking place. 
+
+These laws have passed with overwhelming bipartisan support, so reversing them would be a monumental task for the protesters. But without achieving that, university administrators are often barred from making any moves towards divestment, even if they wanted to. 
+
+In those cases, it's hard to see how the protesters' demands are reasonable or even well-informed, but perhaps I'm missing something. What do the protest groups say about cases where their demands of university administrators conflict with state law?",0.0285426580387498,0.0455783009529113,0.9951691031455994,0.0011724829673767,1,1
+post_4,post_4_1_1_1,0.0,1,"Anti-BDS laws are anti-Democratic and should be repealed on 1A grounds. 
+
+https://www.aclu.org/press-releases/third-federal-court-blocks-anti-bds-law-unconstitutional      
+
+There are index funds that screen out weapons manufacturers and return similar gains to the SP500.
+
+https://www.google.com/finance/quote/ESGU:NASDAQ?sa=X&ved=2ahUKEwjy2ZKZyfqFAxUFFzQIHS0AC44Q3ecFegQIFxAc&comparison=INDEXSP%3ASP500EW 
+
+AIPACs influence on US foreign policy and now domestic affairs cannot be overstated. AIPAC contributions:
+
+https://www.opensecrets.org/orgs/american-israel-public-affairs-cmte/summary?id=D000046963",0.0710391176612226,0.0926554799079895,0.9984421133995056,0.0012974441051483,0,1
+post_4,post_4_1_1_1_1,0.0,1,Highly relevant information. Thanks for providing the links.,0.0230531091057651,0.6117887496948242,0.9881458282470704,0.9991429150104524,1,0
+post_4,post_4_1_1_2,0.0,1,"> Is it tuition dollars, or endowment dollars that are going towards these investments? 
+
+The students are aware that the investments are part of the endowment and not taken from their tuition. Many universities acknowledge at the institutional level that their choice of investments ought to represent the values of the university as a place of learning populated by faculty and students, and have looked in the past to students to hear opinions on how to direct endowment funds. Some quotations from Brown University students' overview statement [Brown Divest Now](https://drive.google.com/file/d/1J3VLPCRi7qvMkdcWqj-2HPwR9C1Oq1uL/view):
+
+> [Brown's Advisory Committee on Corporate Responsibility in Investment Practices] served to represent and articulate the Brown community’s moral expectations when it comes to how our endowment is invested. (p.2)
+> 
+> “[Divestment] is a critically important and strong statement by the University community..."" (quotation from Brown President Ruth J. Simmons on a past decision to divest from Sudan in 2006; p.1)
+
+The fundamental issue raised by the Brown protesters is that the university endowment's Advisory Committee already endorsed divestment in 2020. The current president rejected the committee report in 2021 and refused to bring it to the university corporation, which has been the cause of protests ever since. (p.37, footnote 9) A vote of 90% of graduate students and a supermajority of the student council have called on the corporation to implement the committee's decision. (p.22)
+
+For Brown students, the objective of the encampment protest was simply to force the president and the corporation to agree to a vote. Last week, they reached such an agreement and dismantled their encampment. ([NPR report](https://www.npr.org/2024/05/01/1248403491/at-brown-university-protesters-and-administrators-reach-deal-to-end-encampment))
+
+I have no knowledge of the position of students in other states so can't comment on anti-BDS laws.",0.0262644164519623,0.0992084145545959,0.997982382774353,0.0019173026084899,0,1
+post_4,post_4_1_1_2_1,0.0,2,"Excellent information. Thanks!
+
+It seems like the students at Brown have well-defined, achievable goals.",0.0230438268290433,0.040808618068695,0.8284463882446289,0.9987226724624634,1,0
+post_4,post_4_1_1_3,0.0,1,"Many investment professionals would say that “targeting” investments is a bad strategy, though. (That’s one of the [core tenets](https://www.bogleheads.org/wiki/Bogleheads%C2%AE_investment_philosophy) of the [Bogleheads](https://www.bogleheads.org) line of thinking.)
+
+But this brings up a host of secondary questions, including: what exactly defines a company that has ties to Israel? Is it any company that has a physical presence in the country? Agreements with the government? Customers in that country? (Does Google / Microsoft / Apple / other large American multinationals that do business in almost every country in the world count?)
+
+And honestly, an index fund won’t have a major stake in any single company (that’s kind of the point). [Here’s an overview of VTI](https://www.investopedia.com/articles/investing/122315/vti-vanguard-total-stock-market-etf.asp), one of the most popular index investment vehicles, which includes more than 3,700 stocks. As a result, I don’t think there’s a big chance that divestment would have a meaningful impact on the company in question. Divestment from said funds would largely be symbolic, which, sure, but it feels like a weird goal to use as your primary demand.
+
+I mean, if Columbia had 50% of their endowment planted in Raytheon stock, that would make sense. But I’m not sure the general public understands how this kind of investing typically works.",0.0248876509610851,0.0800319910049438,0.5077013969421387,0.0004115402698516,0,1
+post_4,post_4_1_1_4,0.0,1,"> Is it tuition dollars or endowment dollars that are going towards these investments? My understanding is that tuition dollars get spent entirely on education. In a university like Harvard, tuition revenue doesn't even cover operating expenses and the endowment has to make up the difference
+
+This is complicated from the fact that money is fungible. On paper, it can be separated out into various inputs and outputs and trade certain money from one to the other. In practice, if an entity has a certain amount of money coming in (e.g., combined funds from tuition and endowment) and a certain amount of money going out, does it really make a difference which money comes from where? At the end of the day, decisions have to be made based on cumulative totals on both sides (in and out), and things can get fuzzy in order to make the desired outcomes happen.",0.0245707028760509,0.2080945968627929,0.9869621992111206,0.0001855492591857,0,1
+post_4,post_4_1_1_5,0.0,1,"Some demands are much more reasonable. For example, MIT's students simply demand the university to divest from the IDF. This should be a much more morally conscious decision.",0.0240168104878124,0.1562780141830444,0.9946010112762452,0.0029922127723693,0,1
+post_4,post_4_1_2,0.0,0,[deleted],0.0260687223098937,0.833021879196167,0.9979165196418762,0.0003655850887298,0,1
+post_4,post_4_2,0.0,1,"I don't have time for a long post. I'll edit later if I remember. 
+
+Several universities including Brown have agreed to meet and vote on the protestor demands. What you make of this may depend on your level of cynicism. 
+
+This article does a decent job of summarizing both the demands and agreement. 
+
+[https://www.npr.org/2024/05/07/1249368151/gaza-college-protest-deal-brown-rutgers](https://www.npr.org/2024/05/07/1249368151/gaza-college-protest-deal-brown-rutgers)
+
+>""We thought the best way to sustainably deescalate the situation was to actually talk with our students,"" Northwestern President Michael Schill [told WBUR's *Here and Now*](https://www.wbur.org/hereandnow/2024/05/02/northwestern-campus-protestors). ""We have a good sustainable agreement which provides a number of things that the students wanted and that we wanted to do.""
+
+>Northwestern's agreement, for instance, permits peaceful demonstrations — though no tents — through the end of classes on June 1, gives students representation on an investment committee and pledges to bring Palestinian students to campus, [among other commitments](https://www.northwestern.edu/leadership-notes/2024/agreement-on-deering-meadow.pdf).",0.027000021951678,0.1593723893165588,0.999309778213501,0.2289277613162994,0,1
+post_4,post_4_3,0.0,1,"Zadie Smith has an [excellent article in the New Yorker](https://www.newyorker.com/news/essay/shibboleth-the-role-of-words-in-the-campus-protests) detailing what’s going on, problems with it, use of language by protestors, and she avoids taking a stance one way or the other. Strategies and response seems to vary by state. Palestinian Student Alliance has been active on college campuses since the 90s, and their presence seems to grow in the aftermath of significant conflicts.",0.0250903516930613,0.418167233467102,0.9194483160972596,0.912561297416687,0,1
+post_4,post_4_4,0.0,1,"I haven’t seen many concise arguments for why they are protesting at all. In fact my sister asked me the other day why students are randomly supporting a terrorist group. 
+
+So real quick, the October 7 Hamas attack killed around 1,200 people and 253 people were taken hostage. This includes 764 civilians killed (36 children) while the remaining were Israeli military. 
+
+https://tennesseelookout.com/2024/02/20/the-most-tragic-victims-in-the-israel-hamas-war-are-those-who-have-no-say-in-it/
+
+Since October 7th, Israel has killed 34,535 Palestinians and there may be an additional 10,000 under rubble. This includes more than 11,000 women and 13,800 children. 
+
+https://www.npr.org/2024/02/29/1234159514/gaza-death-toll-30000-palestinians-israel-hamas-war
+
+So there is a huge mismatch between deaths of Israeli and Palestinians especially among women and children (36 Israeli children and 13,800 Palestinian children in 7 months, and counting) 
+
+Additionally, Gaza is surrounded by a wall and the two borders crossings are closed. Israel has 1 border and has closed it (because war) and Egypt is worried about Hamas among refugees sneaking into Egypt and moving the Palestine/Israel problem and turning it into an Egypt/Israel problem if Hamas attacks Israel from Egypt. 
+
+https://www.npr.org/2023/12/12/1218388766/egypt-israel-gaza-palestinians-hamas
+
+So for now, the 2 million people in Gaza are stuck there. Women and children who would be refugees fleeing violence are instead part of the death count. 
+
+Killing children is a war crime. The US gives Israel military aid which has people upset and I would argue is the root of the protests. 
+
+Colleges invest their money in the stock market including companies currently profiting by the US support of Israel in this war. Students hope that by pressuring colleges to remove stocks/investment in these companies (divesting), they can make profiting from the war unprofitable for companies as their stocks dip. Colleges have a lot of wealth and power, and students hope to twist their university’s arm into divesting from companies like Boeing will pressure these companies to stop building weapons that may be used to kill Palestinian women and children. 
+
+https://time.com/6974063/divestment-explained-campus-protest-israel/
+
+There’s a whole host of unanswered questions for me, like why protest colleges and not the US government directly?  But I suppose colleges are smaller fish to debate and colleges like Brown are negotiating divestment with students as a direct response to the protests. 
+
+https://www.theguardian.com/world/article/2024/may/04/universities-allow-student-campus-protest-encampments
+
+Edit: this comment is a great write up about why it’s so hard to pinpoint “who started it” and why the most important thing may instead be “what’s are we going to do about it in the future”, hopefully less killings on both sides. 
+
+https://www.reddit.com/r/NeutralPolitics/s/coDRWpbE0D",0.1085201216219884,0.3724110126495361,0.999203622341156,3.88026237487793e-05,0,1
+post_4,post_4_4_1,0.0,0,are any outside parties validating the death tolls?,0.0300107390738995,0.8118478059768677,0.999325156211853,0.000344693660736,0,1
+post_4,post_4_4_1_1,0.0,1,"The IDF and Israeli intelligence officials both believe the Gaza Health Ministry death toll to be reliable.
+
+https://www.newarab.com/news/israeli-intel-confirms-gaza-health-ministry-stats-reliable
+
+The Gaza death toll has also been affirmed by the US:
+
+https://www.wsj.com/world/middle-east/u-s-officials-have-growing-confidence-in-death-toll-reports-from-gaza-b3b5183a?st=arejzgntqzb3py3&reflink=desktopwebshare_permalink
+
+As well as the UN:
+
+https://english.almayadeen.net/news/politics/un-affirms-accuracy-of-gaza-ministry-of-health-death-toll-fi",0.0267637170155694,0.1894930005073547,0.9975919723510742,0.049988716840744,0,0
+post_4,post_4_4_1_2,0.0,1,"Yes, by both [Johns Hopkins](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02713-7/fulltext) and [The London School of Hygiene and Tropical Medicine](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02640-5/fulltext) using bombing reports and satellite imagery: [https://time.com/6909636/gaza-death-toll/](https://time.com/6909636/gaza-death-toll/)",0.0247243546265528,0.5064133405685425,0.8985359072685242,0.000307559967041,0,1
+post_4,post_4_4_1_2_1,0.0,1,"Those first two links seem to be the same and they're both broken. Would you please review and revise them?
+
+Same thing in your other comment in this thread.",0.023884214085122,0.4281993508338928,0.9741689562797546,5.364418029785156e-06,1,0
+post_4,post_4_4_1_2_1_1,1.0,1,"That's weird, they are working from me and were copied directly from the Time Magazine article. I relinked them manually, so hopefully that fixes it. Either way, the same sources are available in the Time Magazine article.",0.0260524788156974,0.0061947107315063,0.9921780228614808,0.0001230537891387,0,0
+post_4,post_4_4_1_2_2,1.0,1,thank you for validating the data.,0.0224210265336347,0.5534487366676331,0.9863795638084412,0.9142012894153596,0,0
+post_4,post_4_4_2,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_4,post_4_4_2_1,0.0,1,"This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):
+
+> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no ""common knowledge"" exception, and anecdotal evidence is not allowed.
+
+After you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1clf4ix/-/l2wxg2j/) so that we can reinstate it.
+
+
+
+If you have any questions or concerns, please feel free to message us.",0.0248958004040314,0.4509326815605163,0.9991625547409058,0.0001445114612579,1,0
+post_4,post_4_4_2_2,0.0,1,"I would actually argue that it is well known that Hamas committed war crimes on Oct 7 but I had told my sister for the very first time last week that Netanyahu has committed war crimes (she doesn’t follow politics at all really). 
+
+She knew about the hostages, she knew about the Hamas killings, she had no idea that Netanyahu had committed a single war crime. She was very annoyed at the student protests and was confused why anyone would side against the Israelis after the Oct 7th attack. She genuinely did not know tens of thousands of Palestinian children had died and continue to die. 
+
+Both sides have committed war crimes. Specifically the children are the victims. One started it and brutally killed 36 children, but the other side continues to commit war crimes and has killed 13,800 children and counting. And the US is funding the ongoing violence. And they can’t escape either. There is no excuse as to oopsie kill that many children. 
+
+Hamas is a terrorist organization and shouldn’t be funded, but Netanyahu probs shouldn’t be funded until there’s some sort of ceasefire and the Egypt border open/ (or other option) for women and children to escape. It’s complex but I can understand from an empathy perspective how that many dead children is something people want to end.",0.0693959325814794,0.3452821373939514,0.999631643295288,0.0002013146877288,0,0
+post_4,post_4_4_2_2_1,1.0,0,You're incorrect and stating Hamas started this. Israel started this with the Nabka decades ago. They have been continuously oppressing and occupying Palestinians for decades.,0.1086742269301248,0.5819295644760132,0.9993283748626708,0.0004972517490386,0,1
+post_4,post_4_4_2_2_1_1,0.0,0,"Please edit in a source for this claim, per Rule 2.",0.0234025966011877,0.8768014907836914,0.9928885102272034,0.0249035954475402,1,0
+post_4,post_4_4_2_3,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_4,post_4_4_2_3_1,0.0,1,"This comment has been removed for violating [comment rule 2] (https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules) as it does not provide sources for its statement of fact.  If you edit your comment to link to sources, it can be reinstated.  For more on NeutralPolitics source guidelines, see [here] (https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources).
+
+If you have any questions or concerns, please feel free to message us.",0.0239284012780724,0.5019351840019226,0.729271411895752,0.0001069605350494,1,0
+post_4,post_4_4_2_4,0.0,-,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_4,post_4_4_3,0.0,1,"Why protest colleges? Because it’s their (and their family’s) money that they are paying to the college, that is going to Israeli companies. That is the protestors’ position.",0.0422259342767068,0.3957550525665283,0.9826855659484864,0.0002921819686889,0,1
+post_4,post_4_4_4,2.0,1,"this rationale presumes that the deaths from the surprise terrorist attack  are equivalent to collateral damage from retaliatory action wherein the terrorists have a [long history of using their civilian population as human shields](https://amp.theguardian.com/world/2023/oct/30/human-shield-israel-claim-hamas-command-centre-under-hospital-palestinian-civilian-gaza-city). are you suggesting that Israel should retaliate until they have killed the exact same number of people as the losses they suffered on October 7th and then stop? would the same logic hold true for the number of [rapes](https://www.vox.com/world-politics/24093631/un-israel-october-7-sexual-violence#:~:text=Based%20on%20its%20findings%2C%20the,subjected%20to%20sexual%20violence%2C%20too) and [hostages](https://www.bbc.com/news/world-middle-east-67053011.amp)?",0.0774030016549406,0.3338436484336853,0.9973052740097046,0.0001079142093658,0,1
+post_4,post_4_4_4_1,0.0,1,"Israel has already [taken more hostages](https://www.hrw.org/news/2023/11/29/why-does-israel-have-so-many-palestinians-detention-and-available-swap) and there have been plenty of [reports of sexual violence](https://amp.cnn.com/cnn/2024/02/20/middleeast/israel-hamas-un-investigation-sexual-abuse-intl) against Palestinians. 
+
+No, the idea is not to retaliate to the exact number, obviously. The idea is a proportionate response that seeks to avoid killing civilians. When Israel does things like [attacking hospitals](https://www.nytimes.com/2024/04/02/world/middleeast/gaza-al-shifa-hospital.html?smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb) and [aid centers](https://amp.cnn.com/cnn/2024/03/05/middleeast/israel-fire-palestinians-aid-northern-gaza-intl), it seems like they are doing very much the opposite. When [mass graves](https://www.aljazeera.com/amp/news/2024/4/25/signs-of-torture-as-nearly-400-bodies-found-at-gaza-hospitals-mass-graves) are found of hundreds of civilians in restraints, Israel isn’t even trying. 
+
+Israeli officials have also been [pretty nakedly clear](https://apnews.com/article/israel-palestinians-south-africa-genocide-hate-speech-97a9e4a84a3a6bebeddfb80f8a030724#:~:text=TEL%20AVIV%2C%20Israel%20(AP),a%20charge%20that%20Israel%20denies) with their goal to wipe Gaza off the map. 
+
+Obviously the violence by Hamas is reprehensible but it doesn’t give Israel license to massacre civilians as they see fit.",0.0543468907921391,0.0144347548484802,0.999706208705902,1.7464160919189453e-05,0,1
+post_4,post_4_4_4_1_1,1.0,0,"as mentioned (and cited) earlier, Hamas' defense strategy of using human shields (including hospitals, as cited in the Guardian article) contributes to civilian casualties. i'm not sure how one judges what is ""proportional"" to a terrorist attack that largely targeted young concert-goers and families, but i'd be interested to see some examples of where such a constraint was placed on a country for a similarly heinous attack.",0.0248410262389386,0.0083178281784057,0.9651280045509338,0.0005898773670196,0,0
+post_4,post_4_4_4_1_1_1,0.0,1,"Human shields might contribute to human casualties, but there are increasingly reports of IDF soldiers murdering civilians ([source](https://www.bbc.com/news/articles/cw07wgrwzywo)), and even luring civilians out of buildings using drones that broadcast cries for help, only to shoot anyone who emerges ([source](https://www.middleeastmonitor.com/20240418-israel-using-drones-to-broadcast-cries-for-help-in-gaza-to-lure-shoot-palestinians/)), and with the lockout of journalists from Gaza there is likely more we don't know about. It's not just about whether the response is proportional, but what the actual goals of the Israeli government is. If their goal is to get the hostages back, they could have taken the deal offered by Hamas yesterday. If their goal is actually ""[complete victory](https://www.pbs.org/newshour/world/defiant-netanyahu-declares-israels-goal-is-complete-victory-in-gaza-after-un-court-ruling)"" as Netanyahu has stated, presumably continuing the siege and famine on Rafah until Hamas surrenders, then as an American Jew I find that a completely unacceptable level of response and far beyond being ""similarly heinous"" to what Hamas did on October 7th.
+
+Hamas, who's leadership resides in Qatar, cannot be defeated this way ([according to an EU diplomat](https://www.politico.eu/article/eu-josep-borrell-israel-hamas-military-means-munich-security-conference/)). It would appear to me that Israel wants Gaza bulldozed, but even if they succeed in the genocidal act of doing so, the children who survive this conflict will likely turn into radical extremists, as we've seen happen so many times previously, so I question even the efficacy of their strategy, beyond it's immorality.
+
+Israel is also risking dragging Iran into a war, which would be nightmarish scenario for Iran, Israel and the US.",0.0349835718132135,0.0229651927947998,0.9996336698532104,5.513429641723633e-05,0,0
+post_4,post_4_4_4_1_1_2,0.0,2,"I think the other reply to this does a good job explaining that there are clear instances of civilians dying when they're not human shields. Can you give any examples of that happening in this conflict that doesn't come from the IDF? Particularly at a rate that explains the number of civilian casualties? That's not to say it doesn't happen - I'm just curious because I know it's happened in the past. 
+
+In terms of a 'proportional response', I'm not sure about other countries operating under this constraint, but that doesn't mean it's a bad standard. I think most people agree that the US used more force than necessary in invading the middle east. I suppose you could argue that protests against that war was people attempting to place that same constraint.
+
+I'd also push back on the identities of the victims of October 7th having to do with 'proportional responses', especially when civilian deaths are involved. What happened that day was clearly horrific and a tragedy, but when invoked in discussing the magnitude of response, I worry that it just paves the way for civilian death on the other side, which is also horrible. By that logic, what is to stop Palestinians from seeing massacres at hospitals and aid sites and deciding on their own response? Where would it end?",0.0271126655538384,0.0077622532844543,0.9927679300308228,0.0104455351829528,0,0
+post_4,post_4_4_4_1_1_3,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_4,post_4_4_4_1_1_3_1,1.0,2,"Hamas is overwhelmingly supported by the Palestinian people and [3/4 Palestinians agree with the October 7th attack](https://www.reuters.com/world/middle-east/poll-shows-palestinians-back-oct-7-attack-israel-support-hamas-rises-2023-12-14/). Attackers on October 7th [included Palestinian militant groups and civilians working in concert with Hamas](https://flashpoint.io/blog/israel-hamas-war-military-and-terrorist-groups/). UN employees had direct involvement in the October 7th attacks. [\[1\]](https://www.reuters.com/world/middle-east/un-palestinian-refugee-agency-investigates-staff-suspected-role-israel-attacks-2024-01-26/) [\[2\]](https://www.nbcnews.com/news/un-workers-played-direct-role-oct-7-hamas-attack-israeli-intelligence-rcna136201) [\[3\]](https://www.cnn.com/2024/02/16/middleeast/israel-allegations-unrwa-october-7-intl/index.html)
+
+  
+i'd also like to point out that you are using twitter and instagram as your sources and i'm using reuters, cnn, and msnbc. LOL",0.0286938647758064,0.544455885887146,0.9992990493774414,0.0006855130195617,0,0
+post_4,post_4_4_4_1_1_3_1_1,1.0,0,"They are literal videos of Israeli officials , does it matter where it's from?
+
+Im also using ""Times of Israel"" to show Israelis themselves critize how Bibi backed Hamas, but u seem to have ignored that part 〽️",0.1340072134143882,0.4781923294067383,0.999586284160614,5.698204040527344e-05,0,1
+post_4,post_4_4_4_1_1_3_1_2,0.0,1,"I don’t believe there has been any evidence to support the claims that the UN employees were involved in October 7th other than Israel’s claims. 
+
+Your first source also specifies that the war in Gaza has raised the level of support of Hamas. It seems pretty circular to claim civilians support them, attack said civilians and raise their level of support, and then point to the resulting number. 
+
+Not to deny that there is indeed support, but given Hamas’ authoritarian nature, I don’t believe it’s exactly fair to hold citizens accountable in this way.",0.0244214332898172,0.5927585959434509,0.796316921710968,6.145238876342773e-05,0,0
+post_4,post_4_4_4_1_1_3_1_2_1,1.0,0,"> Your first source also specifies that the war in Gaza has raised the level of support of Hamas. It seems pretty circular to claim civilians support them, attack said civilians and raise their level of support, and then point to the resulting number.
+
+is it circular logic? it strikes me as prejudiced to assume Palestinians can't distinguish between a terrorist attack targeting civilians and collateral damage suffered during retaliatory violence.",0.0296670583333526,0.6470865607261658,0.8736958503723145,0.0005365312099456,0,0
+post_4,post_4_4_4_1_1_3_1_2_1_1,0.0,1,"I’m not assuming that? From the source you gave:
+
+“the ensuing Gaza war has lifted support for the Islamist group both there and in the West Bank”
+
+To me, that implies their support was lower before the war. Sadly I think violence breeds violence and both sides are going to have folks become resentful and radicalized in years to come.
+
+It seems to me more like both sides are cavalier with civilian lives and the losers are the people of Israel and Palestine",0.1383118522855552,0.0128264427185058,0.9996621608734132,0.0024430155754089,0,0
+post_4,post_4_4_4_1_1_3_1_2_1_1_1,1.0,2,"civilians were intentionally and primarily targeted on October 7th. you are drawing an extraordinarily egregious false equivalency between the motivations of the two sides. it's quite obvious that if Israel wanted to wipe Gaza off of the map, they are more than capable of doing so and would have accomplished it long ago, but they don't. It's also clear that if Hamas had the capability to do the same to Israel, they absolutely would.",0.0550758968403085,0.0141004920005798,0.9588636159896852,6.437301635742188e-05,0,0
+post_4,post_4_4_4_1_1_3_2,0.0,1,"This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):
+
+> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no ""common knowledge"" exception, and anecdotal evidence is not allowed.
+
+As you can see from the link above, Instagram isn't a qualified source in this subreddit and Twitter may only be used to verify statements made by the account holder. After you've replaced those sources, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1clf4ix/-/l33cnch/) so that we can reinstate it.
+
+
+
+If you have any questions or concerns, please feel free to message us.",0.02554573310989,0.4236459136009216,0.9991863369941713,6.67572021484375e-05,1,0
+post_4,post_4_4_4_2,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_4,post_4_4_4_2_1,0.0,1,"This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):
+
+> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no ""common knowledge"" exception, and anecdotal evidence is not allowed.
+
+After you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message={url}) so that we can reinstate it.
+
+^((mod:vs845)^)",0.0248600387725141,0.0481514334678649,0.9993504881858826,9.438395500183104e-05,1,1
+post_4,post_4_4_4_2_2,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_4,post_4_4_4_2_2_1,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_4,post_4_4_4_2_2_1_1,0.0,1,"This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):
+
+> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no ""common knowledge"" exception, and anecdotal evidence is not allowed.
+
+After you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message={url}) so that we can reinstate it.
+
+^((mod:vs845)^)",0.0248600387725141,0.0481514334678649,0.9993504881858826,9.438395500183104e-05,1,0
+post_4,post_4_4_4_2_2_2,0.0,1,"This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):
+
+> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no ""common knowledge"" exception, and anecdotal evidence is not allowed.
+
+After you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1clf4ix/-/l302ikw/) so that we can reinstate it.
+
+
+
+If you have any questions or concerns, please feel free to message us.",0.0248585331972538,0.4509326815605163,0.9991625547409058,0.0001420080661773,1,1
+post_4,post_4_4_4_2_2_3,1.0,2,">However, the protestors are glorifying Hamas and celebrating and encouraging killing of Jews
+
+Source? ""From the river to the sea"" does not count, as it is clear the protestors are not intending to call for the killing of Israeli's when they say it ([source](https://www.cbc.ca/news/world/from-the-river-to-the-sea-palestine-1.7033881)).
+
+>3. Hamas casualty figures are Hamas casualty figures
+
+Which have been verified by both [Johns Hopkins](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02713-7/fulltext) and [The London School of Hygiene and Tropical Medicine](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)02640-5/fulltext) using bombing reports and satellite imagery: [https://time.com/6909636/gaza-death-toll/](https://time.com/6909636/gaza-death-toll/)
+
+>5. What rules of engagement are IDF following? Do they kill any women and children they can lay their hands on?
+
+Yes, they are. There are increasingly reports of IDF soldiers murdering civilians ([source](https://www.bbc.com/news/articles/cw07wgrwzywo)), and even luring civilians out of buildings using drones that broadcast cries for help, only to shoot anyone who emerges ([source](https://www.middleeastmonitor.com/20240418-israel-using-drones-to-broadcast-cries-for-help-in-gaza-to-lure-shoot-palestinians/)), and with the lockout of journalists from Gaza there is likely more we don't know about.
+
+>That is not the same as deliberate genocide
+
+What is Israel's goal then? If their goal is to get the hostages back, they could have taken the deal offered by Hamas yesterday. If their goal is actually ""[complete victory](https://www.pbs.org/newshour/world/defiant-netanyahu-declares-israels-goal-is-complete-victory-in-gaza-after-un-court-ruling)"" as Netanyahu has stated, and that means a siege on Rafah and doing nothing to prevent the now ongoing famine, then how do they achieve that without deliberate genocide?",0.0894008010772496,0.476520299911499,0.9995905756950378,0.0001700520515441,0,0
+post_4,post_4_4_5,1.0,0,"Killing civilians is not a war crime if they are being used as shields, and using them as shields is a war crime, which Hamas does
+
+For those seething with downvotes [here is an article from Al-Jazeera](https://www.aljazeera.com/news/2023/11/13/what-is-a-human-shield-and-why-is-israel-using-the-term-in-gaza)
+
+> The use of human shields is forbidden by Protocol I of the Geneva Conventions and is considered a war crime as well as a violation of humanitarian law.
+
+
+> The presence of human shields does not render a site immune from attack. While they are protected people according to the laws of war, the military assets they shield can still be legitimately targeted.",0.0508959625378707,0.0701133608818054,0.9961496591567992,0.0006172657012939,0,1
+post_4,post_4_4_5_1,0.0,1,"There is plenty of evidence showing that Israel is intentionally targeting civilians, which I mention [here](https://www.reddit.com/r/NeutralPolitics/s/ZQPwXzoigC). 
+
+As [mass graves](https://www.reuters.com/world/middle-east/mass-graves-gaza-what-do-we-know-2024-04-25/) are uncovered in violation of international law, then it’s pretty clear these aren’t the result of being human shields.",0.0280926469480492,0.0099826455116271,0.9995242357254028,6.365776062011719e-05,0,0
+post_4,post_4_4_5_1_1,0.0,1,I’m not saying they aren’t. I’m saying killing civilians is not always a war crime especially in the context of this conflict,0.1227421810343659,0.266309380531311,0.9779694080352784,0.0379725694656372,0,0
+post_4,post_4_4_5_1_1_1,0.0,1,"Fair - my bad for jumping to that conclusion. I think I’ve seen that used to hand wave some of the numbers, so a bit of a kneejerk reaction",0.09454944608865,0.0069695115089416,0.9890655279159546,0.0082221925258636,0,0
+post_4,post_4_4_6,0.0,1,"Awesome write up, i will still side with Israel sine they did not start things, war is awful and I wish they had a better way to take our hamas with out killing so many people. 
+
+But is a war and hamas is to blame for the death and destruction they put on their people.",0.4490640290884001,0.0448026657104492,0.9997202754020692,0.9640968441963196,0,1
+post_4,post_4_4_6_1,0.0,1,"As another commenter stated, setting the starting date of this conflict on October 7th is unfair considering the Nakba (1947-49) killing 15000 and displacing 750000.
+
+https://www.aljazeera.com/amp/features/2017/5/23/the-nakba-did-not-start-or-end-in-1948",0.0275391828081195,0.5335295796394348,0.9775251746177672,0.0001024305820465,0,1
+post_4,post_4_4_6_1_1,0.0,1,"That's the whole problem with basing ""blame"" for any conflict on who started it... it depends completely on when you set the starting point. 
+
+Jewish settlers began [arriving in Ottoman Palestine](https://en.wikipedia.org/wiki/History_of_the_Jews_and_Judaism_in_the_Land_of_Israel) a generation before the Nakba and the Palestinian national movement arose in response, initiating a persistent campaign against the Jews and the first large-scale riots, forcing many to evacuate. Maybe that was the start.
+
+The current conflict is happening in the Gaza strip, which didn't even exist as a separate entity during the Nakba, so maybe the Suez crisis, which precipitated the 1967 war that separated Gaza, can be blamed as the start.
+
+Or maybe it goes all the way back to the Muslim conquests of the 7th century or the Jewish-Roman wars of the 1st century that began a long period of violence, enslavement, expulsion, displacement, forced conversion, and forced migration against the local Jewish population.
+
+We could pick dozens of points in history to be an originating event, which is why ""who started it"" gets us nowhere. 
+
+But if we accept the root causes as nationalism, sectarianism, tribalism, racism, and the general tendency for humans to band together to kill each other, then it doesn't really matter what start date you set. The cause of these conflicts isn't what we do or when we do it, it's who we are and who we want to be.",0.0506501247172641,0.0146337747573852,0.998315691947937,0.0050553977489471,1,0
+post_4,post_4_4_6_1_1_1,1.0,0,What starting date would justify the genocide that Israel is perpetrating?,0.0749676993720999,0.2596637606620788,0.9961177110671996,0.0006467700004577,0,1
+post_4,post_4_4_6_1_2,0.0,1,"Your point seems to suggest that the violence on October 7th is justified because of what Israel did in the past. I understand your position, and you think past violence justify current violence, which is fair. But, if we say violence is okay, we also have to accept the consequence of the violence, like the death of hundreds of thousands of innocent women and children.
+
+It's like saying you want to choose ""trial by combat"", but then getting upset when your opponent hit you. Let's think about who chose this path. Only about [15% of Israelis are in favor of their current government led by Netanyahu](https://www.reuters.com/world/middle-east/only-15-israelis-want-netanyahu-keep-job-after-gaza-war-poll-finds-2024-01-02/), but [around 70% of Palestinians support the Hamas leadership](https://apnews.com/article/israel-hamas-palestinians-opinion-poll-wartime-views-a0baade915619cd070b5393844bc4514). If we think the leaders are the ones who lead to these conflicts, it looks like the Palestinian side has more responsibility for the current situation than the Israeli side.
+
+You might say Israel's reaction is disproportionate and without due diligence, which I totally agree with. But, Israel's reaction was also something we could have predicted. It's like if you poke a bear and then it attacks you, did the bear go too far? Maybe. But was poking the bear a good idea in the first place? If you think poking the bear was necessary, then it wouldn't make sense to be upset about the bear's reaction.",0.0555613284983837,0.0096447467803955,0.9992480874061584,6.479024887084961e-05,0,1
+post_4,post_4_4_6_1_2_1,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_4,post_4_4_6_1_2_1_1,0.0,1,"This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):
+
+> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no ""common knowledge"" exception, and anecdotal evidence is not allowed.
+
+After you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message={url}) so that we can reinstate it.
+
+^((mod:vs845)^)",0.0248600387725141,0.0481514334678649,0.9993504881858826,9.438395500183104e-05,1,0
+post_4,post_4_4_6_1_2_2,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_4,post_4_4_6_1_2_2_1,0.0,1,"This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):
+
+> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no ""common knowledge"" exception, and anecdotal evidence is not allowed.
+
+After you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message={url}) so that we can reinstate it.
+
+^((mod:vs845)^)",0.0248600387725141,0.0481514334678649,0.9993504881858826,9.438395500183104e-05,1,0
+post_4,post_4_4_7,0.0,1,"34,000 number is from Hamas, and it is not specified how many were Hamas members",0.0271893381862103,0.7016067504882812,0.9981484413146972,0.0001257359981536,0,1
+post_4,post_4_4_7_1,0.0,1,No it’s not. [This](https://www.reddit.com/r/NeutralPolitics/s/gRpOU7yivK) comment better shows all the international organizations that believe those numbers are the most accurate.,0.0264550605775979,0.0219520330429077,0.9459893703460692,6.586313247680664e-05,0,0
+post_4,post_4_4_8,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_4,post_4_4_8_2,0.0,1,"This comment has been removed for violating [comment rule 2] (https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules) as it does not provide sources for its statement of fact.  If you edit your comment to link to sources, it can be reinstated.  For more on NeutralPolitics source guidelines, see [here] (https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources).
+
+If you have any questions or concerns, please feel free to message us.",0.0239284012780724,0.5019351840019226,0.729271411895752,0.0001069605350494,1,0
+post_4,post_4_4_9,0.0,0,[deleted],0.0260687223098937,0.833021879196167,0.9979165196418762,0.0003655850887298,0,0
+post_4,post_4_5,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_4,post_4_5_1,0.0,1,"This comment has been removed for violating [comment rule 2] (https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules) as it does not provide sources for its statement of fact. If you edit your comment to link to sources, it can be reinstated. For more on NeutralPolitics source guidelines, see [here] (https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). 
+
+
+If you have any questions or concerns, please feel free to message us.",0.0239284012780724,0.5019351840019226,0.729271411895752,0.0001069605350494,1,0
+post_4,post_4_6,0.0,1,"For anyone living back in the 'nam days, how similar was it?",0.0265175639592414,0.768854022026062,0.5905910134315491,0.0024801790714263,0,1
+post_4,post_4_6_1,0.0,1,"There are some parallels in the goals and attitudes of the two parties: students on a moral crusade outnumbered by those representing the establishment. However, 1968 was more widespread and intense.
+
+The current protests are on about 50 campuses and the largest ones involve a few thousand protesters, per the link in my submission. From that we can calculate roughly 100,000 to 150,000 participants nationwide, plus maybe another 50,000 daily protesters in other countries. That's not counting individual marches and rallies.
+
+The 1968 anti-war protests in the US were part of a larger, [global protest movement](https://en.wikipedia.org/wiki/Protests_of_1968) for civil rights and against state power. The goals of the movement had broader public support and it was also much more [violent.](https://time.com/5106608/protest-1968/)
+
+Columbia student protesters were joined by 1000 faculty members, and they literally held people hostage. Draft offices were attacked. There was a riot at the 1968 Democratic National Convention. MLK, Jr. and RFK were both assassinated that year. It was a tumultuous time.
+
+A major driver of the conflict was that the US had conscription. Amercans' sons, brothers, husbands and fathers, disproportionately from minority communities, were being drafted to fight overseas in a war many came to see as pointless. By the end of 1969, there were already about [40,000 casualties](https://www.archives.gov/research/military/vietnam-war/casualty-statistics) on the US side.",0.0264675616262307,0.0064151883125305,0.9995977282524108,0.0161032378673553,1,0
+post_4,post_4_6_2,0.0,1,"I don’t understand why people sleep on the [Gulf War protests.](https://en.m.wikipedia.org/wiki/Protests_against_the_Iraq_War) They were absolutely massive and involved millions of people, and events were organized with pictures and video shared on Indymedia sites. The USA was largely perceived as justified in their response to Afghanistan post-9/11, but Dubya had virtually zero allies when he decided to stretch it into a second Gulf war. The protest in Portland was so large is took three hours for it to full pass through the city. The pro-Palestine events don’t have much in common with either movement.",0.0280867173251758,0.6459053158760071,0.999320149421692,0.0023953020572662,0,0
+post_4,post_4_7,0.0,1,"There’s a lot to unpack there op. I’m most curious about WHO is at these protests. It’s clear students are to some degree but mayor Adams in New York said specifically that 40% of those arrested were outside agitators. It’s easy to mix up the comments and statements as well as the muddle the message when almost half of the protestors aren’t even saying the same thing. 
+
+https://www.yahoo.com/news/almost-half-protesters-arrested-were-171430869.html
+
+Does anyone have any leads who ELSE was asserting themselves?",0.0242558394791447,0.1690941452980041,0.9996069073677064,0.0020483434200286,0,1
+post_4,post_4_7_1,0.0,1,"Has Adams provided any evidence to this claim yet? The ‘outside agitator’ argument has a long history of being used to discredit student protests, so I’m a little wary of taking his word for it.",0.0264196734443163,0.4446367621421814,0.9325828552246094,0.0043796598911285,0,0
+post_4,post_4_7_1_1,0.0,1,It’s hard to know. What we do know is that 40% we’re not students at CUNY or Columbia. We don’t really know if they agitated or just peacefully participated. The number seems legit though.,0.024378827418093,0.0239312648773193,0.9989175796508788,0.0016945302486419,0,0
+post_4,post_4_7_1_1_1,0.0,1,"Having a number of folks I know who’ve gone to protest and support students at our nearby school, I guess I’m just hesitant to think non students are anything more than community members or alumni who are sympathetic.
+
+I suppose the potential is there for bad actors but not sure that that number indicates that without further evidence, especially in a city that has a young, left-leaning population of recent college grads.",0.0252426470751884,0.0307704806327819,0.9993311166763306,8.913874626159668e-05,0,0
+post_4,post_4_8,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_4,post_4_8_1,0.0,1,"This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):
+
+> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no ""common knowledge"" exception, and anecdotal evidence is not allowed.
+
+After you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1clf4ix/-/l2vob5m/) so that we can reinstate it.
+
+
+
+If you have any questions or concerns, please feel free to message us.",0.0247956449065949,0.4509326815605163,0.9991625547409058,0.0001431405544281,1,0
+post_4,post_4_9,0.0,0,[deleted],0.0260687223098937,0.833021879196167,0.9979165196418762,0.0003655850887298,0,0
+post_4,post_4_9_1,0.0,1,"Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",0.0243562825257419,0.1109542846679687,0.4889074265956878,0.0006795227527618,0,1
+post_4,post_4_10,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_4,post_4_10_1,0.0,1,"Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",0.0243562825257419,0.1109542846679687,0.4889074265956878,0.0006795227527618,0,0
+post_4,post_4_11,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_4,post_4_11_1,0.0,1,"Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",0.0243562825257419,0.1109542846679687,0.4889074265956878,0.0006795227527618,0,0
+post_4,post_4_12,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_4,post_4_12_1,0.0,1,"Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",0.0243562825257419,0.1109542846679687,0.4889074265956878,0.0006795227527618,0,0
+post_4,post_4_13,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_4,post_4_13_1,0.0,1,"This comment has been removed for violating [comment rule 2] (https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules) as it does not provide sources for its statement of fact.  If you edit your comment to link to sources, it can be reinstated.  For more on NeutralPolitics source guidelines, see [here] (https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources).
+
+If you have any questions or concerns, please feel free to message us.",0.0239284012780724,0.5019351840019226,0.729271411895752,0.0001069605350494,1,0
+post_4,post_4_14,0.0,1,"> Who are the people behind this movement and the counter movement?
+
+One aspect I've seen which is (or perhaps better stated, ""may be"") related to this question is that the president of an Iranian university had reportedly offered scholarships to students expelled over pro-Palestinian protests. A [local NBC](https://mynbc15.com/news/nation-world/iranian-college-to-offer-scholarships-to-expelled-us-student-protesters-report-says-iran-shiraz-university-mohammad-moazzeni-anti-israel-pro-palestine-middle-east-conflict-columbia-ucla) has covered it. 
+
+> Mohammad Moazzeni, the head of Shiraz University, reportedly argued this week such protesters are being treated too harshly by police. This approach by American officials, he reportedly claimed, indicates a global collapse.
+> 
+>> ""They exert a lot of violence in order to contain this raging movement and have even threatened to expel the students from universities and hinder their employment in the future, and such autocratic methods show the decline of global arrogance,” Moazzeni said, according to PressTV.
+> 
+> Shiraz University will also accept expelled professors, Moazzeni reportedly added.
+
+I'm not sure if this indicates that Iran is behind the student protests, or just taking advantage of the situation to disparage the US. There are a number of entities, including Hamas, Hezbollah, and the Houthi rebels, with [alleged ties to Iran](https://en.wikipedia.org/wiki/Iran_and_state-sponsored_terrorism#List_of_entities_with_alleged_ties_to_Iran). I'm curious if they are also working behind the scenes to connect with, encourage, or support the pro-Palestinian protests.",0.0286520131491224,0.065084159374237,0.9172760844230652,0.0003320276737213,1,0
+post_4,post_4_14_1,1.0,0,"I don't think that indicates Iran is behind the student protests at all, any more than Israel's stated support of the counter protests means Israel is behind the counter protests. What does it even mean for them to be ""behind"" the protests? Like they're paying the protestors to protest? What indicates there is anything going on behind the scenes? Why is it hard to believe that the protests are organic?",0.0289232439674043,0.5137175917625427,0.9253867864608764,0.0002893209457397,0,0
+post_4,post_4_14_1_1,0.0,1,"> Why is it hard to believe that the protests are organic?
+
+It's not impossible, but the protests are simultaneous across more than 50 campuses and are using many of the same tactics at the same time. There's also the fact that [half of those arrested at a couple of the campus protests were non-students.](https://www.npr.org/2024/05/04/1249188864/nyc-columbia-city-college-gaza-protests-palestinian-campus)
+
+The Reuters article I linked in the submission says the [Students for Justice in Palestine](https://nationalsjp.org/) is one of the organizers of the protests and they have a map on their site of ""Gaza Solidarity Encampments"" at various universities. The group was [founded in 2001](https://www.nytimes.com/2016/08/07/education/edlife/middle-east-conflict-on-campus-anti-semitism.html) at the University of California, Berkeley, and has been promoting divestment policies since then. It didn't suddenly spring up in response to the current war. 
+
+SJP certainly could have used the opportunity to further their cause, but there is [ample evidence](https://www.newyorker.com/news/annals-of-education/how-a-generation-is-being-politicized-on-palestine) they're organizing the protests, including by circulating a tool kit in the immediate aftermath of October 7th calling the Hamas attacks “a historic win for the Palestinian resistance.”
+
+That same article includes unsubstantiated accusations that Hamas funds SJP. Attempts by at least [one other news organization to follow the money](https://www.nbcnews.com/news/us-news/s-palestinian-protests-us-rcna143666) have been relatively fruitless as well, so we really don't know how they're funded.",0.0258023697961817,0.0121209025382995,0.9994304776191713,0.0002404451370239,1,0
+post_4,post_4_14_1_1_1,0.0,1,"Non students are among protestors because colleges have previously invited non student protestors/ stated they were welcome, politicians have made them feel welcome (https://twitter.com/GregAbbott_TX/status/1137875109362974724), and because there is often no where else for those non student protestors to protest. With that said, where else would your run of the mill, average person like me go to add my voice to this issue? I don’t know any community organizers personally, I can’t organize a whole off campus protest myself, but since I’m allowed to protest amongst the protestors already protesting, why shouldn’t I go and why would that be suspicious?",0.0364191335589818,0.0150402188301086,0.9994342923164368,0.0004344284534454,0,1
+post_4,post_4_14_1_1_2,0.0,1,"Having been involved in some protesting as a student, social media makes student organizing easier to coordinate than ever. Groups are often in communication and once one school strikes a match, as Columbia did, it’s very easy for other schools to follow suit.",0.0247694682537228,0.4053729772567749,0.989211916923523,0.9987609088420868,0,0
+post_4,post_4_14_1_2,2.0,0,"> Why is it hard to believe that the protests are organic?
+
+It's not hard to believe this, and I did not suggest that it was. My comment did not assert with any degree of certainty that must be a connection. As I said:
+
+> I'm not sure if this indicates that Iran is behind the student protests, or just taking advantage of the situation to disparage the US.
+
+My point was to bring up a piece of information which I thought was interesting and might suggest a potential connection. Not a certitude, but a possibility (and two explanations of the information -- intentional/planned, or opportunistic).",0.0252501897832051,0.4392040967941284,0.9395309686660768,8.940696716308594e-06,1,0
+post_4,post_4_14_1_2_1,1.0,0,It just seems a bit conspiratorial.,0.0249532046955002,0.0881559252738952,0.9962106943130492,0.0179381966590881,0,0
+post_4,post_4_14_1_2_1_1,0.0,1,"To some degree, though as noted I'm not claiming certainty here. And I don't think that floating the possibility of foreign actors being or trying to be involved is all that conspiratorial. For example, the [Department of Treasury sanctioned multiple Iranians](https://home.treasury.gov/news/press-releases/jy0494) for attempting to influence the 2020 US election:
+
+> Between approximately August 2020 and November 2020, state-sponsored Iranian cyber actors executed an online operation to intimidate and influence American voters, and to undermine voter confidence and sow discord, in connection with the 2020 U.S. presidential election.
+
+Iran [attempted to meddle in the 2022 midterm](https://www.cnn.com/2023/12/18/politics/china-russia-iran-cuba-2022-midterm-election-meddling/index.html) as well.
+
+So I don't think it's particularly far out to suggest that Iran sees this as an opportunity to try to meddle with the 2024 election, or just to sow discord within the United States in general. The question in my mind is whether Iran was in any way an instigator or is just commenting to support or further discord (or even if the university chancellor is acting entirely individually).",0.0259530628900915,0.007754623889923,0.9748111963272096,0.0001008212566375,1,0
+post_4,post_4_14_1_2_1_1_1,0.0,1,"Sure, that's fair. I guess the question becomes to what degree Iran's influence campaign is relevant here, since it can so easily be used as a cudgel to de-legitimize the sincerity of political activity. Especially since it seems pretty much every government including our own runs online influence campaigns at this point ([source](https://www.foreignaffairs.com/articles/united-states/2020-06-21/cia-interferes-foreign-elections))- Israel certainly has been running an influence campaign of their own ([source](https://www.politico.eu/article/israel-social-media-opinion-hamas-war/)), but bringing that up in other REDACTED mainstream news subreddits has gotten people banned.
+
+EDIT: added sources",0.0259537491793676,0.4763801097869873,0.996590256690979,9.676814079284668e-05,0,0
+post_4,post_4_14_1_2_1_1_1_1,0.0,1,"This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):
+
+> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no ""common knowledge"" exception, and anecdotal evidence is not allowed.
+
+After you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message={url}) so that we can reinstate it.
+
+^((mod:vs845)^)",0.0248600387725141,0.0481514334678649,0.9993504881858826,9.438395500183104e-05,1,0
+post_4,post_4_14_1_2_1_1_1_1_1,0.0,1,I have added sources,0.0257015244549412,0.9328809380531312,0.9978849291801452,0.994048237800598,0,0
+post_4,post_4_14_1_2_1_1_1_1_1_1,1.0,0,"Thanks. The comment is restored, but please edit out the reference to another subreddit. We don't allow that here.",0.0237811703208316,0.6387237310409546,0.9598557949066162,0.000385046005249,1,0
+post_4,post_4_14_1_2_1_1_1_1_1_1_1,1.0,0,"Done, though I don't see that in the rules?",0.0249450483385065,0.0122967958450317,0.9618985056877136,0.2191033661365509,0,0
+post_4,post_4_14_1_2_1_1_1_1_1_1_1_1,0.0,1,"It's in the FAQ at the bottom:
+
+> we ask that you remove the references to the other subreddit
+
+However, you're correct that it's not explicity about comments like yours, even though removing those is a long-standing practice of the moderators here. 
+
+Thanks for pointing that out. We'll look into updating the rules to make it more clear.
+
+ETA: It's also in the [source rules:](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources)
+
+> The following source types are never permitted in submissions or comments:
+
+> * Reddit posts and comments",0.0265384910924563,0.6042577028274536,0.9819360375404358,0.0013298094272613,1,0
+post_4,post_4_14_2,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_4,post_4_14_2_1,0.0,1,"There's precedent for something similar. In 2016, a group of Russia-linked Facebook accounts secretly helped [organize at least 60 politically divisive marches, protests, and rallies on U.S. soil,](https://www.vanityfair.com/news/2017/10/how-russia-secretly-orchestrated-dozens-of-us-protests) in an apparent attempt to deepen political discord. At least one event was [attended by thousands of people.](https://thehill.com/policy/technology/358025-thousands-attended-protest-organized-by-russians-on-facebook/)
+
+Also, per Rule 4, please don't address other users directly with ""you"" statements in /r/NeutralPolitics.",0.0240504655530741,0.0184645652770996,0.9979498982429504,5.924701690673828e-05,1,0
+post_4,post_4_14_2_2,1.0,2,"Between my initial comment and the subsequent replies, I think that the rationale for why one might suspect Iran could be interested in cultivating unrest in the USA has been established fairly well. This includes but is not limited to Iran trying to interfere or sow unrest in the USA previously. And also note that I made no claim of certainty that Iran \*created\* the protests. I explicitly and intentionally identified two potential avenues, one of which was Iran simply being reactive to take advantage of the situation and try to highlight the protests.
+
+That doesn't mean it's proven for this case (nobody has claimed such), nor that anyone must agree with the thought, but I think it's sufficiently established as reasonable. As another example, a recent [New York Times article](https://www.nytimes.com/2024/05/02/business/media/campus-protests-russia-china-iran-us.html) discusses precisely this concept:
+
+>As protests over the war in Gaza have spread across the United States, Russia, China and Iran have seized on them to score geopolitical points abroad and stoke tensions within the United States, according to researchers who have identified both overt and covert efforts by the countries to amplify the protests since they began.
+
+And regarding possibilities of success, in the past the [FBI commented on ISIL/ISIS radicalizing westerners via online channels](https://www.fbi.gov/news/testimony/isil-online-countering-terrorist-radicalization-and-recruitment-on-the-internet-and-social-media-). And a [report by START at University of Maryland](https://www.start.umd.edu/pubs/START_PIRUS_UseOfSocialMediaByUSExtremists_ResearchBrief_July2018.pdf) (START is a research center concerning terrorism headquartered at UMD) discussed the use of social media for recruiting/radicalizing people. It has risen dramatically over the years. For example, figures 1 and 2 highlight that from 2003 - 2010, social media accounted for roughly 26 percent of radicalization, with 73% having no social media radicalization. From 2011-2016 that basically flipped, and only 27% had no social media radicalization, while for about 73% social media played a primary or secondary role.
+
+So I don't think it's unreasonable to consider that Iran might be able to run online campaigns to encourage unrest or protests. Again, not proven, but proof-of-concept is there, rationale is there, and past history is there. I don't think this is really a stretch.",0.0249482402740291,0.0102815628051757,0.9777700304985046,0.0078068077564239,1,0
+post_4,post_4_14_2_3,0.0,2,"This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):
+
+> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no ""common knowledge"" exception, and anecdotal evidence is not allowed.
+
+After you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1clf4ix/-/l2x1fxx/) so that we can reinstate it.
+
+This comment has been removed for violating [//comment rule 4:](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules)
+
+>Address the arguments, not the person. The subject of your sentence should be ""the evidence"" or ""this source"" or some other noun directly related to the topic of conversation. ""You"" statements are suspect.
+
+
+
+
+If you have any questions or concerns, please feel free to message us.",0.0259700039959329,0.4521173238754272,0.9947264790534972,0.0001240670680999,1,1
+post_4,post_4_14_2_4,1.0,0,"do you seriously think these are organic student protests? This is one of the major groups organizing protests and you think its a stretch that they are aligned and supported by Iran? 
+
+https://adalahjusticeproject.org/",0.0262615318864066,0.0118677020072937,0.9945001602172852,0.0087658464908599,0,1
+post_4,post_4_15,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_4,post_4_15_1,0.0,1,"Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)
+
+*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",0.0243562825257419,0.1109542846679687,0.4889074265956878,0.0006795227527618,0,0
+post_4,post_4_16,0.0,1,"same left leaning groups that use every widspread protest to build support against a democratic US plus some mission specific groups focused on palestinian issues. Funding comes from the same groups that fund every oppositional group in the US, Gates foundation, Soros' open society, Pritzker group, etc... Politico has a write up on it recently https://www.politico.com/news/2024/05/05/pro-palestinian-protests-columbia-university-funding-donors-00156135",0.0287782976499997,0.0136470794677734,0.9956696033477784,0.1485327780246734,0,0
+post_5,post_5_0,0.0,0,"If a country has the terrain and climate conducive to producing illicit drugs, is that a form of ""resource curse""?",0.0439679709936043,0.2379824519157409,0.9988595247268676,0.0045764446258544,0,1
+post_5,post_5_0,0.0,6,"**/r/NeutralPolitics is a curated space.** 
+
+In order not to get your comment removed, please familiarize yourself with our [rules on commenting](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules) before you participate:
+
+1. Be courteous to other users.
+1. Source your facts.
+1. Be substantive.
+1. Address the arguments, not the person.
+
+If you see a comment that violates any of these essential rules, click the associated *report* link so mods can attend to it.
+
+However, please note that the mods will not remove comments reported for lack of neutrality or poor sources. There is [no neutrality requirement for comments](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_neutral-ness) in this subreddit — it's only the *space* that's neutral — and a poor source should be countered with evidence from a better one.",0.0282910253098786,0.0135523080825805,0.5933240056037903,0.0001628994941711,1,1
+post_5,post_5_1,0.0,0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,1
+post_5,post_5_1_1,0.0,1,"> these states don't have the ability to effectively enforce taxes on the production of illicit drugs.
+
+I don't think this is true.  The Taliban have forced a 95% reduction in opium poppy cultivation -- if they can stamp it out almost entirely, they would find it much easier to tax it.
+
+https://www.unodc.org/unodc/en/press/releases/2023/November/afghanistan-opium-cultivation-in-2023-declined-95-per-cent-following-drug-ban_-new-unodc-survey.html
+
+> Opium poppy cultivation in Afghanistan plunged by an estimated 95 per cent following a drug ban imposed by the de facto authorities in April 2022, according to a new research brief from the United Nations Office on Drugs and Crime (UNODC).  
+
+> UN officials noted that the near-total contraction of the opiate economy is expected to have far-reaching consequences and highlighted the urgent need for enhanced assistance for rural communities, accompanied by alternative development support to build an opium-free future for the people of Afghanistan.  
+
+> Opium cultivation fell across all parts of the country, from 233,000 hectares to just 10,800 hectares in 2023. The decrease has led to a corresponding 95 per cent drop in the supply of opium, from 6,200 tons in 2022 to just 333 tons in 2023.
+
+And it sounds like there's quite an arbitrage available here.  If they lost $1 billion/year in revenue, a lot of money that could be converted to taxes -- even at an aggressive 50% tax on the excess profit, that would be $500m in the Taliban's coffers.
+
+> Many farmers turned to cultivating wheat instead, with an overall increase of 160,000 hectares in cereal cultivation across the Farah, Hilmand, Kandahar, and Nangahar provinces. Though wheat cultivation may alleviate food insecurity to some extent, the crop generates much less income than opium – farmers in the four provinces lost around US$ 1 billion in potential income in 2023 by switching to wheat.",0.0286942410740285,0.2769649624824524,0.9737106561660768,7.18235969543457e-05,1,1
+post_5,post_5_1_2,0.0,2,"This is an interesting response.
+
+Per Rule 2, would you mind editing in some souces to support the assertion about the wide geographic range of poppy production, the implication that Colombia is a ""failed state,"" and a the definition of ""Georgist land value taxes""? Thanks.",0.0264103467802806,0.7440437078475952,0.998346209526062,0.9671631157398224,1,1
+post_5,post_5_1_3,0.0,1,"This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):
+
+> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no ""common knowledge"" exception, and anecdotal evidence is not allowed.
+
+After you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1cn9q12/-/l36lz3z/) so that we can reinstate it.
+
+
+
+If you have any questions or concerns, please feel free to message us.",0.0248593515577931,0.4509326815605163,0.9991625547409058,0.0001298487186431,1,0
+post_5,post_5_2,0.0,1,"Apologies for a slightly indirect [source](https://reliefweb.int/report/afghanistan/decision-plant-poppies-irrigation-profits-alternative-crops-afghanistan) on the topic, but in Afghanistan specifically poppies are appealing because they require WAY less water than most crops do. And since they deal with a naturally dry climate, the somewhat obvious happens.",0.0232844221431033,0.3625633716583252,0.9957039952278136,0.1352540850639343,0,1

@@ -1,0 +1,283 @@
+{
+    "title": "MultiVersus director says dataminers do \u2018a disservice to the players\u2019",
+    "comments": [
+        {
+            "depth": 0,
+            "author": "giulianosse",
+            "body": "Is there a reason why devs must leave some unused assets buried in the game's files instead of just patching them in a few weeks before they're released?\n\nIIRC Call of Duty and Fortnite do this, as in people are only able to datamine which skins and characters are getting added long after they're usually announced. If it bothers them so much, perhaps they should try shifting to this style of content updates.",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "decaffinatedplease",
+                    "body": "A lot of it can have to do with business requirements and convenience. Axed stuff gets left in because it can often be more work to remove it--and it can potentially break things because things are interconnected in ways you hadn't realized. Easier to just leave it in and code around it--especially with storage space being so cheap.\n\nFor stuff that gets loaded in before it's released, one explanation can be that it's to reduce friction by having only one major content download. That way you can release a small patch that can be donwloaded quickly whenever you want to unlock content, without having to make players regularly wait for potentially large downloads on slow connections.\n\nUltimately it varies studio-to-studio and depends a lot on the architecture of the game, delivery mechanism, and business needs of that particulart developer/publisher.",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "FizzyLightEx",
+                            "body": "That's just bad coding if removing assets would break the game. It's programming 101 to not have spaghetti code",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "CultureWarrior87",
+                                    "body": "No one said it wasn't, nor does it negate their larger point. They're literally just pointing out the realities of software development. Not that deep.",
+                                    "score": 1
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "KanishkT123",
+                                    "body": "And programming 102 is that the reality of spaghetti code is unavoidable\u00a0",
+                                    "score": 1
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "pt-guzzardo",
+                                    "body": "The difference between theory and practice is that in theory, they're the same, but in practice, they're not.",
+                                    "score": 1
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "Decent_Wrongdoer_201",
+                                    "body": "problem solved pack it up boys",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "MadeByTango",
+                    "body": "Cost; have to pay someone to clean that out\n\nThat said; it\u2019s a product, they need to treat them a little less precious",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "GeekdomCentral",
+                            "body": "Yep this really is it. Time spent combing through code to remove stuff (especially because it\u2019s not like they have a list where all the old stuff is located, you\u2019d often have to manually search all of your repositories. And what if you search the wrong thing, so it does have old stuff but you don\u2019t realize it\u2019s there?) is almost always less valuable than time spent on bug fixing or adding new features.",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "PresidentHunterBiden",
+                                    "body": "Is this not just a person\u2019s week of effort? Maybe you miss stuff, but it\u2019s still clearly worth it. Seems even more possible given this is a business-driven need, and not a technical need (like fighting management for time to address technical debt). Throw it on a juniors plate and let them go crazy for 40h",
+                                    "score": 1,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "GeekdomCentral",
+                                            "body": "Honestly you spelled out the problem right there: you have to justify the time spent to management/product. And the majority of the time they won\u2019t go for it. \n\nPlus saying it could be done in a week is a pretty big assumption to make. Games now have millions of lines of code, and you still have to know the right things to search for.",
+                                            "score": 1
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "Dlax8",
+                                            "body": "Oooooooor you don't push anything out of the dev environment that you don't want you players to see. Then you don't have to pay for clean up afterwards.",
+                                            "score": 1,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "PresidentHunterBiden",
+                                                    "body": "Yeah lol this is the best and obvious answer. Im just assuming they have done work upfront on these characters before release and that the cats already out of the bag. Definitely should be a policy moving forward though, and it\u2019s surprising it wasn\u2019t already.",
+                                                    "score": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "DifficultRain5044",
+                    "body": "Doing it the way COD and Fortnite do takes more effort and doesn't do much to prevent datamining as fortnite leaks constantly happen anyways.",
+                    "score": 1
+                },
+                {
+                    "depth": 1,
+                    "author": "Professional_Goat185",
+                    "body": "Easier to test stuff when enabling it is just a flag in code or build system.\n\nIt would be literally putting more effort into less PR, as leaks are stuff that gets clicks.",
+                    "score": 1
+                },
+                {
+                    "depth": 1,
+                    "author": "Raidoton",
+                    "body": "Playable characters require way more work and are way more intertwined with all the systems of the game. And sometimes it can cause unforeseen problems when removing an asset even if technically that asset isn't used in the final game. That is why for so many games data miners can find lots of unused assets.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Niceguydan8",
+            "body": "In my opinion, the content that gets dratamined in general is a huge bummer.\n\nI understand not everyone will feel the same way I do but I value the surprise factor very highly, so it's a bummer when I find out the latest crazy fortnite collab weeks before it's in the game because of datamining. \n\nThe obvious response is to just not look but it's pretty difficult to avoid unless I'm just not on the Internet at all.",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "saluraropicrusa",
+                    "body": "as someone in the industry (on the QA side), i also see it as a bit sad for the devs who i'm sure were excited to see peoples' reactions to the official reveals. it's gotta suck to have the wind taken out of your sails, especially since announcements/reveals take time and planning.",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Niceguydan8",
+                            "body": "Yeah, I can definitely see that too. \n\nI don't play the game anymore but it's why I really enjoyed the way FFXIV was setup. The data mining happened primarily the night of the most recent content patch so it was generally pretty easy to avoid",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Flashbek",
+            "body": "Just don't let anything to be mined behind. It's not rocket science to not let slip files from further updates in the game.",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "tapperyaus",
+                    "body": "All it takes is one file that references a character or something for data miners to find. It's not as easy as you think to remove every trace of something, especially on tighter patching schedules.",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Flashbek",
+                            "body": ">tighter patching schedules.\n\nBingo.\n\nIf only devs had enough time to work on the project, problems like these would rarely happen.",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "CreepingPastor",
+                                    "body": "You're being so callous, won't someone think of the shareholders!",
+                                    "score": 1,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "Comfortable_Shape264",
+                                            "body": "People who leave the game faster than the speed of light when there's not enough content updates is shareholders' problem somehow.",
+                                            "score": 1
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "APRengar",
+                                            "body": "I'm #1 to bitch about how capitalist drive for line go up is ruining video games.\n\nBut I've also seen so much discourse around \"wow, I bought a game from a solo dev and it's been 2 weeks and there is no update yet. stop being lazy game dev and just hire people to update faster.\"\n\nAverage gamers are pretty demanding.",
+                                            "score": 1
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "Raidoton",
+                                            "body": "How is a delayed patch worse for shareholders? If they delay a patch just to clean up data that they don't want to be mined, then that only hurts the consumer.",
+                                            "score": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "VoidInsanity",
+                            "body": "I don't understand why they just can't give everything a codename then update that name later if they want to. If the codename is unique, shouldn't be too hard to find and replace every filename and reference to what they want to call it when the content is actually done.",
+                            "score": 1
+                        },
+                        {
+                            "depth": 2,
+                            "author": "timpkmn89",
+                            "body": "It's not hard to do the same tricks the dataminers use.\n\nIt's rarely anything more advanced than:\n\n* Look at file names\n\n* Search for the current character's names in plain text, and see what's next to them\n\nThat could be automated on build.",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "pt-guzzardo",
+                    "body": "Unless you're a dev at a AA or AAA studio and understand their workflow, this seems a lot like armchair quarterbacking.",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Flashbek",
+                            "body": "I am a dev, yes. Not a game dev, but a professional developer. It's something that should be part of the project since the very first steps into making the game. Ideally. Specially for a game like MultiVersus where future content is on the board since its conception.",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "pt-guzzardo",
+                                    "body": "I am also a non-game dev, and this strikes me as the kind of thing that *sounds* easy but ends up being a costly nightmare to implement and get everybody on board for something that ultimately doesn't matter very much.",
+                                    "score": 1,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "Flashbek",
+                                            "body": ">ultimately doesn't matter very much.\n\nExactly. I kinda forgot that wasn't said by a game dev (assuming their director is only some fancy suited guy with a briefcase). If that's important, give their team enough time do plan ahead and develop in a way to avoid this kind of stuff. It's not easy, but if it's a problem, it must (and can) be done.",
+                                            "score": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "Reipher_3D",
+                                    "body": "Am a AAA dev, wish I had thought of this sooner!",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "GeekdomCentral",
+                    "body": "I mean, I don\u2019t mean to be a dick but this shows that you clearly have no experience with software development. Shit like this happens all the time. Features get abandoned halfway through, stuff gets added accidentally (or even gets fully completed and then it\u2019s decided to not move forward with it). Sometimes it\u2019s as easy as just scooping it back out, but if it\u2019s a change that causes a lot of refactoring to implement then you essentially have to defactor the code back to its original state which takes time. \n\nI\u2019m not saying I agree with the director, personally I\u2019m of the mindset that if it\u2019s in the game files then it\u2019s fair game. But your mindset of \u201cjust don\u2019t leave anything in there to be mined\u201d is hysterical because it shows how little you understand huge software projects with millions of lines of code. Shit is going to slip through the cracks, it\u2019s basically a guarantee when there\u2019s that much code and that many files",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Flashbek",
+                            "body": ">Shit is going to slip through the cracks\n\nTrue, but not in the scale that has been happening with basically every single game out there. As I said in another opportunity, it's something to be part of the project since its conception. Of course you can't plan ahead for everything, but this kind of leak, seems really possible. But I also understand them, mostly because it's usually not the devs fault, it's about mismanagement and higher ups pushing the release more than they should.",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Dreyfus2006",
+            "body": "Dataminers help people by allowing them to be more informed about a game they may be purchasing and/or supporting.  The only group they do a disservice to are the devs, and only if whatever dataminers discover leads people to not spend money on the game.  And if it leads them to not spend money on the game, that's really the devs' fault, not the dataminers'.",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "trapsinplace",
+                    "body": "WoW devs develop knowing their game will be datamined. They still manage to have amazing secrets in the game with rare mounts or pets as rewards. People can dstamine a sick mount months in advance but it can take 8 months before anyone actually figures out how to unlock it. If devs don't like their stuff being datamined they can either not leave it in the game, cover it up better, or accept it and make the discovery part of the excitement.\n\nBuuuuut, MultiVersus is just another heavy handed game as a service with nothing exciting to offer outside of characters and fighting, so they can't really do the last option.",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "greg19735",
+                            "body": "you're also comparing an MMO to a fighting game. Completely different.",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "ElDuderino2112",
+            "body": "Datamining is nothing but a positive for the players. Let\u2019s us see if future content is something we\u2019re interested in or not and that can help influence my decision as to whether or not I want to bother with the game.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "RJE808",
+            "body": "I still remember when the FF7 Remake demo got datamined when it leaked like, 3 months in advance. That shit was insane",
+            "score": 1
+        }
+    ]
+}

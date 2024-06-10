@@ -1,0 +1,81 @@
+{
+    "title": "New study maps brain networks behind narcissism using advanced machine learning | By using advanced machine learning techniques, researchers identified specific patterns in gray and white matter that predict narcissistic tendencies.",
+    "comments": [
+        {
+            "depth": 0,
+            "author": "AutoModerator",
+            "body": "Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.\n\n**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/#wiki_science_verified_user_program).\n\n---\n\nUser: u/chrisdh79  \nPermalink: https://www.psypost.org/new-study-maps-brain-networks-behind-narcissism-using-advanced-machine-learning/\n\n---\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "chrisdh79",
+            "body": "From the article: The findings were recently published in the [European Journal of Neuroscience](https://onlinelibrary.wiley.com/doi/10.1111/ejn.16345).\n\nIndividuals with high levels of narcissism often exhibit a grandiose sense of self-importance, a need for excessive admiration, and a lack of empathy for others. These traits can significantly impact mental health and interpersonal relationships, leading to various social and personal difficulties. Narcissistic Personality Disorder, the more extreme manifestation, affects about 1% to 15% of the U.S. population in clinical settings and presents a unique challenge in mental health care due to its complex and overlapping symptoms with other personality disorders.\n\nDespite the prevalence of narcissistic traits and NPD, research into their neurological underpinnings remains limited. Existing studies primarily focus on either gray or white matter separately and often use univariate methods that do not account for the complex interactions within the brain. This study aimed to fill this gap by examining the joint contributions of both gray and white matter to narcissistic traits using multivariate machine learning approaches.\n\n\u201cIn the Clinical and Affective Neuroscience Lab, we are interested in creating neuro-predictive models of personality to serve as future guidance for clinical classification and prevention of the development of a full disease. Personality is the heart of who we are. However, our understanding of the neural bases of personality and how personality can be predicted from neural features is something far to be understood. In our lab we are trying to pave the way to reach this aim,\u201d said study author Alessandro Grecucci, a professor of affective neuroscience and neurotechnology at the University of Trento.",
+            "score": 7
+        },
+        {
+            "depth": 0,
+            "author": "linuxpriest",
+            "body": "So narcissism isn't just an attitude. It's biological. This is gonna take me a minute to process.",
+            "score": 7,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "retrosenescent",
+                    "body": "The brain remodels itself based on our behaviors and thought patterns. Don't mistake \"biological\" for \"born that way\"",
+                    "score": 32,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "CredibleCranberry",
+                            "body": "Yes but can you then blame someone for their brain structure?\n\nI would be interested in how often people with these patterns do NOT display narcissistic tendencies.",
+                            "score": 2
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "Consistent_Bread_V2",
+                    "body": "All \u201cattitudes\u201d are biological in origin, especially mental disorders. you may need to adjust your perspective",
+                    "score": 15,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "linuxpriest",
+                            "body": "I'm camp Sapolsky. Workin' on it.",
+                            "score": 3,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Consistent_Bread_V2",
+                                    "body": "That\u2019s all we can do, carry on :)",
+                                    "score": 1
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "random_noise",
+                                    "body": "I still believe in free will, but I gotta say that man came into my life at a time I really needed someone like him. I devoured everything I could read and watch. His classes and books are quite amazing. \n\nWe need more people like him teaching our students spreading knowledge and critical thinking.",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "Cheetahs_never_win",
+                    "body": "Let's say I trained myself to do long division mentally and quickly. Do you think that might show up in brain scans?\n\nNarcissism can be viewed through a lens of addiction to emotions one gets when certain... things... happen.\n\nIt would be presumptuous to think one or the other is necessarily causal in nature.",
+                    "score": 5,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "linuxpriest",
+                            "body": "Yes, the process of long division would show up in a brain scan. \n\nWe know what a \"normal\" arm, finger, toe, etc. is *supposed* to look like. Same for the structures of the brain. And when those physical structures are... \"outside the norm,\" function is necessarily affected. There's no factor of \"will.\"",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

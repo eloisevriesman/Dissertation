@@ -1,0 +1,171 @@
+{
+    "title": "Hi! I've been running into performence issues lately and wondered if someone here could help me since my internet searching was to no avail... (More info. in comments and pics.)",
+    "comments": [
+        {
+            "depth": 0,
+            "author": "MinecraftModBot",
+            "body": "* Upvote this comment if this is a good quality post that fits the purpose of r/Minecraft\n\n* Downvote this comment if this post is poor quality or does not fit the purpose of r/Minecraft\n\n* Downvote this comment *and report the post* if it breaks the [rules](https://www.reddit.com/r/Minecraft/wiki/rules)\n\n---\n\n[Subreddit Rules](https://old.reddit.com/r/Minecraft/wiki/rules)[](## VytlemenecCz|1cyyt7c)",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Ne0ix",
+            "body": "A bit of a stretch, but I can't think of anything else that looks weird. \n\nIt seems your Nvidia driver is the most recent version, did this start after you updated?",
+            "score": 4,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "VytlemenecCz",
+                    "body": "This started in half of march. Restart of laptop usually fixed it, but I am not sure if even that works now (will try tommorow).",
+                    "score": 3
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "casultran",
+            "body": "Your render distance is set to 28. Lower it to 12-16.",
+            "score": 7,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "VytlemenecCz",
+                    "body": "As I have already stated, there is no performence difference between 28 and 4 chunks for me. Something else seems to lower the fps",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Healthy_Temporary_44",
+            "body": "This a real question or another meme like the sheep and elder guardian one",
+            "score": 3,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "VytlemenecCz",
+                    "body": "Real question \ud83d\ude2d",
+                    "score": 3
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "VytlemenecCz",
+            "body": "I am playing on a slighty modded server (basically all Vanilla+ features from HermitCraft), the server runs through Aternos website. I used to have stable 60 fps with no problem and suddenly I am happy to get 40. My GPU is Geforce GTX 1650, Mods I am using are posted in the screenshots including a resource pack (I am also using Vanilla Tweaks but they weren't the issue). Yes, I have tried to turn them all off (made no diff). Yes, I have tried to turn my render and other distances to less than 28 (also made no diff). It usually runs okay after I restart my laptop but when I don't it's like this. Thank you for any ideas. I am happy to answer any questions!\n\n  \nEdit: This is list of the mods on the server (there is actually a little less, I can state all of which were removed if it matters)\n\n[https://www.reddit.com/r/HermitCraft/comments/1ahuli4/hermitcraft\\_s10\\_world\\_info/](https://www.reddit.com/r/HermitCraft/comments/1ahuli4/hermitcraft_s10_world_info/)",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "_vogonpoetry_",
+                    "body": "If it's fixed after a restart, it sounds like your laptop is throttling from high temps or power limit. Monitor your system with HWinfo64.",
+                    "score": 5,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "VytlemenecCz",
+                            "body": "Yes I was wondering about this. How is it possible that this happens only with Minecraft tho? I can run more demanding games smoothly (GTA V on very high details, Fortnite with max render distance, POE etc.)  Is it possible that some program could be causing this throttle? (My temps seem to be fine while playing MC btw)\n\nAlso where could I check the power limit please? :3",
+                            "score": 3,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "VytlemenecCz",
+                                    "body": "Okay so I checked the temps and my GPU is at 54\u00b0C at max while playing, my power mode is at max performance and I do have the laptop plugged in dw.\n\nI also tried playing only with Sodium and I still had only 32 fps on avarage",
+                                    "score": 3
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "kurrycat2004",
+            "body": "you could try to see if there is something that takes an unusual amount of time to process, by opening the f3 pie-chart with shift+f3. it will show in the bottom right, navigating deeper is done with the number keys",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "VytlemenecCz",
+            "body": "**! SOLVED !**\n\nu/Zhyver was the kindest and most patient person alive and helped me through this. The problem was probably in the Java version I was using (17.0.8) as of right now Java 22 is the newest (You can download it [here,](https://www.azul.com/downloads/?package=jdk#zulu) just scroll down a little and download the .msi file) Zhyver also pointed out to me that the modpack was missing one very significant performance mod (I will post the new modlist in the reply of this comment). I was also using CurseForge previously which wasn't able to load my new Java version. We fixed this by using MultiMc launcher which is much better by the way. The game now runs at minimal 59 fps without Vsync with all the mods. Will try shaders later and update yall.\n\nThat's all for now, thank you for your help and time everybody! Especialy you u/Zhyver <3!",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Rodofire2374",
+            "body": "Try updating your drivers.",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "VytlemenecCz",
+                    "body": "Drivers are up to date (updated them yesterday)",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "AgreeableAd8687",
+            "body": "maybe the game is running off the igpu?",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "VytlemenecCz",
+                    "body": "It is not, you see it in the first screenshot (on the right), but thank you :3",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Mr_binarwal",
+            "body": "30 is technically good fps like i usually avg about 25",
+            "score": -1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "VytlemenecCz",
+                    "body": "I have played on 20 fps for 20 years of my life, I think its time to move on \ud83d\ude2d",
+                    "score": 3
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "bro_eater",
+            "body": "Hi.\n\nDo you have any shader packs or performance altering mods with visual effects?? If you do, test it without shaders and possibly try to disable some visual mods and launch it in another singleplayer world. Also try to lower your render distance, and other performance related options.\n\nOne possibility could be allocating more RAM memory for the application. you can change it in the curseforge settings\n\nSettings. -> Minecraft. -> Allocated memory. -> 6000MB if you have 8GB of RAM, 12000MB-13000MB if you have 16GB of RAM",
+            "score": -4,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Conart557",
+                    "body": "Allocating more ram isn\u2019t a good idea. They already have 4gb and aren\u2019t even using a quarter of it. Giving the game more could only hurt performance",
+                    "score": 9
+                },
+                {
+                    "depth": 1,
+                    "author": "themistik",
+                    "body": "Allocating more ram won't do.",
+                    "score": 4,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "VytlemenecCz",
+                            "body": "Yeah, it wasn't much of a help",
+                            "score": 2
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "VytlemenecCz",
+                    "body": "Hi,\n\nI've tried playing with all mods and shader/resource packs turned off in singleplayer world already and it had no effect. The same goes for render distance, there is almost no difference between 4 and 30 chunks and Fancy/Fast graphics.\n\nI will try to allocate more RAM and update you in a minute!\n\nEdit: More RAM helped a little I have 5 more fps  now! \ud83d\ude2d",
+                    "score": 2
+                }
+            ]
+        }
+    ]
+}

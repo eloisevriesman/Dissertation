@@ -1,0 +1,322 @@
+PostID,CommentID,Combative,Deliberative,Text,Toxicity,Rationality,Mutual Respect,Emotion,Moderator,Diversity
+post_1,post_1_0,0.0,0.0,Lana Del Rey accepting the Special International Award at the Ivors Academy Awards 2024,0.023898741954923,0.0110639929771423,0.9961112141609192,0.99799582362175,0,1
+post_1,post_1_0,1.0,0.0,"Respectfully, so many of her outfits look like they came from the mall. Not a bad thing, but a thing.",0.0330500369329109,0.3474753499031067,0.9961488246917723,0.0940755307674408,0,1
+post_1,post_1_1,1.0,0.0,Looking like a Sephora bag 🛍️💅🏻,0.7467634780173203,0.698878288269043,0.997008740901947,9.301304817199708e-05,0,1
+post_1,post_1_2,0.0,1.0,INFO: Ivor Novello Awards are judged by acclaimed songwriters and composers from The Ivors Academy and awarded for craft and creative excellence. The only awards for songwriters and composers judged by their peers.,0.0235325158881824,0.4060392379760742,0.963320255279541,0.99043270945549,0,1
+post_1,post_1_3,0.0,1.0,"we're seriously back in 2012, she looks great",0.0251883764293447,0.8558347225189209,0.8348795175552368,0.9975729882717131,0,1
+post_1,post_1_4,0.0,1.0,gosh I lovee her hair,0.144822169396787,0.4648100733757019,0.9995304346084596,0.9984790086746216,0,1
+post_1,post_1_5,0.0,0.0,[deleted],0.0260687223098937,0.833021879196167,0.9979165196418762,0.0003655850887298,0,1
+post_2,post_2_0,0.0,0.0,"Bella Hadid attends the ""L'Amour Ouf"" (Beating Hearts) Red Carpet at the 77th Cannes Film Festival",0.0251897929673637,0.6236374378204346,0.8020226359367371,0.9979957640171052,0,1
+post_2,post_2_0,0.0,1.0,she is the moment 🥺♥️,0.1274967073618454,0.7727380394935608,0.9977752566337584,0.9983094334602356,0,1
+post_3,post_3_0,0.0,0.0,Miley Cyrus stuns in new photo from Netflix’s ‘My Next Guest Needs No Introduction with David Letterman.’,0.0419807363022239,0.5595043301582336,0.9187539219856262,6.562471389770508e-05,0,1
+post_3,post_3_0,0.0,1.0,Love she is brunette again this is the best her hair has looked in years,0.0596761369343144,0.4316043853759765,0.9934790134429932,0.9917016327381134,0,1
+post_3,post_3_0_1,0.0,1.0,She looks more like her old self than she has in most recent photos and I love it.,0.0323740301658929,0.2448107600212097,0.930564284324646,0.9995642006397248,0,1
+post_3,post_3_0_2,0.0,1.0,Couldn't agree more. It looks so full and HEALTHY!,0.0244557953822195,0.0192333459854125,0.987448751926422,0.9988594353199004,0,1
+post_3,post_3_0_2_1,0.0,1.0,"It’s a wig but I agree it looks really nice.
+
+Edit: dang y’all! I’ve learned so much more about wigs, clip ins, extensions, y’all are awesome!",0.0801265761873909,0.6848154664039612,0.9997034668922424,0.9987617433071136,0,1
+post_3,post_3_0_2_1_1,0.0,1.0,I actually think it is extensions. If you look at the top it is very full with short layers to give volume and hide whatever is keeping the hair on her head. The longer part is all kind of one layer and looks *just slightly*  different in color and texture than the top part. Source: wore extensions for years and learned all the tips for hiding your tracks.,0.0257553816561062,0.5336847901344299,0.9894315004348756,0.0161622762680053,0,1
+post_3,post_3_0_2_1_1_1,1.0,0.0,"I think it’s extensions, too. Look at the damage to her hair at the bottom, there’s no way that’s all wig.",0.0818822023221401,0.863069474697113,0.9623415470123292,0.0333324968814849,0,1
+post_3,post_3_0_2_1_2,1.0,0.0,When will you wear wigs?,0.24055447226034,0.8948549032211304,0.9981953501701356,0.9416317641735076,0,1
+post_3,post_3_0_2_1_2_1,0.0,1.0,"Me? As soon as I can afford one that’s not from party city.  
+
+I think wigs are awesome! I have a few family members who wear them from medical ailments and they always look great. One who switches out a couple for fun!",0.062099627263702,0.0479455590248107,0.9996838569641112,0.9999124109745026,0,0
+post_3,post_3_0_2_1_2_1_1,0.0,1.0,Ah just a joke. [https://www.youtube.com/watch?v=-xqEABqaEuo](https://www.youtube.com/watch?v=-xqEABqaEuo),0.0526595025656899,0.0048187375068664,0.9994637370109558,0.0001894235610961,0,0
+post_3,post_3_0_2_1_2_1_1_1,0.0,1.0,"Oh damn, haha! Sorry! Totally missed that. 
+
+I still would. 😂",0.7748143435184954,0.0054408907890319,0.9993703961372375,0.0075711011886596,0,0
+post_3,post_3_0_2_1_3,0.0,1.0,Oh wow I had no idea! How do you tell?,0.0289140615427825,0.0052312612533569,0.7072206139564514,0.9953152239322662,0,1
+post_3,post_3_0_2_1_3_1,0.0,1.0,"I am be TOTALLY wrong -  but wigs are super common with musicians especially during concerts. It’s also really thick and if you look at the front the hair line is kinda covered up. 
+
+But I may be wrong and I could care less what she does with her hair - I still loooooove her.",0.1123409917450374,0.0279826521873474,0.99736350774765,0.9253076910972596,0,0
+post_3,post_3_0_2_1_3_1_1,0.0,1.0,The other thing you have to remember is that Dolly Parton is her godmother.  If anyone knows a thing or two about a good wig it's Dolly.,0.040480254576526,0.0213682651519775,0.9993639588356018,0.9995480179786682,0,1
+post_3,post_3_0_2_1_3_1_1_1,0.0,1.0,"“Take a lot of money to look this cheap”. God bless Dolly. A saint, an angel and a bad ass.",0.8453896450301087,0.0300968289375305,0.999771773815155,0.0858693122863769,0,0
+post_3,post_3_0_2_1_3_1_2,0.0,1.0,"That’s first thing that came to mind, in the front it looks unusually thick and full.
+
+I thought maybe extensions to, extensions are also very enhancing, nonetheless she looks nice brunette.",0.0256196090759818,0.5485672950744629,0.6072786450386047,0.0687945485115051,0,1
+post_3,post_3_0_2_1_4,0.0,1.0,"If it is, that lace line is unclockable. 
+
+If it isn’t, it’s also possible she has some clip ins or sew ins underneath to give her the extra volume. 
+
+No matter what, that is definitely not all of her own hair.",0.0435225335994319,0.7207173109054565,0.9940694570541382,5.4776668548583984e-05,0,1
+post_3,post_3_0_3,0.0,1.0,Agreed!!,0.0271515798979896,0.883470892906189,0.9892438650131226,0.991660475730896,0,1
+post_3,post_3_1,0.0,0.0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,1
+post_3,post_3_1_1,0.0,0.0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_3,post_3_1_1_1,0.0,0.0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_3,post_3_1_1_1_1,0.0,0.0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_3,post_3_1_1_1_1_1,0.0,0.0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_3,post_3_1_1_1_1_1_1,0.0,0.0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_3,post_3_1_1_1_2,0.0,0.0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_3,post_3_1_2,0.0,1.0,It's all my eyes are drawn to now.,0.0260302229165048,0.8743905425071716,0.99753075838089,0.9974420368671416,0,1
+post_3,post_3_2,0.0,1.0,"I’ll always have a soft spot for her. She was the first concert I ever attended!! (she was Hannah Montana, haha~)",0.0265741504160563,0.7730100750923157,0.9994544386863708,0.9997050166130066,0,1
+post_3,post_3_2_1,0.0,1.0,Me too! I saw her when she toured with the Cheetah Girls haha,0.1763376595670487,0.2602125406265259,0.9977580904960632,0.9996238350868224,0,1
+post_3,post_3_2_1_1,0.0,1.0,I was a whole whopping 12 and freaking out lmao! 😂,0.9523143134758612,0.8023145198822021,0.9997934699058532,0.0007571280002593,0,0
+post_3,post_3_2_1_2,0.0,1.0,Omg took my daughter to that for her first concert. You guys were all so cute and overly cheetah dressed 🤣,0.1295417020673857,0.0463811755180358,0.9995914101600648,0.9936685264110564,0,1
+post_3,post_3_2_1_3,0.0,1.0,i wanted to go to that tour so bad 😭😭 begged my mom for months,0.3148138216622172,0.6210832595825195,0.9997509121894836,0.0016525983810424,0,1
+post_3,post_3_2_2,0.0,1.0,"I was, and still am, so obsessed with her! my older sister and her husband were in Vegas when she was doing a Hannah Montana concert and they got me a wig and it was my most loved item, next to my Miley Cyrus microphone that were used lovingly together 😂",0.0377403391222799,0.0124024748802185,0.9994569420814514,0.9998587667942048,0,1
+post_3,post_3_2_3,0.0,1.0,Mine too. Her and the Jonas Brothers 😅,0.0253374501177323,0.7788968086242676,0.9782322645187378,0.9999074637889862,0,1
+post_3,post_3_2_3_1,0.0,1.0,"Oddly, I never got into the JoBros! It was Cheetah Girls and Hannah Montana for me :)",0.0476854150087875,0.0097651481628417,0.999675750732422,0.0043985247611999,0,0
+post_3,post_3_2_3_2,0.0,1.0,Omg the combo one was my first concert too!!! it was a gift to me and my bff who had just been diagnosed with cancer. it’s genuinely one of my sweetest memories with her 💕,0.0807820814539991,0.3832559585571289,0.9985576272010804,0.9998403191566468,0,1
+post_3,post_3_2_3_3,0.0,1.0,I went to the one with her and the Jonas brothers as well!,0.0257805730719995,0.6799286007881165,0.964346706867218,0.9559216797351836,0,1
+post_3,post_3_2_4,0.0,0.0,Did she play “if we were a movie” ??,0.0381432447519277,0.4060172438621521,0.8726049661636353,0.0049685537815093,0,1
+post_3,post_3_2_4_1,0.0,1.0,I think so!,0.0319903760584677,0.6479727029800415,0.9893827438354492,0.1148242354393005,0,0
+post_3,post_3_2_5,0.0,1.0,WHAT!? Hannah Montana was Miley Cyrus????,0.0617788722904149,0.5193408131599426,0.9600002765655518,0.0009573101997375,0,1
+post_3,post_3_2_5_1,1.0,0.0,Oh my God this comment makes me feel so old 😭,0.0910932480027776,0.007466435432434,0.999612033367157,2.4557113647460938e-05,0,1
+post_3,post_3_2_6,0.0,1.0,Me too! She’s so talented,0.0303798849868614,0.7277969717979431,0.9948388934135436,0.9984961748123168,0,1
+post_3,post_3_2_7,0.0,1.0,"Me too! My parents put me in the car, wouldn’t tell me where we were going, and COMPLETELY surprised me!",0.0768627236030962,0.0174320340156555,0.8245052695274353,0.9993853867053986,0,1
+post_3,post_3_2_7_1,0.0,1.0,"Awww, that is honestly the cutest thing.",0.0267281472696769,0.0235918164253234,0.999129354953766,0.9540164768695832,0,0
+post_3,post_3_2_8,0.0,1.0,I saw her in early 2008 in New Orleans with my dad and best friend!! we were 8 lmao it was Mardi Gras and my dad had to get two young girls through the crowds back to wherever we were staying lol,0.0530382843217558,0.0080450177192687,0.9997877478599548,0.999412089586258,0,1
+post_3,post_3_2_8_1,0.0,1.0,2006 for me :),0.0253908794647083,0.9067040085792542,0.994683802127838,0.9952284395694732,0,0
+post_3,post_3_3,0.0,1.0,"I’ll always love her to bits. I think I’ve literally stanned her almost my whole life, as Hannah then Miley",0.1557647023169356,0.0653915405273437,0.999784529209137,0.9993977546691896,0,1
+post_3,post_3_3_1,0.0,1.0,"Straight up, I know we shouldn’t idolize celebrities but fuck it I LOVE her",0.984357863988528,0.2224806547164917,0.9997971653938292,0.9993036687374116,0,1
+post_3,post_3_3_1_1,0.0,1.0,"Me too! The amount of vitriol against her throughout the years was so tough to witness as a young fan of hers, she deserves so much happiness. And I’m glad she seems to be doing much much better these days",0.0308565021110166,0.6619882583618164,0.9994328618049622,0.998074471950531,0,0
+post_3,post_3_3_2,0.0,1.0,"I’m too old to have been a Hanna Montana fan and my kids weren’t the right age to be interested to watch her but man I can’t help but love her. 
+
+Her godmother is Dolly Parton and I think she’s followed her own path like Dolly did. She’s just so herself and she’s weathers a lot of bad publicity and parents behaving badly.",0.0634811399716716,0.0070003271102905,0.9997962117195128,0.9309110641479492,0,1
+post_3,post_3_3_2_1,0.0,1.0,"I'm 65, and I adore her. She is so talented,  a true entertainer. I have this image of her singing ""Party in the USA"", swinging on a pole. It was an amazing performance. She was just putting it all out there.  I always defended her against her critics. ""She's just being Miley, y'all.""",0.029614675916722,0.2999732494354248,0.9995526671409608,0.999222368001938,0,1
+post_3,post_3_3_3,0.0,1.0,Me too! It must be amazing to be an artist where so many of your fans can say this and mean it,0.0264506047026845,0.6156346201896667,0.8670476675033569,0.99939426779747,0,1
+post_3,post_3_3_3_1,0.0,1.0,Right? She deserves that sort of loyalty after all the shit the media put her through. I’m so glad to see her doing so well these days,0.655611022312927,0.0129597783088684,0.9997718930244446,0.99956676363945,0,0
+post_3,post_3_3_4,0.0,1.0,"I never stopped supporting her even when she was being absolutely destroyed by the whole world, which looking back I hope everyone realizes was incredibly unfair! I am a Miley apologist/stan for life and I’m so happy to see her thriving 🥹",0.0518629091208811,0.0115095376968383,0.9997839331626892,0.9981586933135986,0,1
+post_3,post_3_3_5,0.0,1.0,"Me too. I feel like she's the first celebrity that I really connected with who was the same age as me, and that I felt like I ""grew up with."" I don't know if I have that feeling with anyone else. I don't really care if that comes off as parasocial or whatever. I just love her and what she's done with her life.",0.0319306722961176,0.092289924621582,0.9997147917747498,0.9990394711494446,0,0
+post_3,post_3_4,0.0,1.0,She IS the moment,0.1453830388840364,0.7727380394935608,0.9977752566337584,0.9989924430847168,0,1
+post_3,post_3_4_1,0.0,1.0,She looks like Vicky from r/TheVampireDiaries,0.0561622217031624,0.458608865737915,0.7456481456756592,0.1002895236015319,0,1
+post_3,post_3_4_1_1,0.0,1.0,OMG YEAH,0.0282322896863916,0.0047250986099243,0.9979654550552368,0.994180589914322,0,1
+post_3,post_3_4_1_2,0.0,1.0,"omfg that's *SO* spot on, it almost makes me want to rewatch",0.1630407259283783,0.584112823009491,0.9984951019287108,0.8650930225849152,0,0
+post_3,post_3_4_1_3,1.0,0.0,i'd let her trial her nascent vampirism on me,0.561823066713056,0.022287368774414,0.9989638328552246,0.9839590191841124,0,1
+post_3,post_3_4_1_4,1.0,0.0,Omg stop don’t say that don’t ruin it for me😭😂,0.1239045316545748,0.0049420595169067,0.999521017074585,0.1922275722026825,0,1
+post_3,post_3_4_2,0.0,1.0,MOMENT by Miley Cyrus,0.027346685371198,0.4411401748657226,0.8022512793540955,0.9993807673454284,0,1
+post_3,post_3_4_3,0.0,0.0,[deleted],0.0260687223098937,0.833021879196167,0.9979165196418762,0.0003655850887298,0,0
+post_3,post_3_4_3_1,0.0,0.0,![gif](giphy|Lsv3nTOVxq1QHI9SdM|downsized),0.0492885317256124,0.106052815914154,0.6080996990203857,0.0011454820632934,0,1
+post_3,post_3_5,0.0,0.0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_3,post_3_5_1,0.0,0.0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_3,post_3_5_2,0.0,0.0,Was looking for this,0.0269456897635495,0.884553074836731,0.9933934807777404,0.9994799494743348,0,1
+post_3,post_3_6,0.0,1.0,I’ve always loved this hair color on her! Takes me back to  Party in the USA Miley.,0.0328083499060733,0.4592793583869934,0.9995383024215698,0.9993926584720612,0,1
+post_3,post_3_7,0.0,1.0,Its giving fortune 500 CEO,0.0274117966329321,0.0165210962295532,0.9981232285499572,0.9881546199321748,0,1
+post_3,post_3_7_1,0.0,1.0,It’s giving Bristol Palin biopic,0.0871216513018916,0.783039391040802,0.8459658026695251,0.1296229064464569,0,1
+post_3,post_3_7_1_1,1.0,0.0,Only one of them has talent.,0.0414116605673986,0.5464840531349182,0.9986686706542968,0.2143270075321197,0,1
+post_3,post_3_8,0.0,1.0,She looks like a guest star on Frasier or Just Shoot Me.,0.2133188839780584,0.5699875950813293,0.9982314705848694,0.0494358837604522,0,1
+post_3,post_3_8_1,0.0,1.0,this reference is so precise it made me snort.,0.0801477042740156,0.8616235852241516,0.9926100373268129,0.9950028955936432,0,1
+post_3,post_3_8_2,0.0,1.0,I’m listening,0.0314303091342354,0.7973905801773071,0.5239326357841492,0.9901008903980256,0,1
+post_3,post_3_8_3,0.0,1.0,"Roz's ambitious intern, or Nina Van Horn's scheming niece",0.0505728779324312,0.5329068303108215,0.9994309544563292,0.8162473738193512,0,1
+post_3,post_3_9,1.0,0.0,"Miley Cyrus? Baby, that’s Miley Stewart",0.045919874947596,0.2240317463874817,0.9767469763755798,0.9891037046909332,0,1
+post_3,post_3_10,0.0,1.0,She’s good shit. Met her at a random house party one time and she was extremely nice,0.9424508025789342,0.010005235671997,0.9997395873069764,0.9995163679122924,0,1
+post_3,post_3_10_1,0.0,1.0,"So you met her at a.. Party in the USA? 
+
+(Sorry, couldn't help myself)",0.0260509896478112,0.5748770236968994,0.9993638396263124,0.0396803617477417,0,1
+post_3,post_3_10_1_1,0.0,1.0,Oh my god amazing!!! I wish it was but it was Canada hahahaha,0.0302892977945478,0.0049887895584106,0.9960461258888244,0.9187035858631134,0,0
+post_3,post_3_10_1_1_1,0.0,1.0,"Aw man, my day is now ruined hahaha 
+
+I'm super jealous though!",0.2091941938882155,0.0361852645874023,0.9997860789299012,0.8485199511051178,0,0
+post_3,post_3_10_1_1_1_1,0.0,1.0,I’m sorry!!!! Hahaha it was at a random punks house,0.2919174532474531,0.4878512620925903,0.999796450138092,4.351139068603516e-06,0,0
+post_3,post_3_10_1_1_1_1_1,0.0,1.0,Did you know she was going to be there before you went? Or were you just chilling out at some random punk's party and Miley Fucking Cyrus strolled in?,0.9950244624518964,0.1694405674934387,0.999812662601471,0.0053132474422454,0,0
+post_3,post_3_10_1_1_1_1_1_1,0.0,1.0,"There was a text from a mutual friend saying she was going to be there; but we thought it was bullshit. She was already there just hanging out, no one really made a big deal it was awesome",0.8146322954362482,0.0236358642578125,0.9996387958526612,0.0001277029514312,0,0
+post_3,post_3_10_1_1_2,0.0,1.0,"Party in the US ""eh""",0.0252262200824485,0.4403097629547119,0.9990646243095398,6.449222564697266e-05,0,1
+post_3,post_3_10_1_1_2_1,0.0,1.0,YOU ARE BRILLIANT,0.0394767197315732,0.635497510433197,0.9590715765953064,0.9992379248142242,0,0
+post_3,post_3_11,0.0,1.0,"No hate, but... she looks exactly the same as she always has? “Stuns” makes me think that she showed up looking unexpected in some way, like she changed up her look dramatically or had a major “glow up” or even, conversely, showed up completely disheveled and out of sorts. But she looks like herself. Is it because she has a more mature, sort of demure styling going here or what?",0.0916798992747789,0.0135480165481567,0.996174693107605,0.0001851916313171,0,1
+post_3,post_3_11_1,0.0,1.0,"It’s kind of obscure but like other commenters have said, it’s probably a meme reference. Pretty sure it originates from Trixie Mattel’s “Madonna stuns in new selfie” so it’s like a drag race thing lol",0.09013424432898,0.0144602060317993,0.9997430443763732,0.0114784836769104,0,1
+post_3,post_3_11_2,1.0,0.0,"Yeah, it’s generous lol",0.0376497610499319,0.0051497817039489,0.99977046251297,0.9969663321971892,0,1
+post_3,post_3_11_3,1.0,0.0,"The title is a meme, you might be overthinking it.",0.028113956526721,0.7161413431167603,0.966370165348053,0.0025598406791687,0,1
+post_3,post_3_11_3_1,0.0,1.0,I’m probably overthinking yeah. Memes are getting more and more vague these days.,0.0257581138745791,0.0048679113388061,0.9986020922660828,0.0001024901866912,0,0
+post_3,post_3_11_3_2,1.0,0.0,I don’t think you know what a meme is.,0.0506831606440331,0.295582115650177,0.9979602098464966,0.003762274980545,0,1
+post_3,post_3_11_3_2_1,0.0,1.0,"I’m pretty sure I do. It’s an ongoing joke that Twitter accounts like pop crave, pop base etc will just post any picture of a celeb with “x stuns in new picture”.",0.0497623782805547,0.0079824924468994,0.9996082186698914,0.0035998821258544,0,0
+post_3,post_3_11_3_2_1_1,1.0,0.0,If it’s paired with a mediocre or random  picture. She looks good here.,0.1598506081229483,0.0054193139076232,0.9952840209007264,0.0061317384243011,0,0
+post_3,post_3_11_3_2_1_1_1,1.0,0.0,OP clearly didn’t think so because they wrote a whole paragraph about how she looked normal.,0.0261438912716291,0.0671954154968261,0.973701536655426,0.0002046525478363,0,0
+post_3,post_3_11_3_2_1_1_1_1,1.0,0.0,"Not true at all. I never said she didn’t look good, just that she didn’t look unusual. She looks as lovely as she ever does.",0.0302882869510231,0.0108061432838439,0.9856788516044616,0.000271588563919,0,0
+post_3,post_3_11_3_2_1_1_2,0.0,1.0,"No I feel like the youngs have a different meaning for meme. I had a gen zer explain it to me. We (olds) think of a meme as a picture with words (we’re right) but gen z thinks it’s what this person said, an ongoing joke or something not so serious or whatever",0.0308093674550365,0.0086543560028076,0.9996827840805054,0.0024285316467285,0,1
+post_3,post_3_11_4,0.0,0.0,It’s her OG hair maybe,0.2287870327750558,0.636457085609436,0.8083235621452332,0.1614793539047241,0,1
+post_3,post_3_11_5,1.0,0.0,... so you're blind,0.9398097830426988,0.8613218069076538,0.9994600415229796,0.0111899673938751,0,1
+post_3,post_3_11_5_1,0.0,1.0,Is this also a meme I don’t get it,0.0759945082125317,0.7313668131828308,0.7486647963523865,0.0001519918441772,0,0
+post_3,post_3_12,0.0,1.0,"She looks great. But the whole, her siding with the mother that married the 50-something that was fucking her teenage sister kind of turned me off of her.",0.977573146473571,0.0424017906188964,0.9998098015785216,0.0013312399387359,0,1
+post_3,post_3_12_1,0.0,1.0,"I need them to come out with the real story because that is some psycho creepy shit. And if it was fake her team would have denied that shit so fast, so it's really scary that there's no news...",0.9298851059627152,0.0144999623298645,0.9997631907463074,0.0378549098968505,0,1
+post_3,post_3_12_1_1,0.0,1.0,"Honestly, it’s almost more disturbing that we have no info. Like… is this the promotion they want?
+
+🤮",0.0285605597084155,0.5905457735061646,0.9816135168075562,0.000879943370819,0,0
+post_3,post_3_12_1_1_1,1.0,0.0,"Exactly. She's fucking Miley Cyrus. Any wrong and disturbing rumors she would have her team shut down IMMEDIATELY 
+
+And now suddenly she's back in the spotlight doing interviews????????
+
+Lmfao she's cleaning up her image. I am so done with her. There really is no good celebrity besides dolly parton lol
+
+The rest are psychos",0.9980394695328244,0.0859493017196655,0.9998099207878112,0.0004648864269256,0,0
+post_3,post_3_12_2,0.0,1.0,Same,0.0336804735026296,0.8564969301223755,0.9784608483314514,0.7570773661136627,0,1
+post_3,post_3_12_3,0.0,1.0,Did anyone actually involved in the situation confirm that that’s what happened? Or is it still “person close to the situation said blah blah blah”?,0.0454687412293088,0.5117985010147095,0.5440343618392944,7.808208465576172e-06,0,1
+post_3,post_3_12_4,0.0,1.0,"Wait - serious question but was Noah a teenager when she was with Dominic? I mean, it’s obviously gross if she was with him at all since he’s like mid-50s but idk that she was a teenager. I could be wrong though.",0.0694503914088073,0.0957837104797363,0.9997339844703674,0.00139781832695,0,1
+post_3,post_3_12_4_1,0.0,1.0,"no, as far as i can tell she was in her 20s",0.0336499598478473,0.7467641234397888,0.9881623387336732,0.0190954208374023,0,1
+post_3,post_3_12_5,0.0,1.0,"is it gross, yeah, but she wasn't actually a teenager at the time and at the end of the day she's still Miley's mum- plenty of people have forgiven their mothers for worse, especially if your childhood was as weird as Miley's and it's hard to break that bond",0.1322113696093914,0.005880057811737,0.9997857213020324,0.0644356310367584,0,0
+post_3,post_3_13,0.0,1.0,I love her and she looks good here,0.0251037955196913,0.2760185599327087,0.8005399703979492,0.9949498474597932,0,1
+post_3,post_3_14,0.0,1.0,YESSSSS been waiting for the brunette moment!! 😍,0.1158243448800255,0.0225002169609069,0.999026656150818,0.8912820518016815,0,1
+post_3,post_3_15,0.0,1.0,"Love Miley!!! I must say, I like the brunette hair color on her more than the blonde (she’s beautiful regardless)",0.0302239290077654,0.0855314135551452,0.9994643330574036,0.999756157398224,0,1
+post_3,post_3_16,1.0,0.0,"young, rich, celebrity is beautiful. 
+
+""florals for spring?"" 
+
+but nah i like miley so this is just a lil dig at the title",0.027777725494314,0.4772814512252807,0.9996198415756226,0.0159736275672912,0,1
+post_3,post_3_17,0.0,1.0,I love her hair darker so much. She looks stunning.,0.0278585562712721,0.4958918690681457,0.9736586809158324,0.9972928762435912,0,1
+post_3,post_3_18,0.0,1.0,"She looks so much better with darker hair.
+
+I get that after being a Disney kid for so long she wanted to break that mold, experiment with her look and image. That is all fine.
+
+But this is better. She will never not look like a million bucks when she is in brunette mode.",0.1044286909320534,0.2896085977554321,0.9995267391204834,0.8805646896362305,0,1
+post_3,post_3_19,1.0,0.0,"Wealthy person who has literal teams of people whose job it is to make them look good.. looks good. 
+
+In a photo styled, lit, and photographed by experts whose job it is to make sets and the people in them.. look good. 
+
+The effusive praise in this post is laughably over the top.",0.0340860958736131,0.0758519768714904,0.9930556416511536,0.9896589517593384,0,1
+post_3,post_3_20,0.0,0.0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_3,post_3_20_1,0.0,0.0,Letterman. The picture is cropped so you can’t see the taser,0.0658335852046013,0.6943746209144592,0.947421133518219,0.0009572505950927,0,1
+post_3,post_3_20_1_1,0.0,1.0,This should NOT have made me laugh as hard as it did. Thank you internet stranger!,0.0404968606679923,0.4972436428070068,0.999106228351593,0.0001426637172698,0,0
+post_3,post_3_21,0.0,1.0,she looks incredible. this hair color looks amazing on her ,0.0244570889417445,0.13407963514328,0.9362137317657472,0.9983274340629578,0,1
+post_3,post_3_22,1.0,0.0,"She does look great but I can’t stand that hairstyle, it’s like 3 different cuts at the same time. Big hair needs to come back though",0.0440753417079521,0.4068576693534851,0.9770566821098328,0.0004941225051879,0,1
+post_3,post_3_23,1.0,0.0,This is sending me. I had tickets for one of letterman’s Netflix is a joke shows and the guest was a surprise until they came on stage and stupidly this is the caliber of guest I thought I was getting but I got Nate Bergatze.  (derogatory).,0.1378802417163373,0.0062059164047241,0.9996737241744996,0.0023967325687408,0,1
+post_3,post_3_24,0.0,0.0,Getting clinton Benghazi vibes,0.0816094675567514,0.2711886167526245,0.93756902217865,0.993527889251709,0,1
+post_3,post_3_25,1.0,0.0,Hard to look bad with unlimited monies available,0.0905648813125467,0.2757390141487121,0.9471276998519896,0.9973396062850952,0,1
+post_3,post_3_26,1.0,0.0,"But what the fuck is going on with her mom's new husband and her sister because for the first time in my life she might not be someone I can support
+
+Hahahah damn yall are scared she's a fake hoe lol",0.9982531011615888,0.064280092716217,0.9998131394386292,0.0291502773761749,0,0
+post_3,post_3_26_1,0.0,1.0,"That's awkward to talk about, no? Especially since Trish and Noah aren't even famous (I know Noah kind of is, but she's pretty irrelevant) what exactly would you want Miley to do in this situation? Talk about it to the public?",0.0257802039172616,0.0177316665649414,0.999356210231781,1.436471939086914e-05,0,0
+post_3,post_3_26_1_1,1.0,0.0,"Is she a good person who didn't know her moms new husband is a creep who fucked her step daughter or not???
+
+Uh everything in celebrity life is awkward? That's the price you pay as a celebrity lmfao
+
+This shit is too serious for harmless family drama that should stay between them. He could be a dangerous creep
+
+The husband is famous, doesn't matter that Trish and noah aren't",0.974118432062858,0.0215625762939453,0.9998076558113098,9.41753387451172e-06,0,0
+post_3,post_3_27,0.0,1.0,"I remember as a child, Disney was about to livestream one of her concerts which was in 3D and we had to purchase Maggi which would offer free 3D glasses for the concert and I bought Maggi just for the glasses and wore those plastic glasses and sat in front of the TV 😭😭😭❤️",0.0312923204437935,0.5311398506164551,0.7146761417388916,0.9061455428600312,0,1
+post_3,post_3_27_1,0.0,1.0,Omg same!,0.0335883260246077,0.6808555126190186,0.8553130030632019,0.0012416243553161,0,1
+post_3,post_3_27_1_1,0.0,0.0,![gif](giphy|ZmuUzqOIEojjnd4tN8|downsized),0.0450300205489418,0.6204603910446167,0.9905495047569276,0.0006802976131439,0,0
+post_3,post_3_28,0.0,1.0,"She looks so great, really delighted for her that things seem to be so good with her!",0.0237263915401525,0.0171116590499877,0.3654689788818359,0.9953169822692872,0,1
+post_3,post_3_29,0.0,1.0,Love the darker hair!!,0.0572561066531235,0.4993842840194702,0.8762356042861938,0.9985939562320708,0,1
+post_3,post_3_30,0.0,1.0,"She’s gorgeous. She’s always seemed very true to herself and real, even when indulging different aspects of her personality. She seems like a good human and she’s a talent and a half. I’m a huge fan and always will be.",0.0487068195330767,0.0154982209205627,0.9992043375968932,0.9995362758636476,0,1
+post_3,post_3_31,0.0,1.0,I hated her during my NLOG days and fell absolutely in love with her when I outgrew that phase! I’m obsessed with her and how talented she is!,0.365019383111777,0.0053058266639709,0.9997887015342712,0.9992392361164092,0,1
+post_3,post_3_32,0.0,1.0,She’s always been beyond stunning,0.0360380796342505,0.791583776473999,0.944747030735016,0.9994366466999054,0,1
+post_3,post_3_33,1.0,0.0,Does she still sound like a smoker?,0.2470821031011239,0.2637267708778381,0.9824224710464478,0.0001845955848693,0,1
+post_3,post_3_33_1,0.0,1.0,"I love her voice. I’ve never really been a fan of her music, but her speaking voice is velvet smoke and it’s lovely.",0.0366269615558603,0.0171455144882202,0.9995254278182985,0.9984816014766692,0,1
+post_3,post_3_34,0.0,1.0,Stunning,0.0335631156707081,0.8604811429977417,0.6751077175140381,0.9996065497398376,0,1
+post_3,post_3_35,0.0,1.0,She looks stunning but Letterman is a creep.,0.4447899312142576,0.5323980450630188,0.9982717037200928,0.0586335957050323,0,1
+post_3,post_3_36,0.0,1.0,i love her! gosh i wish i looked this good haha,0.0336960378172324,0.4047545194625854,0.996963918209076,0.9977211952209472,0,1
+post_3,post_3_37,0.0,1.0,She looks stunning,0.0277526616787896,0.7946939468383789,0.9583078622817992,0.9991352558135986,0,1
+post_3,post_3_38,0.0,1.0,Ok she is stunning and I love the brunette on her,0.0269981312159537,0.6582205891609192,0.990510642528534,0.998261570930481,0,1
+post_3,post_3_39,0.0,1.0,She’s absolutely stunning and I love how her hair has been styled recently!,0.0297839993111467,0.3949187397956848,0.9829279780387878,0.999098926782608,0,1
+post_3,post_3_40,0.0,1.0,She looks like her mom.,0.499470117054073,0.6356777548789978,0.7022252678871155,0.998478353023529,0,1
+post_3,post_3_41,0.0,1.0,"She's done well for herself since her Hannah Montana days. Can't believe Disney made HER apologise for those topless Annie Leibovitz photos, girl was a MINOR and had no say in the photoshoot.",0.0404964653982206,0.0306140780448913,0.9996986389160156,0.0192801654338836,0,1
+post_3,post_3_42,0.0,1.0,Did they digitally remove tattoos?,0.033704641064672,0.7277182936668396,0.994775652885437,0.0003552436828613,0,1
+post_3,post_3_43,0.0,1.0,I love her,0.0322775293238934,0.7269368171691895,0.9607776403427124,0.9944770932197572,0,1
+post_3,post_3_44,0.0,1.0,GLOWING,0.0538924120853902,0.8417788147926331,0.9844003319740297,0.9994515180587769,0,1
+post_3,post_3_45,0.0,1.0,Stuns is an understatement omg,0.1564077594181209,0.6126403212547302,0.7530975341796875,0.000194638967514,0,1
+post_3,post_3_46,0.0,1.0,The bump it is back!,0.0371501175057305,0.7605276107788086,0.9874553680419922,0.9969648122787476,0,1
+post_3,post_3_47,0.0,1.0,Omg she’s so pretty,0.2620509871417855,0.0047181248664855,0.9994041919708252,0.9996395409107208,0,1
+post_3,post_3_48,0.0,1.0,YESSSSS,0.0595193570721501,0.0128458142280578,0.9956392049789428,0.9936397075653076,0,1
+post_3,post_3_49,0.0,1.0,I almost thought she was Sydney Sweeney for a sec 🤔,0.0266443876209618,0.5682796835899353,0.9260830283164978,0.0019846260547637,0,1
+post_3,post_3_50,0.0,1.0,Miley looks so good! She has such an energy ♥️♥️,0.0326124696117696,0.5513709783554077,0.8725624084472656,0.99988654255867,0,1
+post_3,post_3_51,0.0,1.0,Dude she is slowly morphing into Dolly in the best way possible,0.4565213284999074,0.4352863430976867,0.9993686079978944,0.999811828136444,0,1
+post_3,post_3_52,0.0,1.0,I love her.  The darker hair really suits her too.,0.026506353610016,0.297174334526062,0.8402838110923767,0.998144507408142,0,1
+post_3,post_3_53,0.0,1.0,She looks so chic. Fantastic!,0.0385401505913661,0.0046062469482421,0.578779399394989,0.9996320307254792,0,1
+post_3,post_3_54,0.0,1.0,I WILL be showing this image to my hairstylist! Super major mega slay.,0.3188928919624729,0.0263293385505676,0.993885338306427,0.9992864727973938,0,1
+post_3,post_3_55,0.0,1.0,She looks gorgeous,0.0318455479017707,0.6902434825897217,0.864024817943573,0.9987039864063264,0,1
+post_3,post_3_56,0.0,1.0,"Ugh, she is so hot",0.7552967589777639,0.6483640670776367,0.9993833303451538,9.682774543762208e-05,0,1
+post_3,post_3_57,0.0,1.0,She looks so good,0.0285372339473995,0.6794561147689819,0.9905787110328674,0.9940094649791718,0,1
+post_3,post_3_58,0.0,1.0,"Holy hell, she's glowing! Anyone know of a lipstick close to the one she's wearing?",0.3668423308622807,0.549028217792511,0.9994945526123048,0.1231579780578613,0,1
+post_3,post_3_59,0.0,1.0,"She looks amazing!!!!! 
+
+Absolutely love her. One of the most unique voices in pop music",0.0257143375106994,0.0118696689605712,0.9872806668281556,0.9988902509212494,0,1
+post_3,post_3_60,0.0,1.0,Okay Miley Stewart is making a COMEBACK🥰,0.204445389618415,0.6510592103004456,0.9765591621398926,0.9942413866519928,0,1
+post_3,post_3_61,0.0,1.0,No hate but what's with the chin?  Is that real?,0.0948562029906874,0.5881676077842712,0.999728500843048,0.0028510391712188,0,1
+post_3,post_3_62,0.0,1.0,"Beautiful, and *love* her voice",0.0339120759688647,0.4825559854507446,0.9683614373207092,0.9983532130718232,0,1
+post_3,post_3_63,0.0,1.0,She is so beautiful,0.0799012819171585,0.8771425485610962,0.6339824795722961,0.9974679350852966,0,1
+post_3,post_3_64,0.0,1.0,Y’all stun too easily.,0.480723786315346,0.7077226638793945,0.9996336698532104,4.458427429199219e-05,0,1
+post_3,post_3_65,1.0,0.0,Women look so beautiful when there isn’t a man stressing them out.,0.5277978425506203,0.2249950170516967,0.9979281425476074,0.9985570311546326,0,1
+post_3,post_3_66,0.0,1.0,She looks Dolly-fied!,0.113639876361491,0.6291112899780273,0.978190779685974,0.996453046798706,0,1
+post_3,post_3_67,0.0,1.0,"As the years go by, she gets more and more beautiful",0.0564061317614322,0.8389606475830078,0.6447548270225525,0.9995426535606384,0,1
+post_3,post_3_68,0.0,1.0,This is like THE Miley Cyrus I grew up seeing but elevated and gracefully grown,0.0281224843231288,0.4100801944732666,0.8458561301231384,0.9988072514533995,0,1
+post_3,post_3_69,0.0,0.0,[removed],0.0260143950586149,0.8302389979362488,0.995477259159088,0.058917611837387,0,0
+post_3,post_3_70,0.0,0.0,![gif](giphy|AgPt9udT567spxbSHf),0.0406165634620217,0.3670513033866882,0.9690489172935486,0.9939675331115724,0,1
+post_3,post_3_71,0.0,1.0,I love her acting,0.0317816419777708,0.7092555165290833,0.9923039078712464,0.99238258600235,0,1
+post_3,post_3_72,0.0,1.0,Beautiful!,0.039172378616116,0.8771425485610962,0.6339824795722961,0.9995199739933014,0,1
+post_3,post_3_73,0.0,1.0,"Back to BROWN hair
+
+I like it....",0.0353562375660369,0.7104460000991821,0.9925395846366882,0.998877853155136,0,1
+post_3,post_3_74,0.0,1.0,Hell yeah she stuns! ✨,0.9389349763576432,0.0049402117729187,0.9997914433479308,0.1492863893508911,0,1
+post_3,post_3_75,0.0,1.0,wow she is absolutely stunning,0.0275233958030425,0.719651997089386,0.7162262201309204,0.9997718632221222,0,1
+post_3,post_3_76,0.0,1.0,she looks so fucking pretty I love that she has her brown hair again,0.9954483933553616,0.0057958960533142,0.9997286200523376,0.9995162487030028,0,1
+post_3,post_3_77,0.0,1.0,"Damn, she looks good here.",0.6568502904961161,0.3376991748809814,0.998324453830719,0.9998879134655,0,1
+post_3,post_3_78,0.0,1.0,They could never make me hate her! ❤️,0.2891785285676053,0.6641958355903625,0.9777786135673524,0.9898021221160888,0,1
+post_3,post_3_79,0.0,0.0,Humuna humana,0.0955749987246383,0.7388012409210205,0.971466898918152,0.021271675825119,0,1
+post_3,post_3_80,1.0,0.0,Welcome back Miley Stewart,0.0389116518716254,0.6294105052947998,0.8993194103240967,0.9994292855262756,0,1
+post_3,post_3_81,0.0,1.0,Her hair looks great,0.0384364111046344,0.6077533960342407,0.9969124794006348,0.9975992739200592,0,1
+post_3,post_3_82,0.0,1.0,"She's looking better and better, every time I see her. Gorgeous!",0.0263651752145573,0.039313793182373,0.9981433153152466,0.9994340538978576,0,1
+post_3,post_3_83,0.0,0.0,![gif](giphy|AgPt9udT567spxbSHf),0.0406165634620217,0.3670513033866882,0.9690489172935486,0.9939675331115724,0,1
+post_3,post_3_84,0.0,1.0,She looks great!!! I am loving this era for her,0.0251080476181384,0.0196079611778259,0.804958701133728,0.981060117483139,0,1
+post_3,post_3_85,1.0,0.0,"""Stuns""",0.207427733818113,0.8237153887748718,0.9956157207489014,0.0001292526721954,0,1
+post_3,post_3_86,0.0,1.0,"I love her rebrand as the personification of an “Eat, pray, love” sign",0.0329842205919286,0.5679319500923157,0.9125391244888306,0.9379555583000184,0,1
+post_3,post_3_87,0.0,1.0,I hope she keeps this look. Holy crap.,0.9827155703731756,0.3842575550079345,0.9995585083961488,0.8613013923168182,0,1
+post_3,post_3_88,0.0,1.0,looove her hair lately!,0.5983779887596319,0.9024876356124878,0.9994283318519592,0.9998617470264436,0,1
+post_3,post_3_89,1.0,0.0,Stuns who,0.3448110158202779,0.8237153887748718,0.9956157207489014,0.0001143515110015,0,1
+post_3,post_3_90,0.0,1.0,That hair color looks so harmonious with her features. reminds me of her hair color in hannah montana forever.,0.0252810783495339,0.0173327326774597,0.9174796342849731,0.9988149404525756,0,1
+post_3,post_3_91,0.0,1.0,Miley is a cool chick .,0.0602885453523436,0.5293772220611572,0.9819305539131165,0.9985575675964355,0,1
+post_3,post_3_92,0.0,1.0,Looks better than I have seen her look in a long time.,0.0252169725275174,0.5900113582611084,0.9864158630371094,0.9848517775535583,0,1
+post_3,post_3_93,0.0,1.0,"Wow, she looks beautiful! Usually when these articles say someone “stuns” it’s not accurate, but in this case, she really does look incredible.",0.0532522053890105,0.0180331468582153,0.972029983997345,0.999699592590332,0,1
+post_3,post_3_94,0.0,1.0,"Great voice,talent and hot to boot.",0.0275017386921092,0.0112081170082092,0.999755322933197,0.9987635314464568,0,1
+post_3,post_3_95,0.0,1.0,I forgot how hot she was until I saw that,0.2810367597067218,0.6320629715919495,0.9979795813560486,0.994419276714325,0,1
+post_3,post_3_96,0.0,1.0,So happy for Miley but I genuinely wish that piece of shit Letterman didn't have a platform anymore,0.8957952705695369,0.3855760097503662,0.9998047947883606,0.9914247095584868,0,1
+post_3,post_3_97,1.0,0.0,"Geez, someone grew up.",0.2316807302073,0.7843654155731201,0.9980111122131348,0.9771482050418854,0,1
+post_3,post_3_98,0.0,1.0,Oh my god. YASSS BROWN HAIR MILEY,0.1123517020956575,0.0049154162406921,0.9995880722999572,0.771845668554306,0,1
+post_3,post_3_99,0.0,1.0,this is my God.,0.0293982529977178,0.9066703915596008,0.971950352191925,0.991738587617874,0,1
+post_3,post_3_100,0.0,1.0,Omg mother,0.2817727634742238,0.7285511493682861,0.9992923736572266,0.0422274768352508,0,1
+post_3,post_3_101,0.0,1.0,Yaaaas her best look,0.1378069959025767,0.5386748909950256,0.9956563711166382,0.9990429878234864,0,1
+post_3,post_3_102,0.0,1.0,Her look forreal,0.0353271697254551,0.8463959097862244,0.9984143972396852,0.9506316483020782,0,1
+post_3,post_3_103,0.0,1.0,"This is the best she's ever looked. The thing is, I say this every time I see her 😭💕",0.0253767459331425,0.3490846753120422,0.9985657334327698,0.9995618164539336,0,1
+post_3,post_3_104,0.0,1.0,This hair color on her is just 🤌🤌🤌 so classic,0.0333073466924113,0.4980432987213135,0.9973661303520204,0.7778047621250153,0,1
+post_3,post_3_105,0.0,1.0,MILEY STEWART IS BACK YALL,0.4043434963896242,0.7092821598052979,0.9986225366592408,0.117682009935379,0,1
+post_3,post_3_106,0.0,1.0,It’s crazy that one day there will be an 80 year old woman named Miley,0.4234998811892778,0.4862050414085388,0.999390721321106,0.8289717137813568,0,1
+post_3,post_3_107,0.0,1.0,Sheesh. Something about Miley is just Hot Potatoes if you know what I mean,0.0290782790120369,0.0202084183692932,0.9997394680976868,0.9987924695014954,0,1
+post_3,post_3_108,0.0,1.0,I am so in love with her.,0.0820841164761345,0.7269368171691895,0.9607776403427124,0.9989159405231476,0,0
+post_3,post_3_109,0.0,1.0,Looks like my first boo in the face. Shout out Kristen,0.5934591584876049,0.4828842878341675,0.9988898634910583,0.1899003386497497,0,1
+post_3,post_3_110,0.0,1.0,This is Miley Stewart,0.034758225333921,0.6993932127952576,0.9943268895149232,0.9986725747585296,0,1
+post_3,post_3_111,0.0,1.0,Miley Stewart is that you??,0.0807627395325512,0.6993932127952576,0.9943268895149232,0.9664506912231444,0,1
+post_3,post_3_112,0.0,1.0,"That's a real classic Miley Cyrus look, no doubt.",0.0307297805715381,0.4727799296379089,0.9932310581207277,0.9997445940971376,0,1
+post_3,post_3_113,1.0,0.0,Well she cleaned up nice. ,0.0248591736047176,0.5624964237213135,0.9765509963035583,0.9883889257907869,0,1
+post_3,post_3_114,0.0,1.0,Show stopper. 😍,0.0350780079994714,0.0930797457695007,0.996560513973236,0.9953888654708862,0,1
+post_3,post_3_115,0.0,1.0,I'm glad her hair is back to normal.,0.0554776248413834,0.7435746192932129,0.8978118300437927,0.9991134107112885,0,1
+post_3,post_3_116,0.0,1.0,I always wondered who tf told her to dye her hair blonde. She’s soooo much more stunning as a brunette.,0.069751338003128,0.5988327860832214,0.9996519088745116,0.2359135448932647,0,1
+post_3,post_3_117,0.0,1.0,she looks like a grown hannah montana.,0.0996698214810817,0.3570075035095215,0.9980670809745787,0.878712922334671,0,1
+post_3,post_3_118,1.0,0.0,Does she still talk like Dr. Girlfriend?,0.04264226744322,0.6474740505218506,0.9992563128471376,0.0115993022918701,0,1
+post_3,post_3_119,0.0,1.0,This Gen’s Dolly,0.3301453945074107,0.7521941661834717,0.9989965558052064,0.9996095895767212,0,1
+post_3,post_3_120,1.0,0.0,"In other news, pretty woman is pretty.",0.0429342169060029,0.0047091245651245,0.9958412051200868,0.9878229796886444,0,1
+post_3,post_3_121,0.0,0.0,She could play Jane Fonda in a biopic.,0.0372144941920359,0.7157272696495056,0.6506342887878418,0.0105471611022949,0,1
+post_3,post_3_122,0.0,1.0,ugh this is such a classic miley look!! so beautiful and talented… only real ones remember vibing through her bangerz and dead pets era 😭✊🏾 but also bangerz was just soooo ahead of it’s time,0.1258199220643592,0.0333529114723205,0.9997357726097108,0.9997349679470062,0,1
+post_3,post_3_123,0.0,0.0,![gif](giphy|Umx7zVTCpDaco),0.0315900956186636,0.4327862858772278,0.994744062423706,0.9866353869438172,0,1
+post_4,post_4_0,0.0,0.0,Fauxmoi Fashion Week (Wednesdays),0.0268406946551619,0.6063567399978638,0.9913691878318788,0.0170432031154632,0,1
+post_4,post_4_0,0.0,1.0,"Lily Gladstone in Cannes yesterday. Such a cute look (including the earnings, designed by Kendra Eaglestar)
+
+https://preview.redd.it/pl0rx5mqd02d1.jpeg?width=1582&format=pjpg&auto=webp&s=9bbf3775fb9b70088a4ab87337269c03a9e41166",0.0292094705041257,0.4526716470718384,0.6810004711151123,0.9990497529506684,0,1
+post_4,post_4_0_1,0.0,1.0,"Those sunglasses, omg! That's such a beautiful color on her.",0.0343601249485693,0.4617311954498291,0.9975130558013916,0.9999548196792604,0,1
+post_4,post_4_0_2,0.0,1.0,"I love everything about this look 🥰 she's so effortlessly cool, I can't stand it 😭",0.0317400216579087,0.4725228548049927,0.9995386600494384,0.9946320950984956,0,1
+post_4,post_4_1,1.0,0.0,Does anyone else not care much about Anya’s furiosa looks? Idk but I think I liked her style the most when Law was styling her. Her GQ cover is great though.,0.0739267370598102,0.2860844731330871,0.9906646013259888,0.0041589438915252,0,1
+post_4,post_4_1_1,0.0,1.0,"Did you see her look from today ? The red Mugler dress? https://people.com/anna-taylor-joy-wears-lace-up-dress-with-her-backside-partially-exposed-8652804 
+
+I'm surprised nobody posted it. I've been disliking almost all of her recent looks but this one killed.",0.129162562469169,0.0337982773780822,0.9995465874671936,0.0001932680606842,0,1
+post_4,post_4_2,0.0,1.0,"One of my favorites from Cannes.
+
+https://preview.redd.it/6yhg7i9iq02d1.jpeg?width=828&format=pjpg&auto=webp&s=7d97f50dea2437b76d322e7894351fa582eeff8b",0.0308790071275862,0.8499271869659424,0.9894015192985536,0.9999912977218628,0,1
+post_4,post_4_2_1,0.0,1.0,Oh that’s stunning!! The basic 90s girl in me loves anything stars and planets patterned.,0.0515200963466206,0.0060603618621826,0.9988284707069396,0.9997744858264924,0,1
+post_4,post_4_2_2,1.0,0.0,"Can we hook up Ana Taylor-Joy with her stylist? I hate most everything she's been dressed in lately, which is TOUGH for someone so beautiful. This look is absolutely stunning...I don't use the term Goddess much, but when I do...there's usually a celestial pattern involved.",0.0786366901730214,0.1627911925315857,0.9995636343955994,0.9999794363975524,0,1
+post_4,post_4_3,0.0,1.0,"Anya Taylor-Joy arriving at her hotel in NYC
+
+https://preview.redd.it/u4fjwrb5y02d1.jpeg?width=2333&format=pjpg&auto=webp&s=9283d819fd83fbbe6078424390dd0c8597dd28b3",0.0306145006301782,0.624325156211853,0.9632232189178468,0.997575342655182,0,1
+post_4,post_4_4,0.0,1.0,"https://preview.redd.it/mv7exh2jh72d1.jpeg?width=1366&format=pjpg&auto=webp&s=76048a618b62fcc5e5126a65ca1c6d0d192a27fd
+
+Colman Domingo continuing to be one of the best dressed men in Hollywood",0.035380433475122,0.4993902444839477,0.8140501976013184,0.9998727738857268,0,1
+post_4,post_4_5,0.0,1.0,"I just had to share my latest obsession with you all - it's none other than **Naomi Campbell's jaw-dropping dress from Cannes!** 🔥🔥🔥 Seriously, can we just take a moment to appreciate the sheer power and elegance of this outfit? It's a total game-changer!
+
+What's even more fascinating is how Naomi effortlessly rocked this dress without the trousers underneath like she did originally. Talk about a modern twist on a classic look! 💃
+
+
+
+And guess what? I'm thrilled to announce that I'll be featuring this iconic dress in my upcoming article for [VestiVogue.com](http://VestiVogue.com) newsletter and blogs! 📰✨ Stay tuned for all the juicy details on the hottest fashion styles spotted at Cannes, with Naomi's show-stopping dress taking center stage! ❄️
+
+Keep slaying, fashion fam! 
+
+https://preview.redd.it/6xrp688kj12d1.jpeg?width=1200&format=pjpg&auto=webp&s=ef0da26e5361b4087fbb1d30cce91cd8a1e7ca89",0.0449948159226894,0.2909455299377441,0.999453604221344,0.9999884963035583,0,1
+post_4,post_4_6,0.0,1.0,"https://preview.redd.it/c0riq9iw372d1.jpeg?width=610&format=pjpg&auto=webp&s=d03ce8cbc76a4233c924156b2f7f4d0fdec8108d
+
+Loved this look from Phoebe",0.0353515995799971,0.703923225402832,0.9197939038276672,0.999584436416626,0,1

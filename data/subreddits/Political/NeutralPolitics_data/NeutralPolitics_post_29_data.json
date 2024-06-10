@@ -1,0 +1,301 @@
+{
+    "title": "How, if at all, has Floridas immigration law requiring employers to file with e-verify affected the state?",
+    "comments": [
+        {
+            "depth": 0,
+            "author": "nosecohn",
+            "body": "**/r/NeutralPolitics is a curated space.** \r\n\r\nIn order not to get your comment removed, please familiarize yourself with our [rules on commenting](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules) before you participate:\r\n\r\n1. Be courteous to other users.\r\n1. Source your facts.\r\n1. Be substantive.\r\n1. Address the arguments, not the person.\r\n\r\nIf you see a comment that violates any of these essential rules, click the associated *report* link so mods can attend to it.\r\n\r\nHowever, please note that the mods will not remove comments reported for lack of neutrality or poor sources. There is [no neutrality requirement for comments](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_neutral-ness) in this subreddit \u2014 it's only the *space* that's neutral \u2014 and a poor source should be countered with evidence from a better one.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "nosecohn",
+            "body": "There are [reports of widespread labor shortages,](https://civileats.com/2024/02/07/a-florida-immigration-law-is-turning-farm-towns-into-ghost-towns/) especially in the agricultural sector.\n\nThere's also a [proposed Senate bill](https://baynews9.com/fl/tampa/news/2024/01/30/sb1598--immigration-policy) that would repeal some aspects of SB 1718.",
+            "score": 62,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Redditspoorly",
+                    "body": "Short term labor shortages lead to higher wages in the long-term though right? Employers forced to attract employees have to pay more",
+                    "score": 40,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "lnkprk114",
+                            "body": "Or those industries move to areas with cheaper labor (i.e. what happened with manufacturing)",
+                            "score": 31,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Redditspoorly",
+                                    "body": "Fair enough but agriculture is nowhere near as mobile an industry. Transport of food is much harder than transport of goods.",
+                                    "score": 40,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "SmokeGSU",
+                                            "body": "Give it a few years and there will be zero workers out there working the fields - they'll all be replaced by AI pickers/tractors and this whole \"nobody wants to work low-wage jobs\" angle will be completely irrelevant. And the already rich owners of these huge farms will only continue to get even more rich.",
+                                            "score": 9,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "ommnian",
+                                                    "body": "It's a LOT harder to make a robot who can accurately pick vegetables and fruit than you think.",
+                                                    "score": 16,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "MINECRAFT_BIOLOGIST",
+                                                            "body": "You only need enough accuracy to make the losses worth less than the savings from switching to automation.",
+                                                            "score": 9,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "ommnian",
+                                                                    "body": "That depends on the year. In years with big crops, maybe a few losses, maybe even up to 30-40% are acceptable. In years where the crops did poorly? Less so.\n\n\n\u00a0But, if you don't have the people, because you've come to depend on freaking robots that destroy huge parts of the crop, you won't have access to people.\u00a0\n\n\nSome crops are more intensive and requires more skill. Strawberries, blueberries, and raspberries come to mind.",
+                                                                    "score": 7,
+                                                                    "replies": [
+                                                                        {
+                                                                            "depth": 8,
+                                                                            "author": "MINECRAFT_BIOLOGIST",
+                                                                            "body": "That makes sense, but a quick search shows that papers from even 4-5 years ago on apples (and possibly similarly-shaped fruits) and pumpkins have a 90% accuracy rate and a 92% accuracy rate with 0% damage, respectively.\n\nhttps://robomechjournal.springeropen.com/articles/10.1186/s40648-019-0141-2\n\nhttps://www.sciencedirect.com/science/article/pii/S2405896318313181\n\nInterestingly, you brought up strawberries, which on this site is given as an example of something that already works.\n\n> Routine tasks can be automated with robotics technology, reducing labor costs in the agriculture industry. For example, a single **strawberry robot harvester** has the potential to pick a 25-acre area in 3 days and replace 30 farm workers.\n\nhttps://www.plugandplaytechcenter.com/resources/how-automation-transforming-farming-industry/\n\nI just quickly googled for a study and found this:\n\n>  In total, the system was able to harvest 87% of all detected **strawberries** with a success rate of 83% for all pluckable fruits. \n\nhttps://arxiv.org/abs/2301.03947\n\nSo I don't think it'll nearly be as catastrophic as 30-40%. To clarify, I'm not saying this is wrong or right, just that a quick search on my end indicates that we might expect efficiencies of >90% for \"easy\" to harvest fruit and >80% for more difficult ones.\n\nAnd of course, I feel obligated to point out that if robots are cheaper than people and land isn't an issue, you could spend the saved money on growing more plants to make up for any losses due to damage from robots that would have been avoided by people and to provide a buffer during years of poor harvests...and so on and so forth until available farmland does become an issue.",
+                                                                            "score": 6
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "SixtusXIL",
+                                                            "body": "This is a 9 year old video of an automated Tomato sorting machine.\n\n https://m.youtube.com/watch?v=Lz88nsWL4kw\n\nAutomated Tomato picking\n\nhttps://m.youtube.com/watch?v=l4Dc6QNWiIs&pp=ygUcYXV0b21hdGVkIHRvbWF0byBoYXJ2ZXN0aW5nIA%3D%3D\n\nFruit picking\n\nhttps://m.youtube.com/watch?v=6olybtRPdwg&pp=ygUbYXV0b21hdGVkIGZydWl0IGhhcnZlc3Rpbmcg",
+                                                            "score": 2
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "[deleted]",
+                                                    "body": "[removed]",
+                                                    "score": 5
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "mktolg",
+                                            "body": "I\u2019m not sure how important that is since I occasionally get Florida oranges in Singapore. That literally on the other side of the planet",
+                                            "score": 2,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Redditspoorly",
+                                                    "body": "Well of course, you're on an island without the capacity to feed itself. That island happens to be extraordinarily expensive for reasons just like this.\n\nI'm not trying to spruik a side of politics here- but when I hear \"x policy caused y labor shortage\" I don't necessarily view it as an irredeemably bad policy immediately - notwithstanding  the link between the policy and the shortage being anecdotal.",
+                                                    "score": 14,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "mktolg",
+                                                            "body": "No political context for me either. Of course you wouldn\u2019t grow oranges in a Financial Centre on a tiny island. But it\u2019s not like we couldn\u2019t get ours more locally. My point was simply that other factors might be more determinant than transport costs. Especially as long as we aren\u2019t talking staple greens",
+                                                            "score": 3
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "gaelorian",
+            "body": "It\u2019s likely too early to see impact aside from anecdotal stories like this one from a few months back: https://www.npr.org/2023/08/02/1191297764/florida-immigration-law-desantis-economy-politics-civil-rights",
+            "score": 22
+        },
+        {
+            "depth": 0,
+            "author": "neepster44",
+            "body": "There are studies of e-verify that show that it works to some extent but up to half of illegal workers still slip through by stealing legal workers identification information. https://www.cato.org/blog/facts-about-e-verify-use-rates-errors-effects-illegal-employment",
+            "score": 11,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "jonward1234",
+                    "body": "There is also people who are paid in cash, under the table. Arguably, E-verify could cause illegal work forces to have fewer options and be more likely taken advantage of (as it shift any of those workers underground).\n\nI don't have a source for this, but it is fairly obvious that both situations are happening to get around e-verify systems.",
+                    "score": 3
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "nosecohn",
+                    "body": "This got removed under Rule 2, which doesn't permit anecdotal evidence, but if you can find an article that confirms your observations, please edit in the link and we can restore the comment. Thanks.",
+                    "score": 6
+                },
+                {
+                    "depth": 1,
+                    "author": "AutoModerator",
+                    "body": "Since this comment doesn't link to any [sources,](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_sources) a mod will come along shortly to see if it should be removed under [Rules 2 or 3.](https://www.reddit.com/r/NeutralPolitics/wiki/index#wiki_rule_2.3A_source_your_facts)\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/NeutralPolitics) if you have any questions or concerns.*",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Accomplished_Top_182",
+            "body": "Can someone make a post weighing the pros and cons of Big vs. Small government? i read a thread on this page but is somewhat outdated from 11 years ago as times have changed.",
+            "score": 0,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "nosecohn",
+                    "body": "That someone could be you!\n\nSubmit a post and the mods will help you refine it according to the rules.",
+                    "score": 3,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Accomplished_Top_182",
+                            "body": "I am entirely new to politics, but I can ask the question, but I have no type of answer or opinion based on my experience\ud83d\udc4d",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "nosecohn",
+                                    "body": "That's in some ways better, because we require questions to be neutrally framed. Even if you had an answer or opinion, we'd ask you to leave it out of the submission.\n\nBut if the post from 11 years ago is along the lines of what you want to ask, link to it in your submission and we can use it as a guide (even though our rules have changed substantially since then).\n\nThanks.",
+                                    "score": 2
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": -6,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Drzhivago138",
+                    "body": "> You can even use a democrat majority state such as Utah\n\nNeither the Senate nor House of Utah has a Democratic majority.",
+                    "score": 8
+                },
+                {
+                    "depth": 1,
+                    "author": "AdmiralJay",
+                    "body": "Utah is Democrat majority?",
+                    "score": 15,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "DontFuckWithMyMoney",
+                            "body": "Yeah lol I did a double take at this one too. The well known left wing bastion of Utah!",
+                            "score": 6
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "unkz",
+                    "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\r\n\r\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\r\n\r\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1ap62ti/-/kq7j6qe/) so that we can reinstate it.\r\n\r\n\r\n\r\nIf you have any questions or concerns, please feel free to message us.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": -31,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "nosecohn",
+                    "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\n\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\n\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1ap62ti/-/kq4xg96/) so that we can reinstate it.\n\n\n\nIf you have any questions or concerns, please feel free to message us.",
+                    "score": 8
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[removed]",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "[deleted]",
+                    "body": "[removed]",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Holatimestwo",
+                            "body": "Read the bill",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "ummmbacon",
+                                    "body": "> Read the bill\n\nPlease note that it is up to the person making the claim to source it here, as we note in our guidelines.",
+                                    "score": 1,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "Holatimestwo",
+                                            "body": "I thought this was a non political forum. Politicians said they have no money in the budget for enforcement and the bill says if employer happens to find out about current employee status the employee must be fired. If you really think this is being enforced and every undocumented person was fired from their job, businesses would have already shut down in Florida. I don't think you truly understand the sheer number of illegal immigrants in Florida to question if I'm telling facts as are written.\n\n\nIf you delete mine, delete everybody.\u00a0",
+                                            "score": 2,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "nosecohn",
+                                                    "body": "The moderator is not doubting your claims. That's not how it works here. \n\nRule 2 removals are based largely on syntax. If a statement is phrased as a factual claim, but doesn't link to a source or refer to one that's been provided elsewhere in the thread, it gets removed.\n\nA request for a source by any user or moderator should not be interpreted as that person doubting the claim.",
+                                                    "score": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "ummmbacon",
+                    "body": "This comment has been removed for violating [//comment rule 2](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_comment_rules):\r\n\r\n> If you're claiming something to be true, you need to back it up with a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). There is no \"common knowledge\" exception, and anecdotal evidence is not allowed.\r\n\r\nAfter you've added sources to the comment, please reply directly to this comment or send us a [modmail message](https://www.reddit.com/message/compose?to=/r/NeutralPolitics&subject=Comment%20removal&message=https://www.reddit.com/r/NeutralPolitics/comments/1ap62ti/-/kr8hpy1/) so that we can reinstate it.\r\n\r\n\r\n\r\nIf you have any questions or concerns, please feel free to message us.",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Holatimestwo",
+                            "body": "Wow, ok. A \"neutral\" moderator who honestly believes that no illegal immigrant is working in Florida.\u00a0",
+                            "score": 0,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "nosecohn",
+                                    "body": "The removal had nothing to do with the beliefs of the moderator. The comment includes two statements phrased as assertions of fact and neither one was linked to a [qualified source](https://www.reddit.com/r/NeutralPolitics/wiki/guidelines#wiki_sources). We remove those in this subreddit, but if you edit in the links, we'll restore the comment.",
+                                    "score": 3
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

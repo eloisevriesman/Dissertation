@@ -1,0 +1,27 @@
+{
+    "title": "City-Sized Quantum Internet Demonstrations Are the Most Advanced Yet",
+    "comments": [
+        {
+            "depth": 0,
+            "author": "SemanticTriangle",
+            "body": "Long coherence distances is cool, but it's not quantum internet. Wavefunction collapse can't be used to transmit information, as far as I've always understood it. This article notably does not describe a scheme which can be used to transmit anything. \n\nOne might be able to physically distribute a quantum computer, which might help with the interconnect scaling problem, but that's nothing to do with the internet. It's essentially just a way to have long wires within the same black box.",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "OldMonkYoungHeart",
+                    "body": "lol wut. So you didn\u2019t even read the article? It\u2019s about creating unbreakable encrypted communications not instant transmission of information lol. Also can create a super quantum computer by connecting a bunch of separate qcomps connected by the communication grid.",
+                    "score": 2,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "SemanticTriangle",
+                            "body": ">It\u2019s about creating unbreakable encrypted communications\n\nSo, because the article does not explain any encryption mechanism explicitly, is the idea here to use wavefunction collapse to share a key no one else can see at the time it is shared?",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

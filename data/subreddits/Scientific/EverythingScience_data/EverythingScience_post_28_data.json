@@ -1,0 +1,27 @@
+{
+    "title": "Lab-grown sperm and eggs: \u2018epigenetic\u2019 reset in human cells paves the way",
+    "comments": [
+        {
+            "depth": 0,
+            "author": "GrapefruitMammoth626",
+            "body": "Could you generate both an egg and sperm cell from just one human?",
+            "score": 3,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "3z3ki3l",
+                    "body": "Theoretically, yes. Though a sperm generated from a woman would only ever produce a daughter.\n\nMales are XY, women are XX. And eggs always contain an X, but sperm can be X or a Y, hence why the sperm determines gender. A woman cannot produce a Y chromosome, so a female generated sperm would only ever contain an X. When combined with an egg (always X), you get two XX, hence, a daughter.\n\nFor a male, however, you could remove the Y chromosome and duplicate the X. Thus, it is theoretically possible to produce a female clone of a male.\n\nWhether an egg with identical X chromosomes would develop into a viable fetus is unknown, but [X inactivation](https://en.m.wikipedia.org/wiki/X-inactivation) suggests it might be possible.",
+                    "score": 6,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "3z3ki3l",
+                            "body": "Note that X-inactivation is not a 50/50 process. In fact, around 35% of women have a 70:30 activation, meaning 70% of their cells are actively using the same X chromosome, and 30% use the other. And 7% of women have a 90:10 ratio. This, combined with the fact that men have one X and survive just fine, would lead me to the belief that identical X chromosomes really wouldn\u2019t be a significant problem in itself, unless some other X-linked gene is dysfunctional. They would suffer from things like colorblindness at the same rates as males, though. Well, specifically, the same rate as the cloned male.",
+                            "score": 2
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1149 @@
+{
+    "title": "Dota 2: Update 7.36 and Crownfall Act II",
+    "comments": [
+        {
+            "depth": 0,
+            "author": "frik1000",
+            "body": "The funniest thing about this patch for me is that there's currently a big tournament going on. Pro teams are gonna have to learn a whole new game in less than twelve hours.",
+            "score": 209,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "jerekhal",
+                    "body": "This is actually standard practice for Dota patches.  Wait for a big tournament, let it start, release massive patch, laugh at the chaos.",
+                    "score": 187,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Ring127",
+                            "body": "Does Dota eSports not play on a set patch for each tournament cycle? Most other eSports I know of run with one patch for a stage, then update to the newest one when it's over to prevent teams being screwed for having a bad read on a brand new meta mid-tournament",
+                            "score": 56,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "MaiasXVI",
+                                    "body": "One time a massive patch dropped DURING a series. One game was on one balance patch, the next game was on the new one.",
+                                    "score": 53,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "lp_phnx327",
+                                            "body": "Wait what? Do they not play on a separate tournament server where that doesn't happen?",
+                                            "score": 2,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "ThisIsNotAFunnyName",
+                                                    "body": "Nope! Max carnage. Embrace the chaos.",
+                                                    "score": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "jerekhal",
+                                    "body": "Nope.  Valve doesn't give the faintest shit about teams needing to adapt.  There's a long tradition of introducing game changing patches in the middle of some of the largest and/or most important tournaments.\n\nI honestly love that aspect of it too because it shows the teams that truly have players with a good grasp on the game.  When your entire foundation is thrown into the air the players with the most competent ability to read the changes can have a huge impact.",
+                                    "score": 155,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "StyryderX",
+                                            "body": "Also give everyone a good laugh when they make such basic blunder because of mechanic changes.\n\nThe first introduction with Tormentor is a riot. (basically, it's a neutral unit that can't attack but reflect distributed damage taken to all heroes close to it, one of the pros happen to blunder within range while one enemy hero are attacking it out of reflection range)",
+                                            "score": 48
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "th3davinci",
+                                            "body": "Exception is The International, or the world championship for Dota. Valve has never released a patch during that I think, not even to fix bugs. Hence why during one TI the infamous fountain hook won a bunch of games, where a combo of 2 heroes managed to pretty much rule the game by instantly teleporting enemy heroes to the enemy fountain, killing them.",
+                                            "score": 20,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "No_Breakfast_67",
+                                                    "body": "Fountain hooking was always known before TI3 though, it was seen more of a feature than a bug at the time. Even when it happened there was generally a bit more people supporting it than complaining about it. Navi even used it in a tournament prior to TI3",
+                                                    "score": 21,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "5chneemensch",
+                                                            "body": "Fountain hooking was not possible in WC3, which made it a de facto bug in D2.",
+                                                            "score": 0,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "Act_of_God",
+                                                                    "body": "the devs themselves said it was too funny to fix",
+                                                                    "score": 10
+                                                                },
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "No_Breakfast_67",
+                                                                    "body": "Technically speaking it was a bug in every way, but it was accepted as a gameplay feature. On the dev forums it was classified as a bug but Valve devs thought it would be fun to keep and it stuck around for years. It would have made no sense to patch it out mid tournament if they said on record that it was fine",
+                                                                    "score": 9,
+                                                                    "replies": [
+                                                                        {
+                                                                            "depth": 8,
+                                                                            "author": "soundecho944",
+                                                                            "body": "Every mechanic in DotA has basically been a bug in some way or another such as stacking neutrals",
+                                                                            "score": 4,
+                                                                            "replies": [
+                                                                                {
+                                                                                    "depth": 9,
+                                                                                    "author": "MaiasXVI",
+                                                                                    "body": "Or spam a-clicking allied creeps to reset tower aggo.",
+                                                                                    "score": 2
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "SmackTrick",
+                                                    "body": "\"Bug\" that ended up being a feature, according to the devs as well. Just like many other things all the way from the WC3 map that came with WC3 engine oddities.",
+                                                    "score": 2
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "AwesomeX121189",
+                                                    "body": "They\u2019ve released new heroes during TI like grimstroke. Also have done lots of bug fixing patches during TI.",
+                                                    "score": -1,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "beezy-slayer",
+                                                            "body": "But I'm pretty sure they haven't been available in captains mode which is what tournaments play",
+                                                            "score": 18,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "BringBackBoomer",
+                                                                    "body": "Yeah, they delay new heroes in Captains Mode so they can collect data on balance and bugs. Or, at least they used to.",
+                                                                    "score": 5
+                                                                },
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "AwesomeX121189",
+                                                                    "body": "They still need to update the game. Captains mode is just a fancy character select screen they can edit separately , New heroes just don\u2019t have a box to be clicked  through the Ui but you could use console commands to spawn them in the match without issue. \n\nThey would also release updates that were focused on non important stuff like the games integration with the screens on the stage booths that show each players hero\u2019s or the Augmented reality stuff, or effects on the stage when a hero uses an ability.",
+                                                                    "score": 1
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "Fit-Percentage-9166",
+                                            "body": "Depends on what you mean by having a good grasp on the game. Discovering new things and mastering known concepts are two different skills and it's basically completely subjective as to which is more \"skillful\" or fundamental to the game.",
+                                            "score": 6
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "jayverma0",
+                                            "body": "In CS, it seems it's up to the tournament organisers. Usually they'll play on the version with which the tournament started. That happened during ESL Pro League which was played on CSGO, despite CS2 replacing it mid-tournament.",
+                                            "score": 2
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "brutaldonahowdy",
+                                            "body": "Damn they\u2019re cruel to Dota players, in the off-chance Valve remembers about CS during an event, they\u2019ll keep an old build available.",
+                                            "score": 1
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "1vertical",
+                                            "body": "Actually fair though. Mix the game up before a competition because the stakes are far higher compared to other games - Want to get a piece of the biggest pie? You play by our rules.",
+                                            "score": 0
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "ReverieMetherlence",
+                                    "body": ">Does Dota eSports not play on a set patch for each tournament cycle? \n\nNo. Always on the live version. This can be good (really shows the adaptability and learning abilities of pro players, also huge entertainment value) or bad (gamebreaking bugs which can affect the match outcome)",
+                                    "score": 12
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "fiendinsideyou71",
+                                    "body": "Well in previous years, the esport was monitored by Valve. The model was like the Premier League, games happened all season long, good for viewers and shitty for pros. Back then patches paid caution to that league and major tournament. But players said they don't want that so Valve throw almost all esport to third-party and do patches anytime they want at any scale they want.",
+                                    "score": 3
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "troglodyte",
+                                    "body": "They used to but people like seeing new stuff more.",
+                                    "score": 1
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "SuperSocrates",
+                                    "body": "Valve stopped caring about Dota years ago",
+                                    "score": -14,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "Act_of_God",
+                                            "body": "open this update and say that again",
+                                            "score": 8
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "Kiita-Ninetails",
+                                            "body": "Valve stopped making Dota exactly what I want, you mean?\n\nThis patch and many other prove they still very much do care, but the direction the game is taking may not include you anymore. It happens.",
+                                            "score": 7
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "pureauthor",
+                                            "body": "Just last year they released the New Frontiers update, which wrenched the map open to be 40% bigger and reworked a whole bunch of stuff, including an entirely new Trait (Universal).\n\nLast month they committed themselves to releasing at least 4 months worth of Battlepass/Cavern Crawl content on a time limit.\n\nAnd they just dropped the Innates/Facets updates which rejiggers a whole bunch of heroes and ensures that balancing them is going to be finicky as heck for a long time.\n\nRegardless of what you think of the changes themselves, I don't see how you can look at the scope of those changes and think Valve doesn't care about Dota anymore.",
+                                            "score": 6
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "MaitieS",
+                            "body": "Like Dota 2 and its community isn't perfect cuz I was part of them for couple of years but damn **I LOVE THEM** for being able to accept massive changes, like this is so damn rare. Like if anyone else would do this in any other game, everyone would lose their fking minds, and there are multiple examples of where developers are holding their patch for couple of extra weeks because there will be a tournament and they don't want to cause issues etc... like at the end of the day it really sucked, especially as a casual player.",
+                            "score": 17,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "CreamyLibations",
+                                    "body": "Calling the dota 2 community *imperfect* is so laughably generous that it circles back around to not being funny. The pros, maybe, sure, good sports. But the community as a whole? It\u2019s every bit as wretched as the LoL community is.",
+                                    "score": 19,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "MaitieS",
+                                            "body": "I mean yeah... that is exactly what imperfect means in this context. They're as toxic as any other PvP game out there, but at least they are able to accept a massive gameplay changes.",
+                                            "score": 15,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "CreamyLibations",
+                                                    "body": "That\u2019s fair. They\u2019re more toxic to one another than the developers.",
+                                                    "score": 5
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "MaiasXVI",
+                                            "body": "It's a give and take. I'd say at least 50% of the games I play have a few lovely people in them. I'm ~4,500 MMR and while you get a lot of hideous animals, you also get a lot of really skilled people who are having a good time playing. And every game I've had since this patch dropped has been hilarious, no one is flaming because the entire game's balance has been thrown into chaos. Most people are just laughing at the madness.",
+                                            "score": 3
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "Kiita-Ninetails",
+                                            "body": "I mean really its the same as calling the EVE community imperfect for suprisingly similar reasons. The games are so niche and involved that you generally get big rep from the two poles. I have met some of the most genuinely cool and helpful people in gaming in those games. \n\nAnd also the worst people I have ever personally met. You get some wiiiiild swings man.",
+                                            "score": 2
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "beezy-slayer",
+                                            "body": "I genuinely have had a really good time with the Dota community with rare exceptions that were definitely extreme lol",
+                                            "score": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "StyryderX",
+                                    "body": "> being able to accept massive changes\n\nYeeeeahhh, no.\n\nHave you forgotten about the bitch-fit with Medusa no longer gaining Strength, or the Techies overhaul, Treant's, Kotl's, ~~OD~~ (nevermind that one), Clinkz?",
+                                    "score": -4
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "atahutahatena",
+            "body": "They added the innate passives other MOBAs had and turned it up to 11 in standard Dota fashion. And what hell are these facets? If you thought the expanded map patch last year was wild this is just even more absurd.\n\nThis game has become so utterly unhinged now at this point. It's why I still love reading the patch notes despite no longer having the time to play it.",
+            "score": 266,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "napmouse_og",
+                    "body": "Feels like one of\u00a0the\u00a0few\u00a0live\u00a0service\u00a0games\u00a0with\u00a0the cojones to just go \"fuck it, why not do something completely different? Let's rock the boat so hard everybody falls overboard.\"\u00a0\nI kinda love it",
+                    "score": 187,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Rareinch",
+                            "body": "Out of any game I've ever played, Dota is the only game where the community treats new patches like Christmas morning and it's because they're always crazy. They don't always add gigantic new changes like this patches innate passives and facets, but there's almost always some absurd new items, new abilities, map changes, etc that just ejects the current meta into space",
+                            "score": 57,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "ilovezam",
+                                    "body": "Meanwhile in Helldivers 2, every time the word \"balance\" gets mentioned the community gets a PTSD attack.\n\nThen the patch releases with huge nerfs completely reworking popular weapons, tiny buffs to some, 2 bugfixes that don't actually fix the bugs, introduces 5 more bugs, and the devs insult the players for being unhappy.\n\nIt's such a weird experience.\n\nI hated Dota 2 and quit because of how toxic these multiplayer PvP games are, but God do I wish more games can adopt their balance philosophy and update standards.",
+                                    "score": 18,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "Myrkull",
+                                            "body": "Yeah helldivers 'balancing' completely destroyed my groups will to play. We went from 2-5 hours daily to reinstalling fortnite lol",
+                                            "score": 3
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "Kaldricus",
+                                    "body": "I don't even play Dota anymore and I still get excited for major patches like this. Watching Purge (Dota personality/analyst/weather man) do a 7 hour video analyzing patch notes, where he spends 30 minutes analyzing one change and running numbers and hypotheticals, only to have the next bullet point completely invalidate everything he did, is comfort food.",
+                                    "score": 3
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "bapplebo",
+                            "body": "I can't think of any other game that has had more impactful patch notes in the last few decades. Bravo Valve for setting a huge example for the industry.",
+                            "score": 76,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Koxeida",
+                                    "body": "Because dota community is well molded by chaos and insanity. I don't think any other gaming community will be this receptive to a change this huge lol",
+                                    "score": 82,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "pm_me_ur_kittykats",
+                                            "body": "https://hosting.photobucket.com/albums/tt30/johannn98/rage58.gif\n\nThe classic comic that explains the dota community's relationship to change",
+                                            "score": 83,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "omegasui",
+                                                    "body": "State mandated reply to this comic: You can read the comic from left to right or up to down and it'd still make sense.",
+                                                    "score": 66
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Dangerous-Macaroon7",
+                                                    "body": "Please don\u2019t make fun of my addiction. I don\u2019t care what they do, i can\u2019t stop playing dota gd it.",
+                                                    "score": 14
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "RocketHops",
+                                                    "body": "the funniest thing about this one to me is the frog doesn't change expression for all 10 panels straight",
+                                                    "score": 15
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "AwesomeX121189",
+                                            "body": "Agreed. Dota players thrive in the chaos of the *new stuff*",
+                                            "score": 11
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "man0warr",
+                                            "body": "It's because everyone trusts IceFrog, he's never disappointed.",
+                                            "score": 9
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "ScubaKlown",
+                                            "body": "8000 hours of dota and it always feels like Christmas when its patch day \ud83e\udd20",
+                                            "score": 1
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "Mikelius",
+                                            "body": "Receptive is putting it mildly. Every other month people are frothing at the mouth for a new patch because the meta is already \u201cstale\u201d in their heads.",
+                                            "score": 1
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "MaitieS",
+                                    "body": "> setting a huge example for the industry\n\nNo one is following such an example, because Dota 2 community is one of the kind that is willing to accept big gameplay changes, without crying about them like any other PvP community would do. Sadly this is not a good example that any other game should follow, as it has a huge risk of people leaving the game. Dota 2 is also experiencing this issue, as not everyone is willing to re-learn new stuff (I left after 7.00, came back a few years for a few games and left for good, now I'm just reading a big patch notes), so they are also kind of pushing it a bit too far. As good as these changes are, it comes with the cost.",
+                                    "score": 10
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "MaiasXVI",
+                            "body": "It's kind of weird clinging onto this ship. When neutral items came out it was kind of a shitshow and I remember wondering if this was just the end of my favorite game as I knew it. Because for a live service game, you're kind of at the whims of the developers and their vision of what the game is. \n\nThankfully they refined their systems and now neutral items feel as essential to dota as any other system. The facets feel kind of weird right now but I'm sure things will shake out over the next few patches.",
+                            "score": 6
+                        },
+                        {
+                            "depth": 2,
+                            "author": "King_of_the_Dot",
+                            "body": "Can you ELI5 for non-DOTA players, please?",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "AwesomeX121189",
+                                    "body": "So heroes have their normal abilities they put a point into each time they level up during the game like it\u2019s always been because thats how Warcraft 3 did it, since dota started as a mod for wc3. If you didn\u2019t put a point into a skill, whether it was an active or passive ability you just did not have that ability at all. \n\nInnate passives now give a hero a passive skill that they start the game with and don\u2019t need to put points into. They will always have that skill no matter what. \n\nFacets are a choice between 2 modifiers that the player picks after picking your character and before the game actually starts. An example of the one character I\u2019ve played a match with, Drow Ranger, can pick between being able to move and use items while channeling one of her spells (channeling in dota normally requires you to stand still and not do anything else or it fails to cast the spell), or they do more damage when attacking an enemy from a higher elevation. \n\nIt lets you tailor your teams hero picks to better synergize with each other and better counter the opponents. \n\nWhat makes this update crazy is they added these innate passives and facets to all of the 120-ish heroes in the game all at once with no sort of beta test with a new hero that had it or a public test realm.",
+                                    "score": 8,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "Debiel",
+                                            "body": "The beta test was probably Medusa with her shield, ogre passive, treant passive, etc... but nothing for the facets though lol. Love the boldness of this patch",
+                                            "score": 2,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "_Valisk",
+                                                    "body": "Heroes like Faceless Void and Silencer have had innate abilities as long as I can remember, but last year\u2019s reworks of Ogre and Medusa were definitely the catalyst for 7.36.",
+                                                    "score": 3,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "Kraggen",
+                                                            "body": "What was innate for void?  I know silencer stole mana.",
+                                                            "score": 1,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "_Valisk",
+                                                                    "body": "Silencer stole intelligence, actually. Faceless Void can always move freely within Chronosphere regardless of the owner and he's unable to proc the bash from Skull Basher and Abyssal Blade (this also applies to Spirit Breaker and Slardar). \n\nThere were a few more innate abilities such as Monkey King's Mischief, Invoker's Invoke, Earth Spirit's Remnant, and Techies' Minefield Sign along with some other interesting ones like Pango being able to perform all actions without facing his targets.",
+                                                                    "score": 1
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "Itchy-Pudding-4240",
+                                    "body": "I assume you play DND.\n\nBasically heroes (the characters dota2 players use) now have a racial feat and subclasses\n\nExample:   \nHero: Sven  \nInnate (The feat): attacks deals 15% more damage to stunned enemies  \nFacet (The subclasses): Heavy Plate - more armor OR  Wrath of God - more damage",
+                                    "score": 4,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "AwesomeX121189",
+                                            "body": "Inmates definitely are not feats, they\u2019d be innate class abilities like berserker raging.",
+                                            "score": 5
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "King_of_the_Dot",
+                                            "body": "This doesnt seem to make any sense.  Now I see why everyone is confused.  Thanks.",
+                                            "score": -2,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Itchy-Pudding-4240",
+                                                    "body": "what part didnt you get?",
+                                                    "score": 2,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "King_of_the_Dot",
+                                                            "body": "No, I get what youve said.  I dont get this addition to the game.",
+                                                            "score": -5,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "OrangeBasket",
+                                                                    "body": "... why don't you get this addition to the game?",
+                                                                    "score": 3
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "SEAFOODSUPREME",
+                                                    "body": "It makes sense, and people are not confused about the changes. People who aren't within the Dota community are confused they'd release a patch during a tournament, which is pretty normal by Dota standards.",
+                                                    "score": 0
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "TurboSpermWhale",
+                            "body": "Fortnite as well. Basically switches up the formula every single season.",
+                            "score": -3
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "K4k4shi",
+                    "body": "I think they increased the learning curve for newbies",
+                    "score": 25,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "papanak94",
+                            "body": "It isn't a curve anymore, it's an almost vertical line at this point.",
+                            "score": 79,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "mrducky80",
+                                    "body": "I still have no idea how newcomers can even begin to approach the game without more or less being hand held through by playing with friends. It feels like you would just slam into the cliff.",
+                                    "score": 11
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "beezy-slayer",
+                                    "body": "Luckily no one else knows anything about the game either. Dota is game that is designed around players not understanding anything lmao",
+                                    "score": 5
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "jodon",
+                                    "body": "Unlike back when you had to look up in wikis what part of an ability pirce magic immunity and what parts don't. There have always been a learning wall to dota, it is not getting worse there is just new stuff that you know that you don't know yet.",
+                                    "score": 2,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "Hatfullofsky",
+                                            "body": "I really can't agree. Way back when, each hero had 4 abilities and 6 item slots, and you needed a grasp of those 4 abilities (occasionally aghs) and the major items in the game to identify what each enemy could do.\n\nAt this point, you need to evaluate:\n\n* 4 abilities\n* 6 items \n* 1 passive ability\n* 1 facet ability\n* Aghs + shard\n* 4 talents\n* Neutral item\n\nAnd that is literally just to identify the power of 1 random enemy hero. Me and my friends don't really play anymore but still watch some tournaments, and I feel we spend like 90% of the game looking up what shard does on specific heroes, what neutral item it is that allows a hero to do something or why it is the casters fear a hero getting a specific level 20 talent. \n\nIt went from a learning wall to a greased up, spiked learning ceiling.",
+                                            "score": 32,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "botoks",
+                                                    "body": "I played a shitton of dota in the past; starting way back then with wc3 dota on Garena. Tried to get into dota2 some time ago. Dear lord there's just so much shit piled on top of other shit that it's impossible to get into if you don't have time or will to REALLY get into it. But maybe it's me being weird since I still vastly prefer something like counterstrike 1.3 to CS:GO CS2, and it's the same for dota. I yearn for those old simple times.\n\nAlso the fact that the MMR decay is almost nonexistent, and when I started again I was put into really high MMR matches (those first 10 ones), lost all of them and still got placed into top bracket. Felt like I was griefing every match.",
+                                                    "score": 8,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "OrangeBasket",
+                                                            "body": "There is semi-MMR decay called MMR confidence. The longer your break the lower your confidence and the larger the MMR gain/loss per game after you come back",
+                                                            "score": 3,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "botoks",
+                                                                    "body": "I don't remember how long was my first break before my first try of coming back but definitely more than 2 years. In one of my calibration games I was in a team with wagamama against a team with babyknight. We won that game despite me sucking horribly.",
+                                                                    "score": 1
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "zippopwnage",
+                                                    "body": "IMO, if you continue to play the game it isn't hat bad. I haven't played the game from 2020, I came back like 2-3 months ago and I'm pretty familiar with everything already. \n\nIt's not that bad as it sound to keep track of all of those things. But now depends on what level you want to play the game. I'm pretty average, I don't wanna go divine rank or pro. I'm fine where am I. \n\nWhen I came back I felt overwhelming af, but I catch up fast. A friend of mine never played anything else than League and wanted to try, this is why I came back basically. In a few months he learned most of the stuff and got used to it.\n\nIt's really daunting at the start, but you just have to play the game and you'll learn them.",
+                                                    "score": 2
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Tobacco_Caramel",
+                                                    "body": "Back then there are only 1 courier for each team/each 5 players, there are no backpacks, no neutral items, no tp slot, obs and sentry does not share a slot, there was a time neutrals was available but would use your item slot.\n\nNow all players get their own courier, backpacks, neutral items with its own slot, tp has its own slot, obs and sentry shares a slot. I guess its more fun and easier now for new players.",
+                                                    "score": 3
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "detroitmatt",
+                                                    "body": "not only that but all the unique camps, runes, buildings, miscellaneous doodads in the jungle...",
+                                                    "score": 1
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "engrng",
+                                                    "body": "Don't forget back then as a noob you could just go to any lane and kill shit and get away with things. But now you have to know which lanes are safe/unsafe and why mid is important and what are supports and what are neutrals, etc because everyone playing it is extremely sweaty.",
+                                                    "score": -1
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "Ninecawaii",
+                                            "body": "The access to a lot of the information is now better than what it used to be early on(2000s, early 2010s) yeah, but the overloading of information is getting worse. And because there's so much nowadays, even said easy access of information can still sometimes be wrong or missing such as in tooltips.",
+                                            "score": 2
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "Ashviar",
+                            "body": "Can't hurt the newbies if there are none. Alot of the converts seem to be people from other MOBAs when they are burnt out and want something similar. Its both refreshing when you can re-learn a game you like, but daunting when you have less time than you used to.",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "Synchrotr0n",
+                    "body": "The patch notes almost makes me want to go back to the game, but then I remember I would have to deal with the awful matchmaking leading to 90% of the matches being complete stomps for or against my team because of how wide is the skill gap between players in a same match.",
+                    "score": 14,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Optimal-Swordfish",
+                            "body": "Since behaviour score and option to dislike players it\u2019s markedly improved",
+                            "score": 13
+                        },
+                        {
+                            "depth": 2,
+                            "author": "papanak94",
+                            "body": "Dota Plus now tells you how big of a skill and behaviour gap between players is present in the match that just popped, and you can decide to requeue as many times as you want.",
+                            "score": 2,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Cold_Box_7387",
+                                    "body": "Having to subscribe monthly for good matchmaking is wild",
+                                    "score": 40,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "papanak94",
+                                            "body": "They plan to implement it for everyone, but now it is in the testing phase, so they decided to restrict it via Dota Plus. They didn't want to fuck up the queues for everyone.",
+                                            "score": 15,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Cold_Box_7387",
+                                                    "body": "bet.Whenever I tried to get into the game it didn't feel like dota plus had any game changing features so it's good they're not changing that.",
+                                                    "score": 2,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "Sea-Anywhere-5939",
+                                                            "body": "Dota plus has had one feature that makes it worth spending money on every month and that's the ability to avoid people.",
+                                                            "score": 2,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "Cold_Box_7387",
+                                                                    "body": "Can't say I've ever had beef with anyone within my 100 hours played *and* also met them again at a later date.",
+                                                                    "score": 2,
+                                                                    "replies": [
+                                                                        {
+                                                                            "depth": 8,
+                                                                            "author": "Sea-Anywhere-5939",
+                                                                            "body": "Fair enough I have 6,000 hours on it so I probably get more bang for my buck with it.",
+                                                                            "score": 2
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Synchrotr0n",
+                                                    "body": "One thing I wish they would do is add an option for us to wait longer in the matchmaking in order to get more evenly skilled players in a game. I would gladly wait 30 minutes in a queue in order to decrease the chance of one-sided matches.",
+                                                    "score": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "OldManJenkins9",
+                    "body": "100% with you on this. They keep adding absolutely insane stuff to the game, and they keep getting away with it, and I love to watch it unfold even if I don't play anymore.",
+                    "score": 6
+                },
+                {
+                    "depth": 1,
+                    "author": "Fantasy_Returns",
+                    "body": "facets seem to be old abilites/aghanims brought back",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "APRengar",
+            "body": "Everyone has an innate passive... Oh my god that's going to be so much reading.\n\n>Facets are set for all players after the strategy time, and cannot be changed during a match. Facet choices aren't revealed to the enemy team until after the game begins\n\nMight increase complexity when drafting, which was already the coolest part of high level Dota IMO.\n\n>Wisp gets Kritzkrieg and Medigun\n\nNice\n\nLowkey feels like Dota 3 or like Dota 2 Update 8.00\n\nOh no, this is making me really want to play Dota, but I've been clean since like 2020.",
+            "score": 92,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "wulfschtagg_1",
+                    "body": "Clean since 2020 too. Stay strong, brother/sister. Do not give in to the frog and Gabe.",
+                    "score": 29,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "ilGattoBipolare",
+                            "body": "Sober since 2021. We are in this together brothers \ud83d\udcaa",
+                            "score": 8
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "Gwiny",
+                    "body": "They are releasing a new Dota every years. This is dota 15 or something.",
+                    "score": 26
+                },
+                {
+                    "depth": 1,
+                    "author": "elmo-slayer",
+                    "body": "I played for 6 months in 2015 and haven\u2019t touched it since. I keep meaning to go back, but it feels like it would be such a commitment to relearn",
+                    "score": 8,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "AntonineWall",
+                            "body": "It would be a lot, but less than your first time\u2026I think. \n\nBeen clean a few years, but this is making me want to give it another shot\u2026",
+                            "score": 3
+                        },
+                        {
+                            "depth": 2,
+                            "author": "ray_MAN",
+                            "body": "Other than the core facets that there are lanes, ancients, and heroes, the game is nothing like it was in 2015.",
+                            "score": 1
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "cakesarelies",
+                    "body": "Dota 3 was 7.00, then the patch that added neutrals was Dota 4, then the patch that expanded the map added two roshan spots added watchers and added tormentors was Dota 5, this Dota 6",
+                    "score": 3
+                },
+                {
+                    "depth": 1,
+                    "author": "Thunder-ten-tronckh",
+                    "body": "RETURN TO US BR\u00d6THER",
+                    "score": 3
+                },
+                {
+                    "depth": 1,
+                    "author": "zippopwnage",
+                    "body": "I was the same as you, didn't played since 2020. I did the mistake to come back a few months ago and now I play almost daily with my friend group...Please help me.",
+                    "score": 2
+                },
+                {
+                    "depth": 1,
+                    "author": "_xcee",
+                    "body": "but comrades... the current crownfall event has candy caravan... which has a chance to roll arcanas for free...\n\nfinally i have Legion Commander's arcana for completely FREEEE.\n\ngive in brother... \ud83d\udc80\ud83d\udc80",
+                    "score": 0
+                },
+                {
+                    "depth": 1,
+                    "author": "IbbleBibble",
+                    "body": "I've been clean since before bounty runes were added, so like 2014, but this change is insanely tempting lol",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "loadsoftoadz",
+                            "body": "I stopped in 2016? Got back into this year and it\u2019s been a lot fun. \n\nHelps to have friends who never stopped playing to help myself and the others who took a long break.",
+                            "score": 2,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "IbbleBibble",
+                                    "body": "My issue is that I've fallen way out of contact with my old Dota friends, and I was always the 6th guy in our friend group anyway. Shame because the most fun I had was just doing stupid troll gimmick builds with them.",
+                                    "score": 2
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "mrducky80",
+                    "body": "If the new map with like 20 new objectives in a game (wisdom rune tussling, watcher tussling, tormentors, etc) didnt make you want to join in, the new passives wont I reckon.",
+                    "score": -1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "ericd7",
+            "body": "Well shit, just when I thought I knew most heroes abilities Volvo hits the reset button on me. Lets gooo.",
+            "score": 59
+        },
+        {
+            "depth": 0,
+            "author": "mRWafflesFTW",
+            "body": "Dota is basically the only game I play. If you were ever interested in playing, its always a good time to start when the entire community is relearning the game for the 20th time.",
+            "score": 113,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "DoctorGregoryFart",
+                    "body": "I used to play casually, then settled on fucking around with bot games when I had free time. Are bot games still fun if you haven't touched the game in years? Is the AI any better?",
+                    "score": 8,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Anti-Toxicity",
+                            "body": "You have to play with custom script bots for a challenge, which are easily accessible in game. \nI'd recommend (\u5929\u5730\u661fAI \u00b7 \u56fa\u5b9a\u642d\u914d).\nIt's a really challenging bot I use to practice 1v5 a lot.",
+                            "score": 5
+                        },
+                        {
+                            "depth": 2,
+                            "author": "Thunder-ten-tronckh",
+                            "body": "Yes. Still fun. And the second they get boring is when you play your best hero in unranked turbo.",
+                            "score": 2
+                        },
+                        {
+                            "depth": 2,
+                            "author": "mRWafflesFTW",
+                            "body": "I can't say but I know they tried to put source the bot ai to the community. Honestly I'd just play unranked matches against other players. The lower bracket is basically like playing bots. Mute everyone have fun.",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "DoctorGregoryFart",
+                                    "body": "Yeah, that's what I did when I was playing regularly. When I didn't have time, I'd hop on once in a while and play bots just to learn characters and figure out the changes I had missed.\n\nFun game, but can very easily consume a LOT of time.",
+                                    "score": 2
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "FirefighterFeeling96",
+                    "body": "playing the game is pure misery though",
+                    "score": 11,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "xLisbethSalander",
+                            "body": "its really not if you go in with the right mindset",
+                            "score": 35,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "CptKnots",
+                                    "body": "totally agree. I quit in like 2014 because I thought it was pure misery. I've come back with a much more zen mindset about the game. I don't care that I'm bad now, or that I'm in trash tier, or that not every game is amazing. I just like playing the game now. Wish my friends who used to play too would come back around.",
+                                    "score": 4
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "Andigaming",
+                                    "body": "Even with the right mindset solo queue gets you one way or another.\n\nI am 100% a masochist when it comes to video games but solo queue dota is on a different level.",
+                                    "score": 10,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "Anti-Toxicity",
+                                            "body": "I agree about solo que. 5 stacks are the way to go. Just have to friend people you meet in solo who are pleasant.",
+                                            "score": 2
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "Murky_Macropod",
+                                            "body": "It gets better as you climb in rank at least. \n\nin the meantime, there\u2019s Anonymous mode",
+                                            "score": 2
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "ShadowVulcan",
+                            "body": "Without friends yea, still love it and love watching it\n\nBut stopped playing years ago when friends quit",
+                            "score": 5
+                        },
+                        {
+                            "depth": 2,
+                            "author": "OrangeBasket",
+                            "body": "I love the pain",
+                            "score": 2
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "ghostsilver",
+                    "body": "relearning in dota 2 is completely different from learning as a new player though.\n\nit's just too overwhelming for a new player to get start without having another seasoned player ready to answer all of their questions.",
+                    "score": 4,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "mRWafflesFTW",
+                            "body": "Yeah but unlike in the past all the information is available online in either videos or posts. You don't have to know everything to have fun. I'm a 5k mmr player and I don't know a God damn thing. Pick a few heroes and spam them. The fundamentals don't really change. Don't die and play with your team after the lane stage. Apes together strong.",
+                            "score": 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Fish-E",
+            "body": "Took over an hour to read the patch notes, now I can hope to finally return to sleep.\n\nI'm super excited to play the new patch tomorrow; it makes the game even more complex, with even more variables to accommodate, however it should make the game feel less \"routine\". Even if you're playing the same hero every game, you're going to have to think instead of following the same steps / process.",
+            "score": 44,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Schluss-S",
+                    "body": "> Took over an hour to read the patch notes, now I can hope to finally return to sleep.\n\nTime for Purge's 24 hour ASMR patch-note reading stream.",
+                    "score": 29,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "StyryderX",
+                            "body": "*48-hour",
+                            "score": 13
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "Bcider",
+                    "body": "Dude, I have over 5,000 hours in Dota 2 and haven't played in 5 years since I had kids. Just opening this and trying to decipher what's happened in the past 5 years is nuts.",
+                    "score": 24,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "GrassWaterDirtHorse",
+                            "body": "They\u2019ve given Io a Kritzkrieg and a Medigun what the hell is going on?",
+                            "score": 12,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "thedotapaten",
+                                    "body": "They give Snapfire Ricochet II",
+                                    "score": 3
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "G3ck0",
+                    "body": "I\u2019m not even halfway through after 3.5 hours!",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "tabben",
+            "body": "You actually need some sort of dota degree if you want to absorb all the mechanics and stuff in the game to reach a high level. Ofc you can still play it casually but goddamn the game keeps changing dramatically every year, last I played it more frequently was like 2019 and the game has deepened so much depth wise since then..",
+            "score": 15,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Tokoroto",
+                    "body": "I spent 8k hours in the game, stopped playing a couple years ago and am now LOST. So not even a degree, a degree you need to study 3 subjects to keep every 3 years.",
+                    "score": 7,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "leixiaotie",
+                            "body": "Front end developers: \"first time?\"",
+                            "score": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "_Valisk",
+            "body": "I think one of the best things about this patch is how Valve teased it in-game as part of the event. It might be one of the most clever ways any developer has teased an update that I can remember.",
+            "score": 23,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "BOfficeStats",
+                    "body": "What did they do in-game?",
+                    "score": 7,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "OrangeBasket",
+                            "body": "Released a couple of patch notes lines presented as a stone tablet, but each player could only see a small fraction of it so you would need multiple \"versions\" from multiple game clients to see the full thing",
+                            "score": 24
+                        },
+                        {
+                            "depth": 2,
+                            "author": "angelbangles",
+                            "body": "right now dota 2 has a silly overworld map you can explore around on (it's like a battlepass)\n\nit has a dark well in it, and they gave players a candle to use to look inside the well but everyone only got to see a really small few words from the patch notes. so the community had to share and put the words together to get a glimpse of what was coming.",
+                            "score": 8
+                        },
+                        {
+                            "depth": 2,
+                            "author": "_Valisk",
+                            "body": "To expand upon the other two comments: for the last month, players could only complete 52/53 of the nodes in Act I because the candle required to access the last node was unavailable. The day before the patch, the always-closed candle shop opened and provided access to the well that housed the tablet of teasing patch notes.",
+                            "score": 0
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "aroundme",
+            "body": "I'm so glad valve takes their time with patches. They let the meta develop enough for players to \"solve\" the game then hit us with earthshaking updates like this. When games constantly add new characters and have a monthly balance update it doesn't allow for *moments* like this. It also means the devs don't have time to make sweeping changes because a seasonal model requires a new hero, map updates, battlepass, etc.\n\nAnd they *keep* doing this! Talents, neutral items, aghs shard, map expansion, and now whatever the hell all this is lmao",
+            "score": 28
+        },
+        {
+            "depth": 0,
+            "author": "Strykah",
+            "body": "I haven't played since like 2013 and gotta give full credit to Valve for still supporting with big new updates",
+            "score": 5
+        },
+        {
+            "depth": 0,
+            "author": "zippopwnage",
+            "body": "This is why for me this will be the number1 moba on the market. They changed it so much in the last years, making it fun to play and learn stuff from it. It feels fresh, it feels like they care to not get stale and so on.\n\nNo other MOBA does this. And there's also something about the scale of everything in the game, especially spells and spell range. \n\nWhen I play League or Heroes of the storm, everything seems super small and weird.",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "ArtoriasOfTheAbyss99",
+            "body": "I am so glad I am going away for the weekend so by the time I come back, a balance patch would've been done xD",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Suspicious_Arm_3077",
+            "body": "What Void Spirit innate ability do? I tried adding stats items like blade of alacrity but it does not change anything related to strength or int (secondary stats)",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "_Valisk",
+                    "body": "You're reading it wrong, he gains more *secondary bonuses* from *primary attributes.* The primary bonus from an attribute is damage based on the hero's attribute type while secondary bonuses are things like health regen (strength), armor (agility), and mana regen and magic resistance (intelligence)\u2014Void Spirit receives 33% more of these effects. \n\nAlso, Void Spirit isn't an agility hero so Blade of Alacrity wouldn't have done anything anyway.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "CrippledMafia",
+            "body": "I love Dota, still the best moba imo but holy fuck why do we gotta wait so long for a single fucking character to drop? Smite drops like 5 within a year while we get one every 1-2 years.",
+            "score": -7,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "ChrisG683",
+                    "body": "Honestly expanding the pool by a few heroes is thousands of times less impactful and less interesting than the major re-works they seemingly do regularly.  The pool is already large enough, new heroes don't really change the game in any significant way.  The larger the pool gets, the less interesting new additions become.\n\nPlus a lot of these big updates do pretty significant re-works to anywhere from 1-5+ heroes and they completely change them, basically making them almost new.",
+                    "score": 14
+                },
+                {
+                    "depth": 1,
+                    "author": "FrankUnderwoodX",
+                    "body": "Dota already has too many heroes. Please we don't need 5 heroes every year.",
+                    "score": 9
+                },
+                {
+                    "depth": 1,
+                    "author": "Thunder-ten-tronckh",
+                    "body": "This patch basically dropped 100 new characters and I\u2019m not even exaggerating. Rejoice.",
+                    "score": 5
+                },
+                {
+                    "depth": 1,
+                    "author": "_Valisk",
+                    "body": "I get that you\u2019re exaggerating out of frustration, but Valve has released 1-3 heroes every year since 2016.",
+                    "score": 5,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "CrippledMafia",
+                            "body": "Yeah it\u2019s mostly frustration, valve has been pretty good this year in other regards. I went into a bit more detail in my other comment. However the last time they dropped two characters within a year period was hoodwink and dawn breaker and even then that took up almost a whole year. The past 3 years has been pretty much 1 character in a year. With primal beast being actually over a fucking year and muerta looking like she\u2019s about the break the record, valve needs to get better on this",
+                            "score": -1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "_Valisk",
+                                    "body": "> the last time they dropped two characters within a year period was hoodwink and dawn breaker\n\nMarci and Primal Beast. \n\n> even then that took up almost a whole year.\n\nThey were released four months apart (as were Marci and Primal Beast). \n\n> The past 3 years has been pretty much 1 character in a year.\n\nFour heroes have been released in the last three years, five if you count Hoodwink considering it's not December yet.",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "aroundme",
+                    "body": "All Dota heroes are unique. You can\u2019t constantly adding new heroes without some overlap. League and Smite have a lot of abilities that work slightly differently, but serve the same purpose. Almost all Dota abilities are radically unique.",
+                    "score": 3
+                },
+                {
+                    "depth": 1,
+                    "author": "Apollo779",
+                    "body": "i'm guessing valve just doesn't see the point in putting more money into Dota when they can just do this and people will keep buying skins, isn't their dev team just 30 people? it varies depending on what they are currently working on but i think most valve employee prefer to work on something more interesting since they have that flexibility",
+                    "score": -1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "CrippledMafia",
+                            "body": "I can\u2019t complain too much, valve has changed the game significantly this past year with updates and changes bigger than a character release tbh, but thia has really only been this past year, the last couple years has been filled with constant dry spells of content or meaningful changes. Ringmaster trailer dropped half a year ago, Muerta over a year ago, primal beast 2 years, Marci 3 years ago. Now were in the crown fall event 6 months after the character trailer with no release date for ringmaster, not even a roadmap for the event. For all we know crown fall is what we\u2019re getting for the entire summer and by the end all these \u201cacts\u201d will just look like content slop that no one asked for. Like I said I can\u2019t complain too much right now because they\u2019ve been pretty active this past year in other aspects, but one character release every year or longer is an atrocious schedule for a MOBA. All I hope is that once they\u2019re done restructuring Dota in a way they like they focus on characters more again. 2 a year should be the minimum imo",
+                            "score": -1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "BeeBeginning5885",
+            "body": "Its good for a game to change and evolve. I welcome that. But I am very very strongly against making the mana bars visible to the enemy.",
+            "score": -10,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "_Valisk",
+                    "body": "It already worked this way for Medusa so I don\u2019t really see the harm in changing it globally.",
+                    "score": 4
+                },
+                {
+                    "depth": 1,
+                    "author": "kaul_field",
+                    "body": "What are you smoking? You could already left click enemies to see their mana. The information was ALWAYS there.",
+                    "score": 8,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Exotic_Performer8013",
+                            "body": "There is a certain type of 'old-head' DotA player that always opposes changes that lower the skill floor. Even if the skill floor was artificially higher for dumb reasons. Thankfully Valve don't pay much attention to those types.",
+                            "score": 7,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "buttercup_panda",
+                                    "body": "I mean they've paid attention for over a decade about this particular thing lol",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

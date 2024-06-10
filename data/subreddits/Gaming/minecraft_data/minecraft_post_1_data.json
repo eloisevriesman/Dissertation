@@ -1,0 +1,995 @@
+{
+    "title": "Minecraft Snapshot 24w21a",
+    "comments": [
+        {
+            "depth": 0,
+            "author": "mynameisperl",
+            "body": "**BREAKING NEWS: FIXED BUGS IN 24W21B**\n\n> MC-272321 - Crash after upgrading snapshot world to 24w21a\n\n**DISCLAIMER: r/Minecraft is NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG.**\n\n---\n\n**Minecraft Snapshot 24w21a** - A Minecraft Java Snapshot\n\nThis week we're bringing a Snapshot you can vibe out to! This time around we're bringing data-driven jukeboxes, a new gamerule, and a bunch of fixes.\n\nHappy vibing!\n\nChanges\n-------\n\n* It seems we cooked a bit too hard with the new Piston sounds last week, which is why we're reverting back to the old sounds again\n* Lowered volume of original sounds to address initial feedback of Pistons being too loud\n* Pause menu now can include a list of links provided by server\n* Improvements to the disconnection screen\n* Any member of a Realm can now upgrade a world\n* In the Realms main screen, all online players of a Realm are displayed\n    * When hovered, a tooltip is shown with each player's head and name\n\n### Vault\n\n* Added sound effect to help players understand they've already looted a vault\n\n### Trial Chambers\n\n* Trial Chambers are less likely to generate in the Deep Dark\n\n### Animal Panic\n\n* Animals now panic based on the damage caused by predefined Damage Source Types\n* The panic lasts for 2 seconds after the damage is dealt. The following damage type tags are used by vanilla animals:\n    * panic\\_environmental\\_causes: Used by Wolves, Polar Bears (adults) and Pandas\n    * panic_causes: Used by all other animals and baby Polar Bears\n\n### Server links\n\n* Servers can now provide a list of links to clients\n* If client has received any links, a new button called \"Server Links...\" will show up in pause game screen\n    * To make space for that button, \"Report Bugs\" and \"Give Feedback\" buttons might be moved into a sub-screen if necessary\n\n### Disconnection screen improvements\n\n* In some cases client will now store detailed information about disconnection (similar to crash reports)\n* When that happens, new \"Open Disconnection Report Directory\" button will be added to the disconnection screen\n* When server provides link for bug reporting, it will be also be added as a button to the disconnection screen\n\nTechnical Changes\n-----------------\n\n* Resource Pack version is now 34\n* Data Pack version is now 45\n* Server can now provide list of links to client\n* Servers can add custom details to crash and disconnection reports\n\n### Gamerules\n\n* Added new entitiesWithPassengersCanUsePortals gamerule\n    * When true, entities with passengers can use Nether Portals, End Portals and End Gateways\n    * Defaults to false\n\n### Server links\n\n* New clientbound packet server_links is available in configuration and game protocols\n* On receival, client will make links available from pause menu\n* Link labels can be built-in or custom (i.e. any text)\n* Some built-ins also have special fuctionality:\n    * report_bug:\n        * link will be displayed on disconnection screen, if disconnection was caused by packet handling error\n        * link will be included as a comment in disconnection report\n* Added bug-report-link to server.properties to allow vanilla server to configure report_bug links\n    * If this field is non-empty, server will send that link to clients\n    * This field should contain well-formed URL\n\n### Custom server crash report details\n\n* New clientbound packet custom\\_report\\_details is available in configuration and game protocols\n* This packet contains a list of key-value text entries\n* If received, contents of this packet will be added in a separate section to any crash or disconnection report generated during connection to this server\n\n---\nContd...",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "mynameisperl",
+                    "body": "Data Pack Version 45\n--------------------\n\n* Jukebox songs are now data-driven\n* Added new command syntax\n\n### Jukebox Songs\n\n* Added a jukebox song registry which is loaded from data packs\n* Path to jukebox song definition is data/&lt;namespace&gt;/jukebox_song/&lt;id&gt;.json\n* Fields in definition:\n    * sound_event \\- sound event that is streamed when played by a Jukebox\n    * description \\- the name of the song that will be displayed in the hover tooltip represented as a Text Component\n    * length\\_in\\_seconds \\- length of the song in seconds as a positive float\n    * comparator_output \\- the redstone signal output by a comparator when played in a Jukebox, between 0 and 15\n* Added minecraft:jukebox_playable item stack component\n\n#### jukebox_playable item component\n\n* If set, the item can be inserted into Jukeboxes to play a song\n* Format: object with fields\n    * song: jukebox song id\n        * The song that will be played by the Jukebox when this item stack is inserted\n    * show\\_in\\_tooltip: boolean (default: true)\n        * If false, the name of the song will not be shown in the tooltip\n        * This was formerly controlled by the hide\\_additional\\_tooltip component on Music Discs\n    * e.g. jukebox_playable={song:'minecraft:precipice'}, jukebox\\_playable={song:'minecraft:precipice', show\\_in_tooltip:false}\n\n### Attributes\n\n* Attribute modifiers no longer have a UUID and name combination\n* Instead, attribute modifiers are now uniquely identified by a namespaced ID, similar to other resources\n* The ID of a modifier uniquely identifies it in the set of modifiers for a single attribute\n    * Using the same ID for different modifiers is allowed as long as the modifiers are for different attributes\n* Existing built-in modifiers will be upgraded to new IDs\n* Existing custom modifiers will be upgraded to the GUID as an ID in the minecraft namespace\n\n#### attribute command\n\n* The uuid and name arguments have been replaced with a singular id argument\n\n#### Item Stack Attribute Modifiers\n\n* The uuid and name fields have been removed.\n* Attribute Modifiers now have an id (namespaced ID) field\n    * This is a unique identifier per attribute for the modifier\n\n#### Entity Attributes\n\n* Attributes are now stored as attributes\n* Attribute format:\n    * id, renamed from Name\n    * base, renamed from Base\n    * modifiers, renamed from Modifiers\n        * Now stores modifiers in the same format as modifiers in attribute_modifiers item stack components:\n            * id, replaces UUID and Name\n            * amount, renamed from Amount\n            * operation, renamed from Operation, now a named constant instead of an int:\n                * add_value \\- previously 0\n                * add\\_multiplied\\_base \\- previously 1\n                * add\\_multiplied\\_total \\- previously 2\n\n### Enchantments\n\n#### Attribute Effects\n\nFields:\n\n* name & uuid have been removed, replaced by id\n* id: The namespaced ID of the Attribute Modifier to add\n    * This will be postfixed with the slot name when the enchanted item is equipped in a slot\n    * Must be unique to avoid different Enchantments (or other systems) interfering with each others\n\n#### Entity Effect Types\n\n##### damage_item\n\nThe damage is not applied to items held by players in creative mode.\n\n##### Hit Block Parameters\n\n* Entities: this\n* Enchantment Level\n* Origin\n* Block State\n\n#### Effect Components\n\n* minecraft:hit_block:\n    * Condition Context: changed to take a Hit Block Parameter - this is the entity hitting the Block\n\n### Tags\n\n#### Directory renames\n\n* Some registry types that used legacy datapack directory names (based on plural name of element) have been renamed to match registry name\n* Affected directories:\n    * structures -\\> structure\n    * advancements -\\> advancement\n    * recipes -\\> recipe\n    * loot_tables -\\> loot_table\n    * predicates -\\> predicate\n    * item_modifiers -\\> item_modifier\n    * functions -\\> function\n    * tags/functions -\\> tags/function\n\n#### Item Tags\n\n* Removed music_discs item tag\n\n#### Block Tags\n\n* air: All blocks that resemble air\n\n#### Damage Type Tags\n\n* Removed breeze\\_immune\\_to damage type tag\n* Added panic\\_environmental\\_causes: Damage types that cause panic in aggressive animals that can panic, i.e. mobs that retaliate when attacked\n* Added panic_causes: Damage types that cause panic in passive animals, i.e. mobs that run away when attacked\n\n### Predicates\n\n#### Jukebox Playable Predicate\n\nNew item sub-predicate available as jukebox_playable.\n\n* Matcher for jukebox_playable component (like Music Discs)\n* Fields:\n    * song \\- optional id, list of ids or tag for jukebox song to be matched\n\n#### Player Predicate\n\n* The gamemode field has been changed to accept a list of gamemodes\n\n### Entity Data\n\n#### Projectiles\n\n* Removed power NBT tag and replaced with acceleration_power tag with a number value that controls the projectiles acceleration (and maximum speed)\n    * This change affects the following projectiles; dragon_fireball, large_fireball, small_fireball, fireball, breeze\\_wind\\_charge, wind_charge, wither_skull\n\n### Structures\n\n* New NBT tag dimension_padding for jigsaw structures\n    * Ensures that a structure is not generating through the edges of a dimension by adding vertical padding to its bounding box\n    * Is an object with fields:\n        * bottom the vertical padding at the bottom of the dimension, non-negative integer\n        * top the vertical padding at the top of the dimension, non-negative integer\n    * Can be written as a single non-negative integer instead to be applied to both top and bottom fields\n        * e.g. both dimension_padding: 10 or dimension_padding: { bottom: 10, top: 5 } are valid\n\n### Commands\n\n* Added @n entity selector, selecting the nearest entity\n    * This functions as @e\\[sort=nearest,limit=1\\]\n    * Additional requirements may still be provided; for example: @n\\[type=pig\\] will select the closest Pig\n\nResource Pack Version 34\n------------------------\n\n* Added the block.vault.reject\\_rewarded\\_player sound event\n* Changes to Shaders\n\n### Shaders\n\n* The blend block in core shader definitions has been removed, as it was not used\n* The position\\_color\\_tex shader has been removed, replaced with the pre-existing position\\_tex\\_color\n* The glint_direct shader has been removed, replaced with the pre-existing glint shader\n* The armor_glint shader has been removed, as it was unused\n\n---\nContd...",
+                    "score": 15,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "mynameisperl",
+                            "body": "\nFixed bugs in 24w21a\n--------------------\n\n* [MC-67](https://bugs.mojang.com/browse/MC-67) \\- Entities with passengers cannot travel through portals\n* [MC-31819](https://bugs.mojang.com/browse/MC-31819) \\- Hunger saturation depletes on peaceful difficulty\n* [MC-116279](https://bugs.mojang.com/browse/MC-116279) \\- Non-player entities going through Nether portal do not generate portal in Nether if none exists\n* [MC-151648](https://bugs.mojang.com/browse/MC-151648) \\- Non-player entities cannot travel through unlinked nether portals\n* [MC-170103](https://bugs.mojang.com/browse/MC-170103) \\- Untamed wolves only beg for food while being angry and jumping\n* [MC-260346](https://bugs.mojang.com/browse/MC-260346) \\- Custom music discs cut off when vanilla disc would normally end\n* [MC-266290](https://bugs.mojang.com/browse/MC-266290) \\- Double doors do not automatically form between waxed and unwaxed copper doors, even of the same variant\n* [MC-266586](https://bugs.mojang.com/browse/MC-266586) \\- Trial chambers can spawn directly inside the deep dark biome\n* [MC-266626](https://bugs.mojang.com/browse/MC-266626) \\- Breeze doesn't stop attacking the player when it enters on the same team\n* [MC-267967](https://bugs.mojang.com/browse/MC-267967) \\- Breezes ignore the deflects_projectiles entity type tag\n* [MC-268438](https://bugs.mojang.com/browse/MC-268438) \\- Baby armadillos can still eat while rolled up\n* [MC-269034](https://bugs.mojang.com/browse/MC-269034) \\- Wolves no longer teleport while trying to pathfind out of Lava\n* [MC-269351](https://bugs.mojang.com/browse/MC-269351) \\- The Bolt Armor Trim cannot be duplicated with Waxed Copper Block\n* [MC-269370](https://bugs.mojang.com/browse/MC-269370) \\- Sharp lag spike caused by incorrect upper limit on particles created by mace smash attack\n* [MC-269460](https://bugs.mojang.com/browse/MC-269460) \\- Thorns enchantment doesn't work when entities are hit by wind charges\n* [MC-269964](https://bugs.mojang.com/browse/MC-269964) \\- Ominous item spawners are missing an NBT load for spawn\\_item\\_after_ticks\n* [MC-269988](https://bugs.mojang.com/browse/MC-269988) \\- New potion effects don't apply their respective behaviors when creeper explodes\n* [MC-270024](https://bugs.mojang.com/browse/MC-270024) \\- When drinking ominous bottles, bad omen of higher levels can be overriden by lower amplifiers\n* [MC-270377](https://bugs.mojang.com/browse/MC-270377) \\- Wind charges can be hit and redirected the moment they are thrown\n* [MC-270573](https://bugs.mojang.com/browse/MC-270573) \\- Mounted entities are immune to wind charge damage\n* [MC-270808](https://bugs.mojang.com/browse/MC-270808) \\- Any item in the armor.body slot protects wolves from taking damage\n* [MC-271458](https://bugs.mojang.com/browse/MC-271458) \\- Channeling tridents no longer summon lightning bolt every time hitting lightning rod under thunderstorm\n* [MC-271573](https://bugs.mojang.com/browse/MC-271573) \\- Attribute Enchantments Don't Behave Properly on Armor\n* [MC-271634](https://bugs.mojang.com/browse/MC-271634) \\- Custom enchantments don't appear in the creative menu\n* [MC-271718](https://bugs.mojang.com/browse/MC-271718) \\- Crash when randomized\\_int\\_state_provider is applied to blocks lacking the property\n* [MC-271753](https://bugs.mojang.com/browse/MC-271753) \\- Crash due to overflow inside cost calculation in by\\_cost\\_with_difficulty\n* [MC-271856](https://bugs.mojang.com/browse/MC-271856) \\- Crossbows enchanted with Quick Charge do not benefit from its effects when used in the offhand\n* [MC-271868](https://bugs.mojang.com/browse/MC-271868) \\- Frost walker replaces flowing water now\n* [MC-271901](https://bugs.mojang.com/browse/MC-271901) \\- Entity effect \"play_sound\" Field \"pitch\" value upper limit is 1.0 instead of 2.0\n* [MC-271911](https://bugs.mojang.com/browse/MC-271911) \\- Frost walker no longer works with void or cave air\n* [MC-271914](https://bugs.mojang.com/browse/MC-271914) \\- Soul speed enchantment doesn't emit particles when the entity is controlled by a player\n* [MC-272039](https://bugs.mojang.com/browse/MC-272039) \\- Soul Speed uses durability in creative mode\n* [MC-272042](https://bugs.mojang.com/browse/MC-272042) \\- If players have max health over 20 and die, when they respawn they will have 20 health instead of their max health\n* [MC-272043](https://bugs.mojang.com/browse/MC-272043) \\- The game crashes when entities die while having the oozing effect\n* [MC-272075](https://bugs.mojang.com/browse/MC-272075) \\- Attempting to step up while controlling entity and moving fast often glitches\n* [MC-272084](https://bugs.mojang.com/browse/MC-272084) \\- Creepers with potion effects no longer create area effect clouds upon exploding\n* [MC-272182](https://bugs.mojang.com/browse/MC-272182) \\- Knowledge Books no longer function properly with a stack size of 1 in survival/adventure mode\n\nGet the Snapshot\n----------------\n\nSnapshots are available for Minecraft: Java Edition. To install the Snapshot, open up the [Minecraft Launcher](/download.html) and enable snapshots in the \"Installations\" tab.\n\n**Testing versions can corrupt your world, so please backup and/or run them in a different folder from your main worlds.**\n\nCross-platform server jar:\n\n* [Minecraft server jar](https://piston-data.mojang.com/v1/objects/4d8d16bb981cdcf69381ad638f2904b033d2f3ac/server.jar)\n\nReport bugs here:\n\n* [Minecraft issue tracker](https://bugs.mojang.com/projects/MC/summary)!\n\nWant to give feedback?\n\n* For any feedback and suggestions on our upcoming 1.21 features, head over to the dedicated [Feedback site category](https://aka.ms/Minecraft121Feedback). You can also leave any other feedback on the [Feedback site](https://feedback.minecraft.net/). If you're feeling chatty, join us over at the [official Minecraft Discord](https://discordapp.com/invite/minecraft).",
+                            "score": 13
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Luutamo",
+            "body": "> MC-67 - Entities with passengers cannot travel through portals\n\nThis is an interesting one. I think many have seen this as more of an feature and it's used in some farm designs.",
+            "score": 355,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "iamabucket13",
+                    "body": "That's probably why it's a gamerule defaulted to false now",
+                    "score": 220
+                },
+                {
+                    "depth": 1,
+                    "author": "lucky707",
+                    "body": "Interesting, what kind of farms use it as a feature?",
+                    "score": 34,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Luutamo",
+                            "body": "For example you can use a boat with bunny or something inside the portal so when mobs come through they get bumped by the boat and drop more easily from the portal to the killing chamber. It can also be used to align stuff.",
+                            "score": 55,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Anonymous_Gamer939",
+                                    "body": "I think you could still work around this by passing the boat through the portal from the other side and then just leaving it there, as long as the boat never leaves the portal block after being sent through, it will never reset and be sent back",
+                                    "score": 26,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "RoVeR199809",
+                                            "body": "Does this last through a game restart or would you have to resort to restarting the game twice every time?",
+                                            "score": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "xXIProXx",
+                    "body": "As far as I can think of, this makes overworld shulker farms impossible.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Noble-Damask",
+            "body": "More data-driven stuff. The ability to mod the game via datapacks grows yet again.\n\nIf they keep up with the currant rate they're going, we'll get the ability to add whole new items and blocks within an update or two.",
+            "score": 493,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "thE_29",
+                    "body": "I mean, look at all the custom stuff Bedrock has with their DLCs.. a fliping shark for example.",
+                    "score": 142,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Tigertot14",
+                            "body": "Which Java could always do via mods.",
+                            "score": 55,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "thE_29",
+                                    "body": "Yeah, mods are cool.. but with datapacks its all vanilla.\n\nWould be nice to have cross plattform datapacks",
+                                    "score": 100,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "SteelCrow",
+                                            "body": "> datapacks its all vanilla.\n\nNo. Datapacks are just a differerent delivery system, but they still mod the game. \n\nhttps://www.planetminecraft.com/data-pack/illager-fortresses-datapack-for-minecraft-1-14/\n\nor \n\nWhat's the difference between the[ botany pots mod](https://www.curseforge.com/minecraft/mc-mods/botany-pots) and the[ tree pots datapack](https://www.youtube.com/watch?v=BtMzQlMryuM)?",
+                                            "score": 59,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "ninth_reddit_account",
+                                                    "body": "Datapacks are just 'first party mods'. They technically work very differently from 'mods', but that's less important.\n\nBut they're neat because the just work with minecraft out of the box, and don't require a custom game client. Importantly, they can be specified by the server and don't require clients to install them.",
+                                                    "score": 52,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "Modus-Tonens",
+                                                            "body": "That's not the case either - first-party would mean it was Mojang making the datapacks. There *are* some first-party datapacks, but not all data-packs are first-party. \n\nIt's just (simple) mods with a built-in loader.",
+                                                            "score": 11
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "thE_29",
+                                                    "body": "Mods = you need a modloader. Its simple not vanilla.\n\nDatapack = Copy it in the world folder. Done (dont know about Bedrock).\n\n\n2 different worlds.",
+                                                    "score": 59,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "EarthlingKira",
+                                                            "body": "The best part about data packs: they are safe and in 99% of cases technically not able to hack you. \n\nWhile a mod nearly always can, so you need to trust the mod author or the mod website to do their due diligence.",
+                                                            "score": 10
+                                                        },
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "Modus-Tonens",
+                                                            "body": "Minecraft's datapack system is functionally similar to, say, Skyrim's built-in modloader. It's the descendent of their original modding API that was never realised.",
+                                                            "score": 5
+                                                        },
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "delebojr",
+                                                            "body": ">Mods = you need a modloader. Its simple not vanilla.\n\nOr you can copy the files into Minecraft.jar and delete META-INF. Easy peasy",
+                                                            "score": 20,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "thE_29",
+                                                                    "body": "The first \"mods\" patched the minecraft.jar file. :-)\n\nBut what I meant: one works without changing the game. For the other, you need additional stuff.",
+                                                                    "score": 12
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "SteelCrow",
+                                                            "body": "same shit, different pile.",
+                                                            "score": -28,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "thE_29",
+                                                                    "body": "No, not at all.\n\nChanging the game? Yes.\n\nApplying it? No",
+                                                                    "score": 15,
+                                                                    "replies": [
+                                                                        {
+                                                                            "depth": 8,
+                                                                            "author": "Lzinger",
+                                                                            "body": "Same shit, different delivery.",
+                                                                            "score": -9,
+                                                                            "replies": [
+                                                                                {
+                                                                                    "depth": 9,
+                                                                                    "author": "thE_29",
+                                                                                    "body": "Exactly. One is purely vanilla, the other one (modloader) doesnt even EXIST on Bedrock or its also vanilla.\n\nYou always need to install the loader first.. Be it fabric or forge.\n\nAnd thats why there is a HUGE difference.",
+                                                                                    "score": 8,
+                                                                                    "replies": [
+                                                                                        {
+                                                                                            "depth": 10,
+                                                                                            "author": "Mrcoolcatgaming",
+                                                                                            "body": "While I disagree datapacks that add new items are vanilla (advancements are a bit different, and minor things like that), I do prefer them as it doesn't need a different launcher",
+                                                                                            "score": 0,
+                                                                                            "replies": [
+                                                                                                {
+                                                                                                    "depth": 11,
+                                                                                                    "author": "thE_29",
+                                                                                                    "body": "I never meant, that adding datapacks keeps the game Vanilla.\n\nIt simple works out of the box.",
+                                                                                                    "score": 5,
+                                                                                                    "replies": [
+                                                                                                        {
+                                                                                                            "depth": 12,
+                                                                                                            "author": "Mrcoolcatgaming",
+                                                                                                            "body": "Ya gotcha, ngl the simplicity is cool as one learning on making datapacks for custom advancements (and branching out to custom enchantments too)",
+                                                                                                            "score": 2
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "depth": 10,
+                                                                                            "author": "Lzinger",
+                                                                                            "body": "still not vanilla. You are changing the game. That makes it not vanilla. Just because it's an easier way to add things to the game doesn't make it vanilla",
+                                                                                            "score": 0,
+                                                                                            "replies": [
+                                                                                                {
+                                                                                                    "depth": 11,
+                                                                                                    "author": "thE_29",
+                                                                                                    "body": "Yeah, I didnt meant it like that.. explains this Strange answers:\nhttps://www.reddit.com/r/Minecraft/s/yUUJTbrNSl",
+                                                                                                    "score": 3,
+                                                                                                    "replies": [
+                                                                                                        {
+                                                                                                            "depth": 12,
+                                                                                                            "author": "Lzinger",
+                                                                                                            "body": "Gotcha that's how you were coming off",
+                                                                                                            "score": 3
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "depth": 9,
+                                                                                    "author": "MidAirRunner",
+                                                                                    "body": "Welcome to reddit. One person saying something gets downvoted, another person agreeing to it gets upvoted. lmfao.",
+                                                                                    "score": 1
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "kkai2004",
+                                                    "body": "If it's a datapack on a server you don't need to download mods to connect.",
+                                                    "score": 5
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Manos_Of_Fate",
+                                                    "body": "A mod has to be installed on both the server and client. A datapack just has to be present on the server alongside a resource pack to supply any necessary models and textures.",
+                                                    "score": 4,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "arahman81",
+                                                            "body": "Some mods can be serverside only. No clientside needed.",
+                                                            "score": 1,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "Manos_Of_Fate",
+                                                                    "body": "Mods that add items and blocks generally have to be installed on the client. There are workarounds for that but they tend to be a bit janky and limited. Mods also require a certain level of programming knowledge to create even basic blocks and items. Being able to properly add blocks with json files would be huge for someone like me who has basically all the necessary skills other than programming.",
+                                                                    "score": 4,
+                                                                    "replies": [
+                                                                        {
+                                                                            "depth": 8,
+                                                                            "author": "Devatator_",
+                                                                            "body": "Don't know about before or even other modloaders but to add blocks and items in NeoForge, you use JSON just like Vanilla Minecraft. In fact, the assets folder where you put all that has the exact same structure as a data/resource pack. You only need code to register and add other stuff to them\n\nEdit: also in terms of functionality, I find Java a lot easier to use than MCFUNCTION. Don't know how people understand that thing",
+                                                                            "score": 3,
+                                                                            "replies": [
+                                                                                {
+                                                                                    "depth": 9,
+                                                                                    "author": "Manos_Of_Fate",
+                                                                                    "body": "Interesting, I\u2019ll have to look into that.",
+                                                                                    "score": 1
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Hadditor",
+                                                    "body": "Modding means modifying the games code, by overwriting and changing existing files. Resource/Data packs are an addition to the existing files, working in tandem.",
+                                                    "score": -1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "OnlyMyOpinions",
+                                    "body": "Yeah but it's much more simple and easier for add-ons or data packs. Plus with bedrock, any add-ons are backwards compatible with future versions so you wouldn't need to update it that much. It's also great bc I can also invite friends playing vanilla and they can just join my world and see all the addon stuff and resource packs that I added.",
+                                    "score": 1
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "Hydroquake_Vortex",
+                            "body": "Bedrock has items and blocks, but Datapacks have better world generation and custom biomes",
+                            "score": 2
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "BrickenBlock",
+                    "body": "They'll get there eventually but how many more random things like jukeboxes will happen first. Minecraft has so many minor features that i can't remember them all",
+                    "score": 12,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "adderthesnakegal",
+                            "body": "they probably also have to make GUIs data-driven at some point too before considering making blocks data-driven, so that people can add custom block interactions",
+                            "score": 5
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "Daruwind",
+                    "body": "Still cannot add new item to vanilla without need for overly complex background mods...:/",
+                    "score": 6,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "oldprogrammer",
+                            "body": "They added the ability to create *new items* by making it possible to add attributes to existing items that then are able to be used to define new models/textures.  There's plugins and datapacks that create guns and cannons by using custom models/textures on armor stands or crossbows then retexture snowballs to shoot.",
+                            "score": 7,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Daruwind",
+                                    "body": "Sure, it let\u00b4s you fake item quite well. Still why not one more step to make it complete?",
+                                    "score": 2,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "adderthesnakegal",
+                                            "body": "they definitely will eventually, the nbt system being entirely rewritten is a huge step toward that. for now, though, retextured items with specific components defining them as separate from their original item is a good workaround.",
+                                            "score": 7
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "Gintoki_87",
+                    "body": "It's nice. I just hope they do the same with villager trades, both so it's easy to edit/modify but also to add entirely new villager types in a simple way.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "rajde1",
+            "body": "I\u2019m surprised they aren\u2019t into the pre-releases yet. Quite a bit of stuff still.",
+            "score": 96,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "RedstoneEnjoyer",
+                    "body": "Well, we stll have 2 weeks",
+                    "score": 17,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "rajde1",
+                            "body": "Usually from when they start the pre-releases it is 2 weeks, so I think it'll be 3 or more weeks.",
+                            "score": 6
+                        },
+                        {
+                            "depth": 2,
+                            "author": "thE_29",
+                            "body": "Was there an actual release date set? Only found \"mid 2024\"?",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "RedstoneEnjoyer",
+                                    "body": "Nope, but every update from 1.16 was released in June (with exception of 2nd part of caves and clifs)",
+                                    "score": 2
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Lubinski64",
+            "body": "The community nuked the new piston sound so hard it travelled to the shadow realm where vertical slabs and minecraft guns reside.",
+            "score": 258,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "MurlocProger",
+                    "body": "Well, i wouldn't be upset if this fishy sound replaced vertical slabs in this shadow realms",
+                    "score": 39
+                },
+                {
+                    "depth": 1,
+                    "author": "HugeFatHedgeHog",
+                    "body": "minecraft should never have guns",
+                    "score": 14,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Cinderheart",
+                            "body": "*Crossbow with firework rocket has entered the chat*",
+                            "score": 2,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "HugeFatHedgeHog",
+                                    "body": "not a gun\n\nit's a crossbow loaded withh firework rockets",
+                                    "score": 0
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "TheArchonians",
+                            "body": "But TNT is ok",
+                            "score": -13,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "HugeFatHedgeHog",
+                                    "body": "yes",
+                                    "score": 15
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Mckooldude",
+            "body": "For the piston noise feedback, let us \"wax\" redstone components to significantly quiet them.   \n  \nIt's a mechanic that's similar to a few already in game, it's semi-realistic (wax can be a lubricant after-all), and better yet it allows people to choose loud or quiet.",
+            "score": 359,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Anonymous_Gamer939",
+                    "body": "It may be at this stage, there isn't that much time before their internally scheduled deadline for them to add and test a new feature like this and their main focus is on polishing the existing features, but it's probably already on their tracker to add later.",
+                    "score": 67
+                },
+                {
+                    "depth": 1,
+                    "author": "thedecibelkid",
+                    "body": "My idea is to craft quiet pistons using a piston and wool. The deep dark having set the precedent that wool absorbs sound",
+                    "score": 23,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "DragoSphere",
+                            "body": "tbh that sounds like inventory bloat to me\n\nI much prefer the waxing method, as it further builds on existing mechanics, not to mention could be applied to other components as well like droppers or levers",
+                            "score": 50,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "bcocoloco",
+                                    "body": "It\u2019s the same amount of items as carrying wax\u2026",
+                                    "score": 2,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "DragoSphere",
+                                            "body": "No, because you inevitably make more pistons than you need and they end up taking double the storage space, whereas people would already have wax if they do anything with copper or signs\n\nNot to mention if the functionality extends to all redstone components, then having one item providing a mute function is preferable to duplicates of everything",
+                                            "score": 4,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "bcocoloco",
+                                                    "body": "Most redstone components already make pretty minimal sounds though.\n\nCrafting more pistons than needed is definitely user error.",
+                                                    "score": 1
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "enderGuardian46",
+            "body": "i wish the MC-67 fix was true by default, since i mainly view it as a way for players to use afk nether travel, but i guess there are probably ways smart players will be able to abuse it somehow...",
+            "score": 59,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "sermatheus",
+                    "body": "It is set as false by the fault because some farms use that on their design. They did not want to break it, but they wanted to give the option to people.",
+                    "score": 29,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "TheDudeWhoWasTheDude",
+                            "body": "Tbf it's quite an easy fix if it did break farms. Simply push the entities through the opposite side and since it should never leave the portal, it will remain there as the cooldown won't end.",
+                            "score": 4
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "thE_29",
+                    "body": "Piston-bolts are using carts.. Carts are ejectable.",
+                    "score": 9
+                },
+                {
+                    "depth": 1,
+                    "author": "Runabo",
+                    "body": "Converting old worlds could set this to false and players who abuse this bug for their farms could manually set this to false, too, but for new worlds the default setting should be true because that is the expected behaviour ...",
+                    "score": 6
+                },
+                {
+                    "depth": 1,
+                    "author": "MurlocProger",
+                    "body": "Traveling through portals on vehicle or mount are controlled by new gamerule, which is set to false (as stated in change log), and when it is false, you can't travel through portal if riding something. So unless server admin toggles this rule to true, AFK-multidimensional travel is impossible",
+                    "score": 2,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "enderGuardian46",
+                            "body": "yeah, that is exactly what i am talking about in my comment, lol",
+                            "score": 14,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "MurlocProger",
+                                    "body": "My apologies, looks like i misunderstood your comment. My bad:b",
+                                    "score": 3
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "D_r_D_a_p_p_e_r",
+            "body": "Love to see that they cleaned up attribute modifiers. Working with UUIDs felt kinda clunky before, this is much better!\n\nData driven jukeboxes is also huge. Mojang haven\u2019t been missing with the technical changes lately",
+            "score": 42,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "DanieltheGameGod",
+                    "body": "I just would love for them to give us the option to make attributes apply with items in the hotbar and inventory and not be limited to hand and armor slots. Data driven potions I imagine might be in the next snapshot or two, which would also be awesome. Giving like ten percent night vision over all or nothing could be cool to mess with.",
+                    "score": 4
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Like50Wizards",
+            "body": "> Pause menu now can include a list of links provided by server\n\nOh yeah, I can't see how this will be abused at all..",
+            "score": 21
+        },
+        {
+            "depth": 0,
+            "author": "lumfdoesgaming",
+            "body": "Time to learn to make a data pack so i can add the entire soundtrack as music discs (maybe Dungeons legends and smash bros too)",
+            "score": 35,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Bagelbot16",
+                    "body": "Theres already a data pack that does this, and its really easy to use lol.",
+                    "score": 9,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "lumfdoesgaming",
+                            "body": "Where",
+                            "score": 3,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Bagelbot16",
+                                    "body": "https://youtu.be/zDXSKYvJXmg?si=a0AXGAGGrv5brwSv\n\nThis guy made one that works really well, believe that 1.20.5 and 1.20.6 have a bug that needs to be fixed but all other versions of 1.20 work.",
+                                    "score": 2,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "lumfdoesgaming",
+                                            "body": "Thank you. I will still look into making a data pack as i want to learn",
+                                            "score": 1,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Bagelbot16",
+                                                    "body": "Understandable, also I wish you luck with making your own datapack!",
+                                                    "score": 3
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "FuckMyHeart",
+            "body": "A new entity selector is always great",
+            "score": 14
+        },
+        {
+            "depth": 0,
+            "author": "throwaway1626363h",
+            "body": "Data driven jukeboxes \ud83d\udc40",
+            "score": 11,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "trollblox_",
+                    "body": "but no data-driven anvils yet \ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "RedditRedditReddit64",
+            "body": "Hoping they adjust the mace\u2019s attack speed to 0.8 before release, so that it\u2019s compatible with wind burst again.",
+            "score": 9
+        },
+        {
+            "depth": 0,
+            "author": "camel-cultist",
+            "body": "I haven't played around with datapacks much, can you use them to add custom sounds? Like with this snapshot's changes, could you have an item play a track from your datapack file when put in a jukebox? Or is it limited to vanilla sound events?",
+            "score": 8,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "GrifterMage",
+                    "body": "There was already the ability to create custom sound events using resource packs--it's just that previously they were limited to use by commands/functions and then note blocks. This simply allows jukeboxes to use them as well.\n\nNext stop: goat horns!",
+                    "score": 12,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "geekyCatX",
+                            "body": "The Hermits are having a ton of fun with custom goat horns!",
+                            "score": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Travispig",
+            "body": "Woah shocker they switched back the piston sound and weren\u2019t ignoring the fandom like everyone was having a tantrum about",
+            "score": 33,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "throwaway1626363h",
+                    "body": "The community whines about a change like it's permanent, ignorant to the fact that SNAPSHOTS ARE ALWAYS VIABLE TO CHANGE, NOTHING IS PERMANENT",
+                    "score": 18,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "MidAirRunner",
+                            "body": "Tbf a lot of things don't get reverted. See: copper bulb, mace.",
+                            "score": 12,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "OnlyMyOpinions",
+                                    "body": "That's bc they have their reasons for not reverting those changes but a sound effect?",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Laurixas",
+            "body": "I still think they could come up with sound that is in between, little bit more calm, but still with good punch, but reverting to default is still better than new sound.",
+            "score": 4
+        },
+        {
+            "depth": 0,
+            "author": "FuckMyHeart",
+            "body": "Why does the new entities with passengers gamerule default to false???",
+            "score": 4,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "HugeFatHedgeHog",
+                    "body": "because people use the normal behavior for farms",
+                    "score": 6
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Honey_Enjoyer",
+            "body": "I\u2019m slightly bummed that they just reverted and quieted the pistons rather than trying another new sound - I like the *idea* of a new sound (the current sound file is pretty crunchy) I just think the execution was off.\n\nStill, this is an improvement over the last snapshot, so I should probably just take the win.",
+            "score": 30,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "MadRoboticist",
+                    "body": "This doesn't mean they gave up. This just means that was the most beneficial change they could make in a week.",
+                    "score": 5,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Honey_Enjoyer",
+                            "body": "Yeah not necessarily, but the way they talk about it makes me think so.\n\n>-\tIt seems we cooked a bit too hard with the new Piston sounds last week, which is why we're reverting back to the old sounds again\n>-\tLowered volume of original sounds to address initial feedback of Pistons being too loud\n\nThe way they phrase that makes me think lowering the volume is the replacement solution rather than a band-aid, but we\u2019ll see.",
+                            "score": 2,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "MadRoboticist",
+                                    "body": "How else would they phrase that? Adjusting volume on a sound file is a much quicker solution than generating a new sound.",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "TheBrahmnicBoy",
+                    "body": "Imagine they just added a poll for 8 different piston sounds.\n\nAnd gave to the community.\n\nLike a community vote...",
+                    "score": 15,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "IceYetiWins",
+                            "body": "I'm sure that would go well",
+                            "score": 20,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Capt_Blackmoore",
+                                    "body": "\"And that was how the sounds of porn got into Minecraft\"",
+                                    "score": 2,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "thE_29",
+                                            "body": "Realistic speaking: Mojang would provide this XX sounds and people need to vote.\n\nAnd not people can vote whatever the heck they want.",
+                                            "score": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "mynameisperl",
+            "body": "**DISCLAIMER: r/Minecraft is NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG.**\n\n---\n\n**Reminder No. 1**: create a new world enabling \"Experimental Features\" to find the new content that is gated behind it including the Crafter, and the Trial Vault with its other new blocks, and the mace; as well as the villager rebalance proposals from earlier snapshots.\n\n**Reminder No. 2**: both snapshots and previews are now available in Realms.\n\nJava Edition:\n\n> Note: A Snapshot Realm will update to the Snapshot version the Realm owner is on when they join. If an owner joins the Realm with an updated or downgraded version of Snapshot, the Realm will switch to that version, and members will have to join using that same version.\n\n> Snapshot Realms allow you to play the newest experimental features on a Java Realm with your friends. You\u2019ll also have access to all of the features you\u2019re used to on your regular Java Realm. You\u2019ll even have access to the April Fools Snapshots as well! https://help.minecraft.net/hc/en-us/articles/20143730191245\n\n\nBedrock Edition:\n\n> Realms are now available in Preview and Beta! Any player who has an active Realms subscription is eligible to create a free Realm in Preview/Beta. This Preview Realm will be separate from your regular Realm to prevent any issues from impacting your regular Realm. For more information on how Preview Realms work, please see Realms in Minecraft: Bedrock Edition Preview and Beta FAQ. https://help.minecraft.net/hc/en-us/articles/20264295053709\n\n---\n\n*Other Information:*\n\n* Feedback on the mace goes here: https://aka.ms/mcmacefeedback\n\n* Feedback on Item Stack Components goes here: https://aka.ms/ItemStackComponentsFeedback\n\n* Feedback on the Crafter goes here: https://feedback.minecraft.net/hc/en-us/community/posts/20459106029709-Let-s-talk-about-the-Crafter-\n\n* Feedback on the experimental villager trading goes here: https://aka.ms/VillagerTradingFeedback\n\n* Feedback on Spawn Chunks goes here: https://aka.ms/spawnchunksfeedback\n\n* Feedback on Vaults goes here: https://aka.ms/mcvaultsfeedback\n\n* Feedback on Wind Charges goes here: https://aka.ms/mcwindchargefeedback\n\n* Feedback on Bedrock Edition Preview feature \"dynamic game tips\": https://aka.ms/mcgametipsfeedback\n\n* Feedback on Bedrock Edition Preview feature \"player profile\": https://aka.ms/MCPreviewProfileFeedback\n\n* \"We have been testing our fixed dpad-tweaks in Preview for a few weeks and are looking for your feedback here\": https://aka.ms/newdpadfeedback\n\n---\n\nLatest Bedrock Edition beta/preview 1.21.10.20 https://feedback.minecraft.net/hc/en-us/articles/26899699762061-Minecraft-Beta-Preview-1-21-10-20\n\nLatest Bedrock Edition live release 1.20.81 https://feedback.minecraft.net/hc/en-us/articles/26247797084173--Minecraft-1-20-81-Bedrock\n\nBug Tracker report: https://www.reddit.com/r/Mojira/comments/1cy4w7y/bugtracker_report_24w21b/",
+            "score": 7,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "adderthesnakegal",
+                    "body": ">Reminder No. 1: create a new world enabling \"Experimental Features\" to find the new content that is gated behind it including the Crafter, and the Trial Vault with its other new blocks, and the mace; as well as the villager rebalance proposals from earlier snapshots\n\n\"Reminder No. 1: create a new world enabling \"Experimental Features\" to find the new content that is gated behind it including the Bundle, as well as the villager rebalance proposals from earlier snapshots.\"\n\nftfy",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Littlebickmickey",
+            "body": "\u201ecooked too hard\u201c bruh they didn\u2018t cook they burnt the continent down",
+            "score": 16
+        },
+        {
+            "depth": 0,
+            "author": "wildcard_gamer",
+            "body": "\"We cooked a bit too hard with the new piston sounds last week\" is wild",
+            "score": 4
+        },
+        {
+            "depth": 0,
+            "author": "novelboy2112",
+            "body": "* Any member of a Realm can now upgrade a world\n\nHoly shit, what a game changer.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Wide_Pop_6794",
+            "body": "They listened to the community again! Pistons are back to normal!",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "un_pogaz",
+            "body": "Hell, the data-driven jukebox musics are insane.\n\nI had high hopes that the components would enable incredible functionality, and now it's confirmed beyond all my expectations. The possibility of changing the size of stacks for items was a great, but this one really shows just how far and powerful they can go. Almost all the interactions of the vast majority of items could largely be handled by components.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "ConfusedGuy3260",
+            "body": "Oh my god, finally, now no more posts complaining about a SOUND. Absolute cry babies",
+            "score": 11
+        },
+        {
+            "depth": 0,
+            "author": "mynameisperl",
+            "body": "For Bedrock Edition players, see the latest preview/beta (1.21.10.20) and this note:\n\n> * We have been testing our fixed dpad-tweaks in Preview for a few weeks and are looking for your feedback here: https://aka.ms/newdpadfeedback",
+            "score": 4
+        },
+        {
+            "depth": 0,
+            "author": "SWE3N3Y",
+            "body": "Do we have a rough time of release for the actual update drop?",
+            "score": 3,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "CountScarlioni",
+                    "body": "Just sometime this year is all we know officially.\n\nNothing more specific has been stated, but *usually* the new updates arrive in June (the last four updates, sans Caves & Cliffs Part 2, have all been released in June), and this update is pretty much feature-complete, but is currently still in the snapshot phase, so I would estimate that pre-releases will start sometime next month, unless something out-of-the-ordinary happens to push it further back.",
+                    "score": 4,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "HugeFatHedgeHog",
+                            "body": "sans? SANS UNDERTALE???",
+                            "score": -3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "wk_online_",
+            "body": "Thank god for the pistons!!!",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "JammyBails",
+            "body": "Can we please have a data component for Vaults that allows for infinite looting for mapmakers/custom maps before 1.21 comes out please? The way we have to do it now is replace the entire vault with command blocks to replace the entire vault to clear out rewarded players data which doesnt have any way for each specific vault block made via commands to completely ignore players looting vaults with any key item used.\n\nThis is limiting if we want to make a RPG style map where you loot infinitely and get rewarded keys for repeated playthroughs of the custom map but having to spam my console with the same placeblock command for just 1 vault and having multiple vaults makes it much more annoying than it needs to be.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "ClocksAndTicks",
+            "body": "Finally.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "dumbass_41",
+            "body": "I'm very happy the new piston sound was removed. Thank you Mojang. :)",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "fynnelol",
+            "body": "WE DID IT",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Okeing",
+            "body": "nice they gave back old piston back now time to add old copper bulb, mace and crafter",
+            "score": -9,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "MarcyWuFemdomOfficia",
+                    "body": "Mace changes are final, as usual any cool ideas Mojang have are dead by the time they reach prerelease because snowflake PVP players freaking out about balance in a distinctly unbalanced PVP arena",
+                    "score": 8,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Okeing",
+                            "body": "pvp server owners are too lazy to balance the mace themselves especially with the new enchant system so they want mojang to ruin everyone else's fun",
+                            "score": 6
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "Truthwatcher1",
+                    "body": "What did they change about the crafter?",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "WM_PK-14",
+                            "body": "the ONLY thing being that it has a very slight delay between throwing out stuff, and it's so small I don't know why people were so pissy about it.",
+                            "score": 5,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "MadRoboticist",
+                                    "body": "People were mad because they thought it would have some technical applications for high speed redstone. Personally I think it makes a lot more sense to match the dispenser and I don't think a block's primary use case should be changed because of how it may or may not be useful by the technical community.",
+                                    "score": 5
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "TheBiggestNose",
+            "body": "I wish the glasses and glowstone gets viable tools. Feels crap to gather glowstone or have to remove a bunch of glass. I dont care if that effective tool is shears, just something would be premium",
+            "score": -1
+        },
+        {
+            "depth": 0,
+            "author": "sermatheus",
+            "body": "Another week, another data pack version.\n\nEdit: I was just doing a harmless joke.",
+            "score": -8
+        },
+        {
+            "depth": 0,
+            "author": "SinisterPixel",
+            "body": "I really loved the piston sound. I'm actually really bummed it got reverted. I feel like a lot of people liked the sound/didn't care but it was a vocal minority complaining about it. The clunks sounded like clockwork.\n\nHope they revisit changing the sound",
+            "score": 0,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "adderthesnakegal",
+                    "body": "it was a decent sound but i dont think it fit the piston at all, considering pistons are composed of a base, and a rod with a flat end that slides in and out of the base. something like that would more commonly be making a sound like the original piston sound than the clicking of the scrapped new one",
+                    "score": 1
+                },
+                {
+                    "depth": 1,
+                    "author": "thE_29",
+                    "body": "Multiple pistons sounded moist.. Like some wet switches..\n\nOld ones were too loud, thats why I always use a resource pack. But the new sound was awful.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Wells2205",
+            "body": "Ok\n\n  \nIn all my years of playing Minecraft since ALPHA.......\n\n  \nWHO has been complaining of the pistons being too loud? I have never seen any complaints unless I missed them which is possible.\n\n  \nStill not over when they changed the TNT sound, OG was best the current makes wet noise.",
+            "score": -13,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Manos_Of_Fate",
+                    "body": "I think most of us who hate it have just assumed it would probably never be changed and accepted it. I have seen a number of prominent YouTubers complain about it, though.",
+                    "score": 9
+                },
+                {
+                    "depth": 1,
+                    "author": "SSL4000G",
+                    "body": "Pistons are way too loud if you spend any time doing redstone where you have tons firing at the same time. I have a datapack that specifically turns down the piston level because it's such a headache.",
+                    "score": 13
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "MarcyWuFemdomOfficia",
+            "body": ">It seems we cooked a bit too hard with the new Piston sounds last week, which is why we're reverting back to the old sounds again\n\n>Lowered volume of original sounds to address initial feedback of Pistons being too loud\n\nGiven the rule of the Mojang's Paw this means they're gonna break pistions next week, right?",
+            "score": -22,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Jellie_the_Cat",
+                    "body": "Stupid Community Logic...",
+                    "score": 4
+                }
+            ]
+        }
+    ]
+}

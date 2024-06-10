@@ -1,0 +1,1915 @@
+{
+    "title": "12 year old world lost tonight",
+    "comments": [
+        {
+            "depth": 0,
+            "author": "MinecraftModBot",
+            "body": "* Upvote this comment if this is a good quality post that fits the purpose of r/Minecraft\n\n* Downvote this comment if this post is poor quality or does not fit the purpose of r/Minecraft\n\n* Downvote this comment *and report the post* if it breaks the [rules](https://www.reddit.com/r/Minecraft/wiki/rules)\n\n---\n\n[Subreddit Rules](https://old.reddit.com/r/Minecraft/wiki/rules)[](## Final-Feature-8177|1cyl4tk)",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Anyadakk",
+            "body": "maybe it's still in the hard disk.\u00a0 im having the same problem on PS5 and for what I know deleted files are storaged in the hard disk waiting to be overwritten. Be careful to not download anything on the console as it will probably delete permanently the files and ask someone who is competent in this regard. Hope this helps.\u00a0\n\n\nI recently deleted (because I'm dumb) corrupted files of a world i spent almost 300 hr\u00a0with my friends and im really sad. I'm waiting for a sony adapter to arrive via Amazon to check in the hard disk if the 900mb of worlds are still there... the waiting is killing me.",
+            "score": 1081,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "I\u2019ll definitely look into that!",
+                    "score": 431,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "gwenhvvyfar",
+                            "body": "Don't fall for a scam, there is plenty of paid service online, the best software ever is free and open source since 2002. don't pay anything. you should also stop using this hard drive and clone it first before doing anything to be safe and not corrupt more the data.\n\n[https://www.cgsecurity.org/wiki/TestDisk](https://www.cgsecurity.org/wiki/TestDisk)\n\n[https://www.cgsecurity.org/wiki/PhotoRec](https://www.cgsecurity.org/wiki/PhotoRec)",
+                            "score": 412,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "SELVIN_DESOUZA",
+                                    "body": "Heyy can I use it to also get lost world from Minecraft bedrock from my android phone???\n\nAnd is there a tutorial on how to ??",
+                                    "score": 42,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "Ciulotto",
+                                            "body": "I'm sorry, android has specific security measures such as File Based Encryption to prevent this kind of stuff",
+                                            "score": 60,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "NapsterKnowHow",
+                                                    "body": "Older versions of android don't",
+                                                    "score": 6,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "Ciulotto",
+                                                            "body": "But are you able to access the unencrypted block device directly without having the phone rooted?\n\nMaybe with a recovery that can unencrypt the data partition it could be possible!",
+                                                            "score": 4
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "henrythedog64",
+                                            "body": "I think with something like android you wouldn\u2019t been better off backing up your worlds",
+                                            "score": 5
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "NapsterKnowHow",
+                                    "body": "I always feel less confident about a piece of software when they say \"don't fall fir a scam.\" Makes me feel like it's more likely to be a scam lol",
+                                    "score": 6,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "gwenhvvyfar",
+                                            "body": "This just means that the data recovery service is usually full of scammers (because many people who panic about their lost data fall into this), they create a \"fake\" software that uses this tool and charge you with $50-100.\n\nThis is a weird way of thinking, how can a free solution with open source code used and updated for over 20 years with a wikipedia page be a scam? You can just read my message and type TestDisk into Google to check?\n\n[https://wikipedia.org/wiki/TestDisk](https://wikipedia.org/wiki/TestDisk)\n\n[https://github.com/cgsecurity/testdisk](https://github.com/cgsecurity/testdisk)",
+                                            "score": 7,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Individual_Ad2229",
+                                                    "body": "Could be a scam in that it could download a way to access your card information when you purchase something? I know that's always one of my fears, that someone will start buying things on my card because they got the information off an online purchase",
+                                                    "score": 3,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "SocialistIntrovert",
+                                                            "body": "How would they access your credit card if the service is free to use? Worst case scenario is that it would be a virus, but considering the amount of upvotes I think it\u2019s trustworthy.",
+                                                            "score": 2
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "Farclaimer",
+                                    "body": "This advice goes for many things and I'm going to use it, thank you",
+                                    "score": 2
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "hansenabram",
+                            "body": "This. Look into data recovery software",
+                            "score": 45,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Anyadakk",
+                                    "body": "i didn't know that and re downloaded Minecraft and also downloaded data from cloud (not the same account as the world).\u00a0 There is still hope it was not overwritten?",
+                                    "score": 15,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "diogeek",
+                                            "body": "there is hope, but small. data is oftentimes scattered all around your machine\u2019s hard drives and every byte of data you download has a chance of being written over your world\u2019s old data. it\u2019s russian roulette, really. if any part of your world was overwritten, you wouldn\u2019t be able to get it back (or maybe you could, idk how minecraft handles lost data, maybe there would only be chunks missing)",
+                                            "score": 17,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Anyadakk",
+                                                    "body": "i think I'll go on in my life remembering it was all my fault...",
+                                                    "score": 4
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "kondexxx",
+                                            "body": "After all you have done I am afraid it\u2019s over",
+                                            "score": 4
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "DeluxeMinecraft",
+                            "body": "One time I deleted a bunch of worlds and the only recovery software that could find it for me wanted 70$ \ud83d\ude2d But there es also a bunch of free ones- however I'm not gonna let my Structureless superflat challenge to in which I spent 30 hours to get trees",
+                            "score": 5
+                        },
+                        {
+                            "depth": 2,
+                            "author": "overSizedHyperPoop",
+                            "body": "Bro, update us on your attempts!",
+                            "score": 2,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Final-Feature-8177",
+                                    "body": "When I\u2019m able to make some attempts I will. I\u2019m out of town now and won\u2019t be home to try anything until Monday.",
+                                    "score": 4,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "LilRainbowNikki",
+                                            "body": "I wish you luck on your attempt to recover the world",
+                                            "score": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "MrDoontoo",
+                            "body": "I wouldn't get too hopeful, especially if the world file was about a gigabyte. There's a pretty much guaranteed probably that some file has overwritten part of the old world file somewhere. I've had it happen to videos that were literally only megabytes after just a few minutes of computer usage. Still worth a shot but you're likely going to get a corrupted file.",
+                            "score": 2
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "bdubs2327",
+                    "body": "Exactly, I found the guy who helped me, but I lost number.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "NoSignificance24",
+            "body": "Here's to your beautiful world \ud83c\udf7b \n\nI am sorry my friend",
+            "score": 199,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "I\u2019ll definitely be having a drink or ten to grieve\u2026",
+                    "score": 84,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Dannyboioboi",
+                            "body": "I'll sit with you",
+                            "score": 18,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "StarPlatinumRequiems",
+                                    "body": "Count me in.",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Mostly-Nuts",
+            "body": "If anything, you might\u2019ve created one of the coolest worlds I\u2019ve ever seen! Sucks to have it go like that, I couldn\u2019t imagine the pain. Props to you though, that \u201clittle\u201d world should show you that you have the dedication to conquer anything!",
+            "score": 883,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "I appreciate that. I honestly don\u2019t know that I\u2019ll ever be able to trust Minecraft again after this to put that kind of effort in. The worlds not syncing is a problem every couple updates but they\u2019re never in any rush to fix it it seems, so it was only a matter of time before disaster struck.",
+                    "score": 282,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Decent-Carry-8755",
+                            "body": "I feel your pain. Same thing happened twice with my PS4 world. Built up all through survival and crash. No more world loading.",
+                            "score": 27
+                        },
+                        {
+                            "depth": 2,
+                            "author": "squaredspekz",
+                            "body": "Switch to Java on PC. Your world is then a file you move around and backup yourself.",
+                            "score": 65,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Emotional_Frame8041",
+                                    "body": "As far as i know you can also do this on ps4, you can either save it to a stick or on to the ps4 online storage but that requires ps+.",
+                                    "score": 6
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "ExPandaa",
+                                    "body": "This. I\u2019ve played the same world since late September 2010 and even if there have been issues (I will never forget 1.13 world conversion issues) I\u2019ve always kept backups that have allowed me to fix things.\n\nJava is superior in every way except cross platform (and even that can be solved with viafabric or geyser to allow bedrock to connect to Java and the other way around)",
+                                    "score": 3
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "Yangman3x",
+                                    "body": "Bedrock also have the worlds in a folder as a file folder, i transferred my worlds from mobile to PC",
+                                    "score": 1
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "0inputoutput0",
+                                    "body": "What if they just dont want to",
+                                    "score": -1
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "tsheeley",
+                                    "body": "Bedrock on PC also does this.",
+                                    "score": -1
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "GodOfBowl",
+                            "body": "When I do a world like this, I usually save it very often. In the future di that. Sorry for your world\ud83d\ude14",
+                            "score": 17
+                        },
+                        {
+                            "depth": 2,
+                            "author": "Yangman3x",
+                            "body": "Do you guys trust game saves? Whenever it's possible, I always transfer data to an external hard drive, just think about ransomware, corruption, hard drive fail, stolen laptop",
+                            "score": 3
+                        },
+                        {
+                            "depth": 2,
+                            "author": "Alpham3000",
+                            "body": "I feel your pain, I had a similar thing happen to me a few years back with my world where my Xbox crashed, thankfully I got it back. When you have a long term world, bedrock isn\u2019t very friendly to them, at least in my experience. I eventually got fed up and transferred my world to Java. All my red stone and a lot of my farms broke, but it was worth it in the end. I hope you can get your world back. \n\nOne of the other issues I had, I remember the world being renamed to the file name or something and being sent to the bottom of the world\u2019s list as a grayed out word with a weirdly small file size. Thankfully, opening it up reverted it. You\u2019ve probably checked it, but maybe that\u2019s where it went?",
+                            "score": 2
+                        },
+                        {
+                            "depth": 2,
+                            "author": "Individual_Ad2229",
+                            "body": "Curiosity has me asking, now that minecraft is Microsoft, would one drive be a solution?",
+                            "score": 2,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Final-Feature-8177",
+                                    "body": "It sounds like that\u2019s theoretically possible but I\u2019m not sure how it would work on console. I looked into these options probably a year ago and never could get them to work.",
+                                    "score": 1
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "Jason13Official",
+                            "body": "Not trying to rub it in, but Java > Bedrock",
+                            "score": -91,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "surelysandwitch",
+                                    "body": "Read the room.",
+                                    "score": 57
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "NeatHearing2974",
+                                    "body": "Seriously? Now?",
+                                    "score": 24,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "Jason13Official",
+                                            "body": "OP might have a better experience going forward \ud83d\ude14 they were talking about never trusting MC again. I would never trust Bedrock, personally",
+                                            "score": -30,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Apecc_Legs",
+                                                    "body": "you do realise this was a console issue not minecraft, I don't think this is even bedrock edition because if I recall correctly xbox 360 still has the legacy version\n\nand sure, I'm all for Java but world corruption still happens a lot on Java too so",
+                                                    "score": 9,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "Jason13Official",
+                                                            "body": "\u201cA lot\u201d compared to any other version besides Java is a stretch",
+                                                            "score": -2,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "Apecc_Legs",
+                                                                    "body": "I've seen much more world corruption, Java is much less stable and besides, stupid argument because this is a problem with the console and again this isn't bedrock",
+                                                                    "score": 8,
+                                                                    "replies": [
+                                                                        {
+                                                                            "depth": 8,
+                                                                            "author": "Jason13Official",
+                                                                            "body": "I\u2019m sure you have \ud83d\ude42 /s Java isn\u2019t available on console, so switching removes the console from the equation",
+                                                                            "score": -3,
+                                                                            "replies": [
+                                                                                {
+                                                                                    "depth": 9,
+                                                                                    "author": "Apecc_Legs",
+                                                                                    "body": "obviously this is still a device problem, you can expect issues when switching a 12 year old world over to a different version on a different console on a version if minecraft that's running on different code and a different engine, much as I don't like bedrock this isn't a problem caused by bedrock \n\nand it's common courtesy not to mention that kind of thing, you don't go up to someone who's dog recently died and say, \"it's because it was a [insert dog type]\"",
+                                                                                    "score": 7,
+                                                                                    "replies": [
+                                                                                        {
+                                                                                            "depth": 10,
+                                                                                            "author": "NeatHearing2974",
+                                                                                            "body": "Thank you",
+                                                                                            "score": 2,
+                                                                                            "replies": [
+                                                                                                {
+                                                                                                    "depth": 11,
+                                                                                                    "author": "Apecc_Legs",
+                                                                                                    "body": "your welcome? (context please)",
+                                                                                                    "score": 2,
+                                                                                                    "replies": [
+                                                                                                        {
+                                                                                                            "depth": 12,
+                                                                                                            "author": "NeatHearing2974",
+                                                                                                            "body": "Lmao just for explaining to this guy why not to bring something like that up",
+                                                                                                            "score": 0
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "omnomnilikescandy",
+                                    "body": "Not the time man, not the time...",
+                                    "score": 23,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "Jason13Official",
+                                            "body": "It\u2019s like seeing someone die and yelling \u201cthis could have been avoided!!!\u201d but like\u2026 they\u2019re still dead.",
+                                            "score": -21
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "Sprinkles2009",
+                                    "body": "Be insufferable elsewhere",
+                                    "score": 1,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "Jason13Official",
+                                            "body": "I shalt retain my rights to engage in insufferable acts whilst engaging in public forums, as I please. \ud83d\ude4f",
+                                            "score": -2
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "ThirdVision",
+            "body": "It most likely is still on your Xbox harddisk, files don't get overwritten immediately when deleted, thus it should be possible to pop out the harddisk and use some data recovery tools on it. However it may be quite hard and there is a chance that your world was partly overwritten.\n\nIf you decide to try and salvage it, which is very much possible but super hard, then i would take out the harddisk sooner rather than later.",
+            "score": 48
+        },
+        {
+            "depth": 0,
+            "author": "VoidSwordTrash",
+            "body": "Can relate to that. My condolences.\n\nI play on PS4, and lost my first ever best world due to the power in the entire building going off while I was playing. World got corrupted and I had to delete it.\n\nWent on to create a 2nd new world. Lost it to the exact same issue, it did not last long, but long enough for me to get attached to it. (I'm more careful now)\n\nWent on to create a 3rd world. Got corrupted not long ago due to sheer size - 1.3 Gb isn't that much, but my PS4 can't stand it.\n\nAt this point I've gotten used to this kind of grief tbh. I was half expecting to lose that last one at some point anyway, so it fortunately didn't affect me that much. But I was definitely saddened and felt down because of the first two.\n\nNow I'm making sure I don't explore my newest favourite world a lot so that discovering chunks doesn't increase its size. It's sad, but it is how it is. I hope this one will last, still.",
+            "score": 61,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "I don\u2019t think I\u2019ll be able to play Minecraft after this honestly. The amount of hours that went into that world, I can\u2019t do that for something that can disappear so quickly again. You\u2019re a better man than I for keeping at it!",
+                    "score": 37,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Zoc-EdwardRichtofen",
+                            "body": "Do you still have the world file in your XBox which shows its presence? Perhaps you can transfer it to a USB drive?",
+                            "score": 12,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Final-Feature-8177",
+                                    "body": "I looked at Minecraft as well as a couple other games after I saw what had happened and my local save data was gone for multiple other games. As this world hadn\u2019t been able to sync to the cloud since the xbox update on 5/11/2024, it nor any of the copies I had made are anywhere to be found. I think I may be able to find some older versions of the map, I have lost bare minimum 3 years of work if not more.",
+                                    "score": 13,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "AdLeading9414",
+                                            "body": "Check out the original legacy console versions, XBOX 360 or XBOX One edition if you still have them installed. You may have a version of it in there? \n\nThis sounds like an absolute nightmare. Hope you can figure out a solution.",
+                                            "score": 11,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Final-Feature-8177",
+                                                    "body": "I think I may have some versions from a couple years ago. I\u2019ve been playing off and on with the map for 12 years so it goes through spurts of massive change. I found a couple older files from when it wasn\u2019t so big. I\u2019ve seen dates from 2018 and 2014 so far but I haven\u2019t looked too closely.",
+                                                    "score": 9,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "AdLeading9414",
+                                                            "body": "That's good to hear. It may not be much consolation, but worst case scenario you could at least go on with one of those files and rebuild what's missing! One question though, if you weren't able to sync to the cloud since May 11th, wouldn't it be possible you have files in there from beforehand? It seems unlikely that the cloud doesn't have a single save of yours in there.",
+                                                            "score": 6,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "Final-Feature-8177",
+                                                                    "body": "None of the files about 250mb have been able to since since that update, so the only files I seem to have access to now are less than 250mb",
+                                                                    "score": 4,
+                                                                    "replies": [
+                                                                        {
+                                                                            "depth": 8,
+                                                                            "author": "AdLeading9414",
+                                                                            "body": "Ohhh, I just saw this.\n\n>The maximum file size you may save to the cloud is 250MB. If you need to back up files 250MB or larger, you can download the file and save it to OneDrive manually.\n\nI'm guessing that you probably didn't save any worlds to OneDrive. Well, as another commenter suggested, you can do a fun little experiment and extract the HDD from your Xbox! \n\n[This cord](https://www.amazon.com/Adapter-Cable-Converter-Drives-Solid/dp/B073SXTY64/ref=asc_df_B073SXTY64/?tag=hyprod-20&linkCode=df0&hvadid=693554129961&hvpos=&hvnetw=g&hvrand=16898862396948173243&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9033618&hvtargid=pla-822333677936&mcid=2f6c402e89a0360f947b0b531c71c392&gad_source=1&th=1) is only $7.99 and should allow you to access it without many hiccups if you have a Windows PC.",
+                                                                            "score": 4,
+                                                                            "replies": [
+                                                                                {
+                                                                                    "depth": 9,
+                                                                                    "author": "Final-Feature-8177",
+                                                                                    "body": "I wish that was something they advertised\u2026 I would\u2019ve gone out and bought a windows PC just for this!",
+                                                                                    "score": 3,
+                                                                                    "replies": [
+                                                                                        {
+                                                                                            "depth": 10,
+                                                                                            "author": "Moleculor",
+                                                                                            "body": "If you're going to buy a Windows PC, honestly, just play on Windows. Java version. Least number of bugs, ability to make as many backups as you like, in as many places as you like, plus mods.",
+                                                                                            "score": 1
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        },
+                                        {
+                                            "depth": 4,
+                                            "author": "nibor1357",
+                                            "body": "If it only hasn\u2019t been able to sync since earlier this month how did you lose 3 years?",
+                                            "score": 2,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Final-Feature-8177",
+                                                    "body": "My guess is because the files were all above the sync size limit, so when the game synced since then, the files all above that limit removed themselves from the sync. I wish I had a better understanding of how all this worked. All I know is when I booted back up they were all gone, and all the local files were gone. I could tell by all the photos from each save were the default grey picture.",
+                                                    "score": 1,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "nibor1357",
+                                                            "body": "That\u2019s so unfortunate, this is truly crushing I feel for you man",
+                                                            "score": 2,
+                                                            "replies": [
+                                                                {
+                                                                    "depth": 7,
+                                                                    "author": "Final-Feature-8177",
+                                                                    "body": "Appreciate it. I\u2019m hoping when I get back home Monday I will have some sort of resolution.",
+                                                                    "score": 1
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "Adorable-Growth-6551",
+                            "body": "My experience is, you take time to grieve.  That time might be 6 months, could be a year.  But someday it will hit you that you want that back and you try again.",
+                            "score": 2
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "HumanYesYes",
+                    "body": "Can you not create a backup? I would personally look into a full solution instead of just trying to accept and avoid the problem (like trying to keep the file size small).",
+                    "score": 3,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "VoidSwordTrash",
+                            "body": "Nah, I'm not the type who deeply looks into solutions. Avoiding is easier. It's a new way of playing, so why not - I was getting burnt out of big worlds anyway.",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "HumanYesYes",
+                                    "body": "Ah, damn",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "0inputoutput0",
+                    "body": "Where you copying the world regularly as a backup? if not that's on you after the first time",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "VoidSwordTrash",
+                            "body": "I started doing that after the 2nd one. I was reluctant to doing this at first, for a variety of reasons- storage would be lacking, a power cut while playing is a once in a lifetime occurrence, etc etc. Naive takes, just like me back then, of course. Those first two were absolutely on me and I know that. Doesn't prevent me from being sad about them, still.\n\nBut heh, copies ended up being useless anyway. Nothing can or could have saved the last one, it was inevitable. Apart from grabbing a USB and doing some Amulet shenanigans to remove chunks, which I don't want to bother doing since what's the point anyway - I've already accepted its loss.\n\nStill sucks that I have to limit myself in order to keep worlds, eh. I'm an explorer by nature, not being able to do this sucks.",
+                            "score": 2,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "0inputoutput0",
+                                    "body": "Well I lost my first world due to a power outage years ago and the new one since I've copied literally every single time I open it since power outages are so frequent, the world is 1GB if you put 1000s of hours into a single thing you want that security",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "I_MURT_D_KITEMURT",
+            "body": "I lost my first Minecraft world years ago ;(\n\nIf the bits have not been overwritten then you can recover data with some software, for example testdisk.\nSo you must plug the Xbox hard drive into a computer... You can use a bridge too, then you can try to recover the data.\n\nHope this will help you",
+            "score": 19,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "Thank you! I hope so!",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "TyMT",
+            "body": "o7 \n\nThis is by far one of the coolest worlds I\u2019ve seen. Shame it\u2019s lost but I\u2019m glad I got to see part of it.",
+            "score": 22,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "Thank you. If I somehow manage to recover it I may post my gamertag or something so people can come see it if they want. My biggest regret right now is having kept so much of it to myself and just a couple friends",
+                    "score": 12,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "TyMT",
+                            "body": "In a way, that just makes it a more special experience for you, and your friends. Of the 8 billion people on this planet, and the millions that have downloaded and played Minecraft, very, very few have had a world for over 5 years, let alone 12. And to have that world shared with 10, or even 20 people, makes a unique memory that will live on solely in you, and your friends. \n\nI do hope you\u2019ll be able to recover the world, and share more of it with us, but don\u2019t be sad it\u2019s gone, be happy it happened.",
+                            "score": 7,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Final-Feature-8177",
+                                    "body": "Now comments like that make me glad I decided to post on Reddit for the first time!",
+                                    "score": 4,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "TyMT",
+                                            "body": "Seeing as in another comment, you mentioned you\u2019re 27, which means you started this world when you were around 15. This means around 44.4% of your life and experiences are connected to this world. \n\nEvery aspect of this world mimics a part of your life in that time frame, every build a symbol of your day to day life, every block is a moment of dedication to a project you never knew if someone else would see and appreciate as much as you did. This is the beauty of the world we live in. Everyone has a story they tell in different ways, this time, it was Minecraft. You\u2019ve been able to share a small corner of this story with us. You were able to log on after every hard day of school to just relax and build something new, you were able to hangout with friends and go on new adventures you\u2019d never get to experience on another game or even another world. These experiences will live on as fond memories of your childhood that you will look back to later in life and wonder, \u201cWhere would I be if I still had that world?\u201d\n\nA chapter of your life has gone and ended, but this doesn\u2019t mean it\u2019s lost. The memories will live on, and you can start anew. You have dedicated a significant portion of your life to this game we call Minecraft, and Minecraft will live on without this world, just as you will. \n\nI sincerely hope to see you get the world recovered, or start a new world with some new friends, and make new experiences and memories with them. For now, I would rest, take some time to yourself and get a fresh mindset. This is a time for you to hold the past close to your heart, and keep your head looking to the future. \n\nI salute you my friend, and hope to see you again soon.",
+                                            "score": 7,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Final-Feature-8177",
+                                                    "body": "This might have been the best thing to see waking up after a restless night. Thank you.",
+                                                    "score": 4
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "ClocksAndTicks",
+            "body": "That is an incredible world, sad to see it's lost forever.",
+            "score": 9,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "I keep thinking about all the projects I never got to finish, all my favorite buildings, villages, and towns I\u2019ll never get to walk around aimlessly in\u2026",
+                    "score": 8
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "gaming4hideaway13",
+            "body": "I feel you, I have lost many worlds but there is one that I will always feel sad about losing. \n\nIt was back when it was just the Classic sized map. My entire neighborhood/friends would come over and play on my Minecraft world because I had the best setup. All of my friends which were probably around 20 by the time the world disappeared had played on it and built a house or something or more. Some of my friends played on it and then moved away so that was the worst part. We had a huge City just like the one we lived in, we built all these restaurants and stores just like the ones we had in town. The coolest apartment complexes with little loft apartments. Gigantic ass houses and a little mini ore pyramid. And a really long minecart train that led to the oceanside hotels we made.\n\nI have a really bad memory but it is truly insane how well I remember that world. Like I remember it so clearly, we spent so many hours on it. Anytime I think of Minecraft, I will always remember that world and wish I could get it back. I still play but it's not the same and with all these new updates and since I'm getting older it's hard to catch up. I love it, but man did I love it back then. I am planning on playing tomorrow with a friend. that's just because I got the urge to play hardcore again (that'll probably be for like a week because I'm currently sick). I hope you get it back, I really do.",
+            "score": 8
+        },
+        {
+            "depth": 0,
+            "author": "BBlizz3",
+            "body": "Was like, \"how tf do you los... oh, console\".",
+            "score": 13
+        },
+        {
+            "depth": 0,
+            "author": "shadowkarma_wastaken",
+            "body": "Rip",
+            "score": 4
+        },
+        {
+            "depth": 0,
+            "author": "emzirek",
+            "body": "I know this is not much consolation for your loss and I do apologize but we all have been there and you will move on...\n\nI lost my first ever world due to a glitch where villagers started breeding exponentially causing my computer to glitch out freeze and die...\n\nI lost everything... My PC was my world... My Minecraft was on that PC and I didn't think I'd ever get my Minecraft back until I bought a new pc and found out I permanently forever will have Minecraft...\n\nNow I have probably 40 or 50 different worlds that play on regarding wherever I want whatever I want I couldn't be happier...\n\nSo even though this hurts right now it will pass as you will make better and go further...\n\nAll I really wanted to say for you right now besides how wonderful your world looked you will have that no one will ever take that from you and what I really want to say right now is GOOD GAME!!",
+            "score": 4,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "Thank you. I have to keep reminding myself that it\u2019s not the end of the world. I\u2019m 27 dammit it shouldn\u2019t be affecting me like this. I knew this day would come eventually when something would happen, I just hoped it never would\u2026",
+                    "score": 6,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "emzirek",
+                            "body": "Yeah you should try playing on anarchy servers where you don't last a couple days",
+                            "score": 2
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "Cantpickaname03",
+                    "body": "Villagers actually killed something? Dang!\n\nSeriously though, that really sucks. But the fact that the world got killed by villagers out of anything else is a tiny bit funny to me.",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "emzirek",
+                            "body": "Now that I look back at it after all these many years cuz remember that was my first world and I've been playing since the Redstone update but I can laugh at it now... Yeah there must have been at least a hundred villagers... That was one heck of an orgy..\ud83e\udd2a\ud83e\udee2",
+                            "score": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Ken_Kaneki_07again",
+            "body": "You don't have a copy of a 12 year old world?????",
+            "score": 4,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "I have several copies however the file size on them all was so large that they wouldn\u2019t sync to the cloud so none of the copies from the last few years are there. I\u2019m seeing some from 2018 and 2014 but I haven\u2019t tried to open them yet or anything. The vast majority of everything that\u2019s been done has been done in the time where the file was too big to upload",
+                    "score": 7,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "senpai4_20",
+                            "body": "Why don't you have a local copy?",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Final-Feature-8177",
+                                    "body": "The local copy storage is what lost the file. Worlds over 250mb won\u2019t upload to the cloud.",
+                                    "score": 1,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "senpai4_20",
+                                            "body": "I meant don't you have a recent copy of the world on another hard drive or something? Something that's not on the cloud.",
+                                            "score": 1,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Final-Feature-8177",
+                                                    "body": "Sadly no it had just recently started becoming an issue not backing up and I hadn\u2019t thought much of it, which clearly was a fatal error on my part.",
+                                                    "score": 1,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "senpai4_20",
+                                                            "body": "Well, I guess there's nothing much you can do now except try to recover the data on the hard drive through some means. Always have multiple backups for the very important files next time. Sorry for your loss.",
+                                                            "score": 1
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Varven",
+            "body": "I feel this man's pain deeply may we have a moment of silence for his loss",
+            "score": 5
+        },
+        {
+            "depth": 0,
+            "author": "zsigmons",
+            "body": "This is devastating, but don't lose hope! A data recovery software should be able to recover the world files (as well as your other game saves). If you're not confident professionals could also help.",
+            "score": 4
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[deleted]",
+            "score": 3,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "Now that I know thanks to a comment that it\u2019s possible to backup to the one drive manually I\u2019ll be looking into that. I just don\u2019t think I can ever put this kind of effort into a video game again\u2026",
+                    "score": 3
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Welle26",
+            "body": "Wow you\u2019re a talented builder. Your world looked awesome. I\u2019m really sorry for your loss. But sometimes a fresh start can be blessing too. But in case you have pc, maybe start a new chapter there. It\u2019s much easier too make backups.",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "BNM_999",
+            "body": "Take out the disk and recover the data on PC. The world is not going to be 100% ok but better then loseing it. GL with getting your world back.",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "teknocratbob",
+            "body": "Not quite the same but I lost my 10 year old Simpsons Tapped Out town when my 4 year old deleted it\n\nWas gutted at the time but you know it gets easier after a while and you have some good memories of it there",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "Xomns_13",
+            "body": "This is so awesome but sad. I dread the day because I know there's always a chance. Running mine on unraid offline. Hope it doesn't ever happen though.",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "Wicked_Kyle",
+            "body": "I had a world that was one of my first that I've carried since the 360, it was around 2 gigs, and the amount of hours I dumped into it was insane. My xbox had memory issues, and now the world is corrupt and I can't open it anymore. I have a save that's about 500 mbs, but it's such an old save, that I don't want to start playing again that far back, it's essentially starting over.",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "Josephschmoseph234",
+            "body": "Personally I've stopped getting attatched to my worlds because minecrafy simply can't be trusted. Even some smaller worlds I've had have succumbed to corruption. Microsoft in general can't be trusted, either. All my save data for every Bethesda game also gets periodically deleted, and those are some of my favorite games. I have about 3 months with any BGS game before it deletes the save for whatever reason. Thats a assuming I can even get into the game, which I can't even say for skyrim after a glitch cause it to duplicate the same prisoner save 300 times or something.\n\nIf I could switch to Playstation I could but I don't trust Sony much more.",
+            "score": 3,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "LucidTimeWaster",
+                    "body": "Playstation has the same cloud saving issues. So does Switch. Steam have never failed me, but I assume that it can happen there as well because sometimes it's the fault of the game itself and not the cloud service.",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "bruh-iunno",
+            "body": "I'm gonna make that field in your honour, that looks sick as does the rest of it",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "Kelpcow592",
+            "body": "I am so sorry about your world, but can you explain how you made the floor with the end rods! SO COOL!!",
+            "score": 3,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "Use black concrete for the walls, then put some sort of lights at the bottom. Cover the lights with black carpet, then put black glass above that. Randomly place end rods around and repeat the process like 8 to 10 times. On the top layer put two layers of the black glass\u2026 she\u2019s THICK in the end but looks amazing",
+                    "score": 3
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "azlef900",
+            "body": "this would be my 13th reason",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "dodbrew",
+            "body": "So sorry hear this! It seems everything Microsoft touches turns to dumpster fire.",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "sogwatchman",
+            "body": "Had the same thing happen twice. Once with local saves and another time with a flash drive. I think the Achievement Hunter guys had the same thing happen a couple times. That's why they suddenly be on a new map.",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "TheBigD15258",
+            "body": "This is more sad then iron man's death \ud83d\ude14",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "MadDrAdam",
+            "body": "My xbox did the same thing, though only a 2 year world that I have been building with my kids. I was lucky because I had a realm that had a copy that was 3 weeks behind. Still sad cause of all that was accomplished in that time, but happy to have the backup. World was around 400mb. Like others said, data recovery programs, don't load anything on your xbox as everytime you use it, you have the potential to.over write the data.",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "Emerald_boots",
+            "body": "No fucking way...someone help this person!!!\n\nThere has to be a way to retrieve it or at least parts of it",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "luca2013nicolas",
+            "body": "I hoe you recover it, if yes can you tell us about it ?",
+            "score": 3,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "Hopefully I can but I just got off the phone with a data recovery professional and he said with Xbox the file may be extracted but there\u2019s a piracy protection that won\u2019t allow the file to function, so I\u2019m losing hope fast. His advice was to reach out to Microsoft and Minecraft support which I have.",
+                    "score": 5,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "luca2013nicolas",
+                            "body": "I think u can get the storage ( hard disk / SSD ) and open it ( I mean open the files ) and search the Minecraft game folder, I'm not an XBOX expert nother an PC one, but I want to help people, I had the same experice 2 years ago, I was building an giant glass circle in the nether, the world had 296 mb and then, my PS4 just shut down \ud83d\ude2d\ud83e\udd72",
+                            "score": 2
+                        },
+                        {
+                            "depth": 2,
+                            "author": "DanSantos",
+                            "body": "If the drive failed, sometimes it\u2019s just the machine. It happened to a drive on my MacBook years ago. My cousin was going to New England Tech and took the drive to their lab. They were able to Frankenstein it and give me my drive back. Maybe you can do that?",
+                            "score": 2,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Final-Feature-8177",
+                                    "body": "From what I\u2019ve been told by professionals that won\u2019t be possible because of anti piracy software built into the Xbox. They said the file may be retrievable but it won\u2019t be usable.",
+                                    "score": 1
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "viewerx3",
+                            "body": "I hope you are able to recover the world save file.",
+                            "score": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "khloe_kitty1",
+            "body": "That's so sad! Switch to java on PC and connect a controller, you can always back up your worlds by moving the file to your google drive :)",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "Chromium_Force",
+            "body": "It is genuinely disgusting the lack of regard that Mojang has for bugs like this - losing something like this is actually pretty emotionally damaging, especially if one uses a world like this to unwind. Screw you Mojang & 4J. This same exact crap happened to me 6 years ago.",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "Nyasta",
+            "body": "12 years of gameplay on a xbox360 world that's amazing, from what i remember those world where pretty small so i suppose that a good portion of the world had some building in it",
+            "score": 3,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "It has migrated from 360 to One, to bedrock on the series X so it\u2019s not as small as it once was, but what\u2019s cool is seeing the edges of the map to see the changes from one generation to the next.",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Nyasta",
+                            "body": "Ho so it had some of the \"cut in half\" mountains or oceans oceans with straight mines as shores ?",
+                            "score": 2,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Final-Feature-8177",
+                                    "body": "Some of that, but some of it we had worked to terraform so it wasn\u2019t so obvious so when you\u2019d see a sheer cliff side it would always remind you of the time before.",
+                                    "score": 2
+                                }
+                            ]
+                        },
+                        {
+                            "depth": 2,
+                            "author": "_Bungle",
+                            "body": "Do you still have the 360 version of the world? I know it won't be the same but could be better then starting from square one.",
+                            "score": 2,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Final-Feature-8177",
+                                    "body": "I\u2019ll have to find my 360 but I believe so!",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "emilflarsen",
+            "body": "commenting here to get updated!",
+            "score": 3,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "Hoping to have an update Monday!",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "jeffgoldblock2",
+            "body": "Take out hardrive and scan with Recuva file recovery to find deleted files.",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "Capric0rpse-",
+            "body": "Oh man \ud83d\udc94 12 years! Devastating. I\u2019m sorry..",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "Teralek77",
+            "body": "Geez! I'm so glad I play on the PC and have backup file!",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "NightmareeclipseYT",
+            "body": "Womp womp(Just kidding I\u2019m sorry my friend so much work lost hopefully you can retrieve it)",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "WEvolve",
+            "body": "Yo fuck bedrock edition man, lost the world me and my gf created a while ago and swore never to play bedrock edition again. Nowadays i have a decent PC and manage my own save files\u2026there\u2019s a world of difference between te two versions\u2026but not synching cloud saves is unacceptable in my opinion. There\u2019s just nothing you can do about it and that\u2019s super frustrating. I feel sorry for your world loss @Final-Feature-8177 you had a great run and a nice looking world\u2026GG\u2019s",
+            "score": 6
+        },
+        {
+            "depth": 0,
+            "author": "real-raven",
+            "body": "Plz play on a pc you can clone the drive easily and export your worlds as backups to restore if something goes wrong also a high end pc copes with huge multi gb worlds better",
+            "score": 4
+        },
+        {
+            "depth": 0,
+            "author": "markgatty",
+            "body": "This is why I play on a realm.",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "inthegarden5",
+                    "body": "I would have agreed with you until recently. Our world starting getting  corrupted chunks. More over time. Fortunately we had our own backup.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "A_Happy_Tomato",
+            "body": "Noooo! Ive lost a world that i had been working on for two months, it felt devastating, I cant imagine what losing a  12 year old world feels like.",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "It\u2019s tough. It was one of those things that every year on the anniversary of the founding we would do something in honor of it, build some sort of monument and bake it a cake, it\u2019s still so surreal that all that work is gone.",
+                    "score": 4
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Even_Code5050",
+            "body": "It's quite hard.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "epicwhy23",
+            "body": "it baffles me that people can play on a single world for so long and do so much, I've played alot of games for a very long time but I dont think I've ever played on a single MC world, modded or vanilla, for longer than a few months, making a simple ringed gold farm is the most I've ever managed to achieve\n\nno other game has kept amazing me quite like minecraft with the astonishing things people have done and made. condolences on the world but I thank you for the nice moment of reflection it gave me",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Skeletalwolf98",
+            "body": "Same had happened to me with my world on Xbox (360) and then my Xbox green (blue) screen of death me since then, I had a castle and everything in that world it had alot of awesome memories for me even a statue of my mom's dog and my first cat on it but like I said I've lost it since",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Recruit616",
+            "body": "That really sucks and quite frankly, I use playstation and have no clue what you can do, but to think a map that amazing has been lost so easily is just devastating.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Mirror_of_Souls",
+            "body": "That last image reminds me of a scene in the anime Girls Last Tour. And considering that's one of my favorite shows of all time. Must mean you did something right. RIP to your world. While nothing in this life lasts forever, we all have that one thing we wish lasted a little bit longer.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Dr_Jerry_Attricks",
+            "body": "You sir, have inspired my next world",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "I\u2019d love to see pictures of anything it\u2019s inspired. I\u2019ve never used Reddit more than just to scroll through so idk if there\u2019s a way I can send more pictures to people who want them",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "--Iblis--",
+            "body": "It's not an end, it's a new beginning",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Vikarr",
+            "body": "Wish I could help. Only thing I can think of is removing the consoles hard drive and plugging it into a reader to a PC. \n\n I transferred mine from xbox to pc (same age as yours, 12 from X360) and never had an issue since. I had one close call too many on Xbox. On a PC I can backup as much as I like, no fake corporate reasons limiting me on how I use my own hardware.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "starstonix",
+            "body": "I hope you'll get it back. The world and buildings are so creative.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "BeelzeBatt",
+            "body": "I've been through this, it really does suck. I'll pour one out for you.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "GolemThe3rd",
+            "body": "I know losing progress can lead to losing motivation, but try going into Minecraft Xbox one edition and seeing if the old save is still there, if not maybe it's still in the cloud from the Xbox 360 transfer and you could transfer it that way, the last world you transferred from 360 should stay there forever until you transfer a new one. \n\nFrom now on I would def suggest using a realms if you can afford it, I know it sucks to have to pay but the reassurance is massive, $4 a month for automatic backups so this will never happen again, plus you can use custom texture packs and worlds by transferring between Xbox and PC.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "SpookzEazy",
+            "body": "two suggestions. I had a world dissapear as well. Restarting  the xbox retrieved it. or possibly see if its still on an older xbox like your xbox one or if you have pc you can check if it shows up on the minecraft through gamepass app on PC",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "EnergyAltruistic2911",
+            "body": "Bro sry but you can keep the world on a Pendrive I think",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "zenyl",
+            "body": "If this is a case of data corruption, you might be able to recover most of the world by, as others have suggested, plugging the XBox's drive into a PC and browsing the files. If they were deleted, the data might still be there. Tools like Recuva can help recover deleted files.\n\nWorst case scenario, you might want to consider contacting a data recovery specialist. I recently contacted one regarding an old drive of mine which had been dead (broken read head) for 13 years, which also held my original Minecraft alpha world.\n\nData recovery doesn't come cheap, but some offer a \"*no cure, no pay*\" guarantee, meaning that analyzing the drive is usually free, and you only pay once you have confirmed that the files you want are indeed recoverable.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "viczinfoxxinbrou",
+            "body": "This looks GORGEOUS :)",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Cognitive_Miser-143",
+            "body": "i am no expert,but\n(this is for pc, but think it will be case for xbox too)\n\nI think the system Never actually \"deletes\" the file,\nit just marks them deleted by editing the metadata,and the space is shown as free,\nuntil it gets replaced by something,\n\nso, i think there is still a bit of hope left,",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Cognitive_Miser-143",
+                    "body": "i mean, since your x-box crashed, it didn't had enough time to actually clear the....drive,\n\nidk , if it have caused some kind of corruption to the data",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "MrSolofanua",
+            "body": "My condolences bro. You can literally see the time and effort put into the world. Hoping that you're able to recover it somehow.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Captn_Creeper",
+            "body": "This almost made me cry. I feel your pain so much.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Rccup69",
+            "body": "If you start this world in xbox 360 maybe you can convert for xbox one \u00e9ditions\nOr convert you're world from xbox one edition",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "NotThatFarAwayFromU",
+            "body": "do you still have the xbox 360? is it saved there?",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "CherryDemon666",
+            "body": "Anguish. Sheer pain.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Turbulent-Tale-8738",
+            "body": "A moment of silence for this beautiful world.\ud83e\udee1\ud83e\udee1\n\n\n\n\n And I hope you find a way to get your word back mate,good luck.\ud83d\ude0a",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "CraigTheLejYT",
+            "body": "I mean did you play on the Xbox one? Could you retrieve an old save from there?",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "rgr2508",
+            "body": "I can understand your feeling. I've lost a world, not as old as yours, which I've been exploring for three years. It happened when a power outage turned off the PS4 during the game and corrupted the save. After that, whenever I start a new game in my current world, I make a copy of it, and when I stop playing, I delete that copy and make a new one. It's boring, but at least it makes me safer.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Infiedra",
+            "body": "Same thing happened to me a few years algo with a 3 year old world.\nSince then i havent been the same person, now im a happy java enjoyer.\ud83d\udc4d",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "OneReporter3682",
+            "body": "PERFECTION",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "InternetPractical657",
+            "body": "There might be some way. Mabye professional data recovery? Sorry man.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Sw0rdEnd",
+            "body": "often in computers deleted files are still there just with a ! before the file indicating it's deleted then other files overwrite it so maybe there's still a chance",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Josephschmoseph234",
+            "body": "I know the feeling, bro. I had an 9 year multiplayer world almost go out the same way. It's not as bad, since I am still able to play on it for short periods of time, but I can't leave q certain area around spawn and I can't play for more than an hour so its effectively rendered a museum",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "VeenTheKenku",
+            "body": "The last image is beautiful. I\u2019m so sorry for your loss and I hope that data recovery works out",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "BaldingThor",
+            "body": "This is why you backup any worlds you have attachment/investment in",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "ExplodingSteve",
+            "body": "\ud83d\udd4a\ufe0f\ud83d\udd4a\ufe0f\ud83d\udd4a\ufe0f",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "dcoughler",
+            "body": "Thank you for the reminder to go backup my worlds on my PC....",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Ianimatestuf",
+            "body": "I\u2019m sorry for your world loss man \ud83e\udee1",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "torching-flamingos",
+            "body": "mann ive never even had a world that long but i do know that struggle with the saves on xbox cloud\u2026 i lost a world i was using to get all of the cheevos on due to a bug similar a few years ago, i had got pretty far before it happened and i haven\u2019t tried again since.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "CaseyGamer64YT",
+            "body": "this is why you ALWAYS create backups in case of a corruption like this",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "sk8ersurfer",
+            "body": "This also happened to my cousin\u2019s hard-worked world in xbox ..",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Millan_K",
+            "body": "That's why many players do annual backup's, some do even monthly or weekly backups..",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Ok_Figure_4181",
+            "body": "Attach a USB flash drive to the Xbox and see if you can find the file. I\u2019m not sure how the Xbox reacts to flash drives or how you sift through files though, so I can\u2019t give guidance there. I just know it\u2019s possible.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Warm-Comfortable501",
+            "body": "This is why I pay for a server now.  Lost a 3 year old world and vowed never again.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "ninja_owen",
+            "body": "I would not try anything before getting the hard drive backed up completely",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Straight-Geologist51",
+            "body": "Can you try logging in on a xbox one uf you have it and importing your old worlds from there?",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Miserable_Degenerate",
+            "body": "Man, I was devastated when my friend lost our city world that we spent 2 years on. I can't imagine how painful it is losing a 12 year old save. I hope you're able to recover it, OP. By the looks of it, that really was a great world.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Amazing-Sort1634",
+            "body": "My heart goes out to you.\n\nWe had a server crash and lose several years of progress because it was also too large to backup. \n\nMap walls are a dangerous game to play on large scale.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "SimoOsiris",
+            "body": "My condolences. I hope you find some way to recover your world. I also have a old bedrock world that i play regular on and i would hate to loose it. I can already see a little bit of corruption. I'm very peranoid and make regularly safes on my hard drive.\nIf anyone has other tips to safe i would highly appreciate it.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Itonlymatters2us",
+            "body": "WOW\u2026it was beautiful!",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "McBeanss",
+            "body": "To love is to let go",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "GormanOnGore",
+            "body": "I delete my worlds every few months. Monuments lost to history. You have to remember, though, that it all resides in you. Start over fresh, punch that tree with your bare fist again!",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Capaia",
+            "body": "This was my biggest fear, with my forever world i started in 2015 i think, i have had move it to pc for backup, so everything is fine for me.\n\nI have no idea, how to recover a Xbox harddrive\u2026 but for the future you could put it on a private realm if you want pay the fee, as it also have backup options in it.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "El_Bagguette",
+            "body": "I had the same thing happen to me with my 4 year old world on my Nintendo switch. I was able to recover the seed and downgrade bedrock so I could recreate the world and start from scratch, maybe you could recover the seed and downgrade bedrock to recreate the world so it isn't completely gone.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "HulluHapua",
+            "body": "It really is heartbreaking to lose access to a world as old as that, if you are by pure fortune be able to recover it, you should back it up before another storage issue strikes.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "StationaryApe",
+            "body": "Sorry for all the time lost",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "pizzasrock21",
+            "body": "World and reminiscent of a time long gone. Shame.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "dbirchq",
+            "body": "I can't read thru all comments at the moment but if you can't find the data with the help already offered, is there an old backup on the cloud when it was smaller, that you could use to at least restore up to that point?  If you can, that would save some of it.",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "Yeah I think that\u2019s going to be a possibility, I just am not home yet to really try and see what will open and what still exists. I\u2019m hoping to give an update Monday!",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "ArborGhast",
+            "body": "Rip bro I hope you figure out a fix. \n\nI have (for apparently 15 years \ud83d\ude44) been just starting over a new world cause I'll jump platforms, avoid weird updates, spawn a new world for the new biomes... Is there going to be a  point I wonder where you can safely stash a regular save and it will not eventually disappoint?",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "That would be a dream",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Ackwood13",
+            "body": "Sad",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Cust0mCraft",
+            "body": "Something similar happened with my 5 year world, but I couldn't imagine losing a 12 year world. Sucks man.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "ADHD_Microwave",
+            "body": "Take it to a specialist to retrieve the data. I suggest you not use your console for any reason and unplug it until your data is retrieved.",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "From what I\u2019ve been told by the couple experts I\u2019ve talked to is that game consoles have some sort of anti piracy software that means even if the data can be extracted it won\u2019t be usable or playable unfortunately.",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "PIman1607",
+            "body": "For the future, you can copy save data to an external drive on Xbox. So if you do that and to a flash drive periodically you should have a backup for if this ever happens again. ALSO, of you are unable to recover your current world, you may be able to port it over again from your 360 like you did originally. Or you played it on an Xbox one console edition you might have a more recent save if you are able to boot that version up. Idk if you have your old consoles, or if you had an Xbox 1 but it might have so.e of the world at least. GL with recovery.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "zedhunter69",
+            "body": "I'm blue, blah blah blee blah blah blah",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "FirefighterNo8461",
+            "body": "Sad",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "ziddersroofurry",
+            "body": "i had this happen to a Fallout 4 save. The old mod manager I used to use glitched the save and borked it. No matter what I did (and I tried a lot of different things) I couldn't get it back. All my gameplay from the day of release until a few years ago (a few thousand hours) was toast.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "BlueEyesWhitePerson",
+            "body": "Bro got the IRS in Minecraft\ud83d\ude02 You can never evade taxes, even in the game. RIP your world man :( I had that exact same thing happen but luckily I don\u2019t game all that much so barely anything was deleted. Minecraft still needs to work on deleted worlds fr",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "Government has to get their share yaknow. When this map first started back in 2012 we made a written constitution that signed and ratified and we all carried a copy in our cars once we were all 16. We were mega nerds with it!",
+                    "score": 3
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "1nfiniteSpace",
+            "body": "What happened bro?",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "It would appear the local saves on my Xbox were wiped when the console crashed and restarted. My file size was over 900mb which means it doesn\u2019t save to the cloud. All the copies I had of it were also just local saves, so they\u2019re all gone. I think I may be able to recover some versions from a few years ago but I won\u2019t really know until Monday..",
+                    "score": 3,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "1nfiniteSpace",
+                            "body": "Oh, sorry about that man, hope you get it back.",
+                            "score": 2,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Final-Feature-8177",
+                                    "body": "You and me both, but the more options I explore the less likely that seems\u2026",
+                                    "score": 3,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "1nfiniteSpace",
+                                            "body": "Oh",
+                                            "score": 2
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Brownme02",
+            "body": "My heart goes out to you pal, I\u2019ve been there with a world only 3 months old and I was devastated I can only imagine how you feel. \n\nI now play on the pc as I was sick of Xbox and it\u2019s terrible cloud messing up my games. Play on laptop, connect hdmi to tv and connect my Xbox controller to pc and it\u2019s just the same",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "NahDwAboutIt",
+            "body": "Ah, this happened to me aswell years ago. I had slept in a bed as I closed the game, and evrything freaked the fuck out. The world disappeared for 2 years. Then out of nowhere it just appeared in my worlds list once again.\nThis was a 950MB world. There's a chance you can get it back.\n\nWhat I learned was that the world file corrupted, and got taken off the world's list. I had downloaded a storage manager thing for my xbox so I could use mods, and I found the world in a random folder, it did not open, so I left it. That was before it appeared outta nowhere",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "studio215official",
+            "body": "That's heartbreaking. Last week I lost a weeks worth of work on one main survival and I haven't been able to play since. I couldn't even imagine a 12 year world being gone like that!",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "RicGryllz",
+            "body": "I know how you feel. I lost me and my friends online server of many years because someone got my debit card number, and I forgot to change auto billing for my minecraft server. They permanently wiped my world in 1 week with only 1 email that briefly mentioned I had 1 week in small text at the bottom. \n\nDedicatedMC can rot",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "That\u2019s my big concern about if I retrieve anything and turning it into a realm..",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "RicGryllz",
+                            "body": "You should be pretty safe if you are using mojangs realms service. I was using a 3rd party service.",
+                            "score": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Wise_Independence_11",
+            "body": "Can you bring back the old PS4 version of minecraft please?",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Maco_spider",
+            "body": "I feel your pain. I also lost all of my Legacy Ps4 worlds in April 2020 cuz of the Mojang screen bug (I got it earlier than everyone else). I still can\u2019t recover them and im very upset about it to this day. :(",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "DereChen",
+            "body": "I line making backups every few days and storing on the cloud",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "M_krabs",
+            "body": "If no recovery tool works, please make a collage of screenshot and print it out as a poster!! Memories are forever",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "Great idea! Thank you!!",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "GoodGuyRubino",
+            "body": "wow thats sad, i hope someone here is able to help",
+            "score": 4
+        },
+        {
+            "depth": 0,
+            "author": "Atmo_reetry",
+            "body": "this glitch is why i hate xbox edition",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Hambungery",
+            "body": "Da ba dee da ba di",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Cantpickaname03",
+                    "body": "My little sister used to sing \u201cha da peed i would die\u201d on repeat. She was like two years old lol.\ud83d\ude02\u00a0",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "WillaBytes",
+            "body": "Don't play the console. When files deleted, they are only marked as removed, until some knew file takes its place and totally removes it.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "brassplushie",
+            "body": "You never thought to back it up one time in 12 years?",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "It\u2019s all been on console. I think I may be able to find a backup or two but they\u2019re going to be years old.",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "brassplushie",
+                            "body": "You can make back ups on console very easily. You played on a Series X, which means it\u2019s Bedrock edition. It\u2019s literally as simple as clicking \u201ccopy world\u201d. If you want to back it up off device, all you have to do is pay for a realm (which is like $3) and log in on any other device you want to store it on and you\u2019re good to go. You\u2019d just click \u201cdownload world\u201d instead of \u201ccopy world\u201d.",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Sheeshmaster_",
+            "body": "R.I.P",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Minimum-Arrival-3836",
+            "body": "Rip",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "theeBuoy",
+            "body": "Similar thing happened to me a couple years back, game crashed and my world got corrupted and I never saw it again. Now for my worlds I make sure to create a new copy every time I log off just in case something like that happens again. Still sucks that you\u2019ve gotta do it that way but at least it ensures you\u2019ll always have a backup.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "skettygirlsntha",
+            "body": "Worst case, open a realm and we'll all help you put it back together based on screenshots.\n\nIt won't be perfect as you remember it but it's origin Will be a cool story :)",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "LimesFruit",
+            "body": "I don't quite know the feeling of losing a long term world like this, but I did lose my first Minecraft worlds, although I didn't play on them for a long time (they were from 2011, and this was 2016) it still hurt. \n\nI really hope you're somehow able to recover your world, I wish you luck. And in future, make backups, and a lot of them.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "ruby_likes_sonic2",
+            "body": "this is why I backup my world every month or so. Mine is around 8 years old and is around 2GB. If I lost that I would lose a part of me. I really hope you can figure out some way to get it back <3.\n\nMy only thought is since it's a 360 world you might still have an old version from the old xbox 360 or xbox one editions so if there is no back up you could try those, but chances are those are very behind.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "gabrieltripari",
+            "body": "Such a shame this happened. Hopefully you can get it back somehow, the world looked really cool!",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "[deleted]",
+            "body": "[deleted]",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "YeetosBoritos",
+                    "body": "what do you mean \u2018how did you die\u2019",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Klutzy_Row8075",
+                            "body": "Whoops my screen didn't show the top text sorry",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "YeetosBoritos",
+                                    "body": "lol no problem I was comfused for a rec",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Kumbhakancer",
+            "body": "Ah well",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "IO_Timmiey",
+            "body": "Take out the hdd, add it to a windows pc (10 is best) and get an open source data recovery program. Youre gonna be fine.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Mammoth_Charity_3941",
+            "body": "I slightly know how you feel, I\u2019ve lost a 3-4 year old world because i decided to make a big map",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "otigroj",
+            "body": "Check this 3 years post from this group:\n[https://www.reddit.com/r/Minecraft/s/F4SAUlh5w2](https://www.reddit.com/r/Minecraft/s/F4SAUlh5w2)",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Accomplished-Buy1702",
+            "body": "Due I have no I bire but I wish you the best of luck on of me friends dad might help I will save this and send it to him to morrow btw that world looks amazing\u00a0",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "GardenHumble4316",
+            "body": "Naur that world looks amazing",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "GardenHumble4316",
+                    "body": "Looked*",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Random_Cutie",
+            "body": "Man, if only i could play on my first worlds. Even tho i was just a stupid kid, oh how much i loved this game. I was scared, confused, yet so excited, made the big braun move (at that time, for myself), i managed to craft not only planks and a crafting table, but even sticks! I thought, smh like \"oh ye, sticks deal more damage then just a bare hand\", or whatever. I dig a hole in the ground, with trapdoors for blocks \"stairs\". And dig a hole beneath them, so that the monsters (mobs) would fall down and i would easily kill them. I was such a smart little guy. Oh and how was my surprise, when the spiders was not aggressive during the day! Later few years - I didn't know /gamemode 0, only knew 1 and 2 when it was added. I thought, \"once i go creative, I won't be able to survive anymore\". Oh, and guys, im still excited to kill the Ender Dragon! I never killed him without cheat codes and/or gamemode 1! And i played, since some old ass version, where was no hunger. The least version i remember - 1.2.5. But believe me, it was only when i thought the version after some updates! I didn't see indef or infdef myseld tho. \nGod, im becoming too emotional",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Buzzy15012",
+            "body": "You'll have that every now and 12 years",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "MavTheDuck",
+            "body": "thats such a shame",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Recon_Rahl",
+            "body": "I am so sorry! The amount of tlc you brought to that world is evident.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Aechmonke",
+            "body": "Damn, that sucks. 12 years of work lost. Sorry bro.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Dylan_M_Sanderson",
+            "body": "Yo, listen up here's a story\nAbout a little guy\nThat lives in a blue world\nAnd all day and all night\nAnd everything he sees is just blue\nLike him inside and outside\nBlue his house\nWith a blue little window\nAnd a blue corvette\nAnd everything is blue for him\nAnd himself and everybody around\nCause he ain't got nobody to listen to\nI'm blue\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nI'm blue\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nI have a blue house\nWith a blue window\nBlue is the colour of all that I wear\nBlue are the streets\nAnd all the trees are too\nI have a girlfriend and she is so blue\nBlue are the people here\nThat walk around\nBlue like my corvette its in and outside\nBlue are the words I say\nAnd what I think\nBlue are the feelings\nThat live inside me\nI'm blue\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nI'm blue\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nI have a blue house\nWith a blue window\nBlue is the colour of all that I wear\nBlue are the streets\nAnd all the trees are too\nI have a girlfriend and she is so blue\nBlue are the people here\nThat walk around\nBlue like my corvette, its in and outside\nBlue are the words I say\nAnd what I think\nBlue are the feelings\nThat live inside me\nI'm blue\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nI'm blue\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di\nDa ba dee da ba di",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Dreadnought_69",
+            "body": "If you can\u2019t recover it, it means it\u2019s time to go for the Java edition on PC.",
+            "score": 0,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "pdoghen",
+                    "body": "I did that when my ps4 yeeted my terraria world and now I have been playing Java for 5 years on the same server, it\u2019s totally been worth it",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "SpongederpSquarefap",
+            "body": "Can you even do external backups of worlds on consoles?\n\nI wouldn't trust MS or Sony to handle my world backups",
+            "score": 0,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "If not that\u2019s a change that needs to be made!",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "SpongederpSquarefap",
+                            "body": "Or at least an export option so you can play it on PC in bedrock\n\nIdk if you can convert from bedrock to java from there, but that'd give you options at least\n\nI was done with console gaming after my Skyrim bugged out and I couldn't progress the thieves guild quest line (and of course I didn't have a save from before the bug started)\n\nIt's silly, on PC it's a simple \"setstage\" command and it's fixed",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "MrGodBless",
+            "body": "Java > Bedrock",
+            "score": 0
+        },
+        {
+            "depth": 0,
+            "author": "sumredditorsomewhere",
+            "body": "This is why I play on a PC where I can back up my worlds easily. Don't put this much time into a game you can't make a copy of. Too much can go wrong. The only thing you could do is check the hard disk, after that try to save for a gaming pc if you don't have one. Consoles really are terrible.",
+            "score": 0
+        },
+        {
+            "depth": 0,
+            "author": "Civil-Type7783",
+            "body": "why are there blue pictures?",
+            "score": 0,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Final-Feature-8177",
+                    "body": "Because they\u2019re just photos taken of a TV screen with a phone",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Ackwood13",
+            "body": "Na",
+            "score": 0
+        },
+        {
+            "depth": 0,
+            "author": "Low-Instruction-2392",
+            "body": "Waht jan",
+            "score": 0
+        },
+        {
+            "depth": 0,
+            "author": "FastCod3871",
+            "body": "https://screenshot.help/",
+            "score": -4
+        },
+        {
+            "depth": 0,
+            "author": "0inputoutput0",
+            "body": "See what you should've done is routinely copy it to some form of external storage like a thumbdrive or whatnot",
+            "score": -2
+        },
+        {
+            "depth": 0,
+            "author": "Yaboi_slimjim",
+            "body": "Maybe it\u2019s a sign to stop playing 8 hours of video games a night",
+            "score": -4
+        }
+    ]
+}

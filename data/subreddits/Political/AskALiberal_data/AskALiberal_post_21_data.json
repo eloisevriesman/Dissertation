@@ -1,0 +1,411 @@
+{
+    "title": "What treatments would universal healthcare cover? ",
+    "comments": [
+        {
+            "depth": 0,
+            "author": "AutoModerator",
+            "body": "The following is a copy of the original post to record the post as it was originally written.\n\nI was just wondering what kind of vision liberal voters had for universal healthcare in the US. More specifically how broad would coverage be, and what medical procedures/medicine might not be covered? Would it just follow similar guidelines as current private healthcare coverage or would it cover all medical care one might have, regardless of \u201cnecessity\u201d. \n\nJust to give examples: \n\nOzempic- Currently most private insurance companies only cover the medicine if it is prescribed for type 2 diabetes. It is (typically) not covered when prescribed off label as a weight loss drug. Would a universal healthcare system cover the cost of such a drug?\n\nCosmetic surgeries - insurance companies cover plastic surgeries when it is required due to illness or an accident. Ie. If a breast cancer patient has a mastectomy, insurance will cover the cost of breast implants. Meanwhile elective plastic surgery for cosmetic reasons is almost always paid for out of pocket. Would this remain the case under universal insurance?\n\nAlso what about gender affirming care? I know currently most insurance covers trans related healthcare, but this often requires a gender dysphoria diagnosis/letter of recommendation from a doctor. But how do it apply to cis individuals? I saw a Reddit post once talking about how balding is an example of gender dysphoria in cis individuals, I actually really liked the comparison and found it informative, but would something like hair implants be covered for cis individuals? Would they only be covered for women due to societal standards? \n\nI am genuinely curious how universal healthcare would decide what is and isn\u2019t covered, because while I think it\u2019s a more reasonable to fear limited coverage, on the other hand too broad of coverage seems susceptible to abuse and overspending.  \n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/AskALiberal) if you have any questions or concerns.*",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Arthur2ShedsJackson",
+            "body": "[Medicare guidelines](https://www.medicare.gov/coverage/cosmetic-surgery) are pretty reasonable: cover ozempic for diabetes, not weight loss. Doesn\u2019t cover cosmetic surgery unless you need it because of an accidental injury to improve the function of a malformed body part, or due to a mastectomy. Covers gender affirmation procedures when they're deemed medically necessary. Seems fine.",
+            "score": 27,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Sleep_On_It43",
+                    "body": "Wegovy and Zepbound were just recently added to Medicare for the treatment of obesity when there is a risk of heart disease\u2026which obesity in and of itself raises the risk of heart disease.\n\nhttps://www.npr.org/sections/health-shots/2024/03/22/1240170094/wegovy-medicare-part-d-weight-loss-drugs",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Similar_Candidate789",
+            "body": "Any and all treatments ordered by a doctor should be paid for. Doctors are already regulated by medical practices and boards and can lose their license for overprescribing or not doing their jobs correctly. We don\u2019t need the extra layer on top. If your doctor orders a medicine or procedure that they determine is medically necessary it should be paid for. Period. There should be no debate. \n\nCosmetics should remain paid for out of pocket. Doctor says they don\u2019t think you need ozempic but you get some anyway? Pay out of pocket. Anything that a doctor doesn\u2019t specifically say \u201cthis is medically necessary to get you out of pain or keep you alive\u201d won\u2019t be paid for.",
+            "score": 18,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "LtPowers",
+                    "body": "> Any and all treatments ordered by a doctor should be paid for.\n\n> Anything that a doctor doesn\u2019t specifically say \u201cthis is medically necessary to get you out of pain or keep you alive\u201d won\u2019t be paid for.\n\nYou seem to be contradicting yourself.",
+                    "score": 3,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Ewi_Ewi",
+                            "body": "That's not contradictory, that's assuming doctors wouldn't be ordering medically *un*necessary treatments.\n\nWhich makes sense...because prescribing or ordering unnecessary things would fast-track you to losing your license.",
+                            "score": 11,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "C21H27Cl3N2O3",
+                                    "body": "A lot of people don\u2019t seem to realize that doctors don\u2019t do things at random. I\u2019m not a doctor but I work in a hospital setting and access patient records through our EMR. Every click I make is monitored. If I do something that is not appropriate for the specific care I\u2019m providing for a patient, HR and my bosses are going to get on me. Even for mistakes, I was looking at a patient\u2019s most recent set of vitals and accidentally clicked the tab next to it which was their progress notes. Didn\u2019t open any notes, immediately closed the tab. The next day my boss pulled me aside and told me she knew it was an accident, to just be careful what I click.\n\nIf a doctor orders a chest x-ray for every patient just because, that\u2019s going to throw up red flags. They\u2019re then going to go in and review the cases involved and will approach the doctor for justification as to why they ordered a chest x-ray on a patient presenting with foot pain after stubbing their toe. When they can\u2019t provide it they\u2019re going to face some kind of punishment over it.",
+                                    "score": 8,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "A-passing-thot",
+                                            "body": ">Even for mistakes, I was looking at a patient\u2019s most recent set of vitals and accidentally clicked the tab next to it which was their progress notes.\n\nWhy wouldn't that be something that you should have access to/know?\n\nMainly asking because it might explain why doctors frequently are unaware of info I know is in my records in their system.",
+                                            "score": 1,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "C21H27Cl3N2O3",
+                                                    "body": "We only use the absolute bare minimum information needed to comply with HIPAA. I was helping to manage this patient\u2019s dangerously high blood pressure, but there were a host of other issues they were dealing with.",
+                                                    "score": 2
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "depth": 3,
+                                    "author": "LtPowers",
+                                    "body": ">That's not contradictory, that's assuming doctors wouldn't be ordering medically unnecessary treatments.\n\nDoctors order cosmetic treatments quite frequently. It's the only way to get some of them.",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "SovietRobot",
+                    "body": "The thing is - doctors can make case of saying something like male balding should be covered.\n\n\nAnd Medical Boards don\u2019t have the resources to actively monitor every single doctor and what they prescribe. Otherwise it would be no different effort wise than insurance companies today requiring that doctors code and categorize every service and then checking those against the big list of things that should or shouldn\u2019t be covered. The only difference is that you\u2019re shifting the work from paid insurance companies to unpaid medical boards - which doesn\u2019t work. \n\n\nPeople say - let doctors decide like it\u2019s an idealistic thing but in practice it\u2019s not that easy. \n\n\nCanada forces doctors to code their services. And then has government check those codes and services. And it is a huge effort on both sides.",
+                    "score": 0
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "lyman_j",
+            "body": "Why would universal healthcare decide anything different than the standards already set? It\u2019s *health*care, not *cosmetic*care.",
+            "score": 12,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Lamballama",
+                    "body": "Not what OP brought up, but especially centralized health systems like the UK struggle with incorporating advanced treatments for complex conditions in a timely manner, leaving patients who are perfect for them to pay out of pocket. SIRT is a good example of that",
+                    "score": 8,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "lyman_j",
+                            "body": "Those are process and regulatory issues that could be fixed, though. It\u2019s not an innate problem with universal healthcare.",
+                            "score": 2
+                        },
+                        {
+                            "depth": 2,
+                            "author": "Zamaiel",
+                            "body": "That is not a feature of *centralized* systems, it is a feature of *underfunded* systems.",
+                            "score": 2
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "Dangerous_Papaya_578",
+                    "body": "With the obesity epidemic, weightloss medication would be a net positive with universal healthcare. Lower weight typically (not always) means that a lot of health issues that are tied to being obese would also reduce.",
+                    "score": 4,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Sleep_On_It43",
+                            "body": "Exactly\u2026to not cover Ozempic/Wegovy/etc\u2026or any new developments in weight loss medication is being \u201cpenny wise and dollar dumb\u201d.\n\nSame way with not covering LASIK surgery to correct vision. The cost of glasses and contacts over a lifetime has to be more than the cost of LASIK.",
+                            "score": 2
+                        },
+                        {
+                            "depth": 2,
+                            "author": "lyman_j",
+                            "body": "Insurance covers ozempic in medically necessary situations. It does not cover ozempic for purely cosmetic purposes, like we\u2019re seeing in Hollywood today.",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Dangerous_Papaya_578",
+                                    "body": "That is not always true. You can be obese and still have decent bloodwork and they won\u2019t cover it, it really depends on the insurance company.  ~41% of Americans are obese, and while weightloss medication won\u2019t stop the root cause of most obesity, it\u2019s a great starting point when combined with diet and exercise.",
+                                    "score": 1,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "lyman_j",
+                                            "body": "Ozembic isn\u2019t a \u201cget a shot until you\u2019re at a healthy weight\u201d medication; it\u2019s a \u201cget a shot every other week for the rest of your life or you\u2019ll regain the weight\u201d medication.\n\nIt shouldn\u2019t be used as a first line measure to treat obesity for that reason alone. If there were clinical studies indicating that ozembic-associated weight loss stayed off with diet and exercise, I\u2019d agree that it might be considered but given the clinical research demonstrating weight gain following cessation of the drug, I don\u2019t think it\u2019ll get past its primary purpose of treating diabetes.",
+                                            "score": 1,
+                                            "replies": [
+                                                {
+                                                    "depth": 5,
+                                                    "author": "Dangerous_Papaya_578",
+                                                    "body": "Most people regain the weight because they go back to their shitty eating habits and sedentary lifestyle. \n\nOzempic isnt FDA approved for weight loss yet, but other brands of semaglutide (such as wegovy) are. Like I said, it\u2019s a good start for people that have tried to diet and exercise but it isn\u2019t working for them.",
+                                                    "score": 1,
+                                                    "replies": [
+                                                        {
+                                                            "depth": 6,
+                                                            "author": "lyman_j",
+                                                            "body": "No, the clinical trials demonstrate that the weight loss isn\u2019t sustainable even with lifestyle changes. Same for Wegovy, fwiw.\n\nIt\u2019s not a \u201cgood start\u201d because it isn\u2019t sustainable without the injection. None of them are yet. I\u2019ve had extensive conversations with my doctor about this because this is how I wanted to jumpstart weight loss personally, including reviewing the clinical data, and they all conclude the same thing: the weight comes back when the injections cease. Full stop.",
+                                                            "score": 2
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Lamballama",
+            "body": "The government shouldn't care, as long as the procedures, equipment and material are FDA-approved for effectiveness.\n\nWhat the payment model should be is on a per-condition basis like in the Helarh Care Home model - we pay your GP and the specialists in a local area a certain amount to deal with your arrhythmia, and we don't give a shit how they do it. Literally maximum \"let the doctor and patient decide their medical care\" without being stupid about it.\n\n>Ozempic- Currently most private insurance companies only cover the medicine if it is prescribed for type 2 diabetes. It is (typically) not covered when prescribed off label as a weight loss drug. Would a universal healthcare system cover the cost of such a drug?\n\nIf they have medical morbid obesity, then that could be part of the treatment plan. I dont really care. I think an efficient universal healthcare system also needs to invest in people's health, and require they pay for their unhealthy, but that's more alcohol/sugar/fat taxes\n\n>Cosmetic surgeries - insurance companies cover plastic surgeries when it is required due to illness or an accident. Ie. If a breast cancer patient has a mastectomy, insurance will cover the cost of breast implants. Meanwhile elective plastic surgery for cosmetic reasons is almost always paid for out of pocket. Would this remain the case under universal insurance?\n\nDepends on if they have diagnosable body dysmorphia because of it, and the GP, psychiatrist, and plastic surgeon all agree that surgery is the best way to resolve this, rather than therapy\n\n>Also what about gender affirming care? I know currently most insurance covers trans related healthcare, but this often requires a gender dysphoria diagnosis/letter of recommendation from a doctor. But how do it apply to cis individuals? I saw a Reddit post once talking about how balding is an example of gender dysphoria in cis individuals, I actually really liked the comparison and found it informative, but would something like hair implants be covered for cis individuals? Would they only be covered for women due to societal standards? \n\nGender dysphoria is the distress from the body/mind mismatch. If its causing diagnosable distress, they can perform those procedures for whoever\n\n>am genuinely curious how universal healthcare would decide what is and isn\u2019t covered\n\nUsually the governing body for the state healthcare/insurance plan (depending on the model) approves specific procedures for specific illnesses, and often specific medications by brand name. In my ideal case, we use the ICD-10 and the DSM-5 for what constitutes a condition, figure out what it should cost on average to fix or manage it, then pay them that and let the doctors sort out what a patient needs",
+            "score": 4,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Sleep_On_It43",
+                    "body": "Man\u2026generally you and I are at odds on a lot of stuff, but you are dead on with this post!",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Odd-Principle8147",
+            "body": "I would make 'universal health' equivalent to my VA priority group 1 coverage. It would at least be a good starting point.",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "letusnottalkfalsely",
+            "body": "Not cosmetic procedures but weight loss and gender affirming care for sure. Those are both forms of healthcare.",
+            "score": 3,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "EmployeeAromatic6118",
+                    "body": "When you say gender affirming care does that apply to both trans and cis individuals? To clarify, my op wasn\u2019t really questioning trans gender affirming care being covered, I feel like that\u2019s a given, but I was more so curious if that could apply to cis-women experiencing hair loss, or men who have (not sure the proper term but basically man boobs)",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "letusnottalkfalsely",
+                            "body": "Yes, it would apply to everyone. I don\u2019t actually think the things you describe would be categorized clinically as gender-affirming care, but they definitely constitute healthcare.",
+                            "score": 6
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "PlayingTheWrongGame",
+            "body": ">\u00a0I was just wondering what kind of vision liberal voters had for universal healthcare in the US.\n\nThink Medicare, but covering everyone.\n\nLike current Medicare, you would be able to get Medicare supplemental insurance, or Medicare advantage (if you wanted that for some reason). The tax-funded, universal component would cover essential care for everyone\u2014you would have the option to buy additional supplemental insurance (ex. Privately, or through an employer) to cover additional things the base insurance doesn\u2019t cover. Billing and payment and such would all follow through the same backend system to prevent unnecessary duplication of effort, even for supplemental coverage.\u00a0\n\nHHS (in conjunction with relevant legislation and possibly the courts) would make determinations on what to cover, when to cover it, how much to cover, etc.\u00a0\n\n>\u00a0Would a universal healthcare system cover the cost of such a drug?\n\nFor its\u00a0on-label uses.\n\n>\u00a0Would this remain the case under universal insurance?\n\nSeems like the sort of thing to let the system and relevant experts sort out\u2014where the line between medically necessary care for quality of life and vanity lies.\n\n>\u00a0Also what about gender affirming care?\n\nThat should be covered as medically necessary, and would be covered under the sort of society which would create a universal healthcare system.\n\n>\u00a0I saw a Reddit post once talking about how balding is an example of gender dysphoria in cis individuals, I actually really liked the comparison and found it informative, but would something like hair implants be covered for cis individuals?\n\nAgain: you\u2019d want relevant experts and HHS to establish the guidelines for it.",
+            "score": 3
+        },
+        {
+            "depth": 0,
+            "author": "tonydiethelm",
+            "body": "Yes.\u00a0\u00a0\n\n\nPeople aren't out here getting surgeries for fun. Just cover the damn care.\u00a0 Yes, vision and dental too. Why are those separate? I need teeth and to see!\u00a0\n\n\nYeah, sure, no cosmetic surgery unless for injury.",
+            "score": 6,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Dangerous_Papaya_578",
+                    "body": "Good oral health can help control and/or lessen the risk associated with multiple diseases (for example heart disease, diabetes, and dementia).",
+                    "score": 3,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Sleep_On_It43",
+                            "body": "Yeah, and how many people don\u2019t have dental coverage and despite brushing and flossing\u2026they still have gum disease because they can\u2019t afford the professional cleanings every 6 months?",
+                            "score": 2,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Dangerous_Papaya_578",
+                                    "body": "Sorry if I wasn\u2019t clear. In my opinion being able to go to the dentist is part of what I consider good oral health, that absolutely should be covered by insurance. \n\nI actually have a genetic condition that basically means I have bad mouth bacteria. I have to go to the dentist every 3 months even though I religiously brush and floss 2-3 times a day. I\u2019m lucky that I can afford it, but I\u2019ve seen first hand what happens when you can\u2019t afford it. My mom had a full set of dentures by 40.",
+                                    "score": 1,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "Sleep_On_It43",
+                                            "body": "Pretty much the same here. Have periodontal disease and have to go every three months.",
+                                            "score": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "ButGravityAlwaysWins",
+            "body": "Universal healthcare systems generally have a government agency that works with medical associations to determine what types of healthcare should be covered including pharmaceuticals. They generally do a cost benefit analysis to figure out what shouldn\u2019t be covered.\n\nIt\u2019s not any different than what we do, just with private insurance companies making these determinations based on profits as the primary driver. \n\nWhat does and doesn\u2019t get covered changes over time. It varies by country but things like various portions of transgender healthcare get covered in some countries and not in others.  I have no idea what various countries are doing about Ozempic but I\u2019m sure over time it or a similar pharmaceutical will be included for some situations.\n\nThat\u2019s actually a big part of why their systems are cheaper while still getting the same or better results. There is a lot of waste in our system simply because pharmaceutical companies will slightly jigger or even just repackage drugs in order to fight off, generics or make themselves still be the choice. There are examples of the change being as simple as including a worth of wipes in the packaging. or changing the drug so that it\u2019s time over a day so you only have to take it once instead of twice daily. That stuff gets knocked down by the national organizations in countries with universal healthcare. \n\nThey also negotiate at the national level so you get situations like a hip replacement device made in Indiana costing $17,000 in Indiana but costing $5000 in France.",
+            "score": 3,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Vali32",
+                    "body": ">It\u2019s not any different than what we do, just with private insurance companies making these determinations based on profits as the primary driver.\n\nThere are some very important differences though: There is no-one in the loop between the doctor and the patient to approve or deny treatment. What threatments are covered is set on the national level without an army of minor bureaucracts covering or denying treatments individually.\n\nAlso, coverage for a condition will never be refused except on medically neccessary grounds. What can be an issue is which drugs or treatments can be applied. For instance, in Norway doctors are encouraged not to perscribe drugs costing in excess of 150 000$ unless they have clear clinical benefits over the alternatives.",
+                    "score": 3,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "ButGravityAlwaysWins",
+                            "body": "Yeah, that was worth pointing out. Thanks.",
+                            "score": 2
+                        },
+                        {
+                            "depth": 2,
+                            "author": "SovietRobot",
+                            "body": "Wait a minute - there\u2019s government between the doctor and patient in Universal Healthcare. \n\n\nIt\u2019s not like if I get any referral from any doctor - that it\u2019s going to be covered. \n\n\nEven like in Canada - the government controls what\u2019s included and excluded from plans. And there are people that check to see if the services being submitted fall within those plans case by case. \n\n\nHave you ever talked to a doctor in Canada about how difficult it is to do coding?\n\n\n\nIt\u2019s no different than a national healthcare insurance company setting national standards for plans (which they do).",
+                            "score": 0,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Vali32",
+                                    "body": "I am not familiar with every UHC system, there are a lot of them all very different. However, in the systems I am familiar with, the doctor or specialist determines the treatment together with the patient, and it is covered. There is no step or entity between them. There is a list of treatments and drugs that the doctor keeps updated on.\n\nIf a new drug enters the market, negotiations between the pharma and the system happens at a national level to add it to the \"approved\" list. Coding is something that some administrators do in large hospital settings.\n\nIt is very very different from insurance-based systems. In the US, there are about 700 000 people working in health care insurance, and probably the same number on the provider side liaising, negotiating and dealing with them. The number employed to do that job in beveridge type systems is a handfull at most. This has been estimated to be very roughly 25% of the cost difference between the US and peer systems.  The reason for the extreme difference is in large part because that level of work, between the opatient and the doctors at an indivdual scale, just does not happen.",
+                                    "score": 3,
+                                    "replies": [
+                                        {
+                                            "depth": 4,
+                                            "author": "SovietRobot",
+                                            "body": "For my understanding - when you say the UHC systems you are familiar with - which exact systems / countries are you referring to?",
+                                            "score": 1
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "merp_mcderp9459",
+            "body": "Up in Canada you\u2019re covered for primary doctor visits, specialists *if you have a referral from your primary doctor*, and hospitals care. Dental, vision, and prescriptions are all uncovered (unless those things happened inside a hospital - emergency dental/vision care and the drugs they give you in the hospital are all covered). So really depends on how you write the law. You\u2019re effectively just writing a healthcare policy for everyone and choosing what gaps you want to leave to the private market",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "EmployeeAromatic6118",
+                    "body": "Dental isn\u2019t covered in Canada? And with vision, do you at least get a yearly eye exam? I have to pay out of pocket for contacts but my exam is at least covered, even though my insurance doesn\u2019t cover \u201cvision\u201d",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "merp_mcderp9459",
+                            "body": "Neither. Dental and vision are usually covered through private insurance, or just out-of-pocket",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Cleverdawny1",
+            "body": "Depends on how it's written.\n\nBut I'd prefer just letting people buy Medicaid and Medicare plans at cost if they want, in addition to existing private insurance options.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "Kerplonk",
+            "body": "What I think we should do is  to estimate how many QALYs (quality years of life) a particular treatment adds and come up with a reasonable price for what we think that is worth a QALY is worth.  If we can negotiate a price under that amount it should be covered.  If we can't it should not.\n\nThere is a possibility that Ozempic's weight loss side effects produce similar benefits to maintaining a healthy weight naturally and/or are a less dangerous alternative to gastric bypass surgery for people who are so overweight it's essentially a disability.  In either of those cases it should be covered, but not just for cosmetic weight loss (though people should be allowed to pay out of pocket for that purpose).\n\nCosmetic surgeries would probably function much the same as they currently do.  A significant deformity such that it would make someone a pariah would be  covered but not those that are just minor improvements to people who are average looking.\n\nI don't imagine hair transplants would be covered.",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Sleep_On_It43",
+                    "body": "Just a note on the Ozempic thing\u2026.doctors don\u2019t recommend GLP-1 medication(Ozempic/Wegovy/etc) for people who need to lose 15-25 lbs. they recommend it for the Obese(BMI greater than 30) or morbidly obese(BMI over 40).\n\nThere are guidelines to be met\u2026the problem with the guidelines is that people who can afford the $1200/month for the drug will go to a doctor that will give them the prescription no matter what their body mass is\u2026.like people in show business for instance. \n\nKelly Clarkson? Jonah Hill? Yeah\u2026.they would qualify regardless of their social status and wealth. Scarlett Johansson gains a few pounds and wants to trim down a bit? She wouldn\u2019t\u2026but because she is who she is..could probably get it with ease. NOTE: Johansson was just a hypothetical example\u2026not some weird Access Hollywood scoop\u2026lol.\n\nWhat I am saying is that because of people who can afford out of pocket who don\u2019t really need it and doctors who unethically prescribe it for them? There is a shortage of the medication and that contributes to the high cost.",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Vali32",
+            "body": "Most UHC systems that I know is based on legislation giving the residents the right to all medically neccessary healthcare.\n\nSo no vanity surgery, but reconstructive surgery. Grey areas can be fertility, dental, and minor vision issues.\n\n>I am genuinely curious how universal healthcare would decide what is and isn\u2019t covered, because while I think it\u2019s a more reasonable to fear limited coverage, on the other hand too broad of coverage seems susceptible to abuse and overspending.\n\nIn general, UHC systems find that a huge gatekeeping bureaucracy which decides on what is an isn't covered costs more than just covering things.",
+            "score": 2
+        },
+        {
+            "depth": 0,
+            "author": "tfe238",
+            "body": "If you need it to save your life. Funded. \n\nElective surgery - pay your own.",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Sleep_On_It43",
+                    "body": "Hmmmm\u2026..what constitutes elective? Hip or knee replacements? I mean, it\u2019s not life saving\u2026but it sure as hell is quality of life saving. What if you need a spinal fusion to rid yourself of horrific back pain that causes you to be unable to work? Again\u2026.not life saving.\n\nOn the other side of the equation\u2026.why would it cover a knee replacement for a 90 year old who would still be wheelchair bound even after the surgery? Wouldn\u2019t that knee joint be better off going to a 50 year old whose life and mobility would be significantly better with it?\n\nI think it\u2019s more about being smart with resources than \u201conly life or death\u201d.",
+                    "score": 2,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "tfe238",
+                            "body": "Yes, a lot of gray area in my comment. \n\nElective, imo, is something like plastic surgery.",
+                            "score": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "GeeWilakers420",
+            "body": "If a licensed doctor examines your body and decides that the best course of action for your health is that you take x med then x should be provided free of charge. As long as the doctor doesn't have a financial stake in business related to x med the doctor's decision should not be questioned by anyone without medical certification.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "wizardnamehere",
+            "body": "All treatments considered worthwhile by the death panels that republicans used to scare monger about. \n\nThat is. Panels who decide what treatments and drugs will be covered by the universal insurance system. \n\nThat\u2019s how all insurance works. They already do that and then ask you to buy in. \n\nOutside of that you would have to get the care yourself at your own cost.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "wizardnamehere",
+            "body": "Universal healthcare is simply a universal healthcare insurance system. So it works like a healthcare system which is owned by the government, subsidised by the governments, and made mandatory. \n\nSo what is covered depends. Outside of that you buy at full cost.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "BlueCollarBeagle",
+            "body": "You are assuming that the approach to health care would remain the same when it was no longer connected to a for profit private model.   Universal healthcare would see the benefits of preventative policies.  There is a market for treating diabetes.  There is no market for a behavioral change to cure or prevent it.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "mr_miggs",
+            "body": "I am in favor of universal healthcare covering medically necessary treatments that bring a person back to their normal status/health. \n\nTo address your examples:\n\n>Ozempic- Currently most private insurance companies only cover the medicine if it is prescribed for type 2 diabetes. It is (typically) not covered when prescribed off label as a weight loss drug. Would a universal healthcare system cover the cost of such a drug?\n\nI would be in favor of continuing to handle it this way\n\n>Cosmetic surgeries - insurance companies cover plastic surgeries when it is required due to illness or an accident. Ie. If a breast cancer patient has a mastectomy, insurance will cover the cost of breast implants. Meanwhile elective plastic surgery for cosmetic reasons is almost always paid for out of pocket. Would this remain the case under universal insurance?\n\nSame. If you have an accident or illness that causes disfigurement, i am ok with universal healthcare covering plastic surgery to get you looking close to your former self. Consider it preventative mental health care. \n\n>Also what about gender affirming care? I know currently most insurance covers trans related healthcare, but this often requires a gender dysphoria diagnosis/letter of recommendation from a doctor. But how do it apply to cis individuals? \n\nWhy would gender affirming care this need to apply to CIS individuals?  Not everyone needs every type of healthcare. \n\n>I saw a Reddit post once talking about how balding is an example of gender dysphoria in cis individuals, I actually really liked the comparison and found it informative, but would something like hair implants be covered for cis individuals? Would they only be covered for women due to societal standards? \n\nCalling it gender dysphoria is nonsense. For men, male pattern baldness is just a genetic thing that happens pretty commonly. You are not entitled to have hair on your head. Its a bit worse for women, since its less common. But either way, it is generally a purely cosmetic issue, so i dont think it should be covered.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Leucippus1",
+            "body": "This is a very relevant topic of discussion, one that can only be had if we agree to keep our sneering moralizations to ourselves. Take, for example, Ozembic, which you errantly described as being prescribed off label. It isn't, it is approved for weight loss, or at least the active ingredient (semaglutide) is. The question is why was this example included? You are talking about the exact same medicine which treats the result of obesity, type II diabetes, and can treat the underlying condition (obesity). So we moralize the treatment of obesity but not diabetes? What kind of sense does that make? I know why, but I am just pointing out how these discussions can devolve - you make a moral judgement about fat people when you talk about treating obesity with a drug. It isn't a scientific or medical judgement.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "GeekShallInherit",
+            "body": "As proposed, Medicare for All would be the most comprehensive coverage universal healthcare in the world, and far more comprehensive than most private insurance in the US, while still saving money overall. Of course the law is unlikely to pass without modification, and coverage is likely to be reduced. Personally I would be surprised if any plan wasn't at least as comprehensive as current Medicare and Medicaid.\n\nThere will certainly be disagreements over what is and isn't covered, and I have no idea what those resolutions will be, but it's not like we don't already have such issues. Private insurance, with a bean counter with no medical background making decisions, deny one claim out of six to improve the bottom line. Or worse, use an AI with a 90% error rate in claim rejections because it's even cheaper.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Thorainger",
+            "body": "If it were up to me, then I'd look at what \\*literally\\* \\*every\\* other\\* \\*industrialized\\* \\*country\\* \\*on\\* \\*Earth\\* covers and see what works the best.  People act like we'd be in uncharted waters, when we're the fucking crazy ones.  This isn't hard unless Americans are uniquely incompetent among other industrialized countries.  Seems like we shouldn't be calling ourselves the best country on earth if we're uniquely incompetent at universal healthcare, one of the most important things a country can do.",
+            "score": 1
+        }
+    ]
+}

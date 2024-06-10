@@ -1,0 +1,687 @@
+{
+    "title": "Hello, I'm Abubakar Salim. We launched Tales of Kenzera: ZAU a month ago on all platforms. AMA on the 23rd May @ 8am PT (16:00 UK time)",
+    "comments": [
+        {
+            "depth": 0,
+            "author": "matajuegos",
+            "body": "Love your voice man, you killed it as Bayek",
+            "score": 48,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Nimonic",
+                    "body": "And Father.",
+                    "score": 10,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Sauronxx",
+                            "body": "Praise Sol!",
+                            "score": 5
+                        },
+                        {
+                            "depth": 2,
+                            "author": "AbzyBabzySalim",
+                            "body": "And thank you too!",
+                            "score": 4,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Nimonic",
+                                    "body": "I had a slight crisis of confidence when I realised you were several years younger than me. Such gravitas and authority as both Father and Bayek.",
+                                    "score": 2
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Thank you!",
+                    "score": 3
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Alastor3",
+            "body": "Hi Salim! I was moved by your speech at the Game Award and I hope the sales and feedback have been positive for you and your team! I also like that you have been very proactive in responding to the reviews on Steam. I can't wait to see your next project and im sure your dad would be proud!",
+            "score": 55,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Bassre2",
+                    "body": "From all the famous person I have seen at those kind of event you could tell he was one of the few that was passionate and genuinely happy to be there, I was moved by his story. He was excellent in Raised by wolves, pleasantly surprise to see him in house of dragon, he totally deserve it!",
+                    "score": 18,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "AbzyBabzySalim",
+                            "body": "<3",
+                            "score": 3
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Appreciate this. Thank you so much. Spoke from the heart and I'm glad it resonated.",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "pt-guzzardo",
+            "body": "First off, congratulations on the release! I really liked the story. Way above par for the genre, and the end of act 3 in particular hit really hard. I have one non-spoilery question and one spoilery question:\n\n1. What aspects of the game are you proudest of, and what lessons did you take away for next time?\n\n2. Within the inner story, was >!Kalunga real at any point, or was Zau just hallucinating the whole time!<? Or maybe >!Zuberi and his Baba!< have different takes on that?",
+            "score": 20,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Thank you for playing! I'm glad you enjoyed.\n\n1. For me, it was just getting a game out there, hah! Game dev is so hard. SO HARD. In regards to the actual game itself though, I'm just really happy I was able to get a team together to build something we are deeply passionate about. And having led with that in mind, I've learnt that that is truly the way to create something you can be proud of - by building it from a place of love and passion.\n2. >!Kalunga, the God of Death was always real in Zau's world. In my eyes, Zau was conversing with Death - his take on what Death is - which was his Baba. The image of Death for Zau, at that moment, was his Baba. And I think that was the realisation that Zuberi had that allowed him to complete his Baba's story!<",
+                    "score": 5,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "pt-guzzardo",
+                            "body": "Thanks for the answers! Just FYI, your spoiler tag on the second one will appear broken on some platforms. There shouldn't be a space between the ! in the tag and the rest of the text.",
+                            "score": 2,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "AbzyBabzySalim",
+                                    "body": "Legend. Editing now!",
+                                    "score": 4
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "thehugejackedman",
+            "body": "Hey Abubakar, we met many years ago and just wanted to say congratulations and this success couldn\u2019t have come to a nicer, more deserving individual. Keep crushing it.",
+            "score": 8,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Thank you so much. I hope you have been crushing at life also since we last met :D",
+                    "score": 4
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Windlink86",
+            "body": "Hey Abu. Once again, congrats to you and the team for creating a truly special game. My question to you is something I\u2019m sure many developers have to deal with but is there something that you regret cutting from the game because you guys ran out of time or that it just didn\u2019t make sense anymore with the current iteration of the game? Another question is what are you proudest of in the game? I\u2019m truly curious about your process.",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Thank you. I'm glad you enjoyed our experience!\n\nI would say that it wasn't necessarily regret, more so an understandable sacrifice. For example, we didn't have time to implement a true fog of war system because we had other elements (combat, enemy AI, etc.) that would  give the player a better experience overall. There was a few of those, hah! \n\nOne element that did get cut that didn't make sense was that the player could flip between 4 masks (Maskless counted as a masked state to a degree). When playing it over and over, it didn't make sense so we went down to 2 masks.\n\nI'd say there are many elements I'm proud of with this game, but the biggest one is the Reflection moments - the player simply sitting under a tree and increasing their chances of survival by speaking about how they feel.",
+                    "score": 4,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Windlink86",
+                            "body": "Really enjoyed those as well as other lore elements of this universe. I was especially engrossed by the stories of the past shamans. Were those inspired by any specific Bantu myths? It would actually be really cool to play as one of them in a future game. And again kudos to the writers who came up with those stories!",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "AbzyBabzySalim",
+                                    "body": "All the past Shaman stories actually play into the deeper lore of the Kenzera universe hah! So all came from our heads!!",
+                                    "score": 2
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "_Robbie",
+            "body": "Hey man. Thanks for doing this AMA; super pumped to see you as Alyn of Hull. I'm sorry for asking a not-games question...\n\n\nBut is that rumored Raised by Wolves graphic novel series happening?! Best sci-fi in a decade and it did not deserve its end. I have a physical NEED to find out where it was going.",
+            "score": 12,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Thank you for the question! No need to apologise hah!\n\nIn truth, I wish I knew. All I know though is that I have my eyes on that IP, and I know the team know it haha. It's all about getting to a point of success that I can...well, just have fun haha!",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "dacontag",
+            "body": "Hey, I thoroughly enjoyed the game.  Did the game go through some different genre ideas or was it always intended to be a side scrolling metroidvania from the beginning?",
+            "score": 10,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Always intended to be a side-scrolling adventure. The metroidvania aspect was always an inspiration from the get-go too. It was definitely a balancing act between telling a \"linear\" story through the metroidvania structure and in the time we were given though!",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "CleverZerg",
+            "body": "You were so good in Raised by Wolves and its cancellation is one of the most tragic show cancellations of my life; did you get any answers or were you left on as much of a cliffhanger as us viewers?",
+            "score": 6,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "No. And it kills me everytime. :(",
+                    "score": 3
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "APES2GETTER",
+            "body": "I bought and played your game. I enjoyed it and was pleasantly surprised by its story.",
+            "score": 4,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "I'm happy you enjoyed! And thank you for buying the game!",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "jvene1",
+            "body": "Hello Abubakar! Thank you so much for bringing this game to us. Loved hearing you on friends per second, your approach to building a game and only implementing things that serve the story that you want to share was eye opening. \n\nDo you have advice for someone who aspires to create a game but struggles with visualizing the finer details? Seeing games like Stardew Valley and Animal Well being developed and published by individuals gives me hope that I can do it. \n\nWhat were some pitfalls that you ran into when developing ToK:Z?\n\nAlso how was it talking to the FPS crew?\n\nThanks a bunch!!",
+            "score": 5,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Thank you for playing. \n\nI would say the biggest advice I can give is to find the time to just do it. Start slowly and just start somewhere. Zau started with the idea of depicting grief and with the character. The level design element started with me drawing on paper. If you can get the ball rolling, you'll find those finer details the deeper you get into it. It's just about giving yourself that small push. Pirate Software is a great person to listen to in regards to just getting into making games!\n\nThe FPS crew are awesome. Wholesome people who love games and the people within it. Truly, that's the thing I'm seeing more and more of the deeper into the industry I get - it's full of wonderful people who care about it as an art form.",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Dave_Matthews_Jam",
+            "body": "How has voice acting changed how you view the production side of video games, like with Tales of Kenzera: ZAU? Also thank you for making Bayek come to life!",
+            "score": 6,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Bayek was such a great role to play! \n\nI would say that it's given me a much deeper respect for how hard it is for developers and studios to give the actor what they fully require in order to do their job! You learn that a lot of VA work relies on having a story and an idea of where the character is going, which, in game dev, can change any minute!\n\nFor example, we recorded all of Tales of Kenzera's dialogue in two weeks. We then implemented it in game, realised some bits didn't make sense, and needed to do an additional week of pick ups. From the actors perspective, you're like \"But it made sense to me!\" but from a Devs perspective, you gotta think about the whole user experience and flow and pacing as a whole!\n\nIt's another puzzle in itself haha!",
+                    "score": 3
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "lLygerl",
+            "body": "Hello Mr. Salim, I am currently working through the game's first act. It's always great to see some African representation in this medium that has far too few examples to point to, in my opinion! \n\nThat being said, what were some of the African cultures you and the team drew inspiration from when creating this game? Thanks in advance!",
+            "score": 7,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Great question! Many! Maasai, Zulu, Xhosa, Ndebele, Tswana, Kuba... We drew from quite a few - some stronger than others!",
+                    "score": 2,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "lLygerl",
+                            "body": "Thanks for your answer, I love how these diverse influences came together to create such a beautiful tale that we all experience no matter your cultural background.",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "BenHDR",
+            "body": "Will there be a physical edition of the game at some point down the line?",
+            "score": 4,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "At the moment, there is no plan I'm afraid. The cost of a physical edition is hard for a small studio. But I definitely want to do it! We just need to keep selling and pushing the digital at the moment :D\n\nIn regards to a limited edition, there's something interesting there...but for now, yeah, totally digital for the time being!",
+                    "score": 2
+                },
+                {
+                    "depth": 1,
+                    "author": "Apollo258",
+                    "body": "Just wanted to second this. I\u2019d love to experience the game, but for now I am holding out hope for a physical release! Would love to know if this is something you have explored, even in a limited print capacity.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "fluentinsarcasm",
+            "body": "Hey Abubakar - I had the privilege of very briefly meeting you at the Video Game Awards CAA afterparty, we had a very short exchange shortly after you came in, so it was likely a two ships passing in the night situation given how many others we met that evening. \n\nI've been where you are, being on a stage you aspired to, losing a parent that encouraged and supported you to follow your passions. It's hard, and dealing with the grief is too real, often visceral. \n\nI wanted you to know that as a fellow game maker, releasing a game, especially one that is so intimate and personal is no small feat. I have no questions. I'd just like to say I hope you and your team are immensely proud of this accomplishment. I know what it's like to put your everything into a work of art, and from one person who has been there to another, I'm proud of you and hope this experience has allowed you to process your grief meaningfully.\n\nCongratulations on releasing Kenzera, it's a beautiful game, and I hope it leads to future opportunities for Surgent Studios to tell more intimate and healing stories.",
+            "score": 4,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "This is so magical to read. Thank you for this. Do reach out, it would be wonderful to connect again.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "PraiseKingGhidorah",
+            "body": "Hello there, Mr. Salim. I absolutely loved Tales of Kenzera. You and your team should be proud of the beautiful game you created.\n\nMy question is: You mentioned your love for the Kingdom Hearts series during The Game Awards 2023. As a big KH fan: What's your favorite thing about Kingdom Hearts? And, did KH had any influence on ZAU?",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "I'm so glad you enjoyed! The title screen just before you start the game was inspired by KH1!\n\nMy favourite thing about KH is definitely it's story. At a time I felt where I wasn't exposed to many vulnerable characters, Sora was the one. I really connected and resonated with Sora's journey. So yeah, for me, it was it's story, world, and characters.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "_Weird_Werewolf_",
+            "body": "Dude - loved the playthrough - my wife watched and was equally entertained. You and the guy who voiced Kalunga were an awesome duo and I hope that you work together again!\n\nMy question is - as a player - I'm concerned that the industry is going through some weird period of like \"art games fail/live service all the way\"... You got games like Hi-Fi Rush from Tango being closed down and word that Hellblade isn't performing well... So how the hell do we support the artistic side of games, like the ones we don't see all the time, if they're not being given the time of day?",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "This is such a HUGE topic of discussion. Hmmmm.\n\nTruthfully, the only and BEST way of supporting the artistic side of the games industry I WOULD SAY, is to buy the games and share your thoughts and feedback. Don't get me wrong, Game Pass and PS+ are WONDERFUL tools for exposure, but there is a real power in buying the game and sharing it with friends.\n\nI would say just trying new games where and when you can also. Aware that it's difficult to commit all your time to new experiences, but one can lead to another you know?",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "TAFlyingFish",
+            "body": "No question, just want to say I really appreciate the passion and love you and the team put into the game.\n\nAlso, the nuances in your performance as Father were really incredible, can't wait to see you in HoD.",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Really appreciate it. Thank you.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "arex333",
+            "body": "I don't have a question but I just wanted to mention that your interviews on the friends per second and play watch listen podcasts sold me on buying your game. It was on my radar previously, but likely would have sat on my steam wishlist for 1+ years. Your passion for what you've created though just seeped through that interview and that convinced me. I look forward to playing it soon.",
+            "score": 3,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Thank you. I was fortunate to have great people around me who allowed me to share my passion without any filter. I truly adore games - there is SO MUCH to love about games. I want to be a part of that.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "dblaine007",
+            "body": "Great game man. I still haven't finished it, but loving every moment. Especially appreciate the team drawing their inspirations from African cultures and executing them very well! It was a pleasant surprise to understand the various myths behind evem the smallest of enemies. Really gave a lot of depth to the lore. \n\nMy question is how did adding it as a Day 1 Playstation Plus release affect the sales? Were you satisfied with the numbers or was the relationship with Sony more important at the moment?",
+            "score": 3,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "I'm so glad you're enjoying and having a good time with it.\n\nDay 1 PS+ helped MASSIVELY. The support given to us by those folks got it into more hands than we could possibly imagine. It's now about building on top of that.\n\nPlayers are so important, and I feel like when they enjoy an experience, following through with a purchase helps the developers on SUCH a scale :)",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "davidreding",
+            "body": "Hello there. I only heard you in AC Origins, but you were great in it. I do have a question that I\u2019m not sure you can answer; did your game sell well when it released? I admit I was a bit worried for it as it was a kind of busy time for games and I feared this one would be buried beneath the others.",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "It was a busy time! We did good though :) It helps being on multiple platforms.\n\nIt's all about longevity and continuing forward. The more people share and talk about the game, the more it snowballs. So yeah, we hope to continue building!",
+                    "score": 3,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "davidreding",
+                            "body": "Excellent. I\u2019m glad it payed off.",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "PraiseKingGhidorah",
+            "body": "Are there any plans on expanding this beautiful world with an expansion or sequel? I thought the bosses in this game were really solid and I would love to see more.",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Thank you! And there is a lot to learn and build upon what we've conjured. Player feedback has been so useful, so it's about listening and building ontop!",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "xsabinx",
+            "body": "Great game and I look forward to seeing what your next project is. \n\nI'm glad you gave a shout out to Golden Sun on GBA, One of my favourite RPGs which I have a lot of love for. I hope the series makes a return",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Thank you so much and SO DO I!\n\nI'm hopeful.",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Rammex33",
+            "body": "Hey Abu! Loved your work with the Glass Cannon Network  and your Golden Sun shoutout made you my hero haha. Will checkout your game when cash and time  allows!",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Thank you! I love TTRPG so Glass Cannon and the team there are my peeeeeople!",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Silent-Veterinarian4",
+            "body": "Hey man! I just rolled credits on Tales of Kenzera Zau and absolutely loved the game. Fantastic emotions, story, voice acting, gameplay elements, traversal, combat mechanics. Great for completionists also! \n\nMy question for you : now that you have this debut title which is an incredible starting point for your studio, do you see this game as the closure you needed wirh the loss of your father and now you may look forward to other game types, IP, or stories -- or continue the journey of Zau? \n\nKeep doing what you do and love!",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "I'd say this game provided me a space to express and help connect me with others who are also going through the journey of grief. I don't think the game, or anything can ever provide me closure. But I don't think we should seek closure from it.\n\nThere is such a power to be drawn upon when going on the journey of grief. It reminds us that we can be loved and have the capacity to love. It shows us we're human. If anything, this game has definitely empowered me, and I feel others too.\n\nIn regards to future journeys... guess we have to wait and see!",
+                    "score": 2,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Silent-Veterinarian4",
+                            "body": "Lovely response, thank you!",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Da_hairyguy",
+            "body": "Your game looks fun, I hope it does well and look forward to seeing your next game project.",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Thank you!",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "mantray",
+            "body": "Hey there! How was developing your own game compared to your expectations? Was it harder or easier than you thought, for example? \n\nAnd having now ventured into games, do you think Raised by Wolves would translate well into one? Big fan of you on that show!",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "It was super hard. Emotional. I knew it wasn't going to be easy, but ooof the obstacles! You never think of all the corporate and business elements you have to wrestle with while conjuring a studio AND a first time game.\n\nYes. In fact I already have an idea for a Raised by Wolves game. Can't share it though :P",
+                    "score": 2,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "mantray",
+                            "body": "Oh man, already patiently waiting for an announcement in a few years haha All the best to you and your team!",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Havoc2638",
+            "body": "I really enjoyed the combat in Zau. Is there anything that you want to change and or want to do differently in your next game?\n\n  \nI really really LOVED Zau!",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "I think I want to dive deeper into what we've begun exploring. The creation of Zau was also the creation of our studio and figuring out how the core team can work together to bring something to the table. The hope now is to continue building and progressing!",
+                    "score": 3,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Havoc2638",
+                            "body": "I love it!!! Can\u2019t wait to see what the team comes up with next!",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "albedo2343",
+            "body": "usually pretty skeptical about new IPs, but saw your speech at the Game Awards, loved you as Bayek, and the vibe of this game just resonated so i was incredibly insterested. Then y'all put out a demo! and it was a straight pre-order from me, haven't got to it yet, but just wanted to let you know from what i played, Zau was awesome, hoping your studio can give us more passion projects like this!",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Thank you so much. Really appreciate the support MASSIVELY.",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Ganrokh",
+            "body": "Hey, thanks for doing this AMA! I've got two questions:\n\n1. What's for dinner today?\n\n2. I remember seeing the Critical Role logo in the splash of logos at the start of the game. Could you talk about their involvement with the development of the game?\n\nThanks!",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "MEMEY_IFUNNY",
+            "body": "Hi Abu, are there any talks for a potential sequel?",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "That would be sharing too much ;)",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Arkeband",
+            "body": "were there any cast members you met on HotD that you got along with really well behind the scenes?",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Honestly, all of em. They're all brilliant and wonderful people.",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "MistbornRuler",
+            "body": "Your game and the story behind it are very moving. I didn\u2019t know that you are going to be in House of the Dragon.\n\nWhat made you decide to make a metroidvania? It is a pretty unconventional and interesting choice for a game with story emphasis. (Not a criticism)",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "The genre was an inspiration because for me it encapsulated the journey of grief PERFECTLY.\n\nYou are thrown into a large alien world, not really knowing where to go or what to do. Yet within this world it will provide you with the tools in order to maneuver around it. It will always be hostile to you, but over time, you will get more and more comfortable with it. You will never master it though. Sometimes you will feel it working with you, most of the time against you...or neither at all.\n\nThat to me is the journey of grief.",
+                    "score": 2,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "MistbornRuler",
+                            "body": "That\u2019s actually quite profound. Thanks for answering!",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Alejandro_404",
+            "body": "Hello, Salim! Thank you for doing this AMA. What were the main metroidvania influences you and your team used for creating the game? I felt a bit of the Ori games, specially in some sections, but wanted to know if there were other strong influences you considered. Cheers.",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Ori, Guacamelee, F.I.S.T were definite influences. Ori has a real magic to it, specifically the Blind Forest, that we used as a touch stone!",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "BrigBain",
+            "body": "Hey Abubakar, I haven't yet played Tales of Kenzera: ZAU but it's on my to-play-list and the game looks amazing from all the footage I've seen, bravo to you and the team!\n\nI recently watched your hour long talk with Ben Starr and it was so enjoyable and insightful to listen to your experiences and thought processes! I'm wondering if you have any more plans to do similar videos with other guests or even have Ben return as a guest for more talks?",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Go and play! :D\n\nI'm glad you enjoyed it. Funny you ask, we JUST dropped a conversation between [Me and Neil Newbon](https://www.youtube.com/watch?v=KPv9rykcEew)!\n\nThere will be a few more coming, keep your eyes peeled.",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "struckel",
+            "body": "Hello! I've been enjoying the game a lot, and I hole we get to explore more of the world in the future!\n\nMy question is a bit niche, but I am curious about the decision to include Swahili as a language choice. Were there any hard conversations about the decision to include it? I think it is a wonderful addition as a nod to the cultures that inspired the game, but I also understand there is a real question of resource allocation.",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "I'm glad you're enjoying it.\n\nNo resistance of adding Swahili! It was mainly the logistics of figuring out how we can make it work. But there is always a way :)",
+                    "score": 5,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "struckel",
+                            "body": "I'm glad you did! Thank you!",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "JermInfested",
+            "body": "Hi there, I'm a first nations man from Australia, (call me Jermz) i have played a little of the game so far and its truely something amazing!  \nfor myself, growing up in the 80's - onwards i found it hard to see representation in popular culture of powerful and positive representations of my people to look up to let alone live up to. i ended up grasping at a bunch of other cultures for strength and powerful imagery. martial arts, grew a mohawk... etc. all to find myself in other cultures... anyway\n\nMy Question; Is Tales of Zenzera: ZAU your way to provide the coming generations more representations of themselves in the world... to show there is more to them than the negative things they are told?",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "For me it was about creating and telling a story that was deeply human and universal. The African perspective was simply my perspective! Yes, I do hope it inspires many to tell greater stories - be it from Africa or even Norse. At the end of the day though, by showing a side that isn't shared much, and doing it from a place of truth - you inspire many!\n\nI'm so glad you're enjoying the game :)",
+                    "score": 5
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "heubergen1",
+            "body": "Any plans on exploring other genres with your next game?",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "Absolutley. If it lends to the story we want to convey, most definitely.",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Moskeeto93",
+            "body": "Hello, I've taken notice of this game because the art style is quite appealing to me and I love to see more diverse stories being told. However, I was disheartened when I checked the [Steam discussion forums of your game](https://steamcommunity.com/app/2316580/discussions/) and noticed it was full of reactionaries calling it \"woke garbage\" while using lots of racist dog whistles. What's your opinion on many of the Steam forums going unmoderated like that? Do you feel that Valve has a responsibility to clean up the forums of different games to prevent these sorts of discussions thriving on their platform?",
+            "score": -8,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "AbzyBabzySalim",
+                    "body": "This is a great question and I feel like I need to answer this early.\n\nOur forum isn\u2019t unmoderated. We as a studio think it\u2019s super important to give people a space to talk. Yeah you get people who spam and that isn\u2019t needed, but look, if you want a healthy discussion, go on and go forth.\n\nThere is definitely nuance missing in a lot of online discussion I feel, and look, in truth, there are some incredibly derogatory and hurtful messages that are shared. But from our experience, Valve have been helpful when we\u2019ve needed it. They are very aware of what\u2019s going on.",
+                    "score": 8,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Moskeeto93",
+                            "body": "That's really great to hear. It's nice to know that Valve has been helpful. Thanks for the answer.",
+                            "score": 2
+                        }
+                    ]
+                },
+                {
+                    "depth": 1,
+                    "author": "[deleted]",
+                    "body": "[removed]",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "[deleted]",
+                            "body": "[removed]",
+                            "score": 2
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

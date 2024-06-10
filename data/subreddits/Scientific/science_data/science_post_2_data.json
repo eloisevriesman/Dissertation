@@ -1,0 +1,101 @@
+{
+    "title": "Mixing old concrete into steel-processing furnaces not only purifies iron but produces \u201creactivated cement\u201d as a byproduct | New research has found the process could make for completely carbon-zero cement.",
+    "comments": [
+        {
+            "depth": 0,
+            "author": "AutoModerator",
+            "body": "Welcome to r/science! This is a heavily moderated subreddit in order to keep the discussion on science. However, we recognize that many people want to discuss how they feel the research relates to their own personal lives, so to give people a space to do that, **personal anecdotes are allowed as responses to this comment**. Any anecdotal comments elsewhere in the discussion will be removed and our [normal comment rules]( https://www.reddit.com/r/science/wiki/rules#wiki_comment_rules) apply to all other comments.\n\n**Do you have an academic degree?** We can verify your credentials in order to assign user flair indicating your area of expertise. [Click here to apply](https://www.reddit.com/r/science/wiki/flair/#wiki_science_verified_user_program).\n\n---\n\nUser: u/chrisdh79  \nPermalink: https://newatlas.com/materials/concrete-steel-recycle-cambridge-zero-carbon-cement/\n\n---\n\n*I am a bot, and this action was performed automatically. Please [contact the moderators of this subreddit](/message/compose/?to=/r/science) if you have any questions or concerns.*",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "x1uo3yd",
+            "body": "**TLDR:** Some preliminary tests using old ground up concrete (the hard stuff like sidewalks are made from) as \"flux\" material in a steel furnace melt worked just fine, and all the heat and whatnot caused the cured-cement to chemically react back to new-cement so that the left over \"slag\" is essentially freshly-made \"cement\" (the powder stuff sold in bags that gets mixed with water/sand/etc. to make concrete).  Next steps are to characterize the strengths and/or weaknesses of the steels and cements made from the process compared to what's made using standard non-recycled methods.",
+            "score": 172,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "_BlueFire_",
+                    "body": "Thanks for the explanation and summary. If it turns out fine this will be huge, given how cement is one of less discussed high sources of emissions\u00a0",
+                    "score": 32
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "TedW",
+            "body": "That's wild!  Knowing nothing about smelting, I expected concrete (google says \\~1600C) to need a higher temperature than iron (\\~1538C).  It looks like that's true, but it's so close, and the concrete isn't really melting, it's just sorta crumbling.  Science is so cool.",
+            "score": 35,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "DecentChanceOfLousy",
+                    "body": "You don't want to melt the concrete.\n\nLime making kilns operate at much lower temperatures (900Cish) than the melting point, because they're driving off CO2 to convert calcium carbonate to calcium oxide, not melting it down. There's no need to make molten calcium oxide or melt the aggregates.",
+                    "score": 26,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "danielravennest",
+                            "body": "\"Common materials used to manufacture cement include limestone, shells, and chalk or marl combined with shale, clay, slate, blast furnace slag, silica sand, and iron ore. These ingredients, when heated at high temperatures form a rock-like substance that is ground into the fine powder that we commonly think of as cement.\"  -- *Portland Cement Association*.\n\nSo it is not pure limestone, but rather a mix of ingredients.  Cement kilns run at 1300-1450C.\n\nVery high temperatures applied to a variety of mineral sources can make them \"cementitious\" (harden when water is added).  Lime happens to be an old one, as was volcanic ash used by the Romans.  Blast furnace slag and coal ash (the rocky bits in coal that don't burn) are often used a substitutes for some of the portland cement in a mix.  Brick dust can also be used sometimes, as the bricks were run through a furnace.  Some pottery shards could be used, but they are not usually available in enough quantity.",
+                            "score": 17
+                        },
+                        {
+                            "depth": 2,
+                            "author": "TedW",
+                            "body": "Thanks for explaining that!  It went over my head but I'm already in a rabbit hole learning about concrete.  Who knew this is where my morning would go.",
+                            "score": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Blarghnog",
+            "body": "If this turns out it could be one of the most important environmental breakthroughs in a generation.\n\nConcrete alone is 8 percent of total global emissions, and rising.",
+            "score": 8,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "stu54",
+                    "body": "Steel production flux is not used on the same scale as concrete.  This still could be a big deal, but could only really dispace like 1% of global concrete related emissions at best.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "infrareddit-1",
+            "body": "\u201cWhen using renewable energy\u201d you can get to zero carbon concrete makes me wonder how much the renewable energy is the key. \n\nIt reminds me of \u201cThe Matrix\u201d when they\u2019re explaining the human-as-battery concept. They say \u201ccombined with a certain type of fusion, the machines had all the energy they needed.\u201d",
+            "score": 6,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "HammerTh_1701",
+                    "body": "The humans were meant to be processing power, not batteries in a draft version - which makes way more sense - but apparently test audiences didn't understand, so it was changed.",
+                    "score": 16,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "toabear",
+                            "body": "That would have made so much more sense. That's really disappointing that they dropped that. It's a great idea.",
+                            "score": 10
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "InformalPenguinz",
+            "body": "So genuine question.. are they counting the fuel it takes to turn on and maintain those furnaces at those temps in their \"carbon zero\" cement? Because that would add to it.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Tsubodai86",
+            "body": "What like as the lime flux?\u00a0",
+            "score": 1
+        }
+    ]
+}

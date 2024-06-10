@@ -1,0 +1,645 @@
+{
+    "title": "/r/Roblox Weekly Question Thread (for 05/20/2024)",
+    "comments": [
+        {
+            "depth": 0,
+            "author": "orphic_asher",
+            "body": "I have a Victus gaming laptop and it runs Roblox itself just fine\u2014 but WASD doesn't function with movement, but works just fine when typing in chat. I can move with arrow keys, though.\n\nI have looked into several fixes such as:\n\n* FN + W (doesn't work)\n* Opening up and closing the On-Screen keyboard (works for like a minute before stopping)\n* I checked my roblox movement settings (Default - Classic for CAMERA) (Default - Keyboard for MOVEMENT)\n* I tried utilizing Chrome, Opera,\u00a0*and*\u00a0just the Roblox launcher itself. Each have this issue.\n* I also read that it could be some issues with Discord, having it registered as a game so I both tried:\n\n1. Removing it from Discord's registered games (didn't work)\n2. Uninstalling Discord entirely (didn't work)\n\nI cannot find any other fixes besides people just saying the same fixes as I tried above\u2014 anyone got any other ideas?",
+            "score": 3,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Corsaka",
+                    "body": "from what i understand, victus laptops have really bad anti-ghosting and don't let you click more than one or two keys at the same time; is it possible that one of your other keys is stuck being held down?",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "orphic_asher",
+                            "body": "I'll check it out, but I'm not sure that this is the issue cause nothing like this happens on any other game whatsoever.",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Capital_Feedback_417",
+            "body": "For some reason when i try to friend someone now, it says I am unable to friend them, same thing happens with unfriending them. Please help",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Sirfryingpan123",
+                    "body": "You may be at max friends (200)",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Lucas_0518",
+            "body": "Roblox Studio Launch Failed (An error occured while logging in)\n\nI tried everything.",
+            "score": 2,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "TheButterflyDancer",
+                    "body": "Here is what to try:\n \n1: Reinstalling the app\n\n2: Try launching it from the official website.",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "Lucas_0518",
+                            "body": "Nope, I tried these as well, I tried restarting my router, contacting roblox support and deleting temp files to no avail.",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "1dae1",
+            "body": "When I join games I\u2019m unable to access VC (mobile) and it keeps saying \u201cenable OS settings to use VC\u201d but my vc is enabled in the settings of roblox?? Not able to edit it through settings either",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Corsaka",
+                    "body": "I'd assume that Roblox doesn't have permission to use your phone's microphone",
+                    "score": 2,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "1dae1",
+                            "body": "Oh I\u2019ve tried to figure out how to change the permissions but there\u2019s no option to do so in settings. I don\u2019t have my iPad at the moment but I\u2019ll try to get a picture when I get home",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Chis200",
+            "body": "Why do my posts have to be approved by moderators now? It's very annoying that my posts are now auto-removed",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Fantasiiart126",
+            "body": "what items do you get from the \u201ce.l.f UP!\u201d game?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "jellypandadog",
+            "body": "Old roblox avatar background\n\nhello, I joined roblox in 2014 and I used the old mobile app. Recently I\u2019ve been seeing more people talking about the old mobile avatar background, which was a house/closet while you edited your avatar. But i remember there was a different background before that one and I can\u2019t find any photos of it or anybody who remembers it. Does anyone have the old roblox app or a photo of the old roblox avatar customisation background?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "meginoz",
+            "body": "My daughter wants me to play Roblox with her and I'm happy to oblige. The issue is i can't play games on small screens or I get headaches. So ive set up an acct and logged in on the Xbox. The game she is playing is Springvillerp but no matter what I do I can not find it even though I've used it on my phone. help!",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Corsaka",
+                    "body": "some games that aren't available on certain platforms. the owner of the game has to set whether mobile, computer, or console players are allowed to join. if it's not enabled on xbox then you won't be able to find it.\n\nthe only platform that all games are on is a computer, so a laptop might be your only option if you can't handle small screens",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "monkeysandpirates",
+            "body": "When I set up Roblox for my son on the ps5 it didn't ask for email or phone number etc for account recovery. And now that I realise he's going to need to log in on other devices I've forgotten the password.\n\nI can't do password recovery with no email or phone attached to the account, and I don't see any way to add them.\n\nHe's still signed in on the Playstation, is there anything I can do from the signed in account to solve my problems? Any way I can use the quick login QR code?\n\nI did contact support, and they said no, set up a new account. Which might be what I have to do, but I don't want to lose his game progress or Robux if I don't have to.\n\nThe Roblox account isnlinked to his Playstation account - is there any way to use that to ID myself to Roblox and get a password reset?\n\nAny ideas?",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Corsaka",
+                    "body": "is there no option to connect an email or phone number in the settings menu on playstation?",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Ponderer_of_the_orb",
+            "body": "Hi I need help with an issue regarding my Roblox account. yesterday I decided to contact Roblox support about a lost account using the account \"thepinnynoodle\" today I figured out I had been logged out of all devices. my phone pc even old iPad i hadn't used in a few years. I have been using the same password for thepinnynoodle for about half a decade but all of a sudden it doesn't work. I have tried sending emails but they just don't come through to my email about the code to reset my password. naturally i decided to contact Roblox support from an alt but after that the same issue with my alt happened I cannot log in.\n\n\u200b\n\nSummarized my issue is that my password is no longer working and there is no reset password codes being sent to my email.\u00a0\n\nPLEASE HELP!!",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Corsaka",
+                    "body": "it sounds like your account has been hacked, and whoever stole it has overwritten the email and password.\n\nyou'll need to email roblox support with proof that you own the account, ideally from the email that originally owned it in the first place.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Additional_Leg_8090",
+            "body": "I don't remember a game name. I typed info about the game if anyone has any idea what the game could be.  \nThe game was basically like 2 teams fighting for objective or kills. It had locked cam pointing down at you similiar to Hades and same kind of movement keys also as in Hades. Some kind of class/weapon system where you had regular attack on lmb, special on rmb and q or space was dash, not sure if it had 1 or 2 more skills. U unlocked more classes from leveling. i played it like 2 or 3 years ago on summer. Ill inform incase i find it.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "CGOT",
+            "body": "Ok so my kids play Roblox and I play with them when they ask but I don\u2019t know much about Roblox in general but my son LOVED this kong x Godzilla obby so much I played with him quite a few times and he played it himself countless times but then one day it was locked and he\u2019s checked it almost everyday and it\u2019s still locked. I\u2019m not sure why or if there\u2019s anything to do so I was just hoping to get answers here. He really misses it and I\u2019m not sure if maybe they are updating it but even if they are I\u2019m not sure where to go for updates either. Any help is appreciated.",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Corsaka",
+                    "body": "if it says \"this experience is private\", the owner of the game closed it. nothing you can do.\n\nif it says \"this place is currently under review\", roblox thinks it's breaking the rules. you can wait to see if it'll be lifted, but given it's been a while I'd doubt it.\n\nif it's neither of those, could you send me a link to the game so i can investigate further?",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "FluffyAd2577",
+            "body": "How to be notified of free Roblox merch/ugc drop?\nI\u2019m sad that I missed the recent spring flower crown!",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Tomcatredbird766",
+                    "body": "People will probably talk about it on Twitter, accounts like the RTC, Bloxy News, or RBXNews usually post about free items. If you don't have an account just make one and keep it to private to browse",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "EASTWYCK2",
+            "body": "Is there a game with a skin tone hex codes that you can use on your avatar? It'd be really handy,",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Expensive-City-3367",
+                    "body": "Not hex codes, but RGB codes, Royale High has that customization with skin tone",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "EASTWYCK2",
+                            "body": "Can you save it as your roblox avatar?",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Elegantdumbass",
+            "body": "Why did roblox delete the leet",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Expensive-City-3367",
+            "body": "Any reliable headless (ugc) alternative?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Apprehensive_Lab301",
+            "body": "Did anyone notice that r/bloxfruit  went private?",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "TheAnythingBuilder",
+                    "body": "It\u2019s r/bloxfruits with an s at the end that went private but yes.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "KimberlySauce",
+            "body": "On my computer I have tried both installing through the web and on the Microsoft store toe get Roblox on my new computer. On the web download doesn't open anything, Microsoft store download does open for a second with just the Roblox logo on a white background but then it closes after around half a second. I have tried basically everything I can think of, thank you!",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Several-Regret-2243",
+            "body": "I'm trying to put the face assories but its blocked by the original face thing Idk how to describe it but it won't show the face assories because the head is blocking it",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "throaways2024",
+            "body": "As of May 21, 2024. Does the 40% off discount method still work?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Cider_shark",
+            "body": "Does having too much friend requests cause your game to lag? (Been lagging recently and the only thing different about my account is the amount of friend requests)",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Corsaka",
+                    "body": "no? the friend requests are stored on the website, not the physical game client.",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Willnotwincoward",
+            "body": "Y'all Got Suggestions On Tycoon Games That Allow You To Design Your Tycoon Workspace The Way You Want It?",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Sirfryingpan123",
+                    "body": "Theme Park Tycoon 2",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "GoodtimeJake",
+            "body": "Whenever joining a private server link (on discord, live stream, etc) on mobile an error message saying \u201cyou do not have permission to join this experience (error code: 524). This is for all links and I don\u2019t know why. I just want to know how I can join private servers from links on mobile again",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Corsaka",
+                    "body": "are you certain you're logged in properly on mobile?",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Appropriate-Froyo377",
+            "body": "Does anyone remember that game where u get to pick a role (medic, minigunner, blue spider robot bug thrower, revolver guy with OP bullets, trapper, idk rest) and after every wave or smth, u can venture out of the base and get weapons, supplies or ammo, while avoiding enemies. PC only game btw",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "skeebys",
+            "body": "\nI\u2019ll tell the full story here, as i really want opinions on this or to know if this is even allowed? I got banned in blade ball pretty unfairly and it was a massive breach of my privacy. \n\nSo, this was around October last year. I was playing blade ball in a  public lobby, and an admin (Of blade ball) joined. Her name was Kitty, and after playing for a few rounds she assumed i was hacking. She told me to do a pc search or i would get banned. Of course, i wasn\u2019t hacking, so i accepted. We exchanged discords and i got added to a group chat with her, and another guy. She told me that the other person was her boyfriend and that he would be pc searching me. Not really understanding the whole situation i just didn\u2019t want to be banned so i agreed with what they told me to do. They made me download anydesk, a remote access tool that allows them access to my pc, they can move my mouse, type etc. They then searched through all of my files, downloaded searching programs like a program called process hacker, search everything, voidtools. This went on for about 15 minutes with him on my pc and i was getting kind of worried. Eventually though, after not finding anything, the admins boyfriend got off my pc and said in the chat \u201cWell you\u2019re annoying anyways just ban him\u201d And kitty did ban me. It\u2019s a permanent ban, tried to appeal but got denied. Messaged some moderators but they told me in order to get unbanned id need to give them 50k robux. I would provide screenshots but they kicked me from  the group chat after the ban, and i\u2019m banned from all blade ball servers, including the appeals discord.\n\nIm not sure if this whole screen sharing thing is even allowed? It\u2019s a huge breach of my privacy. Not to mention the fact that they actually didn\u2019t find anything, and still banned me despite me spending like 20k robux on that game. It\u2019s not even the banning that is the issue for me, it\u2019s the whole situation and the fact they did a deep dig through all of my personal files.  Just really sucks. Any advice? Can i go anywhere with this? Thanks",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Corsaka",
+                    "body": "It's an admin power tripping and looking for an excuse to ban someone they didn't like to lose to. They're following some random guide online and barely understanding what they're actually doing (Process Hacker is a replacement for Task Manager, for example, and won't help expose any programs that Task Manager can't see) because they want to seem like they're competent. It is a miserable invasion of your privacy, absolutely, and you do NOT have to accept someone installing a program on your computer.\n\nDo not let anyone else install AnyDesk on your computer, and don't let anyone access your personal files over a roblox game. The amount of danger you could be in if that person was malicious is exceedingly high, and frankly I'd be worried that they installed something on your computer to try to steal your Roblox password. Basic internet security and safety rules; nobody needs access to your computer directly. They should be perfectly fine with a screenshare, and if not, they weren't acting in good faith anyway. Be a skeptic.\n\nAnd I'm sorry, but your robux is probably gone forever; the developer of the game does not care (especially if this is the type of admin they employ) unless they'll lose money from it, and you can't exactly revert a robux payment. I'd recommend not spending robux on games where you can be banned instantly with no appeal.\n\nFinal note: anyone offering to unban you for any robux amount is scamming you. Don't waste your time on false hope.",
+                    "score": 2
+                },
+                {
+                    "depth": 1,
+                    "author": "Tomcatredbird766",
+                    "body": "If this gets further out in the community, then they are certainly getting demoted. You'd need to provide a form of proof, though, a story like this could be faked. If you still have screenshots of the DMs and proof it's actually them then spread your story, they were power tripping, got all mad that they lost, and seriously invaded your privacy (which I'm not too big on the law but this has to be somewhat illegal)",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "DA_CAR_IS_SUS",
+            "body": "does anyone know the game where you make clones and progress through eras like ancient middle ages modern and future, tycoon",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "TheButterflyDancer",
+            "body": "How long does Roblox customer support take to respond?\n\nSo my account was blocked by Roblox bc I put in my password WRONG ONE-TIME and I have no email attached to it. Soo I reached out to customer support and I heard it takes forever to come back! So what are y'all's experiences with the customer support?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "R0BOTReddit",
+            "body": "So, I joined that game today called Flex UGC Codes where I looked up codes for the free UGC because obviously I wanted it, I submitted the code 'RAINBOW', it said success and gave me an option to purchase something for free, I didn't really check what it was because it said free and I was just trying to purchase free UGC as quick as possible.\n\nBut then, genuinely, out of nowhere, the button became 775 Robux - I don't know how it happened or what happened, because I'm pretty sure that's impossible unless another pop-up showed up just as I clicked the purchase button, but my body was already too far into the action of clicking my mouse that I just purchased it.\n\nI instantly realised what happened and immediately went to the support form, I clicked to record last 30 seconds on Xbox Game Bar however I took too long and thus that clip is just me scrambling to get onto the support form\n\nI would also like to add that the item (called 'Archived Profile Picture') itself is a scam anyway as it is literally just a grey square\n\nI already sent a support thingy but has this ever happened to you and what have they said, because I understand on some parts that this is my fault, but I feel like I'm owed a refund considering I am genuinely 99% sure at first it said 'Free' and the fact that a) the item is just a grey square and b) I did not wilfully purchase the item",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Corsaka",
+                    "body": "i wonder if the \"free\" option was a fake gui message, and that's why you thought it was free. this sounds like a super scam, to be honest.",
+                    "score": 2
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Silverrrmoon",
+            "body": "How do I view the new terms an conditions? And where are they? I don\u2019t want my account to be deleted or something",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "miiiiiiiii123",
+            "body": "Is speedrun 4 supposed to be completed in one run and you can't leave or it will reset?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "StatementPlane8119",
+            "body": "Does anyone know the best single player body cam style game",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "R3ALNightmare",
+            "body": "im supposed to get 3185 robux and the pending robux thing says i'll get it in a \"**few days**\" its been 5 days where is my robux",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Corsaka",
+                    "body": "it can take up to 2 weeks",
+                    "score": 2,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "R3ALNightmare",
+                            "body": "oh alr",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "gill_y_gill",
+            "body": "**I cannot for the life of me get roblox to open.**\n\nStarting off, I am not using bitdefender. I've re-downloaded and installed roblox multiple times, changed the system config to several windows versions, checked my firewall to see if it was blocked (it doesnt even show up on the list in my firewall), I've even tried the bitdefender solutions just incase I SOMEHOW have it (i didn't get past the first step because I in fact do not have bitdefender). I've been looking for WEEKS and I cannot find a solution ANYWHERE. Please someone help T-T",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Corsaka",
+                    "body": "have you fully purged Roblox from your system before reinstalling? everything in appdata's local and roaming folders",
+                    "score": 2,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "gill_y_gill",
+                            "body": "yep T-T",
+                            "score": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "NoContribution8209",
+            "body": "Hello guys im a developer with over 21k visits on my own games and 10.9millon visits contributed\n\n, im very happy and proud of myself i have been scripting for 1 to two years now, i finnaly reached 31k robux,\n\nrn i have that and i will recive 5k in some days, like this same week,\n\ni got some questions, first one its, for the first thing where i do click the button convert to cash, im above 13+ but should i put my guardian info there or should i fill it out myself with my personal info? (she will be reciving the money but she will give me the money) im the owner of my account, if no to the first question and i should fill it out with my info, in any step should i fill out with my guardian info?,\n\nalso i got around 4200 robux on my account from some ugc sales, should i wait till i get the other 5k so i have 36k robux and i only devex 30k which may help with the thing that says that the robux from ugc would not count as earned? anything else that i should have in mind please tell me guys.",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Corsaka",
+                    "body": "things to note:\n\n- the next step after 30k:$105 is 100k:$350, so don't bother waiting\n- you should fill out the info with whoever owns the bank account/card that the money is being paid into\n- it's on https://create.roblox.com/dashboard/devex, not anywhere on the main website",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "NoContribution8209",
+                            "body": "Okay hi, could you elaborate more because it says that the owner of the account should apply and like im the owner of the account\u00a0 \u00a0but as i said my mom its gonna get the money irl with bank account",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "Corsaka",
+                                    "body": "the owner of the Roblox account should apply to devex, yes.\n\nthe owner of the bank account should be on the bank details.",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Accomplished-Two-855",
+            "body": "I got hacked around three days ago, and I got an email saying my email for the account was changed but I can't revert the email nor use my phone number to reset the password. Been trying to hack back into it but no progress. Any advice or assistance?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "PotentialHuge4394",
+            "body": "My young sibling apparently said something about \"killing\" someone else on a Roblox chat and my stepmom got a phone call from emergency services saying he was being rude online. Is it possible a player can be reported for inappropriate language online and local authorities are alerted? I'm not familiar with Roblox so I'm not sure if this was someone messing around or legit? English is not my stepmom's first language so she couldn't understand everything that happened.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "mocornkid",
+            "body": "my character moves back and forth while idle in speed run 4",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Ok_Equivalent2180",
+            "body": "I accidentally swore on voice chat, will I get banned? I used voice chat for the first time today and accidentally replied to a question with \u201cwhat do you fucking think?\u201d Will I get banned from Roblox in general or just have voice chat taken away? If I left the game immediately after so the people there couldn\u2019t report me",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "reddituser_yes",
+                    "body": "voice chat might be suspendd for a day",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "seiji_kun",
+            "body": "Now how the hell do you guys expect me to seek help here when I can\u2019t even send images? I\u2019m looking for the name of a face accessory, so I made a post with an image attached of said accessory that I was looking for, but it was deleted because it was in violation of a rule.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "RoastedChecken",
+            "body": "guys how do i send a message i just need a god damn SHIRT AND PANTS!! i wanted it so bad i have been trying to find it HOW am i gonna do that without pictures! i saw it in a thumbnail yes but i really like the shirt how am i gonna send it here! this subreddit is so bad like what!",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "RoastedChecken",
+            "body": "Can i send images? im looking for clothes!, how am i not gonna send pictures for help!",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "RoastedChecken",
+            "body": "i have an idea what is this guy wearing [https://preview.redd.it/what-shirt-is-this-guy-wearing-please-i-need-its-too-good-v0-bouuqnal132d1.jpeg?width=640&crop=smart&auto=webp&s=c4c3d17d522679965ee7b71ebbaf323a57f48858](https://preview.redd.it/what-shirt-is-this-guy-wearing-please-i-need-its-too-good-v0-bouuqnal132d1.jpeg?width=640&crop=smart&auto=webp&s=c4c3d17d522679965ee7b71ebbaf323a57f48858)",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Even-Ad8985",
+            "body": "is there a reason Roblox hasn't implemented a username method like the site Toyhouse has, where you can view any user's username log and just have a filter system, instead of people having to shell out there hard earned money to change from some stupid thing they named themself 5+ years ago to something that matches the rest of their usernames on other sites? i'd say /nm but that'd be misleading, i'm very mad tbh.",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Corsaka",
+                    "body": "you can view any user's username log already\n\nthe username cost is because they want unique usernames; the alternative is just making a new account",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "fishyfrog-notnaughty",
+            "body": "I've started playing Break In Story recently or Roblox, but I have never completed it. I want to know if a Kid or an Adult is more suitable for a new player, especially for someone who doesn't play many story games. Although being a kid gives you free stuff at the start, I feel like you have to rely more on your teammates since you don't have a weapon, and if your teammates are bad, you're dead. Also, you can easily find food or money to buy stuff as an adult, so is being a kid easier?",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "TheAnythingBuilder",
+                    "body": "Be the kid and use the sporty kit, unless you have the hacker kit than sporty is the best since you can get a ton of speed and strength. I recommend watching a video on the sporty kit cuz it\u2019s good.",
+                    "score": 1,
+                    "replies": [
+                        {
+                            "depth": 2,
+                            "author": "fishyfrog-notnaughty",
+                            "body": "Are you talking about Break In 2? Cuz I don't see any sporty kit for the kid",
+                            "score": 1,
+                            "replies": [
+                                {
+                                    "depth": 3,
+                                    "author": "TheAnythingBuilder",
+                                    "body": "Oh. Yea I was.",
+                                    "score": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "EscapeEarly6267",
+            "body": "My roblox accounts with no affiliation to a account that i had and was deleted almost 3 months ago keep getting deleted?  \n(main account was banned after like 10 vc bans cause i have a echo mic blah blah)  \nive reached out to Roblox multiple times and they literally do not care",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "sharktoken",
+            "body": "im trying to find an old friend is there any way to try and find him we used to play roblox years ago but i stopped playing for a bit and when i return i see he was ban his username is Canon185, just want to see if i can talk to him again(dont know where else to post this)",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Ozbrogaming",
+            "body": "So I've been looking for this really old game, like 2011 old, and I can't find it anywhere. I'll do my best to describe it, but I barely remember it. I remember there was a long road that extended from the east and west sides of the map, and buildings all along it. There was a boat shop (around where you spawned) a dock where you could buy bait and sell fish I think, and it was almost always night time. You could buy boats, fish, and stuff, and there was this blue sparkle when you would catch a fish. There was a tall building that I'm pretty sure was a casino? But you could also use your items you purchased in the Roblox shop with tix. I barely remember it but I was wanting a bit of nostalgia and couldn't find it so I hoped to get some help lol, it was my favorite game, that and greenwood. If anyone could find it I'd be so grateful.\n\nEdit: I found it, but it's completely changed. Its called club nyonic. Loved that game, but I can't find the version I played anywhere",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "MurkyNefariousness56",
+            "body": "Hi! I have a recent problem with server ping issues and I'm pretty sure it is not my internet. so basically I'm in an Asian region-based server which should work pretty well as it's the closest region I could lay my hands into, but somehow it manages to reach 400+ ping, yet when I manually join Western-based regions, it's way lower. This wasn't happening back then and it's starting to get annoying especially when I join a game and it automatically sets me in an SG server (which has the highest ping somehow).",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "IJustPlaySteam",
+            "body": "i need help finding a game, its an amusement park game but its all yellow and there's yellow people and yellow spheres with smiley faces, its also a kinda unsettling horror game where the people say things like \"The (i cant remember what they say) is coming\" theres also a graveyard and theres like a boss fight kinda thing, pls help guys i really wanna know what its called! P.S the spheres in it maybe start with a g like gloob or something not too sure",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Managlyph",
+            "body": "Is there a way to change your preferred server region? With the new Hunt coming up, I'd like to play with my friends but I've experienced in the last Hunt that whenever I try to follow my friends through a portal, I always get put in a different server because they are in the US and I'm in Europe. Do I need to use a VPN? Does Roblox even allow that?\n\nI could just follow them from their profiles or make a private server, but there are games where the \"main\" game is not in the starter place, so those options don't always work. Not sure if those games are in the new Hunt though.",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Corsaka",
+                    "body": "if you were joining from the main menu you're prioritised into servers with friends in\n\na teleport, you're not\n\nif there's sub-games it's a pipe dream whether you get into the same game or not \n\nthere's no way to set a server region but a VPN might help",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "lenso2607",
+            "body": "hi there. i have a question about roblox support and them trying to verify my account ill tell my story here:\n\nso i haven\u2019t played roblox in a while and my little sister has been asking me to play recently. i went to use the account that i have had since 2013 but it prompts me to reset the password as its a security risk. as it is so old, i have no idea what email is on the account so i cant change the password.\n\nso i contacted roblox support and told them what happened but they basically just keep saying they cant verify that i am the owner. ive tried giving possible emails even telling them a  discord bot the account is connected to.\n\nmy most recent email has given them my birthday and i have not got a response yet. im hoping that the birthday will allow them to verify my ownership.\n\nwhat im asking is for people that have had this before, that could you tell me what roblox need to verify that it is my account.",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Corsaka",
+                    "body": "honestly you need the original email or the phone number linked to the account\n\nmaybe see if your parents have received the emails?",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "Vrgamer354",
+            "body": "I got banned for harassment for 2 things\nThe offensive items were \"hmmm\" and \"you probably don't know what 4d shapes are\"",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Sirfryingpan123",
+            "body": "Having trouble with two-step verification\n\nSo I was on my alt account on my phone and I just saw that the Classic VIP shirt got deleted and replaced with a new one, so I was gonna log onto my main account to get it and I got stuck on two step verification. I sent the code to my email that is attached to my account and I got nothing. Has anyone else had this problem lately? I know I\u2019m sending the code to the right email.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "reddituser_yes",
+            "body": "there is a lock in the top right corner of the \u201cprivacy tab\u201d in the roblox settings when i click it asks for the acc pin and when i enter the pin then it shows a timer for 5 mins",
+            "score": 1,
+            "replies": [
+                {
+                    "depth": 1,
+                    "author": "Corsaka",
+                    "body": "that means you can change your account settings for 5 minutes",
+                    "score": 1
+                }
+            ]
+        },
+        {
+            "depth": 0,
+            "author": "The_Devious_",
+            "body": "I'm on PS5, it tells me to do settings on the website, I use the email associated with my PS5 and the password I chose. But it tells me its not a recognised email with an account. Please tell me how to see my settings",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "Accordionss",
+            "body": "Does anyone remember the name of a futuristic shooter game that was about capturing points in a gigantic map, like in battlefield. There were, I believe, four teams. Each on with their own leader that built stuff at home base and upgraded stuff. There were planes and tanks and different weapons. If i remember correctly I last played it 3-5 years ago. It was awesome. Had a leveling system too. Think it had a one word name... Maybe beginning with the letter A, but not sure.",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "56kul",
+            "body": "So I bought the exclusive bundle for the classic event, and it didn\u2019t unlock the bling track for me. Does anyone know how to fix it?",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "randomdude8659",
+            "body": "i made a account in 2019 called 5marecek1 and it got hacked in 2020 or 2021 and someone is using it without me having any access, any way of getting it back? i am using an account from 2018 currently",
+            "score": 1
+        },
+        {
+            "depth": 0,
+            "author": "WeeklyWingsOfficial",
+            "body": "I'm so close to beating all the quests for The Classic event but I accidentally bought Witches Brew with my token instead of the Bloxiade so now I didn't unlock the Thirst Quencher achievement. I'm trying to find another way to buy another Drink Token but I can't seem to find anything, anyone have any help or advice?",
+            "score": 1
+        }
+    ]
+}

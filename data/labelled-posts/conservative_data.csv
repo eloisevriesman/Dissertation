@@ -1,0 +1,292 @@
+PostID,CommentID,Combative,Deliberative,Text,Toxicity,Rationality,Mutual Respect,Emotion,Moderator,Diversity
+post_1,post_1_0,0.0,1.0,"When you see two of your enemies fighting, leave them to it.",0.060899654658268,0.7896899580955505,0.9985983967781068,0.954781174659729,0,1
+post_1,post_1_1,1.0,0.0,"Harvard is damaged beyond repair.  Harvard Corporation should have acted sooner with more spine.
+
+And a few commenters to the article noticed this:
+
+>“Because the students included as the result of Monday’s amendment are not in good standing, we cannot responsibly vote to award them degrees at this time.”
+
+Meaning that they’ll confer the degrees when this blows over.  Fuck Harvard.",0.9241120303428196,0.1701250076293945,0.999799907207489,3.933906555175781e-06,0,1
+post_1,post_1_1_1,1.0,0.0,I read into it that the students protesting are shitty students who wouldn't graduate anyway. Which would explain why their demands were to have their tuition paid off and degrees for everyone.,0.5844273752823101,0.5997976660728455,0.9998090863227844,0.0023730993270874,0,1
+post_1,post_1_1_1_1,0.0,1.0,I could see it ,0.0271926477028563,0.8876933455467224,0.9910860657691956,0.9979152977466584,0,1
+post_1,post_1_1_1_2,0.0,1.0,"Pretty hard to fail at that level. Most places like that just give a passing grade and are done with it. 
+It would actually hurt their standings if they have people fail there 4 yr graduation rates",0.0739510029559458,0.1497896313667297,0.919527530670166,0.9987355470657348,0,1
+post_1,post_1_1_1_2_1,0.0,1.0,This was my thought when these protests first started popping up. Schools and their boosters/financial supporters are NOT going to enjoy those drop in number of graduates.,0.025429197731883,0.5486868619918823,0.9987163543701172,0.0003633797168731,0,1
+post_1,post_1_1_1_2_1_1,1.0,0.0,Yeah it sure is they almost don't care most of they're endowments are so large they can run their schools off of them in perpetuity,0.1691385828471956,0.0049923658370971,0.9991136193275452,0.0032110810279846,0,0
+post_1,post_1_1_1_3,1.0,0.0,"Naw, these ivy leagues work so that once you’re in it’s impossible to fail out.",0.1177474788823106,0.0047494173049926,0.9997902512550354,0.9992638230323792,0,1
+post_1,post_1_1_1_4,1.0,0.0,"Based on some of the other comments, maybe they’re the shitty students that would have been been failed if they had attended a non-Ivy League university.",0.7115437364680125,0.3370243310928345,0.9998067021369934,0.0005306303501129,0,0
+post_1,post_1_1_2,0.0,1.0,"This.
+
+It's just a technicality, once things calm down and people stop caring they'll quietly move them back to good standing and will grant the degrees quietly.",0.0229541945643225,0.1365736722946167,0.9874607920646667,0.935286581516266,0,1
+post_1,post_1_2,1.0,0.0,They'll just blame it on the Jews.,0.5658486877637201,0.9149237275123596,0.9995923638343812,9.0867280960083e-05,0,1
+post_1,post_1_2_1,1.0,0.0,https://i.kym-cdn.com/photos/images/original/000/960/985/f5c.jpg,0.0280441267159981,0.6761617660522461,0.5777035355567932,0.9982492923736572,0,1
+post_1,post_1_2_2,1.0,0.0,"Well ofcourse. Even though they're probably the smallest race/religion/nationality in the world, they secretly control all the levers of power across all levels of public and private society.",0.0368035191462046,0.0058569312095642,0.8948962688446045,0.9992130994796752,0,1
+post_1,post_1_3,1.0,0.0,My guess is that some non-tenured faculty are going to be fired and budgets will be cut.,0.1721324293268849,0.2410014867782592,0.9965386390686036,9.35494899749756e-05,0,1
+post_1,post_1_4,0.0,1.0,Slow clap,0.0489491631453751,0.6744861602783203,0.899836003780365,0.0106894969940185,0,1
+post_1,post_1_5,1.0,0.0,This not at all exaggerated news story is proudly brought to you by MSM!!!,0.0283805293303616,0.0388854146003723,0.984178364276886,0.1556575894355774,0,1
+post_1,post_1_6,1.0,0.0,Sucks to suck losers,0.9990385917640332,0.3452775478363037,0.9997254014015198,5.543231964111328e-05,0,1
+post_2,post_2_0,1.0,0.0,Her role? As Press Secretary? Really?,0.0270549345787303,0.5381856560707092,0.994561731815338,0.1298482120037078,0,1
+post_3,post_3_0,0.0,0.0,Follow the money. Always follow the money…,0.047987171621384,0.6041571497917175,0.9438189268112184,0.9942644536495208,0,1
+post_4,post_4_0,1.0,0.0,Dystopian democrat policies.,0.0509245711502717,0.4038025140762329,0.9984369874000548,0.0590993165969848,0,1
+post_4,post_4_1,1.0,0.0,"Judge doing his small part to destroy this country 
+
+That’s what he was sent to do",0.3120525972096578,0.4529482722282409,0.999526023864746,0.0131525695323944,0,1
+post_4,post_4_2,1.0,0.0,West coast is worst coast.,0.4542283732231726,0.9163057804107666,0.9050637483596802,0.0003290474414825,0,1
+post_4,post_4_3,1.0,0.0,Time to bring back the Regulator Movement.,0.0250590642757051,0.5676935911178589,0.997635006904602,0.124373584985733,0,1
+post_4,post_4_4,1.0,0.0,"I'm not a lawyer but I was looking at Washington States bail amounts for DUI and manslaughter and it's like $5000 for a DUI felony and $5000 for manslaughter.  Seems like even getting $100k is a win, but I'm sure the Soros foundation will pay it.",0.039395291600528,0.095639169216156,0.9996008276939392,0.000113695859909,0,1
+post_4,post_4_5,0.0,1.0,What's bail typically for DUI/vehicular manslaughter?,0.0660760890415217,0.6774216294288635,0.9035537242889404,0.0082128643989562,0,1
+post_5,post_5_0,1.0,0.0,Target Will Only Learn Its Lesson If We Keep The Boycott Going,0.0614096842568654,0.6730895638465881,0.722507894039154,0.0002381801605224,0,1
+post_5,post_5_0,1.0,0.0,Just an FYI Walmart has a pride section,0.0600378593846721,0.5237271785736084,0.9863986372947692,0.77033331990242,0,1
+post_5,post_5_0_1,0.0,1.0,Why does that bother you?,0.0523603051075105,0.7406324744224548,0.5525822043418884,0.0047697126865386,0,1
+post_5,post_5_0_1_1,1.0,0.0,Because there's no straight section and so having a pride section is by definition non-inclusive. ,0.0297285777673334,0.7657712697982788,0.9990702271461488,0.0027799606323242,0,1
+post_5,post_5_1,0.0,1.0,"This might be more important especially if you have young kids:
+
+""In our stores, we demonstrate our commitment to an inclusive experience in many ways. Most relevant for the conversations currently underway, we welcome transgender team members and guests to use the restroom or fitting room facility that corresponds with their gender identity""",0.0271717370345368,0.392163336277008,0.9896100759506226,0.9913472235202788,0,1
+post_5,post_5_2,0.0,1.0,I never stopped. Won't set foot in one.,0.0376315428624781,0.7985107898712158,0.9994441866874696,0.0005619823932647,0,1
+post_5,post_5_3,1.0,0.0,"Target is the cautionary tale. We boycott Target into bankruptcy so other companies will realize that political BS is suicide. Target volunteered, target is dead to me forever. I don’t care if Target learns a lesson on the way down.",0.1218414182430062,0.1643584966659546,0.9997290968894958,0.0011568069458007,0,1
+post_5,post_5_3_1,1.0,0.0,"Are we successfully boycotting target into bankruptcy though? 
+
+Has Bud even gone into bankruptcy?",0.0311859861022709,0.4617977142333984,0.9651031494140624,0.1689445674419403,0,1
+post_5,post_5_3_1_1,1.0,0.0,"It's impossible to boycott any major brand. They have so much ownership over other brands that if you go to buy another beer, you're still supporting bud because they probably own it.",0.0319640838669547,0.0083116888999938,0.9995875954627992,0.8854370713233948,0,1
+post_5,post_5_3_1_2,0.0,1.0,The vast majority have given up. Kid Rock was wearing a Budweiser hat on Fox a few weeks ago and mumbled through some excuse,0.0298022383421666,0.5373740196228027,0.999651312828064,0.001337707042694,0,1
+post_5,post_5_3_1_2_1,1.0,0.0,"He's now friends with the Anheuser-Busch CEO
+
+Cultural issues like this are irrelevant to the rich, they can always afford to live apart from people they don't care for. Or like Obama, to live with people they hate just because it's safer",0.0673958862447948,0.0121405720710754,0.9997746348381042,0.9622635543346404,0,1
+post_5,post_5_3_2,1.0,0.0,"shit target has basically became a red walmart with not as much stuff. Most of them are dirty, half the shit is everywhere, I felt like I needed a tetanus shot when I left. There is a reason I don't go to either anymore and only go to Walmart for oil for my car because Mobil 1 is a lot cheaper there than auto parts stores.",0.9439049322014588,0.0056957602500915,0.9998021721839904,4.291534423828125e-06,0,1
+post_5,post_5_4,1.0,0.0,"Waiiit, are we the real cancel culture?",0.0908886232147463,0.6912737488746643,0.9955226182937622,0.0073601007461547,0,1
+post_5,post_5_4_1,0.0,1.0,"This isn't cancel culture, we don't care if the Left continues to support the current thing. This is just making everyone who shares a certain set of values, aware of who the disruptive elements are.
+
+I don't care if anyone on the Right still goes to Target, but I'm sure if we share the same values then they will understand the war being fought here",0.0610047207288395,0.3899388313293457,0.9996687173843384,0.1561666131019592,0,0
+post_5,post_5_5,0.0,1.0,Dude legitimately who fucking caaarrreeess. Don’t buy it or stop going to Target. I thought this was the land of the free? they can sell whatever they want. When did society get so childish,0.9985541978433512,0.0152940154075622,0.9998096823692322,2.6166439056396484e-05,0,1
+post_5,post_5_5_1,1.0,0.0,"We don't caaarrreee what they sell for ADULTS. We do caaarrreee that they have been marketing to and designing alphabet crap for children (i.e. a ""tuck friendly"" girl's bathing suit for boys, as just one example). Target had a whole ""pride"" display in their children's sections.",0.1882402391208207,0.0332538485527038,0.9997761845588684,0.0001052916049957,0,1
+post_5,post_5_5_1_1,1.0,0.0,"They don’t though. They clearly heard the outrage and stopped. Go on targets website and find me a child’s pride clothing. That being said, who fucking cares if they’re selling clothes to adults?",0.9728174956843216,0.012587547302246,0.9998109936714172,0.0001971423625946,0,0
+post_5,post_5_6,0.0,1.0,Thank heavens we have boots on the ground identifying  these far left woke companies ..,0.0230686271988799,0.4159718751907348,0.9959514141082764,0.0045725107192993,0,1
+post_5,post_5_7,1.0,0.0,Can't believe people are still revolving their whole life around boycotting Target and Bud Light.,0.0344005296200029,0.3929756283760071,0.99968683719635,0.0005127191543579,0,1
+post_5,post_5_8,1.0,0.0,"Ah boycott a private business because they won’t adhere to my conservative/ Christian ideals. 
+Go for it. Cheese and rice, enough with the grandstanding. Do you want an award for each “woke” business you boycott? 
+Just walk the walk and shut up already.",0.6477269105362679,0.4932463765144348,0.9997732043266296,9.390711784362792e-05,0,1
+post_5,post_5_9,0.0,1.0,Target who? 😆,0.0390918368206634,0.71782386302948,0.9976463913917542,0.0021654367446899,0,1
+post_6,post_6_0,1.0,0.0,"Similar with Saddam Hussein.
+
+What say you, pro Hamas protesters??",0.0530855157448054,0.5450046062469482,0.9875906705856324,0.0012025535106658,0,1
+post_6,post_6_0_1,1.0,0.0,'No Jews. No news.' --UCLA students,0.1210378894863561,0.4864968657493591,0.8239285945892334,0.0003623068332672,0,1
+post_6,post_6_1,0.0,1.0,Doesn't everyone but Putin hate this guy,0.4391798568490467,0.3651893138885498,0.9996508359909058,6.532669067382812e-05,0,1
+post_6,post_6_1_1,1.0,0.0,Iran and Palestine are friends with him too,0.0302722107731014,0.7773706316947937,0.9939697980880736,0.9972506761550904,0,1
+post_6,post_6_1_2,1.0,0.0,"You won’t hear a peep from Arab folks about this monster or even Saddam. Through some warped mental gymnastics they see Assad and Saddam as some sort of Pan-Arab heroes, defending Arabia from western influence. Ah yes, I love it when my defenders of justice murder their own people by the 100’s of thousands, y’know for justice.",0.2311448831325241,0.0056592226028442,0.999800145626068,0.7707431614398956,0,1
+post_6,post_6_1_2_1,0.0,1.0,"Isn't there a common saying in Israel along the lines of ""once the Arabs start valuing the lives of their own people more than murdering Jewish lives, we will finally get peace""?",0.2098235545804341,0.0096294283866882,0.9997034668922424,0.795819103717804,0,1
+post_6,post_6_2,1.0,0.0,I mean Assad gets no western support and the us tried to remove him by arming rebels so I’m not sure why you think this comparison is in any way useful.,0.0394121288708034,0.0112985372543334,0.9963997602462769,0.0002660453319549,0,1
+post_6,post_6_2_1,0.0,1.0,How many colleges held protests over Assad? How many bridges and airports were blocked? How many called it a genocide?,0.0371776176067028,0.0093797445297241,0.6179282665252686,0.0005155801773071,0,1
+post_6,post_6_2_1_1,1.0,0.0,"Assad was sanctioned and ostracized by our governments, we even armed his opponents. There was no real reason for an anti-Assad protest movement in the West since we all agreed that Assad sucks and should go. The same isn't true at all in the case of Israel; the pro-Palestine protesters advocate for a very different course than the Western governments, so trying to get their will by applying political pressure makes sense from their point of view.",0.1710977754162901,0.0302110910415649,0.9982731342315674,0.0033216774463653,0,0
+post_6,post_6_2_1_1_1,1.0,0.0,Say it louder for the slow kids in the back,0.0726900588611833,0.3437390923500061,0.9987875819206238,0.0089434087276458,0,1
+post_6,post_6_2_2,1.0,0.0,"It's useful because it reveals the rabid antisemitism of the left. Assad can slaughter 200,000 Arabs and we don't hear a peep from them. Israel kills 20,000 in response to Oct 7th.....and they scream ""GENOCIDE"" over and over and over again.",0.674923633741385,0.0055190324783325,0.9997926354408264,0.2111593186855316,0,1
+post_6,post_6_2_3,1.0,0.0,"Nobody on the left makes a peep about people being slaughtered unless its by Israel. Go look at Yemen, several places in Africa etc. nobody cares!",0.1711742192294578,0.0104723572731018,0.999760925769806,6.175041198730469e-05,0,1
+post_6,post_6_3,1.0,0.0,The Hypocrats don't care only because nobody told them to...,0.7960631404903183,0.4878395795822143,0.99977046251297,0.0015438795089721,0,1
+post_6,post_6_3_1,0.0,1.0,Nailed it.,0.0301123494036116,0.8885271549224854,0.9930227994918824,0.9999043047428132,0,1
+post_6,post_6_4,1.0,0.0,I... I don't think assad can set foot in 70% of the worlds nations without being imprissoned and send to the icc,0.0654690360845993,0.0120061635971069,0.9996654987335204,0.0326150655746459,0,1
+post_6,post_6_5,1.0,0.0,"""I believe that the Jews are the chosen people. What exactly we were chosen for, I have no idea, but I'm very interested in getting a recount."" -my college philosophy teacher.",0.0473207966515378,0.0083535313606262,0.9724130630493164,0.997279554605484,0,1
+post_6,post_6_6,1.0,0.0,"They don't care about China culturally eliminating, enslaving and killing off Uyghur Muslims in detainment camps either, because cheap iPhones, Bro. There's been no posts on it for at least 5 months
+
+Also Leftist Wikipedia quietly changed their titled page about the genocide into a less pointed ""Persecution of Uyghurs in China""",0.2181980458346902,0.0497615337371826,0.999573528766632,6.973743438720703e-06,0,1
+post_7,post_7_0,0.0,0.0,No words at all,0.0362655643179524,0.8619097471237183,0.9770258069038392,0.0097671151161193,0,1
+post_7,post_7_0,1.0,0.0,"We are living in a reality TV show, a circus of tomfoolery.",0.0708121816730246,0.4943435192108154,0.998362362384796,0.0008577406406402,0,1
+post_7,post_7_0_1,1.0,0.0,"It's like we are in the Truman show, with either really shitty or really clever writers. Either way, it's fucking gripping.",0.993056059809796,0.1637994647026062,0.9997968077659608,0.7558479309082031,0,1
+post_7,post_7_1,1.0,0.0,It's sad when George Floyd is the best you've got. They really need to find better martyrs.,0.0317536390267276,0.0153062343597412,0.9996236562728882,0.0008849203586578,0,1
+post_7,post_7_1_1,1.0,0.0,Lmao they said to honor his life. He was a drug riddled gun wielding robber that targeted a pregnant woman.,0.4417309199985377,0.0129082202911376,0.9995222091674804,0.027163416147232,0,1
+post_7,post_7_1_1_1,1.0,0.0,"With a KNIFE at her belly.....
+
+Fuck that crook.",0.99911984810944,0.70511794090271,0.9997957348823548,0.0292288661003112,0,1
+post_7,post_7_1_2,1.0,0.0,George Floyd is the best they have.,0.0273376568749304,0.1239305138587951,0.9989074468612672,0.9996051788330078,0,1
+post_7,post_7_1_3,0.0,0.0,They're trying ,0.0443777949668582,0.8785982131958008,0.9843777418136596,0.1240239143371582,0,1
+post_7,post_7_1_3_1,0.0,0.0,Very trying. ,0.0331642084096028,0.8506454825401306,0.9965680837631226,0.0108232796192169,0,1
+post_7,post_7_2,1.0,0.0,George Floyd was a loser. Sorry not sorry.,0.8283788543860172,0.4180606603622436,0.9989211559295654,0.0001584887504577,0,1
+post_7,post_7_2_1,1.0,0.0,A criminal loser.,0.9404110852201096,0.8427296280860901,0.9959547519683838,0.0021439790725708,0,1
+post_7,post_7_2_1_1,1.0,0.0,*Perfect democrat voter,0.0825993501738022,0.0133513808250427,0.9972259402275084,0.9950824677944184,0,1
+post_7,post_7_2_1_1_1,1.0,0.0,Now he has no choice but to vote for Biden again,0.0429764369569403,0.8260697722434998,0.999093770980835,0.9814322292804718,0,1
+post_7,post_7_2_1_1_1_1,0.0,0.0,👍👍👍👍👍,0.07232347312376,0.8564969301223755,0.9784608483314514,0.1192574501037597,0,1
+post_7,post_7_2_1_2,0.0,0.0,Nice pfp,0.0289288471955178,0.0048601627349853,0.9918462634086608,0.9985716640949248,0,1
+post_7,post_7_2_1_2_1,0.0,0.0,Ditto!,0.0344475840039979,0.7176573276519775,0.7440047264099121,0.999947726726532,0,0
+post_7,post_7_2_2,1.0,0.0,Hadn’t he been to prison for armed robbery? And the whole reason he was stopped by police in the first place wasn’t because he was an innocent person…he was committing crimes while also using drugs. I couldn’t believe that’s who they chose to be their martyr.,0.0819727910731245,0.7620702385902405,0.9997302889823914,0.0143768191337585,0,1
+post_7,post_7_2_2_1,1.0,0.0,Yes he was also out spreading covid too. And not just using drugs he had just bought them from his dealer and swallowed them all to hide them when police showed up (as he had already done before with previous encounters with police and had to be taken to the hospital).,0.0342880235103043,0.0154429674148559,0.996468424797058,0.0291988253593444,0,1
+post_7,post_7_2_2_1_1,1.0,0.0,">he had just bought them from his dealer and swallowed them all to hide them when police showed up
+
+Which is the REAL reason he couldn't breathe... he'd od'd! Strange though that if he couldn't breathe he could talk though... 😏",0.1250535284110063,0.0143871903419494,0.999610960483551,0.0012654066085815,0,0
+post_7,post_7_2_2_1_1_1,1.0,0.0,You can witness some crazy things in addicts that have built up tolerance over many years of drug use.,0.1055721817765756,0.2975921034812927,0.9993361830711364,0.9971808195114136,0,1
+post_7,post_7_2_2_2,1.0,0.0,Holding a gun to a pregnant womans stomach too.,0.8454442145489232,0.4659748673439026,0.9994958639144896,0.215333878993988,0,1
+post_7,post_7_2_2_2_1,1.0,0.0,Democrats never have cared about what's inside a pregnant woman's belly.,0.4911607144050876,0.0172468423843383,0.9997653365135192,0.0001970827579498,0,1
+post_7,post_7_2_2_2_1_1,1.0,0.0,Comment of the day right there.,0.0241975349617117,0.5797446370124817,0.9972795844078064,0.9922938346862792,0,1
+post_7,post_7_2_2_3,1.0,0.0,"I believe he tried to pass a counterfeit bill at a liquor store and the owner called police,which started this whole thing…..but I barely paid attention to it and could have mixed up the type of “business” that the gentle giant,aspiring astronaut,on his way to church floyd tried to drop a fake bill for goods at….
+
+blm…..ehh..
+
+where I come from,that’s the acronym for bureau of land management 🤪",0.0335221114473102,0.2760410904884338,0.9998013377189636,0.0001042187213897,0,1
+post_7,post_7_3,1.0,0.0,They already burned down cities and threw Derek Chauvin in prison as the sacrificial lamb.. all to praise their St Floyd. The left really picks the worst people to lionize.,0.6595513546393379,0.0813725590705871,0.9997536540031432,6.854534149169922e-06,0,1
+post_7,post_7_3_1,1.0,0.0,Given over to their delusions,0.2202249765708115,0.8067190051078796,0.7689815759658813,0.0036418139934539,0,1
+post_7,post_7_4,1.0,0.0,Wasn’t George Floyd that criminal who overdosed on drugs a few years ago and died? It’s a sad story but I’m not sure we should be naming government policies after him,0.1865061806889537,0.2059649229049682,0.9997313618659972,0.0044909119606018,0,1
+post_7,post_7_4_1,1.0,0.0,Well he already got a gold plated casket and a nationally televised funeral procession when all the rest of us had to stay inside and away from eachother… but that clearly wasn’t enough,0.0748634290755932,0.0376539230346679,0.9997373223304749,0.2254135906696319,0,1
+post_7,post_7_4_1_1,1.0,0.0,"Maybe if the death of your grandmother could be exploited for cheap political points you would have been allowed to attend her funeral, I guess.",0.3871038426870974,0.6905677318572998,0.9948230981826782,0.0012455582618713,0,1
+post_7,post_7_4_1_2,1.0,0.0,"New York (and they aren't alone) also tore down a magnificent statue of Thomas Jefferson while putting *up* an ugly statue of an uglier man. And I'm not talking mere appearances, either.",0.4708676505734248,0.0272828340530395,0.9997909665107728,0.0001061856746673,0,1
+post_7,post_7_4_1_3,1.0,0.0,He even got a statue. Guess maybe they'd truly be satisfied if his mug was on a C note...,0.0309834784358438,0.0161212682723999,0.9992140531539916,0.011338472366333,0,1
+post_7,post_7_4_1_4,0.0,1.0,It’s never enough. The left will always want more.,0.0473628240740233,0.5690129995346069,0.9988547563552856,0.9077119827270508,0,1
+post_7,post_7_4_2,1.0,0.0,You left out the part where he held a loaded gun to a pregnant women’s head,0.3161587630282607,0.3956612944602966,0.9996554851531982,0.7747478187084198,0,1
+post_7,post_7_4_2_1,1.0,0.0,"her stomach, not her head",0.1322381630095442,0.8455923795700073,0.91845965385437,0.0005695223808288,0,1
+post_7,post_7_4_2_1_1,1.0,0.0,"Yeah but his mother sayed he was realy a good boy at heart lol. An his family have made a fortune out of his death by overdose. An a innocent man getting jailed for doing his job.
+BLM set a dangerous precedent an they don't care cos they got one over on the whites.
+Tottaly not racist lol.",0.2082020206672624,0.0098486542701721,0.9998087286949158,0.9844617247581482,0,1
+post_7,post_7_4_2_2,1.0,0.0,And that he completely abandoned his family to go “find work out of state” left his baby mama and kid in Texas and was up in Minnesota,0.0396711936017369,0.664631724357605,0.9997475743293762,0.7940097153186798,0,1
+post_7,post_7_4_3,1.0,0.0,I’m surprised Michael brown isn’t the title either.  He was the strong arm robber in Ferguson.,0.0352829926772483,0.0894928574562072,0.9879698753356934,0.8415477871894836,0,1
+post_7,post_7_4_3_1,0.0,0.0,Lol [enjoy](https://bush.house.gov/media/press-releases/congresswoman-bush-reintroduces-helping-families-heal-act),0.026273830365154,0.0124778151512146,0.99923574924469,0.9559923708438872,0,1
+post_7,post_7_4_3_1_1,1.0,0.0,"That’s just so bizarre.  Steal from a store, try to kill a police officer, and you’re the victim.",0.9100940011802872,0.3287190198898315,0.9997925162315368,0.000950664281845,0,0
+post_7,post_7_4_4,1.0,0.0,And the result was a railroaded police officer.,0.0300454022863164,0.4918760657310486,0.9992188215255736,0.0599393844604492,0,0
+post_7,post_7_4_4_1,1.0,0.0,aka jUsTiCe iN PoLiCiNg,0.0290049723307237,0.8066483736038208,0.993765354156494,0.9974403381347656,0,1
+post_7,post_7_4_5,1.0,0.0,There's already a street named after his sorry ass in Atlanta,0.872745607013732,0.2572494745254516,0.999745547771454,0.0081931948661804,0,0
+post_7,post_7_5,1.0,0.0,The left chooses the worst martyrs. Like remember that piece of shit homeless subway dude in NYC that finally got eliminated with a chokehold for terrorizing the wrong train car that day?,0.7154962865358564,0.1864576935768127,0.9997950196266174,1.3947486877441406e-05,0,1
+post_7,post_7_5_1,1.0,0.0,"The one with the 24-year-old veteran who feared for the safety of the people in that subway and is now facing 20 years because he happened to be white so it became a national news story? Yes, I remember.",0.0440740963268025,0.6656010746955872,0.9922658801078796,0.2089148461818695,0,1
+post_7,post_7_5_2,1.0,0.0,"I have a cousin in NYC who still goes crazy about ""justice"" for that man who had been arrested 20+ times, threw things at subway passengers, and yelled ""I'm not afraid to die."" It's not dead in NYC yet.",0.0753208604748571,0.0173485875129699,0.9997814297676086,0.0034290850162506,0,1
+post_7,post_7_5_2_1,0.0,1.0,"Correction, Jordan Neely had 44 prior arrests",0.0307025491742986,0.8094881772994995,0.9969869256019592,0.1740798056125641,1,1
+post_7,post_7_5_3,1.0,0.0,"Don't worry, the NYC DA is going after the true criminal, the guy who defended other people from the crazy homeless person.",0.1994706879566016,0.1068330407142639,0.999801218509674,0.885198563337326,0,1
+post_7,post_7_5_4,1.0,0.0,People there said they've seen the worst of the worst for decades and that was the first time they genuinely feared for their lives.,0.0632264896688415,0.352941632270813,0.9984390139579772,0.0001896619796752,0,1
+post_7,post_7_6,1.0,0.0,"Yeah, he should be alive today. But instead he got higher than a kite and was violent and a pain in the ass to police officers. Yes, Chauvin should have handled things differently, but no one put Floyd in a collision course with the police other than himself.",0.783937865865361,0.0050958395004272,0.9997780919075012,7.510185241699219e-06,0,1
+post_7,post_7_6_1,1.0,0.0,"I kind of agree.
+
+>Yes, Chauvin should have handled things differently,
+
+That's easy to say, when you aren't in the situation. Should he? IDK because I wasn't there. Could he have handled it differently? Absolutely. But we don't know what that outcome would have been. 
+
+>but no one put Floyd in a collision course with the police other than himself.
+
+This is the part I agree with. 
+
+>Yeah, he should be alive today.
+
+Should he, really? A history of drug abuse and violence. A history of assault and battery. How long until someone died at his drug fueled hands?
+
+Not long at the rate that his victim count was rising.",0.0937210376030376,0.005556046962738,0.9997610449790956,0.0773758292198181,0,1
+post_7,post_7_6_1_1,1.0,0.0,"Yeah he should be alive.
+
+Being a criminal doesn’t mean you deserve to die by law, unless you are convicted of murder in a few states.
+
+
+So yes, he should be alive and Chauvin killed him.
+Whether or not you agree with his character is a different story to his right to life.",0.6893649166403825,0.00730562210083,0.9997921586036682,0.9781527817249298,0,1
+post_7,post_7_7,1.0,0.0,"Then how about Laken Riley and so many other victims murdered by illegal immigrants?  Has any leftist honored their life with action? No, Never! even can't pronounce her name correctly which show their indifference and ignorance. They pretend to be a saint, but in the mind fills benefits full of blood.",0.4309787595221467,0.1352779865264892,0.9997542500495912,0.0062888860702514,0,1
+post_7,post_7_8,1.0,0.0,"Sitting behind a wheel of a car, off his face on speedballs? Does no Democrat care about the people he may have killed if he'd been allowed to drive off?
+
+People should try kneeling on the back of a neck sometime - *It Does Nothing*... because the wind pipe is in the middle and the carotid arteries are at the sides. That's why it's in the training manual. Everything in this case is BS",0.4264992251294108,0.7456146478652954,0.9997751116752625,7.748603820800781e-07,0,1
+post_7,post_7_8_1,1.0,0.0,It's actually more like the shoulder blade.,0.0311868250685798,0.8112091422080994,0.9954637885093688,0.0777235031127929,0,0
+post_7,post_7_8_1_1,1.0,0.0,"Yes it was just the shoulder blade, or at least that's my interpretation of the video
+
+But legacy media spun this as 'kneeling on his neck' because that's more of a slave imagery, just like the border guards horse whipping BS. I'm pretty sure I could take someone standing on my shoulder blade, never mind resting their little knee on it
+
+Sickening how every official threw those cops under a bus just to appease the Marxists.",0.1326016898784184,0.2094957828521728,0.9998103976249696,3.0040740966796875e-05,0,0
+post_7,post_7_8_2,1.0,0.0,"They accomplished what they needed to with this at the time. It was so sickening to watch it work. Remember it was during peak Covid lockdown bullshit too. CNN took their death counter banner off their screens for this blm bs. It’s enraging they got away with this, but I blame the people for not seeing through it",0.4832091452147218,0.0654718279838562,0.9998047947883606,1.436471939086914e-05,0,1
+post_7,post_7_9,1.0,0.0,Is it just me or is this shit making you more tribal?,0.9570676524187332,0.550062358379364,0.9997780919075012,0.0146546959877014,0,1
+post_7,post_7_9_1,1.0,0.0,There's some damn good stuff in that bill that could definitely get bipartisan support if the democrats weren't being insufferable with it and also making race first and foremost,0.3145389795087918,0.0076606273651123,0.9996715784072876,0.9985873699188232,0,1
+post_7,post_7_9_2,1.0,0.0,"Careful: that's the Progressives' long con here.  They are intentionally destabilizing the country to provoke an extreme response from conservatives, so the Dems can point to that and pass all kinds of authoritarian legislation in response.
+
+Do NOT give in to anger.  Just stand firm and rejoice in being on the right side of history.",0.0981336037165296,0.3712930679321289,0.9985047578811646,0.0131177604198455,0,1
+post_7,post_7_9_2_1,1.0,0.0,"I do want to give in to anger. 
+
+The difference is that my anger makes me want to move into the woods with my family and homestead as far away from evil as I can. 
+
+The problem is that the last guy that did that had his wife and kid killed by the state.",0.2156676792669943,0.187611699104309,0.9996767044067384,0.061168223619461,0,0
+post_7,post_7_9_2_2,1.0,0.0,That only works so much. They take an inch then you stand firm at the new spot until they take another inch. After a hew years your not even close to the original line you wanted to hold.,0.0994946014911225,0.682992696762085,0.9918084740638732,0.0205748677253723,0,1
+post_7,post_7_10,1.0,0.0,"I wonder why they haven’t made a documentary on his life to demonstrate great man he was. He was a hero and an example what kind of person liberals want to strive to be like, after all.",0.0517756638241798,0.006158709526062,0.9979946613311768,0.9938666820526124,0,1
+post_7,post_7_10_1,1.0,0.0,Give 'em time... it'll come!,0.0376168517863265,0.8776252269744873,0.9980216026306152,0.9871541261672974,0,0
+post_7,post_7_10_2,1.0,0.0,There should be a true documentary about what a POS he was.,0.0337139620810962,0.6775476932525635,0.9992231130599976,9.47415828704834e-05,0,1
+post_7,post_7_10_3,1.0,0.0,They did. Its called “the greatest lie ever sold”. Oh wait that doc shows what BS the whole thing was.,0.1837379518276404,0.0046966075897216,0.9996733665466307,0.000259906053543,0,1
+post_7,post_7_11,1.0,0.0,"I’ll die on this hill: AOC is the dumbest squad member, but not the most dangerous, that’s a close matchup between Tlaib and Omar.",0.6828615681631125,0.2175878286361694,0.9997740387916564,0.9528262317180634,0,1
+post_7,post_7_11_1,1.0,0.0,Wrong. AOC can’t be the dumbest when Cori Bush exists. She genuinely makes AOC look like Einstein.,0.8584066657495463,0.3307859301567077,0.9997699856758118,0.0027593970298767,1,0
+post_7,post_7_11_1_1,1.0,0.0,"This is honestly a valid counterpoint, not gonna lie. So basically AOC doesn’t excel even at sucking, that’s her whole existence in a nutshell.",0.811467027597204,0.0056700706481933,0.9997580647468568,0.0062802731990814,0,0
+post_7,post_7_11_2,1.0,0.0,I'll die on that hill with ya because I completely agree!,0.6932668059974217,0.582917332649231,0.9997567534446716,0.9994905292987823,0,0
+post_7,post_7_11_3,1.0,0.0,"They are all, as the Soviets said, ""Useful idiots"" who will be immediately discarded by their handlers once their use as cultural provocateurs has run its course.",0.9224337484765622,0.0093474388122558,0.9997155070304872,0.0001789927482604,0,0
+post_7,post_7_12,1.0,0.0,"Two things can be true at once:
+
+1. He probably should be alive. Yeah I'll agree there. Assuming of course that, had he not died when he did, he wouldn't have OD'ed to death between then and now, of course.
+2. His life was absolutely, positively NOT one worth honoring.
+
+He wasn't a good dude. Does that mean he deserved to die? No. But he absolutely was NOT a good guy and not worthy of ""honor"".",0.3183898092127372,0.0047336816787719,0.9997739195823668,3.993511199951172e-06,0,1
+post_7,post_7_13,1.0,0.0,"Let me guess, it's a 500 page bill that contains 499 pages of funding for Israel and/or Ukraine, and a title sheet.",0.0297940536014294,0.0129482746124267,0.9991928935050964,0.0003692209720611,0,1
+post_7,post_7_13_1,1.0,0.0,"Is this bitch wants it, there’s no Israel funding.",0.9965363958844898,0.3263092041015625,0.9997926354408264,0.021804928779602,0,0
+post_7,post_7_13_2,1.0,0.0,"499 pages of Ukraine funding. While in the meantime our closest ally doesnt get shit because they supposedly might have accidentally killed some civilians who were probably hamas or hamas supporters, or at least hamas enablers. Remember there is zero outcry from the ""civilians"" there to get rid of hamas, so...",0.7459723488666252,0.3685246706008911,0.9996681213378906,0.0001473128795623,0,1
+post_7,post_7_13_3,1.0,0.0,Yep they’re always “bundling” bills 🤦‍♀️,0.2140698974612034,0.5489852428436279,0.9996893405914308,0.8435812592506409,0,1
+post_7,post_7_14,1.0,0.0,Pathetic pandering.,0.9426279648442188,0.0050442814826965,0.999716579914093,0.0002569556236267,0,1
+post_7,post_7_15,1.0,0.0,I will never understand the left and their fascination with putting criminals on a pedestal.,0.0787252434444661,0.4044798016548157,0.9997033476829528,0.0256078541278839,0,1
+post_7,post_7_15_1,1.0,0.0,"Because they represent themselves. They see their brother, their cousin, their daughter, their parents in these criminal derths of society. Morally bankrupt mentally ill degenerates. 
+
+My own fucking mother has the sickness of group think. The greatest illusion the left ever pulled is tricking all their constiuents into thinking they all share the same plight because of their individual personal fuck ups.",0.9945127019478596,0.0204062461853027,0.9998078942298888,0.0148870050907135,0,1
+post_7,post_7_16,1.0,0.0,LMAOAOAOAOAOAOAOAOAOAOAO,0.387294956533253,0.005953311920166,0.5127584934234619,0.0114060342311859,0,1
+post_7,post_7_17,1.0,0.0,The circus continues,0.0279022155881873,0.7286689877510071,0.9963860511779784,0.8678279519081116,0,1
+post_7,post_7_18,1.0,0.0,"George Floyd was a felon, drug addict, thief and man who punched pregnant women in their stomachs. That isn't exactly hero status in my book. This woman is unhinged. Vote red.",0.932517864270947,0.0076154470443725,0.99979430437088,0.0310500860214233,0,1
+post_7,post_7_19,1.0,0.0,"Was his death unfortunate and potentially avoidable? Yes.
+
+Was he a piece of shit criminal drug addict? Also, yes.
+
+His life deosnt deserved to be honored.",0.9215206176305888,0.2772082686424255,0.9997583031654358,0.8493979275226593,0,1
+post_7,post_7_19_1,1.0,0.0,">Was his death unfortunate and potentially avoidable? Yes.
+
+Sorry I don't see why his death is unfortunate since he brought it on himself.",0.0421043494911257,0.464213490486145,0.9986972212791444,0.0097419619560241,0,0
+post_7,post_7_20,1.0,0.0,I guarantee that even if he wasn't arrested in 2020 he'd be dead by now. If the people really cared about people like George Floyd (and there are thousands every year) they'd be doing something about the drugs and mental illness on our streets.,0.160158366677788,0.0190868973731994,0.9998003840446472,0.0062820315361022,0,1
+post_7,post_7_21,1.0,0.0,"Yep it's an election year, time to bring up George Floyd again to try and steer people away from anti Israel protests.",0.0866439054958489,0.0950498580932617,0.9995028972625732,0.9711349010467528,0,1
+post_7,post_7_22,1.0,0.0,Cunned Stunt,0.1493450142379255,0.7964434027671814,0.9997946619987488,0.0005787014961242,0,1
+post_7,post_7_23,1.0,0.0,The horse is tired...,0.109109752755984,0.7940075397491455,0.4998724162578583,0.0002746880054473,0,1
+post_7,post_7_24,1.0,0.0,FFS Cori Bush is trying something similar for Michael Brown.,0.0271878277910274,0.6756895780563354,0.9563681483268738,0.2212407290935516,0,1
+post_7,post_7_24_1,1.0,0.0,Killed by a cop when Brown was trying to steal his gun?  Was that him?,0.1781069968143693,0.5975805521011353,0.9992243051528932,0.0036884546279907,0,0
+post_7,post_7_24_1_1,1.0,0.0,"Yep, good ol' Saint Mike. ""He should still be here with his family!"" Maybe he would be if he didn't rob a convenience store before trying to wrestle a cop for his gun.",0.2555392934945156,0.2915737628936767,0.9997625946998596,0.9992700815200806,0,1
+post_7,post_7_24_1_2,1.0,0.0,"I remember that day watching the video, I’m glad they released the body cam footage and showed the entire thing instead of the shortened part where everyone was criticizing the cop for doing",0.0264344263173974,0.0591986775398254,0.9993107318878174,0.1061016917228698,0,1
+post_7,post_7_24_1_3,1.0,0.0,Yes. And beat the shit out of the cop. But don’t forget he was the “gentle giant”,0.927212731121266,0.0287122726440429,0.9997894167900084,0.9979608058929444,0,1
+post_7,post_7_25,1.0,0.0,Honor his life?  You mean when he held a gun to a pregnant woman?,0.2841794908660523,0.3448951840400696,0.9997352957725524,0.7897710502147675,0,1
+post_7,post_7_26,1.0,0.0,"Hope the Squad goes Bye-Bye soon. Maybe their districts will wake up and vote them out. 
+
+AOC’s district is practically 3rd World after she chased Amazon away.",0.1566607440956005,0.5458453297615051,0.9997085928916932,0.9544588029384612,0,1
+post_7,post_7_27,1.0,0.0,How much special interest funding does the back half of this bill have I wonder?,0.0312330266932002,0.1266734600067138,0.9987040758132936,0.0089955925941467,0,1
+post_7,post_7_27_1,1.0,0.0,"Oh there's a lot of areas for money to get corrupted away with it.
+
+I'd say it's salvageable with negotiations though if either side actually wanted to help the people instead of grandstand and campaign on platitudes. 
+
+[Wikipedia](https://en.m.wikipedia.org/wiki/George_Floyd_Justice_in_Policing_Act)
+
+[raw congress.gov](https://www.congress.gov/bill/117th-congress/house-bill/1280)",0.0261632629804454,0.006706953048706,0.999772012233734,0.0009409189224243,0,0
+post_7,post_7_28,0.0,0.0,🤮,0.07232347312376,0.8564969301223755,0.9784608483314514,0.1192574501037597,0,1
+post_7,post_7_29,1.0,0.0,How about slob,0.7722318866713497,0.7068813443183899,0.9996525049209596,0.0002021491527557,0,1
+post_7,post_7_30,1.0,0.0,What everyone carries narcan and fake 20s? What do they want!?,0.0762214224400812,0.5702316164970398,0.9996376037597656,0.0004213452339172,0,1
+post_7,post_7_31,1.0,0.0,Let me say it slowly for you … he … over … dosed.,0.0505986345955339,0.8310598134994507,0.9977686405181884,1.341104507446289e-05,0,1
+post_7,post_7_32,1.0,0.0,Well he did get a celebrity funeral and his casket parading in a gold plated horse drawn carriage.  That is up there with JFK's funeral.,0.0601803855038399,0.8433573842048645,0.9996660947799684,0.791180819272995,0,1
+post_7,post_7_33,1.0,0.0,George Floyd would probably be dead today if police hadn’t been called about the fake money that day anyway. What part of his life was honourable? People like Tlaib need to stop pretending like every life has an equal value when it doesn’t.,0.2265183060392598,0.2416957020759582,0.9997860789299012,0.0003639161586761,0,1
+post_7,post_7_34,1.0,0.0,"One of the other Squad members is pushing a bill in the name of Michael ""I didn't really put my hands up"" Brown. They're all delusional.",0.3677598469593861,0.2506953477859497,0.9997733235359192,4.762411117553711e-05,0,1
+post_7,post_7_35,1.0,0.0,He would be alive today if he didn't od on drugs.,0.3373710849707237,0.9041062593460084,0.9997487664222716,0.1952305734157562,0,1
+post_7,post_7_36,1.0,0.0,"The democrats killed George Floyd. 
+
+Derek Chauvin - Democrat. Had 12 previous use of force complaints 
+
+Tim Waltz - Democrat Governor who let ""non-violent"" offenders out of jail to protect the inmates from covid
+
+Amy Klobuchar- Democrat and Senior Senator from MI. Previously the DA of Hennipin county who decided not to investigate the use of force complaints about Chauvin. 
+
+A guy who probably shouldn't of been a cop. A guy who definitely should've been in jail. And people 'in-charge"" who just do and say whatever it takes to win their next election 🙄",0.122833267117138,0.4970464706420898,0.99967360496521,0.0113130807876586,0,1
+post_7,post_7_37,1.0,0.0,"It's an election year, how are you surprised by this posturing? The GOP does the same shit every two to four years as well.",0.8631663181213138,0.4129608869552612,0.9997797608375548,0.0012215971946716,0,1
+post_7,post_7_37_1,1.0,0.0,Wrong sub hon.,0.0302363426069731,0.7144827246665955,0.9980921149253844,0.0035143196582794,0,0
+post_7,post_7_37_1_1,1.0,0.0,It really isn't. The bill is brought up not because the left believes it will be passed but because it's a ploy to garner sympathy votes from minorities who believe that systemic racism is that prevalent.,0.0797740495484752,0.00921630859375,0.9959406852722168,0.0031455159187316,0,0
+post_7,post_7_37_2,1.0,0.0,The GOP tries to pass bills honoring violent criminals every four years?,0.0936717262935014,0.5592406392097473,0.5456001162528992,0.0011247098445892,0,1
+post_7,post_7_37_2_1,1.0,0.0,Use some common sense. The GOP proposes bills that appeal to their base as well during an election cycle.,0.0253306469064776,0.5296648740768433,0.9986796975135804,0.9714787900447844,0,0
+post_7,post_7_38,1.0,0.0,They should be passing the George Floyd Don't Do Lethal Drugs Act.,0.0845994493891843,0.6278690695762634,0.9324297308921814,0.0003038048744201,0,1
+post_7,post_7_39,1.0,0.0,She's such a tone deaf smooth brain.,0.9119220680184452,0.4205768704414367,0.9996942281723022,0.0719508230686187,0,0
+post_8,post_8_0,1.0,0.0,"Sure, agree to sit then just stand the whole time. It can help with the Biden being weak optics. As if everyone doesn't already know how weak Biden is.",0.0323750172385101,0.3009281754493713,0.9994977712631226,0.0067821443080902,0,1
+post_8,post_8_1,1.0,0.0,"OK? Chairs are used in like 50% of debates aren't they. Reagan used one vs Carter, HW had one vs Clinton, Trump had one vs Hillary
+
+this is a reach",0.0293726893794556,0.1221060156822204,0.6165773272514343,0.1976423263549804,0,1
+post_8,post_8_1_1,1.0,0.0,They sat at a table and chairs and debated? Sounds like a podcast format not a debate…,0.0276430589038695,0.0294988751411438,0.9969657063484192,0.0003646314144134,0,1
+post_8,post_8_1_1_1,0.0,1.0,"It's very common, that's how [Mike Pence and Kamala Harris debated](https://www.politico.com/dims4/default/10fc8ee/2147483647/strip/true/crop/1160x773+0+0/resize/1290x860!/format/webp/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fd8%2F46%2F97a10ed9481dabb2f8544146207a%2Fgettyimages-1279070271-773.jpg) last time around",0.0582123542675183,0.8683191537857056,0.9770755767822266,0.0290166437625885,0,0
+post_8,post_8_1_1_1_1,1.0,0.0,That wasn't a debate it was a massacre.  Mike Pence despite his conflicts with Trump now may have given the greatest public defense of Trumpian policy in our lifetime in that debate.,0.0304572472271117,0.1062502861022949,0.9940515160560608,0.001558780670166,0,1
+post_8,post_8_1_1_1_2,1.0,0.0,While true none of those candidates were too feeble to stand for their debates and that is a serious concern for Joe biden,0.1631588401716696,0.238487422466278,0.9987708926200868,0.0170967578887939,0,1
+post_8,post_8_1_1_1_3,1.0,0.0,"When Biden knows that one of his largest criticisms is that he too old, this is a bad look. Don’t pretend otherwise",0.2713548502239226,0.2423934340476989,0.9997426867485046,4.2319297790527344e-05,0,1
+post_8,post_8_1_2,1.0,0.0,Stay mad democrat,0.9258294394783476,0.8057048916816711,0.999334752559662,0.0962461233139038,0,1
+post_8,post_8_1_3,1.0,0.0,It’s not a reach when the leader of the free world can’t even walk up stairs. He shuffles. The American people need to see how weak he is.,0.3079462259533919,0.174260675907135,0.999492049217224,1.913309097290039e-05,0,1
+post_9,post_9_0,1.0,0.0,Wow this is painful to watch,0.0366546778861087,0.8328714370727539,0.999072790145874,1.4483928680419922e-05,0,1
+post_9,post_9_0_1,1.0,0.0,yeah that one hurt,0.2506346395831494,0.004841148853302,0.9987217783927916,0.0015037059783935,0,1
+post_9,post_9_0_2,1.0,0.0,Horribly so.  I can feel his frustration with her ridiculousness.,0.862334167736885,0.0434103608131408,0.9890336990356444,3.832578659057617e-05,0,1
+post_9,post_9_1,1.0,0.0,She speaks like politics subreddit argues lol,0.0383222900059257,0.3313942551612854,0.6511049270629883,0.1423207819461822,0,1
+post_9,post_9_1_1,1.0,0.0,No she didn’t call him a fascist or Nazi,0.2286661255650981,0.0128425955772399,0.9972026348114014,0.1830531954765319,0,1
+post_9,post_9_1_1_1,1.0,0.0,Or ban him,0.2349895367930864,0.8750175833702087,0.9959734082221984,0.0008981823921203,0,1
+post_9,post_9_1_1_1_1,1.0,0.0,Or make excessive use of skull and laughing emojis,0.2831652254198348,0.3461561203002929,0.9985817670822144,0.000629037618637,0,1
+post_9,post_9_1_1_1_1_1,1.0,0.0,💀🤣💀🤣💀,0.07232347312376,0.8564969301223755,0.9784608483314514,0.1192574501037597,0,0
+post_9,post_9_1_1_1_2,1.0,0.0,She would have if she could have.,0.0271038114451591,0.8649675250053406,0.9981421232223512,0.0126228332519531,0,0
