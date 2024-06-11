@@ -52,12 +52,12 @@ def fetch_post_and_comments(subreddit_name, post_id, reddit, main_folder, i):
 
 # Authenticate and creates a Reddit instance
 def create_reddit_instance():
-    client_id = '_4E-MD4pvjwWtkh50dqsNg'
-    client_secret = 'zIDAEXgFCI4wObQr0lzCZAFHA54MEg'
+    client_id = 'CLIENT_ID' # Change to your client_id
+    client_secret = 'CLIENT_SECRET' # Change to your client_secret
     user_agent = 'MyAPI/0.0.1'
     with open('pw.txt', 'r') as file:
         password = file.read()
-    username = 'Smooth-Advisor-61'
+    username = 'YOUR_USERNAME' # Change to your username
     reddit = praw.Reddit(
         client_id=client_id,
         client_secret=client_secret,
